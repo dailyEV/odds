@@ -183,14 +183,14 @@
         "colt keith": {
             "fd": "+500"
         },
+        "mitch garver": {
+            "fd": "+600"
+        },
         "gleyber torres": {
             "fd": "+630"
         },
         "randy arozarena": {
             "fd": "+630"
-        },
-        "mitch garver": {
-            "fd": "+600"
         },
         "julio rodriguez": {
             "fd": "+630"
@@ -295,6 +295,9 @@
         "andrew vaughn": {
             "fd": "+470"
         },
+        "isaac collins": {
+            "fd": "+600"
+        },
         "cj abrams": {
             "fd": "+600"
         },
@@ -303,9 +306,6 @@
         },
         "nathaniel lowe": {
             "fd": "+630"
-        },
-        "isaac collins": {
-            "fd": "+600"
         },
         "caleb durbin": {
             "fd": "+680"
@@ -322,10 +322,10 @@
         "brice turang": {
             "fd": "+830"
         },
-        "brady house": {
+        "riley adams": {
             "fd": "+900"
         },
-        "riley adams": {
+        "brady house": {
             "fd": "+900"
         },
         "alex call": {
@@ -487,11 +487,11 @@
         "luis torrens": {
             "fd": "+900"
         },
-        "nick loftin": {
-            "fd": "+1000"
-        },
         "maikel garcia": {
             "fd": "+900"
+        },
+        "nick loftin": {
+            "fd": "+1000"
         },
         "john rave": {
             "fd": "+1000"
@@ -696,11 +696,11 @@
         "tyler soderstrom": {
             "fd": "+420"
         },
-        "bo bichette": {
-            "fd": "+450"
-        },
         "max p muncy": {
             "fd": "+440"
+        },
+        "bo bichette": {
+            "fd": "+450"
         },
         "alejandro kirk": {
             "fd": "+560"
