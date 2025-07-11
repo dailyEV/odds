@@ -2391,8 +2391,8 @@
         "fd_avg_vig": 470,
         "fd_avg": 347,
         "fd_median": "+340",
-        "fd_std_dev": 135.54,
-        "fd_z_score": -0.27
+        "fd_std_dev": 135.48,
+        "fd_z_score": -0.35
     },
     "shea langeliers": {
         "pn_avg_vig": 514,
