@@ -982,7 +982,7 @@
         "fd_avg": 292,
         "fd_median": "+300",
         "fd_std_dev": 66.37,
-        "fd_z_score": -0.11
+        "fd_z_score": -0.18
     },
     "wilmer flores": {
         "circa_avg_vig": 841,
@@ -1115,7 +1115,7 @@
         "fd_avg": 779,
         "fd_median": "+700",
         "fd_std_dev": 402.57,
-        "fd_z_score": -0.25
+        "fd_z_score": -0.37
     },
     "casey schmitt": {
         "fd_avg_vig": 1414,
@@ -3890,7 +3890,7 @@
         "fd_avg": 772,
         "fd_median": "+750",
         "fd_std_dev": 172.53,
-        "fd_z_score": 0.34,
+        "fd_z_score": 0.16,
         "pn_avg_vig": 1198,
         "pn_avg": 694,
         "pn_median": "700/-1500",
@@ -4001,7 +4001,7 @@
         "fd_avg": 1323,
         "fd_median": "+1500",
         "fd_std_dev": 381.39,
-        "fd_z_score": -0.06
+        "fd_z_score": -0.32
     },
     "nico hoerner": {
         "fd_avg_vig": 9847,
