@@ -179,10 +179,10 @@
         "pn_median": "815/-1940",
         "pn_std_dev": 121.75,
         "pn_z_score": 0,
-        "fd_avg_vig": 3684,
+        "fd_avg_vig": 3673,
         "fd_avg": 1024,
         "fd_median": "+1100",
-        "fd_std_dev": 169.92,
+        "fd_std_dev": 170.01,
         "fd_z_score": -0.14
     },
     "henry davis": {
@@ -2651,10 +2651,10 @@
         "circa_median": "+360/-7450",
         "circa_std_dev": 53.75,
         "circa_z_score": 0,
-        "fd_avg_vig": 474,
+        "fd_avg_vig": 473,
         "fd_avg": 349,
         "fd_median": "+350",
-        "fd_std_dev": 74.75,
+        "fd_std_dev": 74.74,
         "fd_z_score": 0.15
     },
     "pete alonso": {
