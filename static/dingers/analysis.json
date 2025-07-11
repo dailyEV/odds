@@ -914,7 +914,7 @@
         "fd_avg": 525,
         "fd_median": "+550",
         "fd_std_dev": 102.32,
-        "fd_z_score": 1.51
+        "fd_z_score": 1.71
     },
     "trea turner": {
         "pn_avg_vig": 793,
@@ -965,7 +965,7 @@
         "fd_avg": 417,
         "fd_median": "+430",
         "fd_std_dev": 66.68,
-        "fd_z_score": 1.54
+        "fd_z_score": 1.24
     },
     "kyle schwarber": {
         "pn_avg_vig": 382,
@@ -1023,7 +1023,7 @@
         "fd_avg": 1018,
         "fd_median": "+1200",
         "fd_std_dev": 500.31,
-        "fd_z_score": 0.56
+        "fd_z_score": 0.36
     },
     "bryson stott": {
         "pn_avg_vig": 1389,
@@ -1593,7 +1593,7 @@
         "fd_avg": 378,
         "fd_median": "+380",
         "fd_std_dev": 123.2,
-        "fd_z_score": 0.75
+        "fd_z_score": 0.99
     },
     "kristian campbell": {
         "pn_avg_vig": 1035,
@@ -4085,7 +4085,7 @@
         "fd_avg": 211,
         "fd_median": "+210",
         "fd_std_dev": 49.3,
-        "fd_z_score": 3.83,
+        "fd_z_score": 3.23,
         "pn_avg_vig": 265,
         "pn_avg": 215,
         "pn_median": "214/-303",
@@ -4102,7 +4102,7 @@
         "fd_avg": 450,
         "fd_median": "+450",
         "fd_std_dev": 89.15,
-        "fd_z_score": 4.71,
+        "fd_z_score": 4.26,
         "pn_avg_vig": 639,
         "pn_avg": 439,
         "pn_median": "449/-643",
@@ -4238,7 +4238,7 @@
         "fd_avg": 509,
         "fd_median": "+520",
         "fd_std_dev": 116.26,
-        "fd_z_score": 4.74,
+        "fd_z_score": 5.08,
         "pn_avg_vig": 742,
         "pn_avg": 492,
         "pn_median": "509/-960",
@@ -4349,7 +4349,7 @@
         "fd_avg": 425,
         "fd_median": "+440",
         "fd_std_dev": 113.68,
-        "fd_z_score": 5.59
+        "fd_z_score": 5.94
     },
     "michael toglia": {
         "pn_avg_vig": 639,
@@ -4634,7 +4634,7 @@
         "fd_avg": 587,
         "fd_median": "+560",
         "fd_std_dev": 432.88,
-        "fd_z_score": 0.21,
+        "fd_z_score": 0.1,
         "circa_avg_vig": 669,
         "circa_avg": 540,
         "circa_median": "+575/-800",
@@ -6481,7 +6481,7 @@
         "fd_avg": 1028,
         "fd_median": "+3300",
         "fd_std_dev": 870.36,
-        "fd_z_score": 0.77
+        "fd_z_score": 0.54
     },
     "jose barrero": {
         "fd_avg_vig": 2936,

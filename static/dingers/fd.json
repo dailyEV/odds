@@ -729,34 +729,34 @@
     },
     "lad @ sf": {
         "shohei ohtani": {
-            "fd": "+400"
+            "fd": "+370"
         },
         "rafael devers": {
-            "fd": "+470"
+            "fd": "+500"
         },
         "matt chapman": {
-            "fd": "+520"
+            "fd": "+500"
         },
         "mike yastrzemski": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "willy adames": {
-            "fd": "+680"
+            "fd": "+700"
         },
         "heliot ramos": {
             "fd": "+800"
         },
         "freddie freeman": {
-            "fd": "+870"
+            "fd": "+830"
         },
         "teoscar hernandez": {
-            "fd": "+1060"
+            "fd": "+1100"
         },
         "michael conforto": {
             "fd": "+1060"
         },
         "andy pages": {
-            "fd": "+1060"
+            "fd": "+1100"
         },
         "will smith": {
             "fd": "+1060"
@@ -771,7 +771,7 @@
             "fd": "+1100"
         },
         "patrick bailey": {
-            "fd": "+1300"
+            "fd": "+1200"
         },
         "tommy edman": {
             "fd": "+1300"
@@ -780,7 +780,7 @@
             "fd": "+1400"
         },
         "hyeseong kim": {
-            "fd": "+1700"
+            "fd": "+1500"
         }
     }
 }
