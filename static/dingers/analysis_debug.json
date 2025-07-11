@@ -6930,7 +6930,7 @@
         "fd_avg": 535,
         "fd_median": "+560",
         "fd_std_dev": 115.54,
-        "fd_z_score": 1.43
+        "fd_z_score": 0
     },
     "max kepler": {
         "pn": {
@@ -7533,7 +7533,7 @@
         "fd_avg": 525,
         "fd_median": "+550",
         "fd_std_dev": 102.32,
-        "fd_z_score": 1.51
+        "fd_z_score": 0
     },
     "trea turner": {
         "pn": {
@@ -8118,7 +8118,7 @@
         "fd_avg": 417,
         "fd_median": "+430",
         "fd_std_dev": 66.27,
-        "fd_z_score": 1.25
+        "fd_z_score": 0
     },
     "kyle schwarber": {
         "pn": {
@@ -8698,7 +8698,7 @@
         "fd_avg": 1017,
         "fd_median": "+1200",
         "fd_std_dev": 499.88,
-        "fd_z_score": 0.37
+        "fd_z_score": 0
     },
     "bryson stott": {
         "pn": {
@@ -8976,7 +8976,7 @@
         "fd_avg": 927,
         "fd_median": "+520",
         "fd_std_dev": 406.93,
-        "fd_z_score": 1.16
+        "fd_z_score": 0
     },
     "jt realmuto": {
         "pn": {
@@ -9440,7 +9440,7 @@
         "fd_avg": 719,
         "fd_median": "+700",
         "fd_std_dev": 342.8,
-        "fd_z_score": 0.99,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "679/-1425",
             "2025-04-17": "755/-1702",
@@ -13630,7 +13630,7 @@
         "fd_avg": 378,
         "fd_median": "+380",
         "fd_std_dev": 123.2,
-        "fd_z_score": 0.75
+        "fd_z_score": 0
     },
     "kristian campbell": {
         "pn": {
@@ -35096,7 +35096,7 @@
         "fd_avg": 211,
         "fd_median": "+210",
         "fd_std_dev": 48.84,
-        "fd_z_score": 3.66,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "236/-317",
             "2025-04-16": "232/-310",
@@ -35338,7 +35338,7 @@
         "fd_avg": 450,
         "fd_median": "+450",
         "fd_std_dev": 85.15,
-        "fd_z_score": 4.11,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "416/-675",
             "2025-04-16": "413/-663",
@@ -35834,7 +35834,7 @@
         "fd_avg": 505,
         "fd_median": "+500",
         "fd_std_dev": 100.6,
-        "fd_z_score": 5.52,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "524/-943",
             "2025-04-16": "533/-967",
@@ -36168,7 +36168,7 @@
         "fd_avg": 607,
         "fd_median": "+600",
         "fd_std_dev": 131.64,
-        "fd_z_score": 3.44,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "506/-900",
             "2025-04-16": "531/-961",
@@ -36505,7 +36505,7 @@
         "fd_avg": 526,
         "fd_median": "+500",
         "fd_std_dev": 386.33,
-        "fd_z_score": 1.23,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "600/-1169",
             "2025-04-16": "550/-1014",
@@ -36703,7 +36703,7 @@
         "fd_avg": 509,
         "fd_median": "+520",
         "fd_std_dev": 116.26,
-        "fd_z_score": 4.74,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "591/-1134",
             "2025-04-16": "653/-1332",
@@ -37073,7 +37073,7 @@
         "fd_avg": 661,
         "fd_median": "+630",
         "fd_std_dev": 189.03,
-        "fd_z_score": 3.38,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-15": "797/-1863",
             "2025-04-16": "837/-2030",
@@ -37466,7 +37466,7 @@
         "fd_avg": 425,
         "fd_median": "+440",
         "fd_std_dev": 113.68,
-        "fd_z_score": 5.59
+        "fd_z_score": 0
     },
     "michael toglia": {
         "pn": {
@@ -39335,7 +39335,7 @@
         "fd_avg": 588,
         "fd_median": "+560",
         "fd_std_dev": 433.13,
-        "fd_z_score": 0.49,
+        "fd_z_score": 0,
         "circa": {
             "2025-04-21": "+625/-900",
             "2025-04-23": "625/-900",
@@ -48639,7 +48639,7 @@
         "fd_avg": 1028,
         "fd_median": "+3300",
         "fd_std_dev": 870.36,
-        "fd_z_score": 0.77
+        "fd_z_score": 0
     },
     "jose barrero": {
         "fd": {
@@ -52534,7 +52534,7 @@
         "fd_avg": 826,
         "fd_median": "+700",
         "fd_std_dev": 180.22,
-        "fd_z_score": 1.52,
+        "fd_z_score": 0,
         "pn": {
             "2025-06-27": "497/-924"
         },
@@ -52542,7 +52542,7 @@
         "pn_avg": 497,
         "pn_median": "497/-924",
         "pn_std_dev": 0,
-        "pn_z_score": 1.52
+        "pn_z_score": 0
     },
     "daniel johnson": {
         "fd": {
