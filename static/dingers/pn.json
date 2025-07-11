@@ -1,189 +1,22 @@
 {
-    "tex @ hou": {
-        "marcus semien": {
-            "pn": "596/-1251"
+    "phi @ sd": {
+        "bryce harper": {
+            "pn": "306/-466"
         },
-        "christian walker": {
-            "pn": "430/-742"
+        "max kepler": {
+            "pn": "449/-789"
         },
-        "corey seager": {
-            "pn": "438/-761"
+        "kyle schwarber": {
+            "pn": "253/-369"
         },
-        "adolis garcia": {
-            "pn": "485/-888"
+        "manny machado": {
+            "pn": "411/-695"
         },
-        "jake burger": {
-            "pn": "469/-843"
+        "fernando tatis": {
+            "pn": "450/-791"
         },
-        "isaac paredes": {
-            "pn": "533/-1035"
-        },
-        "yainer diaz": {
-            "pn": "596/-1253"
-        },
-        "wyatt langford": {
-            "pn": "553/-1101"
-        }
-    },
-    "lad @ sf": {
-        "rafael devers": {
-            "pn": "497/-922"
-        },
-        "matt chapman": {
-            "pn": "497/-922"
-        },
-        "shohei ohtani": {
-            "pn": "370/-599"
-        }
-    },
-    "cle @ chw": {
-        "carlos santana": {
-            "pn": "474/-858"
-        },
-        "jose ramirez": {
-            "pn": "285/-426"
-        },
-        "andrew benintendi": {
-            "pn": "503/-940"
-        },
-        "mike tauchman": {
-            "pn": "541/-1060"
-        },
-        "bo naylor": {
-            "pn": "402/-673"
-        },
-        "luis robert": {
-            "pn": "594/-1247"
-        },
-        "miguel vargas": {
-            "pn": "504/-945"
-        },
-        "daniel schneemann": {
-            "pn": "503/-941"
-        },
-        "kyle manzardo": {
-            "pn": "324/-503"
-        }
-    },
-    "col @ cin": {
-        "tyler stephenson": {
-            "pn": "459/-816"
-        },
-        "gavin lux": {
-            "pn": "517/-985"
-        },
-        "will benson": {
-            "pn": "318/-490"
-        },
-        "spencer steer": {
-            "pn": "510/-961"
-        },
-        "austin hays": {
-            "pn": "402/-673"
-        },
-        "tj friedl": {
-            "pn": "484/-885"
-        },
-        "matt mclain": {
-            "pn": "382/-627"
-        },
-        "elly de la cruz": {
-            "pn": "301/-456"
-        },
-        "noelvi marte": {
-            "pn": "556/-1109"
-        },
-        "ryan mcmahon": {
-            "pn": "422/-721"
-        },
-        "mickey moniak": {
-            "pn": "407/-685"
-        },
-        "hunter goodman": {
-            "pn": "336/-526"
-        },
-        "michael toglia": {
-            "pn": "414/-700"
-        },
-        "jordan beck": {
-            "pn": "473/-854"
-        },
-        "brenton doyle": {
-            "pn": "535/-1040"
-        }
-    },
-    "chc @ nyy": {
-        "kyle tucker": {
-            "pn": "329/-511"
-        },
-        "seiya suzuki": {
-            "pn": "350/-556"
-        },
-        "michael busch": {
-            "pn": "480/-873"
-        },
-        "pete crow armstrong": {
-            "pn": "502/-938"
-        },
-        "paul goldschmidt": {
-            "pn": "490/-902"
-        },
-        "aaron judge": {
-            "pn": "192/-266"
-        },
-        "cody bellinger": {
-            "pn": "496/-920"
-        },
-        "jazz chisholm": {
-            "pn": "465/-832"
-        },
-        "jasson dominguez": {
-            "pn": "491/-905"
-        },
-        "ben rice": {
-            "pn": "329/-513"
-        }
-    },
-    "wsh @ mil": {
-        "william contreras": {
-            "pn": "462/-824"
-        },
-        "andrew vaughn": {
-            "pn": "387/-638"
-        },
-        "jackson chourio": {
-            "pn": "529/-1022"
-        },
-        "christian yelich": {
-            "pn": "431/-744"
-        },
-        "james wood": {
-            "pn": "525/-1009"
-        }
-    },
-    "tb @ bos": {
-        "yandy diaz": {
-            "pn": "597/-1255"
-        },
-        "junior caminero": {
-            "pn": "416/-705"
-        },
-        "wilyer abreu": {
-            "pn": "426/-730"
-        },
-        "alex bregman": {
-            "pn": "498/-925"
-        }
-    },
-    "sea @ det": {
-        "cal raleigh": {
-            "pn": "326/-507"
-        },
-        "riley greene": {
-            "pn": "427/-733"
-        },
-        "spencer torkelson": {
-            "pn": "414/-701"
+        "trea turner": {
+            "pn": "612/-1315"
         }
     },
     "ari @ laa": {
@@ -221,50 +54,50 @@
             "pn": "373/-606"
         }
     },
-    "atl @ stl": {
-        "willson contreras": {
-            "pn": "455/-805"
+    "pit @ min": {
+        "kody clemens": {
+            "pn": "536/-1043"
         },
-        "lars nootbaar": {
-            "pn": "482/-880"
+        "oneil cruz": {
+            "pn": "312/-479"
         },
-        "nolan gorman": {
-            "pn": "469/-844"
+        "bryan reynolds": {
+            "pn": "498/-927"
         },
-        "alec burleson": {
-            "pn": "432/-746"
+        "matt wallner": {
+            "pn": "543/-1066"
         },
-        "matt olson": {
-            "pn": "476/-863"
-        },
-        "ronald acuna": {
-            "pn": "371/-602"
-        },
-        "austin riley": {
-            "pn": "297/-450"
-        },
-        "sean murphy": {
-            "pn": "406/-682"
+        "byron buxton": {
+            "pn": "475/-861"
         }
     },
-    "phi @ sd": {
-        "bryce harper": {
-            "pn": "306/-466"
+    "cle @ chw": {
+        "jose ramirez": {
+            "pn": "283/-423"
         },
-        "max kepler": {
-            "pn": "449/-789"
+        "andrew benintendi": {
+            "pn": "499/-930"
         },
-        "kyle schwarber": {
-            "pn": "253/-369"
+        "mike tauchman": {
+            "pn": "569/-1155"
         },
-        "manny machado": {
-            "pn": "411/-695"
+        "bo naylor": {
+            "pn": "383/-629"
         },
-        "fernando tatis": {
-            "pn": "450/-791"
+        "luis robert": {
+            "pn": "558/-1116"
         },
-        "trea turner": {
-            "pn": "612/-1315"
+        "miguel vargas": {
+            "pn": "476/-862"
+        },
+        "daniel schneemann": {
+            "pn": "466/-836"
+        },
+        "kyle manzardo": {
+            "pn": "337/-528"
+        },
+        "nolan jones": {
+            "pn": "519/-990"
         }
     },
     "nym @ kc": {
@@ -290,50 +123,128 @@
             "pn": "562/-1129"
         }
     },
+    "sea @ det": {
+        "cal raleigh": {
+            "pn": "308/-470"
+        },
+        "riley greene": {
+            "pn": "433/-748"
+        },
+        "spencer torkelson": {
+            "pn": "424/-727"
+        }
+    },
+    "lad @ sf": {
+        "rafael devers": {
+            "pn": "495/-919"
+        },
+        "matt chapman": {
+            "pn": "497/-922"
+        },
+        "shohei ohtani": {
+            "pn": "370/-599"
+        }
+    },
     "tor @ ath": {
         "george springer": {
-            "pn": "422/-721"
+            "pn": "422/-720"
         },
         "vladimir guerrero": {
-            "pn": "368/-594"
+            "pn": "365/-587"
         },
         "bo bichette": {
-            "pn": "544/-1069"
+            "pn": "556/-1110"
         },
         "addison barger": {
             "pn": "330/-515"
         },
         "brent rooker": {
-            "pn": "273/-405"
+            "pn": "281/-419"
         },
         "shea langeliers": {
-            "pn": "307/-469"
+            "pn": "307/-468"
         },
         "lawrence butler": {
-            "pn": "369/-598"
+            "pn": "382/-625"
         },
         "tyler soderstrom": {
-            "pn": "401/-670"
+            "pn": "416/-707"
         },
         "nick kurtz": {
-            "pn": "276/-410"
+            "pn": "283/-422"
         }
     },
-    "pit @ min": {
-        "kody clemens": {
-            "pn": "536/-1043"
+    "col @ cin": {
+        "tyler stephenson": {
+            "pn": "462/-826"
         },
-        "oneil cruz": {
-            "pn": "312/-479"
+        "gavin lux": {
+            "pn": "527/-1016"
         },
-        "bryan reynolds": {
-            "pn": "498/-927"
+        "will benson": {
+            "pn": "305/-464"
         },
-        "matt wallner": {
-            "pn": "543/-1066"
+        "spencer steer": {
+            "pn": "529/-1021"
         },
-        "byron buxton": {
-            "pn": "475/-861"
+        "austin hays": {
+            "pn": "408/-688"
+        },
+        "tj friedl": {
+            "pn": "469/-843"
+        },
+        "matt mclain": {
+            "pn": "396/-658"
+        },
+        "elly de la cruz": {
+            "pn": "301/-457"
+        },
+        "noelvi marte": {
+            "pn": "520/-992"
+        },
+        "ryan mcmahon": {
+            "pn": "437/-759"
+        },
+        "mickey moniak": {
+            "pn": "407/-685"
+        },
+        "hunter goodman": {
+            "pn": "334/-522"
+        },
+        "michael toglia": {
+            "pn": "407/-684"
+        },
+        "jordan beck": {
+            "pn": "498/-926"
+        },
+        "brenton doyle": {
+            "pn": "522/-999"
+        }
+    },
+    "tex @ hou": {
+        "marcus semien": {
+            "pn": "596/-1251"
+        },
+        "christian walker": {
+            "pn": "430/-742"
+        },
+        "corey seager": {
+            "pn": "437/-758"
+        },
+        "adolis garcia": {
+            "pn": "485/-888"
+        },
+        "jake burger": {
+            "pn": "469/-843"
+        },
+        "isaac paredes": {
+            "pn": "533/-1035"
+        },
+        "yainer diaz": {
+            "pn": "596/-1253"
+        },
+        "wyatt langford": {
+            "pn": "553/-1101"
         }
     },
     "mia @ bal": {
@@ -354,6 +265,95 @@
         },
         "agustin ramirez": {
             "pn": "413/-698"
+        }
+    },
+    "tb @ bos": {
+        "yandy diaz": {
+            "pn": "597/-1255"
+        },
+        "junior caminero": {
+            "pn": "416/-705"
+        },
+        "wilyer abreu": {
+            "pn": "426/-730"
+        },
+        "alex bregman": {
+            "pn": "498/-925"
+        }
+    },
+    "wsh @ mil": {
+        "william contreras": {
+            "pn": "476/-863"
+        },
+        "andrew vaughn": {
+            "pn": "397/-662"
+        },
+        "jackson chourio": {
+            "pn": "555/-1106"
+        },
+        "christian yelich": {
+            "pn": "410/-693"
+        },
+        "james wood": {
+            "pn": "524/-1005"
+        }
+    },
+    "chc @ nyy": {
+        "kyle tucker": {
+            "pn": "329/-512"
+        },
+        "seiya suzuki": {
+            "pn": "350/-556"
+        },
+        "michael busch": {
+            "pn": "473/-854"
+        },
+        "pete crow armstrong": {
+            "pn": "502/-938"
+        },
+        "paul goldschmidt": {
+            "pn": "508/-956"
+        },
+        "aaron judge": {
+            "pn": "190/-264"
+        },
+        "cody bellinger": {
+            "pn": "497/-923"
+        },
+        "jazz chisholm": {
+            "pn": "465/-832"
+        },
+        "jasson dominguez": {
+            "pn": "500/-933"
+        },
+        "ben rice": {
+            "pn": "327/-507"
+        }
+    },
+    "atl @ stl": {
+        "willson contreras": {
+            "pn": "443/-774"
+        },
+        "lars nootbaar": {
+            "pn": "479/-871"
+        },
+        "nolan gorman": {
+            "pn": "459/-816"
+        },
+        "alec burleson": {
+            "pn": "432/-746"
+        },
+        "matt olson": {
+            "pn": "476/-863"
+        },
+        "ronald acuna": {
+            "pn": "375/-611"
+        },
+        "austin riley": {
+            "pn": "291/-439"
+        },
+        "sean murphy": {
+            "pn": "397/-660"
         }
     }
 }

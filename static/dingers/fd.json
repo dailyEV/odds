@@ -113,16 +113,13 @@
     },
     "col @ cin": {
         "hunter goodman": {
-            "fd": "+285"
+            "fd": "+290"
         },
         "elly de la cruz": {
-            "fd": "+285"
+            "fd": "+280"
         },
         "will benson": {
-            "fd": "+300"
-        },
-        "mickey moniak": {
-            "fd": "+340"
+            "fd": "+320"
         },
         "matt mclain": {
             "fd": "+340"
@@ -130,32 +127,35 @@
         "austin hays": {
             "fd": "+340"
         },
+        "mickey moniak": {
+            "fd": "+340"
+        },
         "tyler stephenson": {
             "fd": "+390"
         },
         "spencer steer": {
-            "fd": "+430"
+            "fd": "+420"
+        },
+        "ryan mcmahon": {
+            "fd": "+450"
         },
         "michael toglia": {
             "fd": "+450"
-        },
-        "ryan mcmahon": {
-            "fd": "+440"
         },
         "noelvi marte": {
             "fd": "+500"
         },
         "tj friedl": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "brenton doyle": {
             "fd": "+520"
         },
-        "jordan beck": {
+        "gavin lux": {
             "fd": "+560"
         },
-        "gavin lux": {
-            "fd": "+540"
+        "jordan beck": {
+            "fd": "+560"
         },
         "tyler freeman": {
             "fd": "+600"
@@ -398,14 +398,14 @@
         "byron buxton": {
             "fd": "+370"
         },
-        "bryan reynolds": {
-            "fd": "+520"
-        },
         "kody clemens": {
             "fd": "+500"
         },
         "matt wallner": {
             "fd": "+540"
+        },
+        "bryan reynolds": {
+            "fd": "+520"
         },
         "royce lewis": {
             "fd": "+560"
@@ -422,10 +422,10 @@
         "spencer horwitz": {
             "fd": "+680"
         },
-        "carlos correa": {
+        "tommy pham": {
             "fd": "+750"
         },
-        "tommy pham": {
+        "carlos correa": {
             "fd": "+750"
         },
         "willi castro": {
@@ -631,16 +631,16 @@
         "fernando tatis": {
             "fd": "+440"
         },
-        "trea turner": {
-            "fd": "+470"
-        },
         "max kepler": {
             "fd": "+470"
         },
-        "jt realmuto": {
-            "fd": "+600"
+        "trea turner": {
+            "fd": "+470"
         },
         "alec bohm": {
+            "fd": "+600"
+        },
+        "jt realmuto": {
             "fd": "+600"
         },
         "brandon marsh": {
@@ -658,11 +658,11 @@
         "jackson merrill": {
             "fd": "+800"
         },
-        "": {
-            "fd": "+830"
-        },
         "jake cronenworth": {
             "fd": "+900"
+        },
+        "elias diaz": {
+            "fd": "+1060"
         },
         "luis arraez": {
             "fd": "+1100"
@@ -725,6 +725,62 @@
         },
         "ernie clement": {
             "fd": "+870"
+        }
+    },
+    "lad @ sf": {
+        "shohei ohtani": {
+            "fd": "+400"
+        },
+        "rafael devers": {
+            "fd": "+470"
+        },
+        "matt chapman": {
+            "fd": "+520"
+        },
+        "mike yastrzemski": {
+            "fd": "+680"
+        },
+        "willy adames": {
+            "fd": "+680"
+        },
+        "heliot ramos": {
+            "fd": "+800"
+        },
+        "freddie freeman": {
+            "fd": "+870"
+        },
+        "teoscar hernandez": {
+            "fd": "+1060"
+        },
+        "michael conforto": {
+            "fd": "+1060"
+        },
+        "andy pages": {
+            "fd": "+1060"
+        },
+        "will smith": {
+            "fd": "+1060"
+        },
+        "mookie betts": {
+            "fd": "+1060"
+        },
+        "casey schmitt": {
+            "fd": "+1100"
+        },
+        "dominic smith": {
+            "fd": "+1100"
+        },
+        "patrick bailey": {
+            "fd": "+1300"
+        },
+        "tommy edman": {
+            "fd": "+1300"
+        },
+        "jung hoo lee": {
+            "fd": "+1400"
+        },
+        "hyeseong kim": {
+            "fd": "+1700"
         }
     }
 }
