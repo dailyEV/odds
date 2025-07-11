@@ -59,14 +59,14 @@
         "corey seager": {
             "fd": "+320"
         },
-        "adolis garcia": {
-            "fd": "+440"
-        },
         "isaac paredes": {
-            "fd": "+430"
+            "fd": "+450"
+        },
+        "adolis garcia": {
+            "fd": "+470"
         },
         "jake burger": {
-            "fd": "+450"
+            "fd": "+470"
         },
         "christian walker": {
             "fd": "+450"
@@ -74,11 +74,11 @@
         "wyatt langford": {
             "fd": "+500"
         },
-        "victor caratini": {
-            "fd": "+540"
-        },
         "jose altuve": {
             "fd": "+520"
+        },
+        "victor caratini": {
+            "fd": "+540"
         },
         "marcus semien": {
             "fd": "+560"
@@ -87,28 +87,28 @@
             "fd": "+560"
         },
         "yainer diaz": {
-            "fd": "+560"
-        },
-        "jonah heim": {
-            "fd": "+680"
-        },
-        "brice matthews": {
-            "fd": "+680"
+            "fd": "+600"
         },
         "cam smith": {
             "fd": "+680"
         },
+        "jonah heim": {
+            "fd": "+630"
+        },
         "taylor trammell": {
+            "fd": "+630"
+        },
+        "brice matthews": {
             "fd": "+680"
         },
         "josh smith": {
-            "fd": "+700"
+            "fd": "+750"
         },
         "evan carter": {
             "fd": "+800"
         },
         "mauricio dubon": {
-            "fd": "+1000"
+            "fd": "+900"
         }
     },
     "pit @ min": {
