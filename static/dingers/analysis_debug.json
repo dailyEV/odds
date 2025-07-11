@@ -4399,7 +4399,7 @@
         "fd_avg": 549,
         "fd_median": "+600",
         "fd_std_dev": 395.81,
-        "fd_z_score": 0.13
+        "fd_z_score": 0.2
     },
     "cal raleigh": {
         "pn": {
@@ -4644,7 +4644,7 @@
         "fd_avg": 259,
         "fd_median": "+260",
         "fd_std_dev": 77.22,
-        "fd_z_score": 1.44
+        "fd_z_score": 1.18
     },
     "elly de la cruz": {
         "pn": {
@@ -5325,7 +5325,7 @@
         "fd_avg": 445,
         "fd_median": "+450",
         "fd_std_dev": 84.44,
-        "fd_z_score": 2.19
+        "fd_z_score": 2.78
     },
     "jeimer candelario": {
         "pn": {
@@ -6406,7 +6406,7 @@
         "fd_avg": 1117,
         "fd_median": "+1300",
         "fd_std_dev": 487.98,
-        "fd_z_score": 0.17,
+        "fd_z_score": 0.38,
         "pn": {
             "2025-04-26": "912/-2365",
             "2025-04-30": "703/-1509"
@@ -25480,7 +25480,7 @@
         "fd_avg": 457,
         "fd_median": "+460",
         "fd_std_dev": 88.73,
-        "fd_z_score": -0.42
+        "fd_z_score": -0.64
     },
     "rhys hoskins": {
         "pn": {
@@ -26527,7 +26527,7 @@
         "fd_avg": 756,
         "fd_median": "+750",
         "fd_std_dev": 157.35,
-        "fd_z_score": 0.47,
+        "fd_z_score": 0.72,
         "circa": {
             "2025-04-06": "+800/-1250",
             "2025-05-16": "+600/-850",
@@ -27208,7 +27208,7 @@
         "fd_avg": 699,
         "fd_median": "+680",
         "fd_std_dev": 244.18,
-        "fd_z_score": 0.7,
+        "fd_z_score": 0.82,
         "circa": {
             "2025-06-04": "+550/-750",
             "2025-06-11": "+725/-1100",
@@ -40606,7 +40606,7 @@
         "fd_avg": 480,
         "fd_median": "+480",
         "fd_std_dev": 142.86,
-        "fd_z_score": 2.24,
+        "fd_z_score": 2.45,
         "circa": {
             "2025-04-22": "+600/-850",
             "2025-04-25": "+490/-650",
@@ -52106,7 +52106,7 @@
         "fd_avg": 659,
         "fd_median": "+630",
         "fd_std_dev": 180.48,
-        "fd_z_score": 0.23,
+        "fd_z_score": 0.5,
         "circa": {
             "2025-06-20": "+600/-850",
             "2025-06-22": "+575/-800"
