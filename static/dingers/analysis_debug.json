@@ -4398,7 +4398,7 @@
         "fd_avg": 550,
         "fd_median": "+600",
         "fd_std_dev": 395.79,
-        "fd_z_score": 0.2
+        "fd_z_score": 0.13
     },
     "cal raleigh": {
         "pn": {
@@ -5324,7 +5324,7 @@
         "fd_avg": 445,
         "fd_median": "+450",
         "fd_std_dev": 86.0,
-        "fd_z_score": 2.73
+        "fd_z_score": 2.15
     },
     "jeimer candelario": {
         "pn": {
@@ -12257,7 +12257,7 @@
         "fd_avg": 612,
         "fd_median": "+600",
         "fd_std_dev": 146.15,
-        "fd_z_score": 0.94
+        "fd_z_score": 0.47
     },
     "yandy diaz": {
         "pn": {
@@ -12786,7 +12786,7 @@
         "fd_avg": 498,
         "fd_median": "+500",
         "fd_std_dev": 142.47,
-        "fd_z_score": -0.13,
+        "fd_z_score": 0.01,
         "circa": {
             "2025-04-14": "+575/-800",
             "2025-04-19": "+375/-470",
@@ -12967,7 +12967,7 @@
         "fd_avg": 471,
         "fd_median": "+470",
         "fd_std_dev": 107.48,
-        "fd_z_score": -0.01
+        "fd_z_score": 0.08
     },
     "jarren duran": {
         "pn": {
@@ -25480,7 +25480,7 @@
         "fd_avg": 457,
         "fd_median": "+460",
         "fd_std_dev": 88.73,
-        "fd_z_score": -0.42
+        "fd_z_score": -0.64
     },
     "rhys hoskins": {
         "pn": {
@@ -26847,7 +26847,7 @@
         "fd_avg": 946,
         "fd_median": "+680",
         "fd_std_dev": 268.37,
-        "fd_z_score": -0.73
+        "fd_z_score": -0.92
     },
     "colt keith": {
         "pn": {
@@ -40607,7 +40607,7 @@
         "fd_avg": 481,
         "fd_median": "+480",
         "fd_std_dev": 143.82,
-        "fd_z_score": 2.43,
+        "fd_z_score": 2.22,
         "circa": {
             "2025-04-22": "+600/-850",
             "2025-04-25": "+490/-650",
@@ -44844,7 +44844,7 @@
         "fd_avg": 1446,
         "fd_median": "+1700",
         "fd_std_dev": 715.84,
-        "fd_z_score": -0.2
+        "fd_z_score": -0.06
     },
     "caleb durbin": {
         "fd": {
@@ -50581,7 +50581,7 @@
         "fd_avg": 603,
         "fd_median": "+560",
         "fd_std_dev": 190.15,
-        "fd_z_score": 1.19
+        "fd_z_score": 1.04
     },
     "moises ballesteros": {
         "fd": {
@@ -53949,7 +53949,7 @@
         "fd_avg": 838,
         "fd_median": "+750",
         "fd_std_dev": 132.29,
-        "fd_z_score": -0.29
+        "fd_z_score": -0.06
     },
     "tristin english": {
         "fd": {
