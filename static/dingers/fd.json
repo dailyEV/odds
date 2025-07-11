@@ -183,13 +183,13 @@
         "colt keith": {
             "fd": "+520"
         },
-        "mitch garver": {
-            "fd": "+630"
-        },
         "gleyber torres": {
             "fd": "+630"
         },
         "randy arozarena": {
+            "fd": "+630"
+        },
+        "mitch garver": {
             "fd": "+630"
         },
         "julio rodriguez": {
@@ -201,10 +201,10 @@
         "zach mckinstry": {
             "fd": "+750"
         },
-        "jorge polanco": {
+        "javier baez": {
             "fd": "+830"
         },
-        "javier baez": {
+        "jorge polanco": {
             "fd": "+830"
         },
         "dillon dingler": {
@@ -466,10 +466,10 @@
         "salvador perez": {
             "fd": "+420"
         },
-        "vinnie pasquantino": {
+        "mark vientos": {
             "fd": "+500"
         },
-        "mark vientos": {
+        "vinnie pasquantino": {
             "fd": "+500"
         },
         "jac caglianone": {
@@ -496,11 +496,11 @@
         "john rave": {
             "fd": "+1000"
         },
-        "kyle isbel": {
-            "fd": "+1200"
-        },
         "tyrone taylor": {
             "fd": "+1060"
+        },
+        "kyle isbel": {
+            "fd": "+1200"
         }
     },
     "atl @ stl": {
@@ -655,11 +655,11 @@
         "xander bogaerts": {
             "fd": "+800"
         },
-        "martin maldonado": {
-            "fd": "+830"
-        },
         "jackson merrill": {
             "fd": "+800"
+        },
+        "martin maldonado": {
+            "fd": "+830"
         },
         "jake cronenworth": {
             "fd": "+900"
