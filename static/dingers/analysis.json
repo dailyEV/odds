@@ -1210,9 +1210,9 @@
         "circa_z_score": -0.02,
         "fd_avg_vig": 586,
         "fd_avg": 410,
-        "fd_median": "+410",
-        "fd_std_dev": 155.03,
-        "fd_z_score": -0.06
+        "fd_median": "+420",
+        "fd_std_dev": 154.98,
+        "fd_z_score": 0.06
     },
     "ryan mountcastle": {
         "pn_avg_vig": 967,
@@ -1356,11 +1356,11 @@
         "circa_median": "+575/-800",
         "circa_std_dev": 110.5,
         "circa_z_score": 0,
-        "fd_avg_vig": 830,
+        "fd_avg_vig": 829,
         "fd_avg": 523,
         "fd_median": "+520",
-        "fd_std_dev": 132.79,
-        "fd_z_score": -0.17
+        "fd_std_dev": 132.92,
+        "fd_z_score": -0.32
     },
     "lane thomas": {
         "pn_avg_vig": 995,
@@ -4574,11 +4574,11 @@
         "circa_z_score": 0
     },
     "ryan ohearn": {
-        "fd_avg_vig": 1064,
+        "fd_avg_vig": 1063,
         "fd_avg": 613,
         "fd_median": "+600",
-        "fd_std_dev": 292.04,
-        "fd_z_score": -0.04,
+        "fd_std_dev": 292.22,
+        "fd_z_score": -0.18,
         "pn_avg_vig": 940,
         "pn_avg": 577,
         "pn_median": "582/-1202",
@@ -4591,11 +4591,11 @@
         "circa_z_score": 0
     },
     "jackson holliday": {
-        "fd_avg_vig": 1271,
+        "fd_avg_vig": 1273,
         "fd_avg": 675,
         "fd_median": "+600",
-        "fd_std_dev": 243.69,
-        "fd_z_score": -0.8,
+        "fd_std_dev": 243.42,
+        "fd_z_score": -0.72,
         "pn_avg_vig": 950,
         "pn_avg": 578,
         "pn_median": "569/-1153",
@@ -5300,11 +5300,11 @@
         "fd_z_score": 0
     },
     "javier sanoja": {
-        "fd_avg_vig": 8755,
-        "fd_avg": 1406,
+        "fd_avg_vig": 8811,
+        "fd_avg": 1408,
         "fd_median": "+1700",
-        "fd_std_dev": 605.12,
-        "fd_z_score": -0.89
+        "fd_std_dev": 604.44,
+        "fd_z_score": -0.84
     },
     "jose herrera": {
         "fd_avg_vig": 8984,
@@ -7607,11 +7607,11 @@
         "pn_median": "469/-842",
         "pn_std_dev": 71.56,
         "pn_z_score": 0.39,
-        "fd_avg_vig": 676,
+        "fd_avg_vig": 677,
         "fd_avg": 455,
-        "fd_median": "+440",
-        "fd_std_dev": 108.0,
-        "fd_z_score": -0.14,
+        "fd_median": "+450",
+        "fd_std_dev": 107.91,
+        "fd_z_score": -0.05,
         "circa_avg_vig": 546,
         "circa_avg": 456,
         "circa_median": "+500/-670",
