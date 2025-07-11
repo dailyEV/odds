@@ -12472,7 +12472,7 @@
         "fd_avg": 550,
         "fd_median": "+540",
         "fd_std_dev": 141.55,
-        "fd_z_score": -0.35
+        "fd_z_score": -0.21
     },
     "wilyer abreu": {
         "pn": {
@@ -12650,7 +12650,7 @@
         "fd_avg": 415,
         "fd_median": "+430",
         "fd_std_dev": 108.42,
-        "fd_z_score": 0.23
+        "fd_z_score": 0.32
     },
     "jonathan aranda": {
         "pn": {
@@ -12967,7 +12967,7 @@
         "fd_avg": 471,
         "fd_median": "+460",
         "fd_std_dev": 107.54,
-        "fd_z_score": -0.1
+        "fd_z_score": -0.01
     },
     "jarren duran": {
         "pn": {
@@ -13396,7 +13396,7 @@
         "fd_avg": 438,
         "fd_median": "+450",
         "fd_std_dev": 117.74,
-        "fd_z_score": -0.41
+        "fd_z_score": -0.15
     },
     "rafael devers": {
         "pn": {
@@ -14039,7 +14039,7 @@
         "fd_avg": 793,
         "fd_median": "+750",
         "fd_std_dev": 187.72,
-        "fd_z_score": -0.23,
+        "fd_z_score": 0.04,
         "circa": {
             "2025-06-09": "+800/-1250",
             "2025-06-11": "+750/-1150",
@@ -14139,7 +14139,7 @@
         "fd_avg": 1089,
         "fd_median": "+1200",
         "fd_std_dev": 224.13,
-        "fd_z_score": -0.13,
+        "fd_z_score": 0.05,
         "pn": {
             "2025-04-19": "908/-2346"
         },
@@ -14147,7 +14147,7 @@
         "pn_avg": 908,
         "pn_median": "908/-2346",
         "pn_std_dev": 0,
-        "pn_z_score": -0.13
+        "pn_z_score": 0.05
     },
     "carlos narvaez": {
         "pn": {
@@ -40029,7 +40029,7 @@
         "fd_avg": 590,
         "fd_median": "+600",
         "fd_std_dev": 267.03,
-        "fd_z_score": -0.19,
+        "fd_z_score": -0.26,
         "circa": {
             "2025-05-19": "+490/-650",
             "2025-05-20": "+475/-625",
@@ -40132,7 +40132,7 @@
         "fd_avg": 917,
         "fd_median": "+680",
         "fd_std_dev": 215.03,
-        "fd_z_score": 0.39
+        "fd_z_score": 0.67
     },
     "david hamilton": {
         "pn": {
@@ -40142,7 +40142,7 @@
         "pn_avg": 761,
         "pn_median": "761/-1724",
         "pn_std_dev": 0,
-        "pn_z_score": 0.39,
+        "pn_z_score": 0.67,
         "fd": {
             "2025-04-09": "+1060",
             "2025-04-14": "+1100",
@@ -53949,7 +53949,7 @@
         "fd_avg": 849,
         "fd_median": "+750",
         "fd_std_dev": 127.67,
-        "fd_z_score": -0.15
+        "fd_z_score": -0.38
     },
     "tristin english": {
         "fd": {
