@@ -65,20 +65,20 @@
         "gunnar henderson": {
             "fd": "+420"
         },
-        "colton cowser": {
+        "agustin ramirez": {
             "fd": "+450"
         },
-        "agustin ramirez": {
+        "colton cowser": {
             "fd": "+450"
         },
         "tyler oneill": {
             "fd": "+470"
         },
-        "jackson holliday": {
-            "fd": "+500"
-        },
         "cedric mullins": {
             "fd": "+480"
+        },
+        "jackson holliday": {
+            "fd": "+500"
         },
         "jordan westburg": {
             "fd": "+520"
@@ -112,11 +112,11 @@
         }
     },
     "col @ cin": {
-        "hunter goodman": {
-            "fd": "+290"
-        },
         "elly de la cruz": {
             "fd": "+280"
+        },
+        "hunter goodman": {
+            "fd": "+290"
         },
         "will benson": {
             "fd": "+320"
@@ -136,25 +136,25 @@
         "spencer steer": {
             "fd": "+420"
         },
-        "ryan mcmahon": {
+        "michael toglia": {
             "fd": "+450"
         },
-        "michael toglia": {
+        "ryan mcmahon": {
             "fd": "+450"
         },
         "noelvi marte": {
             "fd": "+500"
         },
-        "tj friedl": {
-            "fd": "+520"
-        },
         "brenton doyle": {
             "fd": "+520"
         },
-        "gavin lux": {
-            "fd": "+560"
+        "tj friedl": {
+            "fd": "+520"
         },
         "jordan beck": {
+            "fd": "+560"
+        },
+        "gavin lux": {
             "fd": "+560"
         },
         "tyler freeman": {
@@ -401,11 +401,11 @@
         "kody clemens": {
             "fd": "+500"
         },
-        "matt wallner": {
-            "fd": "+540"
-        },
         "bryan reynolds": {
             "fd": "+520"
+        },
+        "matt wallner": {
+            "fd": "+540"
         },
         "royce lewis": {
             "fd": "+560"
@@ -422,13 +422,13 @@
         "spencer horwitz": {
             "fd": "+680"
         },
+        "willi castro": {
+            "fd": "+750"
+        },
         "tommy pham": {
             "fd": "+750"
         },
         "carlos correa": {
-            "fd": "+750"
-        },
-        "willi castro": {
             "fd": "+750"
         },
         "nick gonzales": {
@@ -631,17 +631,17 @@
         "fernando tatis": {
             "fd": "+450"
         },
-        "max kepler": {
-            "fd": "+500"
-        },
         "trea turner": {
             "fd": "+500"
         },
-        "alec bohm": {
-            "fd": "+680"
+        "max kepler": {
+            "fd": "+500"
         },
         "jt realmuto": {
             "fd": "+600"
+        },
+        "alec bohm": {
+            "fd": "+680"
         },
         "brandon marsh": {
             "fd": "+680"
@@ -679,7 +679,7 @@
             "fd": "+300"
         },
         "brent rooker": {
-            "fd": "+300"
+            "fd": "+310"
         },
         "lawrence butler": {
             "fd": "+340"
