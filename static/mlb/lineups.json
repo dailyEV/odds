@@ -1,0 +1,274 @@
+{
+    "cle": {
+        "pitcher": "logan allen",
+        "batters": [
+            "steven kwan",
+            "nolan jones",
+            "jose ramirez",
+            "kyle manzardo",
+            "carlos santana",
+            "daniel schneemann",
+            "angel martinez",
+            "austin hedges",
+            "brayan rocchio"
+        ]
+    },
+    "chw": {
+        "pitcher": "shane smith",
+        "batters": [
+            "chase meidroth",
+            "austin slater",
+            "miguel vargas",
+            "edgar quero",
+            "mike tauchman",
+            "luis robert",
+            "lenyn sosa",
+            "tim elko",
+            "michael a taylor"
+        ]
+    },
+    "mia": {
+        "pitcher": "edward cabrera",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "bal": {
+        "pitcher": "dean kremer",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "chc": {
+        "pitcher": "chris flexen",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "nyy": {
+        "pitcher": "carlos rodon",
+        "batters": [
+            "jasson dominguez",
+            "aaron judge",
+            "cody bellinger",
+            "ben rice",
+            "jazz chisholm",
+            "paul goldschmidt",
+            "jc escarra",
+            "anthony volpe",
+            "oswald peraza"
+        ]
+    },
+    "col": {
+        "pitcher": "german marquez",
+        "batters": [
+            "tyler freeman",
+            "mickey moniak",
+            "hunter goodman",
+            "jordan beck",
+            "michael toglia",
+            "ryan mcmahon",
+            "brenton doyle",
+            "kyle farmer",
+            "ryan ritter"
+        ]
+    },
+    "cin": {
+        "pitcher": "chase burns",
+        "batters": [
+            "tj friedl",
+            "matt mclain",
+            "elly de la cruz",
+            "austin hays",
+            "gavin lux",
+            "spencer steer",
+            "tyler stephenson",
+            "will benson",
+            "noelvi marte"
+        ]
+    },
+    "sea": {
+        "pitcher": "luis castillo",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "det": {
+        "pitcher": "tarik skubal",
+        "batters": [
+            "colt keith",
+            "gleyber torres",
+            "wenceel perez",
+            "riley greene",
+            "spencer torkelson",
+            "zach mckinstry",
+            "dillon dingler",
+            "parker meadows",
+            "javier baez"
+        ]
+    },
+    "tb": {
+        "pitcher": "drew rasmussen",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "bos": {
+        "pitcher": "hunter dobbins",
+        "batters": [
+            "jarren duran",
+            "alex bregman",
+            "masataka yoshida",
+            "carlos narvaez",
+            "wilyer abreu",
+            "trevor story",
+            "marcelo mayer",
+            "abraham toro",
+            "ceddanne rafaela"
+        ]
+    },
+    "cle-gm2": {
+        "pitcher": "gavin williams",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "chw-gm2": {
+        "pitcher": "jonathan cannon",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "nym": {
+        "pitcher": "kodai senga",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "kc": {
+        "pitcher": "michael wacha",
+        "batters": [
+            "jonathan india",
+            "bobby witt",
+            "vinnie pasquantino",
+            "maikel garcia",
+            "salvador perez",
+            "jac caglianone",
+            "nick loftin",
+            "john rave",
+            "kyle isbel"
+        ]
+    },
+    "tex": {
+        "pitcher": "jack leiter",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "hou": {
+        "pitcher": "lance mccullers",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "pit": {
+        "pitcher": "paul skenes",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "min": {
+        "pitcher": "joe ryan",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "wsh": {
+        "pitcher": "mitchell parker",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "mil": {
+        "pitcher": "dl hall",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "atl": {
+        "pitcher": "grant holmes",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "stl": {
+        "pitcher": "matthew liberatore",
+        "batters": [
+            "brendan donovan",
+            "masyn winn",
+            "alec burleson",
+            "willson contreras",
+            "lars nootbaar",
+            "nolan arenado",
+            "nolan gorman",
+            "pedro pages",
+            "victor scott"
+        ]
+    },
+    "ari": {
+        "pitcher": "ryne nelson",
+        "batters": [
+            "ketel marte",
+            "geraldo perdomo",
+            "lourdes gurriel",
+            "eugenio suarez",
+            "josh naylor",
+            "randal grichuk",
+            "blaze alexander",
+            "alek thomas",
+            "jose herrera"
+        ]
+    },
+    "laa": {
+        "pitcher": "tyler anderson",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "phi": {
+        "pitcher": "ranger suarez",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "sd": {
+        "pitcher": "ryan bergert",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "tor": {
+        "pitcher": "max scherzer",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "ath": {
+        "pitcher": "luis severino",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "lad": {
+        "pitcher": "dustin may",
+        "batters": [
+            "tbd"
+        ]
+    },
+    "sf": {
+        "pitcher": "logan webb",
+        "batters": [
+            "tbd"
+        ]
+    }
+}
