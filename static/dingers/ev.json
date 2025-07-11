@@ -11593,8 +11593,8 @@
             "fd_avg_vig": 478,
             "fd_avg": 351,
             "fd_median": "+350",
-            "fd_std_dev": 79.1,
-            "fd_z_score": -0.52,
+            "fd_std_dev": 78.99,
+            "fd_z_score": -0.39,
             "pn_avg_vig": 477,
             "pn_avg": 354,
             "pn_median": "364/-586",
@@ -12410,8 +12410,8 @@
             "fd_avg_vig": 677,
             "fd_avg": 455,
             "fd_median": "+470",
-            "fd_std_dev": 90.76,
-            "fd_z_score": -0.17,
+            "fd_std_dev": 90.81,
+            "fd_z_score": -0.28,
             "pn_avg_vig": 581,
             "pn_avg": 409,
             "pn_median": "418/-944",
@@ -13156,8 +13156,8 @@
             "fd_avg_vig": 936,
             "fd_avg": 565,
             "fd_median": "+560",
-            "fd_std_dev": 143.41,
-            "fd_z_score": -0.8
+            "fd_std_dev": 143.55,
+            "fd_z_score": -0.87
         },
         "homerLogs": {
             "lastHRDt": "2025-07-07-41",
@@ -20946,11 +20946,11 @@
             "dt": "2025-07-10"
         },
         "analysis": {
-            "fd_avg_vig": 1373,
-            "fd_avg": 701,
+            "fd_avg_vig": 1378,
+            "fd_avg": 702,
             "fd_median": "+600",
-            "fd_std_dev": 214.24,
-            "fd_z_score": 0.23,
+            "fd_std_dev": 214.42,
+            "fd_z_score": 0.46,
             "pn_avg_vig": 957,
             "pn_avg": 579,
             "pn_median": "588/-1223",
