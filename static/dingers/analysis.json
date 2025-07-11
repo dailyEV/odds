@@ -3208,10 +3208,10 @@
         "circa_median": "+425/-550",
         "circa_std_dev": 78.64,
         "circa_z_score": 0.06,
-        "fd_avg_vig": 613,
+        "fd_avg_vig": 612,
         "fd_avg": 424,
         "fd_median": "+430",
-        "fd_std_dev": 81.6,
+        "fd_std_dev": 81.52,
         "fd_z_score": 0.32
     },
     "nolan arenado": {
@@ -3409,10 +3409,10 @@
         "pn_median": "552/-1097",
         "pn_std_dev": 102.6,
         "pn_z_score": 0.4,
-        "fd_avg_vig": 1073,
-        "fd_avg": 616,
+        "fd_avg_vig": 1071,
+        "fd_avg": 615,
         "fd_median": "+630",
-        "fd_std_dev": 291.25,
+        "fd_std_dev": 291.4,
         "fd_z_score": -0.19,
         "circa_avg_vig": 726,
         "circa_avg": 578,
@@ -3496,10 +3496,10 @@
         "circa_z_score": 0
     },
     "kyle higashioka": {
-        "fd_avg_vig": 962,
+        "fd_avg_vig": 964,
         "fd_avg": 582,
         "fd_median": "+560",
-        "fd_std_dev": 598.46,
+        "fd_std_dev": 598.28,
         "fd_z_score": 0.03,
         "pn_avg_vig": 649,
         "pn_avg": 452,
@@ -3765,11 +3765,11 @@
         "pn_median": "401/-670",
         "pn_std_dev": 71.07,
         "pn_z_score": 0.93,
-        "fd_avg_vig": 612,
-        "fd_avg": 424,
+        "fd_avg_vig": 611,
+        "fd_avg": 423,
         "fd_median": "+420",
-        "fd_std_dev": 76.97,
-        "fd_z_score": 0.21
+        "fd_std_dev": 76.94,
+        "fd_z_score": 0.22
     },
     "fernando tatis": {
         "fd_avg_vig": 464,
