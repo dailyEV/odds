@@ -3,35 +3,35 @@
         "aaron judge": {
             "fd": "+190"
         },
-        "ben rice": {
-            "fd": "+350"
-        },
         "kyle tucker": {
             "fd": "+350"
         },
-        "jazz chisholm": {
-            "fd": "+390"
+        "ben rice": {
+            "fd": "+350"
         },
         "seiya suzuki": {
             "fd": "+390"
         },
-        "cody bellinger": {
-            "fd": "+470"
+        "jazz chisholm": {
+            "fd": "+390"
         },
         "michael busch": {
             "fd": "+420"
         },
-        "dansby swanson": {
+        "pete crow armstrong": {
             "fd": "+460"
         },
-        "jasson dominguez": {
-            "fd": "+480"
-        },
-        "pete crow armstrong": {
+        "dansby swanson": {
             "fd": "+460"
         },
         "paul goldschmidt": {
             "fd": "+460"
+        },
+        "cody bellinger": {
+            "fd": "+470"
+        },
+        "jasson dominguez": {
+            "fd": "+480"
         },
         "carson kelly": {
             "fd": "+480"
@@ -233,25 +233,25 @@
         "alex bregman": {
             "fd": "+470"
         },
+        "jonathan aranda": {
+            "fd": "+500"
+        },
         "danny jansen": {
             "fd": "+520"
         },
         "yandy diaz": {
             "fd": "+520"
         },
-        "jonathan aranda": {
-            "fd": "+500"
-        },
         "jarren duran": {
             "fd": "+630"
-        },
-        "marcelo mayer": {
-            "fd": "+750"
         },
         "trevor story": {
             "fd": "+680"
         },
         "ceddanne rafaela": {
+            "fd": "+750"
+        },
+        "marcelo mayer": {
             "fd": "+750"
         },
         "josh lowe": {
@@ -339,11 +339,11 @@
         "corey seager": {
             "fd": "+320"
         },
-        "isaac paredes": {
-            "fd": "+440"
-        },
         "adolis garcia": {
             "fd": "+430"
+        },
+        "isaac paredes": {
+            "fd": "+440"
         },
         "jake burger": {
             "fd": "+460"
@@ -372,6 +372,9 @@
         "jonah heim": {
             "fd": "+630"
         },
+        "brice matthews": {
+            "fd": "+630"
+        },
         "cam smith": {
             "fd": "+680"
         },
@@ -380,9 +383,6 @@
         },
         "josh smith": {
             "fd": "+700"
-        },
-        "brice matthews": {
-            "fd": "+630"
         },
         "evan carter": {
             "fd": "+800"
