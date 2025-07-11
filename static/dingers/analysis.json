@@ -565,7 +565,7 @@
         "fd_avg": 550,
         "fd_median": "+600",
         "fd_std_dev": 395.79,
-        "fd_z_score": 0.2
+        "fd_z_score": 0.13
     },
     "cal raleigh": {
         "pn_avg_vig": 328,
@@ -582,7 +582,7 @@
         "fd_avg": 259,
         "fd_median": "+260",
         "fd_std_dev": 76.92,
-        "fd_z_score": 1.18
+        "fd_z_score": 1.31
     },
     "elly de la cruz": {
         "pn_avg_vig": 568,
@@ -633,7 +633,7 @@
         "fd_avg": 445,
         "fd_median": "+450",
         "fd_std_dev": 86.0,
-        "fd_z_score": 2.73
+        "fd_z_score": 2.15
     },
     "jeimer candelario": {
         "pn_avg_vig": 1081,
@@ -795,7 +795,7 @@
         "fd_avg": 1118,
         "fd_median": "+1300",
         "fd_std_dev": 488.09,
-        "fd_z_score": 0.37,
+        "fd_z_score": 0.17,
         "pn_avg_vig": 1464,
         "pn_avg": 795,
         "pn_median": "912/-2365",
@@ -2953,7 +2953,7 @@
         "fd_avg": 456,
         "fd_median": "+460",
         "fd_std_dev": 88.9,
-        "fd_z_score": -0.63
+        "fd_z_score": -0.4
     },
     "rhys hoskins": {
         "pn_avg_vig": 607,
@@ -3108,7 +3108,7 @@
         "fd_avg": 763,
         "fd_median": "+630",
         "fd_std_dev": 204.14,
-        "fd_z_score": -1.19,
+        "fd_z_score": -1.29,
         "circa_avg_vig": 1013,
         "circa_avg": 754,
         "circa_median": "+625/-900",
@@ -4867,7 +4867,7 @@
         "fd_avg": 481,
         "fd_median": "+480",
         "fd_std_dev": 143.82,
-        "fd_z_score": 2.43,
+        "fd_z_score": 2.22,
         "circa_avg_vig": 566,
         "circa_avg": 463,
         "circa_median": "+490/-650",
