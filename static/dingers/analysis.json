@@ -910,10 +910,10 @@
         "circa_median": "+525/-710",
         "circa_std_dev": 94.78,
         "circa_z_score": 0,
-        "fd_avg_vig": 835,
+        "fd_avg_vig": 834,
         "fd_avg": 525,
         "fd_median": "+550",
-        "fd_std_dev": 102.69,
+        "fd_std_dev": 102.32,
         "fd_z_score": 1.51
     },
     "trea turner": {
@@ -1019,11 +1019,11 @@
         "pn_median": "691/-1469",
         "pn_std_dev": 125.43,
         "pn_z_score": 0,
-        "fd_avg_vig": 3382,
-        "fd_avg": 1017,
+        "fd_avg_vig": 3398,
+        "fd_avg": 1018,
         "fd_median": "+1200",
-        "fd_std_dev": 499.88,
-        "fd_z_score": 0.57
+        "fd_std_dev": 500.31,
+        "fd_z_score": 0.56
     },
     "bryson stott": {
         "pn_avg_vig": 1389,
@@ -4084,8 +4084,8 @@
         "fd_avg_vig": 259,
         "fd_avg": 211,
         "fd_median": "+210",
-        "fd_std_dev": 48.0,
-        "fd_z_score": 3.73,
+        "fd_std_dev": 48.84,
+        "fd_z_score": 3.66,
         "pn_avg_vig": 265,
         "pn_avg": 215,
         "pn_median": "214/-303",
@@ -4348,8 +4348,8 @@
         "fd_avg_vig": 615,
         "fd_avg": 425,
         "fd_median": "+440",
-        "fd_std_dev": 117.02,
-        "fd_z_score": 5.43
+        "fd_std_dev": 113.68,
+        "fd_z_score": 5.59
     },
     "michael toglia": {
         "pn_avg_vig": 639,
