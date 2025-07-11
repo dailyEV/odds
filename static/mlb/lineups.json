@@ -1,48 +1,44 @@
 {
-    "cle": {
-        "pitcher": "logan allen",
-        "batters": [
-            "steven kwan",
-            "nolan jones",
-            "jose ramirez",
-            "kyle manzardo",
-            "carlos santana",
-            "daniel schneemann",
-            "angel martinez",
-            "austin hedges",
-            "brayan rocchio"
-        ]
-    },
-    "chw": {
-        "pitcher": "shane smith",
-        "batters": [
-            "chase meidroth",
-            "austin slater",
-            "miguel vargas",
-            "edgar quero",
-            "mike tauchman",
-            "luis robert",
-            "lenyn sosa",
-            "tim elko",
-            "michael a taylor"
-        ]
-    },
     "mia": {
         "pitcher": "edward cabrera",
         "batters": [
-            "tbd"
+            "xavier edwards",
+            "jesus sanchez",
+            "otto lopez",
+            "agustin ramirez",
+            "kyle stowers",
+            "eric wagaman",
+            "liam hicks",
+            "connor norby",
+            "javier sanoja"
         ]
     },
     "bal": {
         "pitcher": "dean kremer",
         "batters": [
-            "tbd"
+            "jackson holliday",
+            "jordan westburg",
+            "gunnar henderson",
+            "ryan ohearn",
+            "ramon laureano",
+            "colton cowser",
+            "tyler oneill",
+            "cedric mullins",
+            "jacob stallings"
         ]
     },
     "chc": {
         "pitcher": "chris flexen",
         "batters": [
-            "tbd"
+            "nico hoerner",
+            "kyle tucker",
+            "seiya suzuki",
+            "carson kelly",
+            "pete crow armstrong",
+            "dansby swanson",
+            "justin turner",
+            "michael busch",
+            "jon berti"
         ]
     },
     "nyy": {
@@ -90,7 +86,15 @@
     "sea": {
         "pitcher": "luis castillo",
         "batters": [
-            "tbd"
+            "jp crawford",
+            "julio rodriguez",
+            "cal raleigh",
+            "randy arozarena",
+            "mitch garver",
+            "jorge polanco",
+            "donovan solano",
+            "dylan moore",
+            "ben williamson"
         ]
     },
     "det": {
@@ -110,7 +114,15 @@
     "tb": {
         "pitcher": "drew rasmussen",
         "batters": [
-            "tbd"
+            "yandy diaz",
+            "jonathan aranda",
+            "jake mangum",
+            "junior caminero",
+            "josh lowe",
+            "taylor walls",
+            "jose caballero",
+            "chandler simpson",
+            "danny jansen"
         ]
     },
     "bos": {
@@ -127,13 +139,13 @@
             "ceddanne rafaela"
         ]
     },
-    "cle-gm2": {
+    "cle": {
         "pitcher": "gavin williams",
         "batters": [
             "tbd"
         ]
     },
-    "chw-gm2": {
+    "chw": {
         "pitcher": "jonathan cannon",
         "batters": [
             "tbd"
@@ -142,7 +154,15 @@
     "nym": {
         "pitcher": "kodai senga",
         "batters": [
-            "tbd"
+            "brandon nimmo",
+            "francisco lindor",
+            "juan soto",
+            "pete alonso",
+            "mark vientos",
+            "jeff mcneil",
+            "ronny mauricio",
+            "luis torrens",
+            "tyrone taylor"
         ]
     },
     "kc": {
@@ -162,31 +182,71 @@
     "tex": {
         "pitcher": "jack leiter",
         "batters": [
-            "tbd"
+            "josh smith",
+            "corey seager",
+            "marcus semien",
+            "adolis garcia",
+            "wyatt langford",
+            "evan carter",
+            "jake burger",
+            "jonah heim",
+            "kyle higashioka"
         ]
     },
     "hou": {
         "pitcher": "lance mccullers",
         "batters": [
-            "tbd"
+            "isaac paredes",
+            "cam smith",
+            "jose altuve",
+            "christian walker",
+            "victor caratini",
+            "yainer diaz",
+            "mauricio dubon",
+            "brice matthews",
+            "taylor trammell"
         ]
     },
     "pit": {
         "pitcher": "paul skenes",
         "batters": [
-            "tbd"
+            "tommy pham",
+            "andrew mccutchen",
+            "bryan reynolds",
+            "nick gonzales",
+            "oneil cruz",
+            "kebryan hayes",
+            "spencer horwitz",
+            "henry davis",
+            "isiah kiner falefa"
         ]
     },
     "min": {
         "pitcher": "joe ryan",
         "batters": [
-            "tbd"
+            "byron buxton",
+            "willi castro",
+            "trevor larnach",
+            "carlos correa",
+            "brooks lee",
+            "matt wallner",
+            "royce lewis",
+            "kody clemens",
+            "christian vazquez"
         ]
     },
     "wsh": {
         "pitcher": "mitchell parker",
         "batters": [
-            "tbd"
+            "cj abrams",
+            "james wood",
+            "josh bell",
+            "nathaniel lowe",
+            "alex call",
+            "luis garcia",
+            "brady house",
+            "daylen lile",
+            "riley adams"
         ]
     },
     "mil": {
@@ -198,7 +258,15 @@
     "atl": {
         "pitcher": "grant holmes",
         "batters": [
-            "tbd"
+            "ronald acuna",
+            "matt olson",
+            "austin riley",
+            "sean murphy",
+            "jurickson profar",
+            "drake baldwin",
+            "ozzie albies",
+            "nick allen",
+            "michael harris"
         ]
     },
     "stl": {
@@ -232,7 +300,15 @@
     "laa": {
         "pitcher": "tyler anderson",
         "batters": [
-            "tbd"
+            "zach neto",
+            "nolan schanuel",
+            "mike trout",
+            "taylor ward",
+            "jo adell",
+            "yoan moncada",
+            "logan ohoppe",
+            "luis rengifo",
+            "gustavo campero"
         ]
     },
     "phi": {
@@ -256,7 +332,15 @@
     "ath": {
         "pitcher": "luis severino",
         "batters": [
-            "tbd"
+            "lawrence butler",
+            "brent rooker",
+            "nick kurtz",
+            "shea langeliers",
+            "tyler soderstrom",
+            "miguel andujar",
+            "max muncy",
+            "zack gelof",
+            "denzel clarke"
         ]
     },
     "lad": {
@@ -269,6 +353,34 @@
         "pitcher": "logan webb",
         "batters": [
             "tbd"
+        ]
+    },
+    "cle-gm2": {
+        "pitcher": "logan allen",
+        "batters": [
+            "steven kwan",
+            "nolan jones",
+            "jose ramirez",
+            "kyle manzardo",
+            "carlos santana",
+            "daniel schneemann",
+            "angel martinez",
+            "austin hedges",
+            "brayan rocchio"
+        ]
+    },
+    "chw-gm2": {
+        "pitcher": "shane smith",
+        "batters": [
+            "chase meidroth",
+            "austin slater",
+            "miguel vargas",
+            "edgar quero",
+            "mike tauchman",
+            "luis robert",
+            "lenyn sosa",
+            "tim elko",
+            "michael a taylor"
         ]
     }
 }
