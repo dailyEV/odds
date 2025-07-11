@@ -449,28 +449,28 @@
     },
     "nym @ kc": {
         "juan soto": {
-            "fd": "+310"
+            "fd": "+285"
         },
         "pete alonso": {
-            "fd": "+320"
+            "fd": "+290"
         },
         "brandon nimmo": {
-            "fd": "+420"
+            "fd": "+400"
         },
         "francisco lindor": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "bobby witt": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "salvador perez": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "vinnie pasquantino": {
             "fd": "+500"
         },
         "mark vientos": {
-            "fd": "+520"
+            "fd": "+500"
         },
         "jac caglianone": {
             "fd": "+600"
@@ -479,13 +479,13 @@
             "fd": "+600"
         },
         "jonathan india": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "jeff mcneil": {
-            "fd": "+750"
+            "fd": "+700"
         },
         "luis torrens": {
-            "fd": "+900"
+            "fd": "+830"
         },
         "nick loftin": {
             "fd": "+900"
@@ -497,10 +497,10 @@
             "fd": "+1000"
         },
         "kyle isbel": {
-            "fd": "+1100"
+            "fd": "+1200"
         },
         "tyrone taylor": {
-            "fd": "+1100"
+            "fd": "+1060"
         }
     },
     "atl @ stl": {
@@ -617,7 +617,7 @@
     },
     "phi @ sd": {
         "kyle schwarber": {
-            "fd": "+255"
+            "fd": "+250"
         },
         "bryce harper": {
             "fd": "+340"
@@ -629,28 +629,28 @@
             "fd": "+420"
         },
         "fernando tatis": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "trea turner": {
             "fd": "+470"
         },
         "max kepler": {
-            "fd": "+480"
+            "fd": "+500"
         },
         "jt realmuto": {
-            "fd": "+600"
+            "fd": "+560"
         },
         "alec bohm": {
-            "fd": "+600"
-        },
-        "brandon marsh": {
             "fd": "+630"
         },
+        "brandon marsh": {
+            "fd": "+680"
+        },
         "bryson stott": {
-            "fd": "+750"
+            "fd": "+700"
         },
         "gavin sheets": {
-            "fd": "+680"
+            "fd": "+750"
         },
         "xander bogaerts": {
             "fd": "+800"
@@ -665,7 +665,7 @@
             "fd": "+900"
         },
         "luis arraez": {
-            "fd": "+1100"
+            "fd": "+1060"
         },
         "jose iglesias": {
             "fd": "+1200"
