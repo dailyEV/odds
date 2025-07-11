@@ -2564,11 +2564,11 @@
         "pn_z_score": 0
     },
     "max p muncy": {
-        "fd_avg_vig": 1392,
+        "fd_avg_vig": 1390,
         "fd_avg": 708,
         "fd_median": "+680",
-        "fd_std_dev": 180.72,
-        "fd_z_score": -1.43
+        "fd_std_dev": 181.13,
+        "fd_z_score": -1.48
     },
     "josh palacios": {
         "fd_avg_vig": 1286,
