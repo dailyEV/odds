@@ -1,4 +1,60 @@
 {
+    "chc @ nyy": {
+        "aaron judge": {
+            "fd": "+172"
+        },
+        "giancarlo stanton": {
+            "fd": "+255"
+        },
+        "jazz chisholm": {
+            "fd": "+390"
+        },
+        "kyle tucker": {
+            "fd": "+390"
+        },
+        "seiya suzuki": {
+            "fd": "+400"
+        },
+        "pete crow armstrong": {
+            "fd": "+430"
+        },
+        "paul goldschmidt": {
+            "fd": "+450"
+        },
+        "austin wells": {
+            "fd": "+470"
+        },
+        "michael busch": {
+            "fd": "+470"
+        },
+        "cody bellinger": {
+            "fd": "+520"
+        },
+        "jasson dominguez": {
+            "fd": "+520"
+        },
+        "anthony volpe": {
+            "fd": "+600"
+        },
+        "ian happ": {
+            "fd": "+630"
+        },
+        "carson kelly": {
+            "fd": "+630"
+        },
+        "dansby swanson": {
+            "fd": "+680"
+        },
+        "oswald peraza": {
+            "fd": "+800"
+        },
+        "jon berti": {
+            "fd": "+1060"
+        },
+        "nico hoerner": {
+            "fd": "+1300"
+        }
+    },
     "nym @ kc": {
         "pete alonso": {
             "365": "+325/-425",
