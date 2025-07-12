@@ -948,7 +948,7 @@
         "fd_avg": 390,
         "fd_median": "+400",
         "fd_std_dev": 92.89,
-        "fd_z_score": 0.43
+        "fd_z_score": 0.32
     },
     "matt chapman": {
         "circa_avg_vig": 482,
@@ -1086,7 +1086,7 @@
         "fd_avg": 749,
         "fd_median": "+650",
         "fd_std_dev": 196.31,
-        "fd_z_score": -0.61,
+        "fd_z_score": -0.76,
         "circa_avg_vig": 928,
         "circa_avg": 704,
         "circa_median": "+675/-1000",
@@ -3936,7 +3936,7 @@
         "fd_avg": 876,
         "fd_median": "+600",
         "fd_std_dev": 209.76,
-        "fd_z_score": -0.22,
+        "fd_z_score": -0.03,
         "pn_avg_vig": 1518,
         "pn_avg": 812,
         "pn_median": "813/-1930",
