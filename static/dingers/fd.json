@@ -27,11 +27,11 @@
         "lourdes gurriel": {
             "fd": "+450"
         },
-        "josh naylor": {
-            "fd": "+500"
-        },
         "yoan moncada": {
             "fd": "+480"
+        },
+        "josh naylor": {
+            "fd": "+500"
         },
         "blaze alexander": {
             "fd": "+680"
@@ -115,17 +115,17 @@
         "nick kurtz": {
             "fd": "+280"
         },
-        "brent rooker": {
-            "fd": "+320"
-        },
         "shea langeliers": {
             "fd": "+320"
         },
-        "addison barger": {
-            "fd": "+350"
+        "brent rooker": {
+            "fd": "+320"
         },
         "lawrence butler": {
             "fd": "+340"
+        },
+        "addison barger": {
+            "fd": "+350"
         },
         "vladimir guerrero": {
             "fd": "+360"
@@ -136,11 +136,11 @@
         "tyler soderstrom": {
             "fd": "+430"
         },
-        "bo bichette": {
-            "fd": "+470"
-        },
         "max p muncy": {
             "fd": "+460"
+        },
+        "bo bichette": {
+            "fd": "+470"
         },
         "alejandro kirk": {
             "fd": "+600"
@@ -162,6 +162,9 @@
         },
         "ernie clement": {
             "fd": "+900"
+        },
+        "myles straw": {
+            "fd": "+1060"
         }
     },
     "lad @ sf": {

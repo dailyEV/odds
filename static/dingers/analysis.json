@@ -2209,11 +2209,11 @@
         "fd_z_score": -0.76
     },
     "myles straw": {
-        "fd_avg_vig": 20021,
-        "fd_avg": 1639,
+        "fd_avg_vig": 18157,
+        "fd_avg": 1615,
         "fd_median": "+1700",
-        "fd_std_dev": 674.48,
-        "fd_z_score": 0
+        "fd_std_dev": 676.17,
+        "fd_z_score": -0.82
     },
     "alan roden": {
         "pn_avg_vig": 1286,
