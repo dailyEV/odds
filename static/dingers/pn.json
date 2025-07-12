@@ -1,18 +1,18 @@
 {
     "sea @ det": {
         "cal raleigh": {
-            "pn": "266/-392"
+            "pn": "261/-383"
         },
         "randy arozarena": {
-            "pn": "567/-1148"
+            "pn": "566/-1145"
         },
         "riley greene": {
-            "pn": "525/-1008"
+            "pn": "512/-969"
         }
     },
     "tor @ ath": {
         "george springer": {
-            "pn": "441/-770"
+            "pn": "433/-748"
         },
         "shea langeliers": {
             "pn": "341/-536"
@@ -39,7 +39,7 @@
             "pn": "380/-621"
         },
         "nick kurtz": {
-            "pn": "401/-671"
+            "pn": "381/-624"
         }
     },
     "col @ cin": {
@@ -48,9 +48,6 @@
         },
         "tyler stephenson": {
             "pn": "349/-554"
-        },
-        "mickey moniak": {
-            "pn": "362/-582"
         },
         "spencer steer": {
             "pn": "420/-717"
@@ -94,16 +91,16 @@
             "pn": "551/-1093"
         },
         "brandon nimmo": {
-            "pn": "591/-1234"
+            "pn": "581/-1197"
         },
         "bobby witt": {
             "pn": "454/-804"
         },
         "pete alonso": {
-            "pn": "415/-705"
+            "pn": "405/-679"
         },
         "juan soto": {
-            "pn": "419/-714"
+            "pn": "406/-683"
         }
     },
     "cle @ chw": {
@@ -207,25 +204,25 @@
     },
     "chc @ nyy": {
         "kyle tucker": {
-            "pn": "391/-646"
+            "pn": "390/-644"
         },
         "giancarlo stanton": {
-            "pn": "254/-371"
+            "pn": "252/-367"
         },
         "aaron judge": {
-            "pn": "178/-245"
+            "pn": "180/-248"
         },
         "cody bellinger": {
-            "pn": "527/-1013"
+            "pn": "527/-1014"
         },
         "austin wells": {
-            "pn": "458/-813"
+            "pn": "460/-819"
         },
         "seiya suzuki": {
-            "pn": "516/-980"
+            "pn": "526/-1011"
         },
         "paul goldschmidt": {
-            "pn": "397/-660"
+            "pn": "431/-743"
         }
     },
     "mia @ bal": {
@@ -253,16 +250,16 @@
     },
     "lad @ sf": {
         "rafael devers": {
-            "pn": "384/-632"
+            "pn": "389/-642"
         },
         "matt chapman": {
-            "pn": "440/-767"
+            "pn": "436/-756"
         },
         "shohei ohtani": {
-            "pn": "297/-448"
+            "pn": "296/-447"
         },
         "mike yastrzemski": {
-            "pn": "585/-1213"
+            "pn": "609/-1302"
         }
     }
 }
