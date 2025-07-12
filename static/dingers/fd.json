@@ -68,25 +68,25 @@
         "dominic canzone": {
             "fd": "+540"
         },
-        "randy arozarena": {
-            "fd": "+600"
-        },
         "luke raley": {
             "fd": "+560"
         },
         "jorge polanco": {
             "fd": "+560"
         },
+        "randy arozarena": {
+            "fd": "+600"
+        },
         "julio rodriguez": {
             "fd": "+630"
-        },
-        "wenceel perez": {
-            "fd": "+750"
         },
         "colt keith": {
             "fd": "+700"
         },
         "gleyber torres": {
+            "fd": "+750"
+        },
+        "wenceel perez": {
             "fd": "+750"
         },
         "trey sweeney": {
@@ -242,14 +242,14 @@
         "willy adames": {
             "fd": "+680"
         },
+        "mike yastrzemski": {
+            "fd": "+600"
+        },
         "teoscar hernandez": {
             "fd": "+750"
         },
         "andy pages": {
             "fd": "+750"
-        },
-        "mike yastrzemski": {
-            "fd": "+600"
         },
         "freddie freeman": {
             "fd": "+800"
@@ -652,11 +652,11 @@
         "taylor trammell": {
             "fd": "+870"
         },
-        "jonah heim": {
-            "fd": "+900"
-        },
         "brice matthews": {
             "fd": "+870"
+        },
+        "jonah heim": {
+            "fd": "+900"
         },
         "mauricio dubon": {
             "fd": "+1200"
@@ -784,14 +784,14 @@
         }
     },
     "tor @ ath": {
-        "nick kurtz": {
-            "fd": "+350"
-        },
         "george springer": {
             "fd": "+340"
         },
         "vladimir guerrero": {
             "fd": "+340"
+        },
+        "nick kurtz": {
+            "fd": "+350"
         },
         "brent rooker": {
             "fd": "+350"
