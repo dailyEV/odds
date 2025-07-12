@@ -236,11 +236,11 @@
         "will smith": {
             "fd": "+600"
         },
-        "heliot ramos": {
-            "fd": "+680"
-        },
         "willy adames": {
             "fd": "+630"
+        },
+        "heliot ramos": {
+            "fd": "+680"
         },
         "teoscar hernandez": {
             "fd": "+750"
@@ -251,11 +251,11 @@
         "mike yastrzemski": {
             "fd": "+750"
         },
-        "freddie freeman": {
-            "fd": "+830"
-        },
         "mookie betts": {
             "fd": "+800"
+        },
+        "freddie freeman": {
+            "fd": "+830"
         },
         "michael conforto": {
             "fd": "+830"
@@ -263,14 +263,14 @@
         "casey schmitt": {
             "fd": "+900"
         },
+        "jung hoo lee": {
+            "fd": "+1060"
+        },
         "dominic smith": {
             "fd": "+1060"
         },
         "tommy edman": {
             "fd": "+1100"
-        },
-        "jung hoo lee": {
-            "fd": "+1060"
         },
         "patrick bailey": {
             "fd": "+1200"
@@ -401,20 +401,20 @@
         "trevor story": {
             "fd": "+600"
         },
+        "jarren duran": {
+            "fd": "+600"
+        },
         "yandy diaz": {
             "fd": "+600"
+        },
+        "ceddanne rafaela": {
+            "fd": "+630"
         },
         "christopher morel": {
             "fd": "+600"
         },
         "marcelo mayer": {
             "fd": "+680"
-        },
-        "jarren duran": {
-            "fd": "+600"
-        },
-        "ceddanne rafaela": {
-            "fd": "+630"
         },
         "roman anthony": {
             "fd": "+750"
@@ -431,13 +431,13 @@
         "connor wong": {
             "fd": "+900"
         },
-        "curtis mead": {
-            "fd": "+1060"
-        },
         "ha seong kim": {
             "fd": "+1000"
         },
         "jose caballero": {
+            "fd": "+1060"
+        },
+        "curtis mead": {
             "fd": "+1060"
         },
         "jake mangum": {
