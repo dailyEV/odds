@@ -2646,6 +2646,8 @@ def writeEV(date, dinger, parx=False, silent=False):
 			evData[player]["weather"] = gameWeather
 			evData[player]["book"] = evBook
 			evData[player]["line"] = highest
+			evData[player]["bookWith365"] = evBookWith365
+			evData[player]["lineWith365"] = highestWith365
 			evData[player]["ou"] = ou
 			evData[player]["prop"] = "hr"
 			evData[player]["bvp"] = bvp
