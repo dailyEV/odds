@@ -2122,11 +2122,11 @@
         "circa_median": "+575/-800",
         "circa_std_dev": 91.22,
         "circa_z_score": 0,
-        "fd_avg_vig": 777,
+        "fd_avg_vig": 778,
         "fd_avg": 501,
         "fd_median": "+520",
-        "fd_std_dev": 112.99,
-        "fd_z_score": -0.36
+        "fd_std_dev": 112.91,
+        "fd_z_score": -0.27
     },
     "michael harris": {
         "pn_avg_vig": 711,
@@ -2139,11 +2139,11 @@
         "circa_median": "+600/-850",
         "circa_std_dev": 111.51,
         "circa_z_score": 0,
-        "fd_avg_vig": 1194,
+        "fd_avg_vig": 1192,
         "fd_avg": 652,
         "fd_median": "+680",
-        "fd_std_dev": 146.22,
-        "fd_z_score": 0.67
+        "fd_std_dev": 146.01,
+        "fd_z_score": 0.33
     },
     "ozzie albies": {
         "pn_avg_vig": 1016,
@@ -3341,11 +3341,11 @@
         "fd_z_score": 0.15
     },
     "brendan donovan": {
-        "fd_avg_vig": 1724,
+        "fd_avg_vig": 1726,
         "fd_avg": 785,
         "fd_median": "+680",
-        "fd_std_dev": 201.9,
-        "fd_z_score": 0.07,
+        "fd_std_dev": 201.88,
+        "fd_z_score": 0.22,
         "pn_avg_vig": 1036,
         "pn_avg": 623,
         "pn_median": "608/-1300",
@@ -3368,11 +3368,11 @@
         "circa_median": "+500/-670",
         "circa_std_dev": 81.48,
         "circa_z_score": 0,
-        "fd_avg_vig": 747,
-        "fd_avg": 488,
+        "fd_avg_vig": 746,
+        "fd_avg": 487,
         "fd_median": "+500",
-        "fd_std_dev": 106.94,
-        "fd_z_score": 0.67
+        "fd_std_dev": 106.79,
+        "fd_z_score": 0.5
     },
     "jordan walker": {
         "circa_avg_vig": 880,
@@ -8386,9 +8386,9 @@
         "fd_z_score": 0.77
     },
     "nacho alvarez": {
-        "fd_avg_vig": 1938,
-        "fd_avg": 830,
-        "fd_median": "+830",
+        "fd_avg_vig": 1780,
+        "fd_avg": 800,
+        "fd_median": "+800",
         "fd_std_dev": 0,
         "fd_z_score": 0.77
     },
