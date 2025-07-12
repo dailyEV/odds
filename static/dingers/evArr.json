@@ -1,6 +1,6 @@
 {
     "updated": {
-        "fd": "2025-07-12 17:30:22.928765",
+        "fd": "2025-07-12 17:30:44.082198",
         "espn": "2025-07-12 15:44:46.443775",
         "dk": "2025-07-12 15:44:14.625841",
         "cz": "2025-07-12 15:44:24.640442",
@@ -29235,10 +29235,10 @@
                 "circa_std_dev": 115.29,
                 "circa_z_score": -0.09,
                 "fd_avg_vig": 522,
-                "fd_avg": 376,
+                "fd_avg": 375,
                 "fd_median": "+370",
-                "fd_std_dev": 129.2,
-                "fd_z_score": -0.2
+                "fd_std_dev": 129.25,
+                "fd_z_score": -0.19
             },
             "homerLogs": {
                 "lastHRDt": "2025-07-09-65",
@@ -29902,11 +29902,11 @@
                 "dt": "2025-07-12"
             },
             "analysis": {
-                "fd_avg_vig": 755,
-                "fd_avg": 491,
+                "fd_avg_vig": 754,
+                "fd_avg": 490,
                 "fd_median": "+520",
-                "fd_std_dev": 129.49,
-                "fd_z_score": -0.93,
+                "fd_std_dev": 129.77,
+                "fd_z_score": -0.92,
                 "pn_avg_vig": 669,
                 "pn_avg": 459,
                 "pn_median": "476/-820",
@@ -35496,11 +35496,11 @@
                 "circa_median": "+575/-800",
                 "circa_std_dev": 89.73,
                 "circa_z_score": -0.79,
-                "fd_avg_vig": 989,
-                "fd_avg": 585,
+                "fd_avg_vig": 988,
+                "fd_avg": 584,
                 "fd_median": "+560",
-                "fd_std_dev": 169.59,
-                "fd_z_score": -0.5
+                "fd_std_dev": 169.76,
+                "fd_z_score": -0.49
             },
             "homerLogs": {
                 "lastHRDt": "2025-07-07-39",
@@ -37345,10 +37345,10 @@
                 "dt": "2025-07-12"
             },
             "analysis": {
-                "fd_avg_vig": 2462,
-                "fd_avg": 922,
+                "fd_avg_vig": 2467,
+                "fd_avg": 923,
                 "fd_median": "+680",
-                "fd_std_dev": 545.11,
+                "fd_std_dev": 544.92,
                 "fd_z_score": -0.1,
                 "pn_avg_vig": 1343,
                 "pn_avg": 746,
