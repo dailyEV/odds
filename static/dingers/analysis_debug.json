@@ -42491,7 +42491,7 @@
         "fd_avg": 735,
         "fd_median": "+680",
         "fd_std_dev": 216.54,
-        "fd_z_score": 1.5,
+        "fd_z_score": 0,
         "pn": {
             "2025-04-16": "908/-2346",
             "2025-04-17": "673/-1407",
@@ -46064,7 +46064,7 @@
         "fd_avg": 619,
         "fd_median": "+560",
         "fd_std_dev": 307.28,
-        "fd_z_score": 0
+        "fd_z_score": 1.44
     },
     "miguel rojas": {
         "pn": {
