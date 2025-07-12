@@ -57,7 +57,7 @@
     },
     "sea @ det": {
         "cal raleigh": {
-            "fd": "+255"
+            "fd": "+250"
         },
         "riley greene": {
             "fd": "+420"
@@ -66,7 +66,10 @@
             "fd": "+450"
         },
         "dominic canzone": {
-            "fd": "+520"
+            "fd": "+540"
+        },
+        "randy arozarena": {
+            "fd": "+560"
         },
         "luke raley": {
             "fd": "+560"
@@ -74,14 +77,11 @@
         "jorge polanco": {
             "fd": "+560"
         },
-        "randy arozarena": {
-            "fd": "+560"
-        },
         "julio rodriguez": {
             "fd": "+630"
         },
         "wenceel perez": {
-            "fd": "+700"
+            "fd": "+680"
         },
         "colt keith": {
             "fd": "+750"
@@ -96,16 +96,16 @@
             "fd": "+800"
         },
         "matt vierling": {
-            "fd": "+830"
+            "fd": "+800"
         },
         "zach mckinstry": {
             "fd": "+900"
         },
         "jp crawford": {
-            "fd": "+1000"
+            "fd": "+900"
         },
         "cole young": {
-            "fd": "+1060"
+            "fd": "+1100"
         },
         "ben williamson": {
             "fd": "+1100"
@@ -145,23 +145,23 @@
         "henry davis": {
             "fd": "+680"
         },
-        "nick gonzales": {
-            "fd": "+680"
-        },
         "harrison bader": {
             "fd": "+680"
         },
-        "willi castro": {
-            "fd": "+800"
+        "nick gonzales": {
+            "fd": "+680"
         },
         "tommy pham": {
             "fd": "+800"
         },
-        "kebryan hayes": {
-            "fd": "+900"
+        "willi castro": {
+            "fd": "+800"
         },
         "ty france": {
             "fd": "+870"
+        },
+        "kebryan hayes": {
+            "fd": "+900"
         },
         "isiah kiner falefa": {
             "fd": "+1300"
@@ -236,11 +236,11 @@
         "will smith": {
             "fd": "+600"
         },
-        "willy adames": {
-            "fd": "+680"
-        },
         "heliot ramos": {
             "fd": "+630"
+        },
+        "willy adames": {
+            "fd": "+680"
         },
         "teoscar hernandez": {
             "fd": "+750"
@@ -251,10 +251,10 @@
         "mike yastrzemski": {
             "fd": "+750"
         },
-        "mookie betts": {
+        "freddie freeman": {
             "fd": "+800"
         },
-        "freddie freeman": {
+        "mookie betts": {
             "fd": "+800"
         },
         "michael conforto": {
@@ -263,13 +263,13 @@
         "casey schmitt": {
             "fd": "+900"
         },
-        "jung hoo lee": {
-            "fd": "+1100"
-        },
         "dominic smith": {
             "fd": "+1060"
         },
         "tommy edman": {
+            "fd": "+1100"
+        },
+        "jung hoo lee": {
             "fd": "+1100"
         },
         "patrick bailey": {
