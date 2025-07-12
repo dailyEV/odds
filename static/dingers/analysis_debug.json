@@ -23328,7 +23328,7 @@
         "circa_avg": 507,
         "circa_median": "+525/-710",
         "circa_std_dev": 101.79,
-        "circa_z_score": -0.56,
+        "circa_z_score": 0.42,
         "fd": {
             "2025-04-09": "+560",
             "2025-04-12": "+630",
@@ -48828,7 +48828,7 @@
         "circa_avg": 376,
         "circa_median": "+425/-550",
         "circa_std_dev": 90.91,
-        "circa_z_score": -1.39,
+        "circa_z_score": -0.95,
         "fd": {
             "2025-05-02": "+260",
             "2025-05-03": "+300",
