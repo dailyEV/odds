@@ -242,24 +242,21 @@
         "nick castellanos": {
             "fd": "+500"
         },
+        "gavin sheets": {
+            "fd": "+560"
+        },
         "jt realmuto": {
             "fd": "+560",
             "kambi": "1600/-10000"
         },
-        "gavin sheets": {
-            "fd": "+560"
-        },
         "jackson merrill": {
             "fd": "+560"
-        },
-        "alec bohm": {
-            "fd": "+630"
         },
         "jake cronenworth": {
             "fd": "+630"
         },
-        "xander bogaerts": {
-            "fd": "+750"
+        "alec bohm": {
+            "fd": "+630"
         },
         "brandon marsh": {
             "fd": "+680"
@@ -267,11 +264,14 @@
         "bryson stott": {
             "fd": "+700"
         },
-        "martin maldonado": {
-            "fd": "+830"
+        "xander bogaerts": {
+            "fd": "+750"
         },
         "trenton brooks": {
             "fd": "+800"
+        },
+        "martin maldonado": {
+            "fd": "+830"
         },
         "luis arraez": {
             "fd": "+1060"
