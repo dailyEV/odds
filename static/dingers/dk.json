@@ -1,7 +1,7 @@
 {
     "chc @ nyy": {
         "aaron judge": {
-            "dk": "+190"
+            "dk": "+195"
         },
         "giancarlo stanton": {
             "dk": "+260"
@@ -43,7 +43,10 @@
             "dk": "+700"
         },
         "ian happ": {
-            "dk": "+750"
+            "dk": "+700"
+        },
+        "justin turner": {
+            "dk": "+800"
         },
         "nico hoerner": {
             "dk": "+950"
@@ -342,6 +345,9 @@
         "trevor larnach": {
             "dk": "+370"
         },
+        "bryan reynolds": {
+            "dk": "+400"
+        },
         "royce lewis": {
             "dk": "+400"
         },
@@ -351,14 +357,14 @@
         "brooks lee": {
             "dk": "+425"
         },
-        "bryan reynolds": {
-            "dk": "+450"
-        },
         "willi castro": {
             "dk": "+475"
         },
         "andrew mccutchen": {
             "dk": "+500"
+        },
+        "ty france": {
+            "dk": "+550"
         },
         "spencer horwitz": {
             "dk": "+550"
@@ -370,7 +376,7 @@
             "dk": "+600"
         },
         "tommy pham": {
-            "dk": "+750"
+            "dk": "+700"
         },
         "henry davis": {
             "dk": "+750"
@@ -478,16 +484,16 @@
         "riley adams": {
             "dk": "+600"
         },
+        "sal frelick": {
+            "dk": "+650"
+        },
         "brady house": {
             "dk": "+700"
         },
-        "sal frelick": {
-            "dk": "+700"
+        "brice turang": {
+            "dk": "+750"
         },
         "daylen lile": {
-            "dk": "+700"
-        },
-        "brice turang": {
             "dk": "+750"
         },
         "jacob young": {
@@ -799,16 +805,19 @@
         "yainer diaz": {
             "dk": "+650"
         },
+        "victor caratini": {
+            "dk": "+750"
+        },
         "brice matthews": {
             "dk": "+800"
         },
         "marcus semien": {
             "dk": "+850"
         },
-        "jonah heim": {
-            "dk": "+850"
-        },
         "cooper hummel": {
+            "dk": "+900"
+        },
+        "jonah heim": {
             "dk": "+900"
         },
         "sam haggerty": {
