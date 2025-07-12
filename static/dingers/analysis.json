@@ -1742,7 +1742,7 @@
         "fd_avg_vig": 762,
         "fd_avg": 494,
         "fd_median": "+500",
-        "fd_std_dev": 115.73,
+        "fd_std_dev": 115.68,
         "fd_z_score": 0.05
     },
     "salvador perez": {
@@ -3869,11 +3869,11 @@
         "pn_z_score": 0
     },
     "dansby swanson": {
-        "fd_avg_vig": 907,
-        "fd_avg": 554,
+        "fd_avg_vig": 908,
+        "fd_avg": 555,
         "fd_median": "+560",
-        "fd_std_dev": 200.59,
-        "fd_z_score": 0.63,
+        "fd_std_dev": 200.78,
+        "fd_z_score": 0.62,
         "pn_avg_vig": 757,
         "pn_avg": 500,
         "pn_median": "519/-990",
@@ -4004,21 +4004,21 @@
         "fd_z_score": 0
     },
     "nico hoerner": {
-        "fd_avg_vig": 9729,
-        "fd_avg": 1410,
+        "fd_avg_vig": 9841,
+        "fd_avg": 1412,
         "fd_median": "+1500",
-        "fd_std_dev": 596.93,
-        "fd_z_score": -0.35,
+        "fd_std_dev": 596.02,
+        "fd_z_score": -0.36,
         "circa_avg_vig": 2641,
         "circa_avg": 1450,
         "circa_median": "+1450/-3200",
         "circa_std_dev": 0,
-        "circa_z_score": -0.35,
+        "circa_z_score": -0.36,
         "pn_avg_vig": 1823,
         "pn_avg": 908,
         "pn_median": "908/-2346",
         "pn_std_dev": 0,
-        "pn_z_score": -0.35
+        "pn_z_score": -0.36
     },
     "luis arraez": {
         "fd_avg_vig": 9653,
@@ -4470,10 +4470,10 @@
         "pn_z_score": 0
     },
     "seiya suzuki": {
-        "fd_avg_vig": 591,
+        "fd_avg_vig": 592,
         "fd_avg": 413,
         "fd_median": "+450",
-        "fd_std_dev": 120.34,
+        "fd_std_dev": 120.27,
         "fd_z_score": 0.06,
         "circa_avg_vig": 510,
         "circa_avg": 430,
@@ -4487,10 +4487,10 @@
         "pn_z_score": 1.14
     },
     "carson kelly": {
-        "fd_avg_vig": 1014,
-        "fd_avg": 595,
+        "fd_avg_vig": 1012,
+        "fd_avg": 594,
         "fd_median": "+600",
-        "fd_std_dev": 270.22,
+        "fd_std_dev": 270.2,
         "fd_z_score": 0.13,
         "pn_avg_vig": 828,
         "pn_avg": 525,
@@ -4722,10 +4722,10 @@
         "circa_std_dev": 129.72,
         "circa_z_score": 0,
         "fd_avg_vig": 559,
-        "fd_avg": 395,
+        "fd_avg": 396,
         "fd_median": "+390",
-        "fd_std_dev": 157.27,
-        "fd_z_score": 0.16
+        "fd_std_dev": 157.24,
+        "fd_z_score": 0.15
     },
     "danny jansen": {
         "pn_avg_vig": 758,
