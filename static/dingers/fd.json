@@ -74,6 +74,9 @@
         "ozzie albies": {
             "fd": "+560"
         },
+        "alec burleson": {
+            "fd": "+560"
+        },
         "willson contreras": {
             "fd": "+600"
         },
@@ -83,23 +86,20 @@
         "jurickson profar": {
             "fd": "+630"
         },
-        "alec burleson": {
-            "fd": "+560"
-        },
-        "brendan donovan": {
-            "fd": "+800"
+        "yohel pozo": {
+            "fd": "+700"
         },
         "michael harris": {
             "fd": "+700"
+        },
+        "brendan donovan": {
+            "fd": "+800"
         },
         "masyn winn": {
             "fd": "+800"
         },
         "thomas saggese": {
             "fd": "+800"
-        },
-        "yohel pozo": {
-            "fd": "+700"
         },
         "nacho alvarez": {
             "fd": "+870"
@@ -124,35 +124,29 @@
         "mike yastrzemski": {
             "fd": "+630"
         },
+        "teoscar hernandez": {
+            "fd": "+680"
+        },
         "willy adames": {
+            "fd": "+680"
+        },
+        "heliot ramos": {
             "fd": "+680"
         },
         "andy pages": {
             "fd": "+750"
         },
-        "heliot ramos": {
-            "fd": "+680"
-        },
-        "teoscar hernandez": {
-            "fd": "+680"
+        "mookie betts": {
+            "fd": "+750"
         },
         "freddie freeman": {
             "fd": "+800"
-        },
-        "mookie betts": {
-            "fd": "+750"
         },
         "michael conforto": {
             "fd": "+800"
         },
         "casey schmitt": {
             "fd": "+900"
-        },
-        "tommy edman": {
-            "fd": "+1060"
-        },
-        "jung hoo lee": {
-            "fd": "+1100"
         },
         "dominic smith": {
             "fd": "+1000"
@@ -161,6 +155,12 @@
             "fd": "+1060"
         },
         "patrick bailey": {
+            "fd": "+1100"
+        },
+        "tommy edman": {
+            "fd": "+1060"
+        },
+        "jung hoo lee": {
             "fd": "+1100"
         },
         "hyeseong kim": {
