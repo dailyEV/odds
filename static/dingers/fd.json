@@ -59,14 +59,14 @@
         "cal raleigh": {
             "fd": "+250"
         },
-        "": {
+        "riley greene": {
             "fd": "+430"
+        },
+        "spencer torkelson": {
+            "fd": "+470"
         },
         "dominic canzone": {
             "fd": "+540"
-        },
-        "randy arozarena": {
-            "fd": "+600"
         },
         "luke raley": {
             "fd": "+560"
@@ -74,10 +74,34 @@
         "jorge polanco": {
             "fd": "+560"
         },
+        "randy arozarena": {
+            "fd": "+600"
+        },
         "julio rodriguez": {
             "fd": "+680"
         },
+        "colt keith": {
+            "fd": "+750"
+        },
+        "gleyber torres": {
+            "fd": "+750"
+        },
+        "wenceel perez": {
+            "fd": "+750"
+        },
+        "jake rogers": {
+            "fd": "+800"
+        },
+        "trey sweeney": {
+            "fd": "+830"
+        },
+        "zach mckinstry": {
+            "fd": "+900"
+        },
         "jp crawford": {
+            "fd": "+900"
+        },
+        "matt vierling": {
             "fd": "+900"
         },
         "cole young": {
@@ -85,11 +109,6 @@
         },
         "miles mastrobuoni": {
             "fd": "+1300"
-        }
-    },
-    "sea-gm2 @ det-gm2": {
-        "": {
-            "fd": "+1000"
         }
     },
     "pit @ min": {
@@ -562,22 +581,22 @@
         "tyler stephenson": {
             "fd": "+370"
         },
+        "michael toglia": {
+            "fd": "+400"
+        },
         "spencer steer": {
             "fd": "+420"
         },
         "ryan mcmahon": {
             "fd": "+420"
         },
-        "michael toglia": {
-            "fd": "+400"
-        },
         "noelvi marte": {
             "fd": "+450"
         },
-        "jordan beck": {
+        "tj friedl": {
             "fd": "+470"
         },
-        "tj friedl": {
+        "jordan beck": {
             "fd": "+470"
         },
         "gavin lux": {
@@ -677,17 +696,17 @@
         "gavin sheets": {
             "fd": "+560"
         },
-        "jackson merrill": {
+        "jt realmuto": {
             "fd": "+600"
         },
-        "jt realmuto": {
+        "alec bohm": {
+            "fd": "+600"
+        },
+        "jackson merrill": {
             "fd": "+600"
         },
         "jake cronenworth": {
             "fd": "+630"
-        },
-        "alec bohm": {
-            "fd": "+600"
         },
         "brandon marsh": {
             "fd": "+680"
