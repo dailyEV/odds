@@ -57,58 +57,58 @@
     },
     "tb @ bos": {
         "wilyer abreu": {
-            "fd": "+440"
+            "fd": "+450"
         },
         "jarren duran": {
-            "fd": "+560"
+            "fd": "+550"
         },
-        "yandy diaz": {
-            "fd": "+600"
+        "": {
+            "fd": "+650"
         },
         "junior caminero": {
-            "fd": "+600"
+            "fd": "+650"
         },
         "ceddanne rafaela": {
-            "fd": "+600"
+            "fd": "+650"
         },
         "roman anthony": {
-            "fd": "+630"
+            "fd": "+650"
         },
         "trevor story": {
-            "fd": "+630"
+            "fd": "+650"
         },
         "christopher morel": {
-            "fd": "+630"
+            "fd": "+650"
         },
         "carlos narvaez": {
-            "fd": "+680"
+            "fd": "+700"
         },
         "danny jansen": {
-            "fd": "+750"
-        },
-        "masataka yoshida": {
-            "fd": "+750"
-        },
-        "marcelo mayer": {
             "fd": "+800"
         },
-        "abraham toro": {
-            "fd": "+900"
+        "masataka yoshida": {
+            "fd": "+800"
         },
-        "ha seong kim": {
+        "marcelo mayer": {
+            "fd": "+850"
+        },
+        "abraham toro": {
             "fd": "+1000"
         },
+        "ha seong kim": {
+            "fd": "+1100"
+        },
         "curtis mead": {
-            "fd": "+1060"
+            "fd": "+1100"
         },
         "jose caballero": {
-            "fd": "+1100"
+            "fd": "+1400"
         },
         "taylor walls": {
-            "fd": "+1100"
+            "fd": "+1300"
         },
         "jake mangum": {
-            "fd": "+1200"
+            "fd": "+1500"
         }
     },
     "wsh @ mil": {
