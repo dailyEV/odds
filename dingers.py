@@ -2431,8 +2431,8 @@ def writeEV(date, dinger, parx=False, silent=False):
 
 			avgOver = []
 			avgUnder = []
-			highest = 0
-			evBook = ""
+			highest = highestWith365 = 0
+			evBook = evBookWith365 = ""
 			books = data[game][player].keys()
 
 			if "fd" not in books:
@@ -2447,10 +2447,14 @@ def writeEV(date, dinger, parx=False, silent=False):
 				if "++" in over or not over:
 					continue
 
-				if book not in ["pn", "circa"]:
+				if book not in ["pn", "circa", "365"]:
 					highest = max(highest, int(over))
 					if highest == int(over):
 						evBook = book
+				elif book not in ["pn", "circa"]:
+					highestWith365 = max(highestWith365, int(over))
+					if highestWith365 == int(over):
+						evBookWith365 = book
 				avgOver.append(convertImpOdds(int(over)))
 				if "/" in odds and book not in ["kambi", "espn"]:
 				#if "/" in odds:
