@@ -1,6 +1,6 @@
 {
     "updated": {
-        "fd": "2025-07-12 00:17:30.663441",
+        "fd": "2025-07-12 00:17:41.069819",
         "espn": "2025-07-11 23:56:56.505434",
         "dk": "2025-07-11 23:56:33.040976",
         "cz": "2025-07-11 23:56:41.591207",
@@ -50239,24 +50239,24 @@
             }
         },
         {
-            "fairVal": 508,
-            "implied": 16.45,
-            "ev": -22.7,
-            "fd-sweat_ev": 47.3,
-            "fd-sweat_fairVal": 0.16452957062295548,
-            "fd-sweat_implied": 16.45,
-            "fd_ev": -22.7,
-            "fd_fairVal": 508,
-            "fd_implied": 16.45,
-            "vs-fd_ev": -22.7,
-            "vs-fd_fairVal": 508,
-            "vs-fd_implied": 16.45,
-            "fd-30_ev": -4.4,
-            "fd-30_fairVal": 508,
-            "fd-30_implied": 16.45,
-            "fd-50_ev": 7.8,
-            "fd-50_fairVal": 508,
-            "fd-50_implied": 16.45,
+            "fairVal": 544,
+            "implied": 15.54,
+            "ev": -23.9,
+            "fd-sweat_ev": 46.1,
+            "fd-sweat_fairVal": 0.15537592859478153,
+            "fd-sweat_implied": 15.54,
+            "fd_ev": -23.9,
+            "fd_fairVal": 544,
+            "fd_implied": 15.54,
+            "vs-fd_ev": -23.9,
+            "vs-fd_fairVal": 544,
+            "vs-fd_implied": 15.54,
+            "fd-30_ev": -5.7,
+            "fd-30_fairVal": 544,
+            "fd-30_implied": 15.54,
+            "fd-50_ev": 6.4,
+            "fd-50_fairVal": 544,
+            "fd-50_implied": 15.54,
             "id": "wsh @ mil-james wood",
             "player": "james wood",
             "bpp": "+7%",
@@ -50281,8 +50281,8 @@
                 "transform": "transform: rotate(-65.000deg);"
             },
             "book": "fd",
-            "line": 370,
-            "ou": "370",
+            "line": 390,
+            "ou": "390",
             "prop": "hr",
             "bvp": "",
             "lastHR": "",
@@ -50291,7 +50291,7 @@
             "start": "4:10 PM",
             "startSortable": 970,
             "bookOdds": {
-                "fd": "+370"
+                "fd": "+390"
             },
             "stadiumRank": 12,
             "oppRank": "12th",
@@ -50712,7 +50712,7 @@
                 "fd_avg": 457,
                 "fd_median": "+470",
                 "fd_std_dev": 117.09,
-                "fd_z_score": -0.74
+                "fd_z_score": -0.57
             },
             "homerLogs": {
                 "lastHRDt": "2025-07-09-53",
@@ -51235,10 +51235,10 @@
                 "circa_median": "+550/-750",
                 "circa_std_dev": 156.13,
                 "circa_z_score": 0,
-                "fd_avg_vig": 900,
+                "fd_avg_vig": 899,
                 "fd_avg": 552,
                 "fd_median": "+540",
-                "fd_std_dev": 289.2,
+                "fd_std_dev": 289.41,
                 "fd_z_score": -0.63
             },
             "homerLogs": {
@@ -53042,10 +53042,10 @@
                 "circa_median": "+550/-750",
                 "circa_std_dev": 98.74,
                 "circa_z_score": 0,
-                "fd_avg_vig": 836,
+                "fd_avg_vig": 837,
                 "fd_avg": 526,
                 "fd_median": "+520",
-                "fd_std_dev": 116.43,
+                "fd_std_dev": 116.35,
                 "fd_z_score": -0.05
             },
             "homerLogs": {
