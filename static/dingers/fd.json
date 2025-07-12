@@ -13,16 +13,16 @@
             "fd": "+390"
         },
         "seiya suzuki": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "trent grisham": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "pete crow armstrong": {
             "fd": "+450"
         },
         "paul goldschmidt": {
-            "fd": "+480"
+            "fd": "+500"
         },
         "austin wells": {
             "fd": "+480"
@@ -31,7 +31,7 @@
             "fd": "+520"
         },
         "dansby swanson": {
-            "fd": "+630"
+            "fd": "+680"
         },
         "anthony volpe": {
             "fd": "+630"
@@ -40,7 +40,7 @@
             "fd": "+680"
         },
         "carson kelly": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "oswald peraza": {
             "fd": "+830"
@@ -52,7 +52,7 @@
             "fd": "+1060"
         },
         "nico hoerner": {
-            "fd": "+1100"
+            "fd": "+1200"
         }
     },
     "sea @ det": {
@@ -145,7 +145,7 @@
         "henry davis": {
             "fd": "+680"
         },
-        "harrison bader": {
+        "": {
             "fd": "+680"
         },
         "nick gonzales": {

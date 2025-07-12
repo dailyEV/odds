@@ -14754,7 +14754,7 @@
         "fd_avg": 494,
         "fd_median": "+500",
         "fd_std_dev": 115.73,
-        "fd_z_score": -0.12
+        "fd_z_score": 0.05
     },
     "salvador perez": {
         "pn": {
@@ -24263,7 +24263,7 @@
         "fd_avg": 740,
         "fd_median": "+700",
         "fd_std_dev": 154.53,
-        "fd_z_score": -0.39
+        "fd_z_score": 0
     },
     "starling marte": {
         "pn": {
@@ -34014,7 +34014,7 @@
         "fd_avg": 554,
         "fd_median": "+560",
         "fd_std_dev": 200.59,
-        "fd_z_score": 0.38,
+        "fd_z_score": 0.63,
         "pn": {
             "2025-04-15": "574/-1084",
             "2025-04-16": "498/-872",
@@ -34905,7 +34905,7 @@
         "fd_avg": 1410,
         "fd_median": "+1500",
         "fd_std_dev": 596.93,
-        "fd_z_score": -0.52,
+        "fd_z_score": -0.35,
         "circa": {
             "2025-06-08": "+1450/-3200"
         },
@@ -34913,7 +34913,7 @@
         "circa_avg": 1450,
         "circa_median": "+1450/-3200",
         "circa_std_dev": 0,
-        "circa_z_score": -0.52,
+        "circa_z_score": -0.35,
         "pn": {
             "2025-04-18": "908/-2346"
         },
@@ -34921,7 +34921,7 @@
         "pn_avg": 908,
         "pn_median": "908/-2346",
         "pn_std_dev": 0,
-        "pn_z_score": -0.52
+        "pn_z_score": -0.35
     },
     "luis arraez": {
         "fd": {
@@ -38434,7 +38434,7 @@
         "fd_avg": 413,
         "fd_median": "+450",
         "fd_std_dev": 120.34,
-        "fd_z_score": -0.11,
+        "fd_z_score": 0.06,
         "circa": {
             "2025-04-04": "+625/-900",
             "2025-04-06": "+525/-710",
@@ -38648,7 +38648,7 @@
         "fd_avg": 595,
         "fd_median": "+600",
         "fd_std_dev": 270.22,
-        "fd_z_score": 0.31,
+        "fd_z_score": 0.13,
         "pn": {
             "2025-04-16": "606/-1187",
             "2025-04-18": "410/-662",
@@ -40181,7 +40181,7 @@
         "fd_avg": 395,
         "fd_median": "+390",
         "fd_std_dev": 157.27,
-        "fd_z_score": 0.03
+        "fd_z_score": 0.16
     },
     "danny jansen": {
         "pn": {
@@ -46261,7 +46261,7 @@
         "fd_avg": 617,
         "fd_median": "+540",
         "fd_std_dev": 308.17,
-        "fd_z_score": 0
+        "fd_z_score": 0.2
     },
     "miguel rojas": {
         "pn": {
