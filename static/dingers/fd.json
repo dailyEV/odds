@@ -56,11 +56,11 @@
         }
     },
     "atl @ stl": {
-        "matt olson": {
-            "fd": "+320"
-        },
         "ronald acuna": {
             "fd": "+310"
+        },
+        "matt olson": {
+            "fd": "+320"
         },
         "sean murphy": {
             "fd": "+470"
@@ -86,10 +86,10 @@
         "jurickson profar": {
             "fd": "+630"
         },
-        "yohel pozo": {
+        "michael harris": {
             "fd": "+700"
         },
-        "michael harris": {
+        "yohel pozo": {
             "fd": "+700"
         },
         "brendan donovan": {
@@ -236,14 +236,14 @@
         "francisco lindor": {
             "fd": "+460"
         },
+        "salvador perez": {
+            "fd": "+470"
+        },
         "bobby witt": {
             "fd": "+470"
         },
         "vinnie pasquantino": {
             "fd": "+480"
-        },
-        "salvador perez": {
-            "fd": "+470"
         },
         "jac caglianone": {
             "fd": "+520"
@@ -398,11 +398,11 @@
         "christian yelich": {
             "fd": "+360"
         },
-        "andrew vaughn": {
-            "fd": "+430"
-        },
         "jackson chourio": {
             "fd": "+420"
+        },
+        "andrew vaughn": {
+            "fd": "+430"
         },
         "cj abrams": {
             "fd": "+500"
@@ -410,14 +410,20 @@
         "josh bell": {
             "fd": "+500"
         },
-        "luis garcia": {
-            "fd": "+560"
-        },
         "william contreras": {
             "fd": "+520"
         },
         "nathaniel lowe": {
             "fd": "+540"
+        },
+        "luis garcia": {
+            "fd": "+560"
+        },
+        "brady house": {
+            "fd": "+750"
+        },
+        "daylen lile": {
+            "fd": "+750"
         },
         "sal frelick": {
             "fd": "+800"
@@ -425,20 +431,14 @@
         "isaac collins": {
             "fd": "+800"
         },
-        "joey ortiz": {
-            "fd": "+870"
-        },
-        "daylen lile": {
-            "fd": "+750"
-        },
         "andruw monasterio": {
             "fd": "+830"
         },
-        "riley adams": {
+        "joey ortiz": {
             "fd": "+870"
         },
-        "brady house": {
-            "fd": "+750"
+        "riley adams": {
+            "fd": "+870"
         },
         "brice turang": {
             "fd": "+1000"
