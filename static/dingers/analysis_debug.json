@@ -8784,7 +8784,7 @@
         "fd_avg": 1020,
         "fd_median": "+1200",
         "fd_std_dev": 496.85,
-        "fd_z_score": 0.56
+        "fd_z_score": 0.36
     },
     "bryson stott": {
         "pn": {
@@ -13770,7 +13770,7 @@
         "fd_avg": 379,
         "fd_median": "+390",
         "fd_std_dev": 122.61,
-        "fd_z_score": 0.58
+        "fd_z_score": 0.74
     },
     "kristian campbell": {
         "pn": {
@@ -35701,7 +35701,7 @@
         "fd_avg": 453,
         "fd_median": "+450",
         "fd_std_dev": 96.6,
-        "fd_z_score": 3.59,
+        "fd_z_score": 3.9,
         "pn": {
             "2025-04-15": "416/-675",
             "2025-04-16": "413/-663",
@@ -36541,7 +36541,7 @@
         "fd_avg": 609,
         "fd_median": "+600",
         "fd_std_dev": 132.79,
-        "fd_z_score": 1.66,
+        "fd_z_score": 1.97,
         "pn": {
             "2025-04-15": "506/-900",
             "2025-04-16": "531/-961",
