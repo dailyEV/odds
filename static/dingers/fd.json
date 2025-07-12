@@ -225,46 +225,46 @@
     },
     "nym @ kc": {
         "pete alonso": {
-            "fd": "+300"
-        },
-        "juan soto": {
             "fd": "+320"
         },
+        "juan soto": {
+            "fd": "+340"
+        },
         "brandon nimmo": {
-            "fd": "+430"
+            "fd": "+470"
         },
         "francisco lindor": {
             "fd": "+450"
         },
         "bobby witt": {
-            "fd": "+450"
+            "fd": "+470"
         },
         "vinnie pasquantino": {
-            "fd": "+500"
-        },
-        "salvador perez": {
             "fd": "+480"
         },
+        "salvador perez": {
+            "fd": "+470"
+        },
         "jac caglianone": {
-            "fd": "+500"
+            "fd": "+540"
         },
         "mark vientos": {
-            "fd": "+560"
+            "fd": "+600"
         },
         "ronny mauricio": {
-            "fd": "+700"
-        },
-        "brett baty": {
             "fd": "+750"
         },
+        "brett baty": {
+            "fd": "+800"
+        },
         "jeff mcneil": {
-            "fd": "+830"
+            "fd": "+800"
         },
         "nick loftin": {
-            "fd": "+900"
+            "fd": "+870"
         },
         "jonathan india": {
-            "fd": "+870"
+            "fd": "+830"
         },
         "luis torrens": {
             "fd": "+900"
@@ -276,7 +276,7 @@
             "fd": "+1000"
         },
         "kyle isbel": {
-            "fd": "+1060"
+            "fd": "+1000"
         }
     },
     "tb @ bos": {
