@@ -28007,11 +28007,11 @@
             "circa_median": "+490/-650",
             "circa_std_dev": 118.91,
             "circa_z_score": -0.99,
-            "fd_avg_vig": 682,
+            "fd_avg_vig": 683,
             "fd_avg": 458,
             "fd_median": "+440",
-            "fd_std_dev": 192.47,
-            "fd_z_score": -0.61
+            "fd_std_dev": 192.38,
+            "fd_z_score": -0.56
         },
         "homerLogs": {
             "lastHRDt": "2025-07-08-31",
@@ -28654,8 +28654,8 @@
             "fd_avg_vig": 617,
             "fd_avg": 426,
             "fd_median": "+430",
-            "fd_std_dev": 86.43,
-            "fd_z_score": -0.65
+            "fd_std_dev": 86.55,
+            "fd_z_score": -0.76
         },
         "homerLogs": {
             "lastHRDt": "2025-06-29-03",
@@ -29410,11 +29410,11 @@
             "pn_median": "546/-1076",
             "pn_std_dev": 119.45,
             "pn_z_score": -0.87,
-            "fd_avg_vig": 896,
+            "fd_avg_vig": 897,
             "fd_avg": 550,
             "fd_median": "+560",
-            "fd_std_dev": 130.68,
-            "fd_z_score": -1.45,
+            "fd_std_dev": 130.46,
+            "fd_z_score": -1.38,
             "circa_avg_vig": 666,
             "circa_avg": 539,
             "circa_median": "+575/-800",
@@ -30278,8 +30278,8 @@
             "fd_avg_vig": 683,
             "fd_avg": 458,
             "fd_median": "+450",
-            "fd_std_dev": 116.23,
-            "fd_z_score": -0.24
+            "fd_std_dev": 116.18,
+            "fd_z_score": -0.15
         },
         "homerLogs": {
             "lastHRDt": "2025-07-10-08",
@@ -30908,11 +30908,11 @@
             "circa_median": "+650/-950",
             "circa_std_dev": 145.67,
             "circa_z_score": -0.97,
-            "fd_avg_vig": 1185,
-            "fd_avg": 650,
+            "fd_avg_vig": 1184,
+            "fd_avg": 649,
             "fd_median": "+630",
-            "fd_std_dev": 156.97,
-            "fd_z_score": -1.15
+            "fd_std_dev": 157.35,
+            "fd_z_score": -1.26
         },
         "homerLogs": {
             "lastHRDt": "2025-07-06-30",

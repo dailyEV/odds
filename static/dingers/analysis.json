@@ -2205,8 +2205,8 @@
         "fd_avg_vig": 617,
         "fd_avg": 426,
         "fd_median": "+430",
-        "fd_std_dev": 86.43,
-        "fd_z_score": -0.65
+        "fd_std_dev": 86.55,
+        "fd_z_score": -0.76
     },
     "myles straw": {
         "fd_avg_vig": 20021,
@@ -2238,11 +2238,11 @@
         "circa_median": "+650/-950",
         "circa_std_dev": 145.67,
         "circa_z_score": -0.97,
-        "fd_avg_vig": 1185,
-        "fd_avg": 650,
+        "fd_avg_vig": 1184,
+        "fd_avg": 649,
         "fd_median": "+630",
-        "fd_std_dev": 156.97,
-        "fd_z_score": -1.15
+        "fd_std_dev": 157.35,
+        "fd_z_score": -1.26
     },
     "nick allen": {
         "fd_avg_vig": 19155,
@@ -2323,8 +2323,8 @@
         "fd_avg_vig": 683,
         "fd_avg": 458,
         "fd_median": "+450",
-        "fd_std_dev": 116.23,
-        "fd_z_score": -0.24
+        "fd_std_dev": 116.18,
+        "fd_z_score": -0.15
     },
     "lawrence butler": {
         "pn_avg_vig": 594,
@@ -2337,11 +2337,11 @@
         "circa_median": "+490/-650",
         "circa_std_dev": 118.91,
         "circa_z_score": -0.99,
-        "fd_avg_vig": 682,
+        "fd_avg_vig": 683,
         "fd_avg": 458,
         "fd_median": "+440",
-        "fd_std_dev": 192.47,
-        "fd_z_score": -0.61
+        "fd_std_dev": 192.38,
+        "fd_z_score": -0.56
     },
     "jj bleday": {
         "pn_avg_vig": 755,
@@ -2441,16 +2441,16 @@
         "pn_median": "707/-1524",
         "pn_std_dev": 94.07,
         "pn_z_score": 0,
-        "fd_avg_vig": 2200,
-        "fd_avg": 894,
+        "fd_avg_vig": 2190,
+        "fd_avg": 893,
         "fd_median": "+750",
-        "fd_std_dev": 509.95,
-        "fd_z_score": -0.28,
+        "fd_std_dev": 510.58,
+        "fd_z_score": -0.38,
         "circa_avg_vig": 1057,
         "circa_avg": 775,
         "circa_median": "+775/-1200",
         "circa_std_dev": 0,
-        "circa_z_score": -0.28
+        "circa_z_score": -0.38
     },
     "lenyn sosa": {
         "pn_avg_vig": 1302,
@@ -5420,11 +5420,11 @@
         "pn_median": "546/-1076",
         "pn_std_dev": 119.45,
         "pn_z_score": -0.87,
-        "fd_avg_vig": 896,
+        "fd_avg_vig": 897,
         "fd_avg": 550,
         "fd_median": "+560",
-        "fd_std_dev": 130.68,
-        "fd_z_score": -1.45,
+        "fd_std_dev": 130.46,
+        "fd_z_score": -1.38,
         "circa_avg_vig": 666,
         "circa_avg": 539,
         "circa_median": "+575/-800",
