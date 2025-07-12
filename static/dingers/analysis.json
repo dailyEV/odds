@@ -2242,7 +2242,7 @@
         "fd_avg": 647,
         "fd_median": "+630",
         "fd_std_dev": 157.28,
-        "fd_z_score": -0.93
+        "fd_z_score": -1.06
     },
     "nick allen": {
         "fd_avg_vig": 19356,
@@ -2324,7 +2324,7 @@
         "fd_avg": 458,
         "fd_median": "+450",
         "fd_std_dev": 115.48,
-        "fd_z_score": 0.19
+        "fd_z_score": 0.36
     },
     "lawrence butler": {
         "pn_avg_vig": 595,
@@ -2341,7 +2341,7 @@
         "fd_avg": 458,
         "fd_median": "+440",
         "fd_std_dev": 191.3,
-        "fd_z_score": -0.04
+        "fd_z_score": -0.15
     },
     "jj bleday": {
         "pn_avg_vig": 755,
@@ -2568,7 +2568,7 @@
         "fd_avg": 705,
         "fd_median": "+680",
         "fd_std_dev": 180.3,
-        "fd_z_score": -0.8
+        "fd_z_score": -0.92
     },
     "josh palacios": {
         "fd_avg_vig": 1286,
@@ -4378,7 +4378,7 @@
         "fd_avg": 879,
         "fd_median": "+800",
         "fd_std_dev": 145.25,
-        "fd_z_score": -1.23,
+        "fd_z_score": -0.89,
         "pn_avg_vig": 1503,
         "pn_avg": 807,
         "pn_median": "843/-2055",
@@ -5429,7 +5429,7 @@
         "fd_avg": 546,
         "fd_median": "+560",
         "fd_std_dev": 132.23,
-        "fd_z_score": -1.63,
+        "fd_z_score": -1.56,
         "circa_avg_vig": 662,
         "circa_avg": 536,
         "circa_median": "+550/-750",
@@ -5852,8 +5852,8 @@
         "fd_avg_vig": 1101,
         "fd_avg": 620,
         "fd_median": "+560",
-        "fd_std_dev": 306.83,
-        "fd_z_score": 0
+        "fd_std_dev": 306.8,
+        "fd_z_score": 0.26
     },
     "miguel rojas": {
         "pn_avg_vig": 1579,
@@ -7212,7 +7212,7 @@
         "fd_avg": 911,
         "fd_median": "+800",
         "fd_std_dev": 166.96,
-        "fd_z_score": -0.07
+        "fd_z_score": -0.25
     },
     "daniel schneenann": {
         "circa_avg_vig": 1160,
@@ -8172,7 +8172,7 @@
         "fd_avg": 937,
         "fd_median": "+870",
         "fd_std_dev": 102.14,
-        "fd_z_score": -0.36
+        "fd_z_score": -0.66
     },
     "drew millas": {
         "fd_avg_vig": 1695,
@@ -8306,7 +8306,7 @@
         "fd_avg": 706,
         "fd_median": "+680",
         "fd_std_dev": 52.15,
-        "fd_z_score": -0.12
+        "fd_z_score": 0
     },
     "zack short": {
         "fd_avg_vig": 2243,
