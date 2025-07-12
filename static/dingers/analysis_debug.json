@@ -17858,7 +17858,7 @@
         "fd_avg": 371,
         "fd_median": "+370",
         "fd_std_dev": 78.68,
-        "fd_z_score": -0.52
+        "fd_z_score": -0.65
     },
     "jarred kelenic": {
         "pn": {
@@ -18456,7 +18456,7 @@
         "fd_avg": 652,
         "fd_median": "+680",
         "fd_std_dev": 146.22,
-        "fd_z_score": 0.67
+        "fd_z_score": 0.19
     },
     "ozzie albies": {
         "pn": {
@@ -29479,7 +29479,7 @@
         "fd_avg": 486,
         "fd_median": "+500",
         "fd_std_dev": 106.92,
-        "fd_z_score": -0.34
+        "fd_z_score": -0.43
     },
     "jordan walker": {
         "circa": {
@@ -38437,7 +38437,7 @@
         "fd_avg": 1091,
         "fd_median": "+1300",
         "fd_std_dev": 337.04,
-        "fd_z_score": -0.27,
+        "fd_z_score": -0.09,
         "pn": {
             "2025-04-16": "749/-1677",
             "2025-04-17": "814/-1937",
@@ -44270,7 +44270,7 @@
         "fd_avg": 407,
         "fd_median": "+420",
         "fd_std_dev": 92.43,
-        "fd_z_score": 0.79,
+        "fd_z_score": 0.68,
         "circa": {
             "2025-04-04": "+335/-410",
             "2025-04-08": "+520/-700",
