@@ -174,55 +174,53 @@
         "ronald acuna": {
             "fd": "+350"
         },
-        "nolan gorman": {
-            "fd": "+520"
-        },
         "sean murphy": {
             "fd": "+460"
         },
-        "alec burleson": {
-            "fd": "+560"
+        "marcell ozuna": {
+            "fd": "+500"
+        },
+        "nolan gorman": {
+            "fd": "+520"
         },
         "willson contreras": {
+            "fd": "+560"
+        },
+        "alec burleson": {
             "fd": "+560"
         },
         "lars nootbaar": {
             "fd": "+600"
         },
-        "marcell ozuna": {
-            "fd": "+500"
-        },
         "ozzie albies": {
             "fd": "+600"
         },
-        "": {
+        "jurickson profar": {
             "fd": "+630"
         },
+        "yohel pozo": {
+            "fd": "+750"
+        },
         "brendan donovan": {
+            "fd": "+750"
+        },
+        "michael harris": {
             "fd": "+750"
         },
         "masyn winn": {
             "fd": "+800"
         },
-        "jurickson profar": {
-            "fd": "+630"
-        },
         "thomas saggese": {
             "fd": "+830"
         },
-        "michael harris": {
-            "fd": "+750"
+        "nacho alvarez": {
+            "fd": "+900"
         },
         "victor scott": {
             "fd": "+1060"
         },
         "nick allen": {
             "fd": "+1300"
-        }
-    },
-    "atl-gm2 @ stl-gm2": {
-        "": {
-            "fd": "+870"
         }
     },
     "lad @ sf": {
@@ -347,11 +345,11 @@
         "brandon nimmo": {
             "fd": "+450"
         },
-        "bobby witt": {
-            "fd": "+470"
-        },
         "francisco lindor": {
             "fd": "+460"
+        },
+        "bobby witt": {
+            "fd": "+470"
         },
         "salvador perez": {
             "fd": "+480"
@@ -397,20 +395,20 @@
         "wilyer abreu": {
             "fd": "+520"
         },
+        "yandy diaz": {
+            "fd": "+600"
+        },
+        "trevor story": {
+            "fd": "+600"
+        },
         "junior caminero": {
             "fd": "+600"
         },
         "jarren duran": {
             "fd": "+600"
         },
-        "yandy diaz": {
-            "fd": "+600"
-        },
         "ceddanne rafaela": {
             "fd": "+630"
-        },
-        "trevor story": {
-            "fd": "+600"
         },
         "christopher morel": {
             "fd": "+680"
@@ -442,10 +440,10 @@
         "jose caballero": {
             "fd": "+1100"
         },
-        "taylor walls": {
+        "jake mangum": {
             "fd": "+1200"
         },
-        "jake mangum": {
+        "taylor walls": {
             "fd": "+1200"
         }
     },
