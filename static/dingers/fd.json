@@ -113,16 +113,16 @@
     },
     "pit @ min": {
         "byron buxton": {
-            "fd": "+280"
+            "fd": "+285"
         },
         "oneil cruz": {
-            "fd": "+310"
+            "fd": "+320"
         },
         "matt wallner": {
             "fd": "+420"
         },
         "kody clemens": {
-            "fd": "+400"
+            "fd": "+390"
         },
         "andrew mccutchen": {
             "fd": "+480"
@@ -134,13 +134,13 @@
             "fd": "+500"
         },
         "ryan jeffers": {
-            "fd": "+600"
-        },
-        "trevor larnach": {
             "fd": "+630"
         },
+        "trevor larnach": {
+            "fd": "+560"
+        },
         "royce lewis": {
-            "fd": "+600"
+            "fd": "+630"
         },
         "spencer horwitz": {
             "fd": "+600"
@@ -152,7 +152,7 @@
             "fd": "+680"
         },
         "willi castro": {
-            "fd": "+800"
+            "fd": "+750"
         },
         "tommy pham": {
             "fd": "+800"
