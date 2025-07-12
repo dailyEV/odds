@@ -1,7 +1,7 @@
 {
     "chc @ nyy": {
         "aaron judge": {
-            "cz": "170"
+            "cz": "163"
         },
         "giancarlo stanton": {
             "cz": "230"
@@ -112,14 +112,14 @@
         "cal raleigh": {
             "cz": "225"
         },
-        "spencer torkelson": {
-            "cz": "400"
-        },
         "riley greene": {
             "cz": "400"
         },
         "randy arozarena": {
             "cz": "400"
+        },
+        "spencer torkelson": {
+            "cz": "450"
         },
         "colt keith": {
             "cz": "450"
@@ -148,14 +148,14 @@
         "zach mckinstry": {
             "cz": "550"
         },
-        "matt vierling": {
-            "cz": "600"
-        },
         "gleyber torres": {
             "cz": "600"
         },
         "jp crawford": {
             "cz": "600"
+        },
+        "matt vierling": {
+            "cz": "650"
         },
         "cole young": {
             "cz": "750"
@@ -349,7 +349,7 @@
             "cz": "500"
         },
         "michael harris": {
-            "cz": "550"
+            "cz": "500"
         },
         "nick allen": {
             "cz": "800"
@@ -475,7 +475,7 @@
             "cz": "350"
         },
         "andrew vaughn": {
-            "cz": "350"
+            "cz": "360"
         },
         "cj abrams": {
             "cz": "400"
@@ -764,7 +764,7 @@
             "cz": "350"
         },
         "bo bichette": {
-            "cz": "350"
+            "cz": "360"
         },
         "davis schneider": {
             "cz": "360"
