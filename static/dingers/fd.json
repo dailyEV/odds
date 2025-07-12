@@ -505,13 +505,13 @@
     },
     "tex @ hou": {
         "corey seager": {
-            "fd": "+440"
+            "fd": "+450"
         },
         "christian walker": {
-            "fd": "+560"
+            "fd": "+600"
         },
         "jake burger": {
-            "fd": "+560"
+            "fd": "+600"
         },
         "victor caratini": {
             "fd": "+560"
@@ -529,10 +529,10 @@
             "fd": "+680"
         },
         "adolis garcia": {
-            "fd": "+750"
+            "fd": "+800"
         },
         "cam smith": {
-            "fd": "+830"
+            "fd": "+870"
         },
         "marcus semien": {
             "fd": "+870"
@@ -556,7 +556,7 @@
             "fd": "+1200"
         },
         "sam haggerty": {
-            "fd": "+1300"
+            "fd": "+1400"
         }
     },
     "phi @ sd": {
