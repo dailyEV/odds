@@ -3018,9 +3018,9 @@
         "circa_std_dev": 155.81,
         "circa_z_score": -0.64,
         "fd_avg_vig": 898,
-        "fd_avg": 551,
+        "fd_avg": 552,
         "fd_median": "+540",
-        "fd_std_dev": 289.62,
+        "fd_std_dev": 289.51,
         "fd_z_score": -0.66
     },
     "sal frelick": {
@@ -3121,16 +3121,16 @@
         "circa_median": "+1400/-3000",
         "circa_std_dev": 317.48,
         "circa_z_score": 0,
-        "fd_avg_vig": 4452,
-        "fd_avg": 1109,
+        "fd_avg_vig": 4423,
+        "fd_avg": 1108,
         "fd_median": "+1500",
-        "fd_std_dev": 318.0,
-        "fd_z_score": -0.66,
+        "fd_std_dev": 318.95,
+        "fd_z_score": -0.65,
         "pn_avg_vig": 1786,
         "pn_avg": 897,
         "pn_median": "897/-2295",
         "pn_std_dev": 0,
-        "pn_z_score": -0.66
+        "pn_z_score": -0.65
     },
     "oliver dunn": {
         "fd_avg_vig": 3105,
