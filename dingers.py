@@ -2447,7 +2447,7 @@ def writeEV(date, dinger, parx=False, silent=False):
 				if "++" in over or not over:
 					continue
 
-				if book not in ["pn", "circa", "365"]:
+				if book not in ["pn", "circa"]:
 					highest = max(highest, int(over))
 					if highest == int(over):
 						evBook = book
