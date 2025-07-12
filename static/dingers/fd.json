@@ -4,7 +4,7 @@
             "fd": "+285"
         },
         "oneil cruz": {
-            "fd": "+300"
+            "fd": "+290"
         },
         "matt wallner": {
             "fd": "+400"
@@ -16,13 +16,13 @@
             "fd": "+480"
         },
         "andrew mccutchen": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "spencer horwitz": {
-            "fd": "+500"
+            "fd": "+480"
         },
         "brooks lee": {
-            "fd": "+500"
+            "fd": "+480"
         },
         "trevor larnach": {
             "fd": "+520"
@@ -40,19 +40,19 @@
             "fd": "+630"
         },
         "nick gonzales": {
-            "fd": "+700"
+            "fd": "+680"
         },
         "joey bart": {
-            "fd": "+800"
+            "fd": "+750"
         },
         "kebryan hayes": {
-            "fd": "+870"
+            "fd": "+830"
         },
         "ty france": {
             "fd": "+900"
         },
         "isiah kiner falefa": {
-            "fd": "+1400"
+            "fd": "+1300"
         }
     },
     "atl @ stl": {
@@ -225,7 +225,7 @@
     },
     "nym @ kc": {
         "pete alonso": {
-            "fd": "+300"
+            "fd": "+320"
         },
         "juan soto": {
             "fd": "+340"
@@ -234,16 +234,16 @@
             "fd": "+450"
         },
         "bobby witt": {
-            "fd": "+450"
+            "fd": "+470"
         },
         "salvador perez": {
             "fd": "+470"
         },
         "francisco lindor": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "vinnie pasquantino": {
-            "fd": "+480"
+            "fd": "+500"
         },
         "jac caglianone": {
             "fd": "+520"
@@ -255,7 +255,7 @@
             "fd": "+750"
         },
         "jonathan india": {
-            "fd": "+830"
+            "fd": "+870"
         },
         "jeff mcneil": {
             "fd": "+870"
@@ -273,10 +273,10 @@
             "fd": "+1000"
         },
         "kyle isbel": {
-            "fd": "+1000"
+            "fd": "+1060"
         },
         "luis torrens": {
-            "fd": "+1000"
+            "fd": "+900"
         }
     },
     "tb @ bos": {
