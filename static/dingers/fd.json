@@ -4,13 +4,13 @@
             "fd": "+176"
         },
         "giancarlo stanton": {
-            "fd": "+250"
+            "fd": "+255"
         },
         "kyle tucker": {
             "fd": "+360"
         },
         "jazz chisholm": {
-            "fd": "+400"
+            "fd": "+390"
         },
         "seiya suzuki": {
             "fd": "+420"
@@ -25,22 +25,22 @@
             "fd": "+470"
         },
         "michael busch": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "austin wells": {
-            "fd": "+480"
+            "fd": "+500"
         },
         "cody bellinger": {
             "fd": "+520"
         },
         "anthony volpe": {
-            "fd": "+600"
+            "fd": "+630"
         },
         "ian happ": {
             "fd": "+600"
         },
         "dansby swanson": {
-            "fd": "+630"
+            "fd": "+680"
         },
         "carson kelly": {
             "fd": "+680"
@@ -49,15 +49,15 @@
             "fd": "+830"
         },
         "jon berti": {
-            "fd": "+1060"
+            "fd": "+1000"
         },
         "nico hoerner": {
-            "fd": "+1400"
+            "fd": "+1300"
         }
     },
     "sea @ det": {
         "cal raleigh": {
-            "fd": "+250"
+            "fd": "+255"
         },
         "riley greene": {
             "fd": "+420"
@@ -66,7 +66,7 @@
             "fd": "+450"
         },
         "dominic canzone": {
-            "fd": "+540"
+            "fd": "+520"
         },
         "randy arozarena": {
             "fd": "+560"
@@ -81,7 +81,7 @@
             "fd": "+630"
         },
         "wenceel perez": {
-            "fd": "+680"
+            "fd": "+700"
         },
         "colt keith": {
             "fd": "+750"
@@ -96,16 +96,16 @@
             "fd": "+800"
         },
         "matt vierling": {
-            "fd": "+800"
+            "fd": "+830"
         },
         "zach mckinstry": {
             "fd": "+900"
         },
         "jp crawford": {
-            "fd": "+900"
+            "fd": "+1000"
         },
         "cole young": {
-            "fd": "+1100"
+            "fd": "+1060"
         },
         "ben williamson": {
             "fd": "+1100"
