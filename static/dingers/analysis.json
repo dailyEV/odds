@@ -599,7 +599,7 @@
         "fd_avg": 430,
         "fd_median": "+440",
         "fd_std_dev": 140.86,
-        "fd_z_score": -1.06
+        "fd_z_score": -1.03
     },
     "randy arozarena": {
         "pn_avg_vig": 618,
@@ -783,7 +783,7 @@
         "fd_avg": 469,
         "fd_median": "+460",
         "fd_std_dev": 125.65,
-        "fd_z_score": -1.35,
+        "fd_z_score": -1.27,
         "circa_avg_vig": 522,
         "circa_avg": 439,
         "circa_median": "+500/-670",
@@ -4119,7 +4119,7 @@
         "fd_avg": 428,
         "fd_median": "+430",
         "fd_std_dev": 181.34,
-        "fd_z_score": -0.98,
+        "fd_z_score": -0.95,
         "pn_avg_vig": 521,
         "pn_avg": 379,
         "pn_median": "385/-633",
@@ -4170,7 +4170,7 @@
         "fd_avg": 597,
         "fd_median": "+560",
         "fd_std_dev": 266.42,
-        "fd_z_score": -1.0,
+        "fd_z_score": -0.96,
         "pn_avg_vig": 759,
         "pn_avg": 506,
         "pn_median": "503/-886",
@@ -4361,7 +4361,7 @@
         "fd_avg": 508,
         "fd_median": "+500",
         "fd_std_dev": 132.07,
-        "fd_z_score": -0.82,
+        "fd_z_score": -0.67,
         "circa_avg_vig": 599,
         "circa_avg": 496,
         "circa_median": "+520/-700",
@@ -5570,7 +5570,7 @@
         "fd_avg": 628,
         "fd_median": "+600",
         "fd_std_dev": 150.15,
-        "fd_z_score": -1.19,
+        "fd_z_score": -1.05,
         "pn_avg_vig": 1001,
         "pn_avg": 624,
         "pn_median": "581/-1110",
@@ -5745,7 +5745,7 @@
         "fd_avg": 571,
         "fd_median": "+550",
         "fd_std_dev": 237.62,
-        "fd_z_score": -0.43,
+        "fd_z_score": -0.38,
         "pn_avg_vig": 765,
         "pn_avg": 502,
         "pn_median": "515/-916",
@@ -5867,7 +5867,7 @@
         "fd_avg": 598,
         "fd_median": "+560",
         "fd_std_dev": 218.46,
-        "fd_z_score": -0.17,
+        "fd_z_score": 0.01,
         "circa_avg_vig": 744,
         "circa_avg": 584,
         "circa_median": "+575/-800",
@@ -6953,7 +6953,7 @@
         "fd_avg": 475,
         "fd_median": "+450",
         "fd_std_dev": 149.99,
-        "fd_z_score": -0.97
+        "fd_z_score": -0.83
     },
     "matthew lugo": {
         "fd_avg_vig": 1984,
@@ -7694,7 +7694,7 @@
         "fd_avg": 799,
         "fd_median": "+750",
         "fd_std_dev": 234.02,
-        "fd_z_score": -0.21
+        "fd_z_score": 0.0
     },
     "kyle teel": {
         "fd_avg_vig": 1409,
