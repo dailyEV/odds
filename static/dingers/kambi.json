@@ -1,66 +1,37 @@
 {
-    "tb @ bos": {
-        "junior caminero": {
-            "kambi": "1200/-5000"
-        },
-        "trevor story": {
-            "kambi": "1400/-5000"
-        },
-        "jarren duran": {
-            "kambi": "1500/-10000"
-        },
-        "abraham toro": {
-            "kambi": "1600/-10000"
-        },
-        "wilyer abreu": {
-            "kambi": "900/-2000"
-        },
-        "alex bregman": {
-            "kambi": "1200/-5000"
-        },
-        "ceddanne rafaela": {
-            "kambi": "1600/-10000"
-        },
-        "marcelo mayer": {
-            "kambi": "1400/-5000"
-        }
-    },
     "tex @ hou": {
         "jonah heim": {
-            "kambi": "1200/-3335"
-        },
-        "josh smith": {
             "kambi": "1300/-5000"
         },
-        "jose altuve": {
-            "kambi": "800/-1667"
-        },
-        "isaac paredes": {
-            "kambi": "700/-1250"
-        },
-        "cam smith": {
-            "kambi": "800/-1667"
-        },
-        "evan carter": {
+        "josh smith": {
             "kambi": "1400/-5000"
         },
-        "victor caratini": {
-            "kambi": "800/-1430"
+        "jose altuve": {
+            "kambi": "1150/-3335"
+        },
+        "isaac paredes": {
+            "kambi": "900/-2000"
+        },
+        "cam smith": {
+            "kambi": "1050/-2500"
+        },
+        "evan carter": {
+            "kambi": "1400/-10000"
         },
         "wyatt langford": {
-            "kambi": "950/-2000"
+            "kambi": "700/-1250"
         },
         "christian walker": {
-            "kambi": "475/-715"
+            "kambi": "700/-1250"
         },
         "yainer diaz": {
-            "kambi": "800/-1667"
+            "kambi": "900/-2000"
         },
         "corey seager": {
-            "kambi": "600/-1000"
+            "kambi": "700/-1250"
         },
         "marcus semien": {
-            "kambi": "900/-2000"
+            "kambi": "1000/-2500"
         },
         "mauricio dubon": {
             "kambi": "1150/-3335"
@@ -69,260 +40,227 @@
             "kambi": "750/-1430"
         },
         "kyle higashioka": {
-            "kambi": "800/-1430"
+            "kambi": "950/-2500"
         },
         "jake burger": {
-            "kambi": "480/-715"
+            "kambi": "475/-715"
         }
     },
     "wsh @ mil": {
-        "sal frelick": {
-            "kambi": "1200/-3335"
-        },
         "jackson chourio": {
-            "kambi": "900/-2000"
-        },
-        "cj abrams": {
-            "kambi": "1100/-3335"
+            "kambi": "1400/-10000"
         },
         "luis garcia": {
             "kambi": "1500/-10000"
         },
         "andrew vaughn": {
-            "kambi": "750/-1430"
-        },
-        "josh bell": {
-            "kambi": "1150/-3335"
-        },
-        "brady house": {
             "kambi": "1300/-5000"
         },
-        "isaac collins": {
-            "kambi": "1050/-2500"
+        "josh bell": {
+            "kambi": "1100/-3335"
         },
         "nathaniel lowe": {
             "kambi": "1300/-5000"
         },
         "james wood": {
-            "kambi": "900/-2000"
-        },
-        "caleb durbin": {
-            "kambi": "900/-2000"
-        },
-        "william contreras": {
-            "kambi": "850/-2000"
-        },
-        "daylen lile": {
-            "kambi": "1300/-5000"
-        },
-        "riley adams": {
-            "kambi": "1400/-5000"
-        },
-        "alex call": {
             "kambi": "1600/-10000"
         },
-        "brice turang": {
+        "caleb durbin": {
+            "kambi": "1400/-5000"
+        },
+        "william contreras": {
+            "kambi": "1200/-5000"
+        },
+        "alex call": {
             "kambi": "1500/-10000"
         },
         "joey ortiz": {
-            "kambi": "850/-1667"
+            "kambi": "1200/-3335"
         }
     },
     "atl @ stl": {
         "ozzie albies": {
-            "kambi": "850/-1667"
+            "kambi": "1050/-2500"
         },
         "masyn winn": {
-            "kambi": "1150/-3335"
+            "kambi": "950/-2500"
         },
         "ronald acuna": {
-            "kambi": "650/-1115"
-        },
-        "willson contreras": {
             "kambi": "600/-1000"
         },
+        "willson contreras": {
+            "kambi": "650/-1250"
+        },
         "austin riley": {
-            "kambi": "525/-835"
+            "kambi": "460/-715"
         },
         "nolan arenado": {
-            "kambi": "750/-1430"
+            "kambi": "850/-2000"
         },
         "brendan donovan": {
-            "kambi": "900/-2000"
+            "kambi": "800/-1667"
         },
         "alec burleson": {
-            "kambi": "510/-835"
+            "kambi": "600/-1000"
         },
         "lars nootbaar": {
-            "kambi": "575/-1000"
+            "kambi": "650/-1250"
         },
         "nolan gorman": {
-            "kambi": "550/-910"
+            "kambi": "650/-1115"
         },
         "matt olson": {
-            "kambi": "850/-1667"
-        },
-        "jurickson profar": {
-            "kambi": "900/-2000"
-        },
-        "victor scott": {
-            "kambi": "1300/-5000"
-        },
-        "pedro pages": {
             "kambi": "750/-1430"
         },
+        "jurickson profar": {
+            "kambi": "1100/-3335"
+        },
+        "victor scott": {
+            "kambi": "1500/-10000"
+        },
+        "pedro pages": {
+            "kambi": "850/-2000"
+        },
         "drake baldwin": {
-            "kambi": "1000/-2500"
+            "kambi": "1150/-3335"
         },
         "michael harris": {
-            "kambi": "1150/-3335"
+            "kambi": "1400/-5000"
         }
     },
     "cle @ chw": {
         "daniel schneemann": {
-            "kambi": "700/-1250"
-        },
-        "angel martinez": {
-            "kambi": "1000/-2500"
-        },
-        "steven kwan": {
-            "kambi": "1300/-5000"
-        },
-        "bo naylor": {
-            "kambi": "700/-1250"
-        },
-        "nolan jones": {
-            "kambi": "1000/-2500"
-        },
-        "andrew benintendi": {
             "kambi": "650/-1115"
         },
+        "angel martinez": {
+            "kambi": "1300/-5000"
+        },
+        "steven kwan": {
+            "kambi": "1700/-10000"
+        },
+        "bo naylor": {
+            "kambi": "650/-1115"
+        },
+        "nolan jones": {
+            "kambi": "1200/-5000"
+        },
+        "andrew benintendi": {
+            "kambi": "800/-1430"
+        },
         "miguel vargas": {
-            "kambi": "800/-1667"
+            "kambi": "1100/-3335"
         },
         "mike tauchman": {
-            "kambi": "750/-1430"
+            "kambi": "1050/-2500"
         },
         "kyle teel": {
-            "kambi": "900/-2000"
-        },
-        "jose ramirez": {
-            "kambi": "420/-625"
+            "kambi": "850/-1667"
         },
         "brayan rocchio": {
-            "kambi": "1150/-3335"
+            "kambi": "1300/-5000"
         },
         "kyle manzardo": {
-            "kambi": "500/-770"
+            "kambi": "650/-1115"
         },
         "will wilson": {
-            "kambi": "1150/-3335"
+            "kambi": "1050/-3335"
         }
     },
     "pit @ min": {
         "andrew mccutchen": {
-            "kambi": "850/-2000"
+            "kambi": "1050/-3335"
         },
         "bryan reynolds": {
-            "kambi": "750/-1430"
+            "kambi": "900/-2000"
         },
         "spencer horwitz": {
-            "kambi": "1000/-2500"
+            "kambi": "1300/-5000"
         },
         "oneil cruz": {
-            "kambi": "460/-670"
-        },
-        "kebryan hayes": {
-            "kambi": "1400/-5000"
+            "kambi": "550/-910"
         },
         "nick gonzales": {
-            "kambi": "1100/-3335"
+            "kambi": "1400/-10000"
         },
         "willi castro": {
-            "kambi": "950/-2500"
+            "kambi": "1100/-3335"
         },
         "trevor larnach": {
-            "kambi": "800/-1667"
+            "kambi": "900/-2000"
         },
         "matt wallner": {
-            "kambi": "510/-770"
+            "kambi": "850/-1667"
         },
         "carlos correa": {
-            "kambi": "800/-1667"
-        },
-        "brooks lee": {
-            "kambi": "650/-1250"
-        },
-        "royce lewis": {
-            "kambi": "525/-835"
-        },
-        "tommy pham": {
-            "kambi": "1200/-3335"
-        },
-        "henry davis": {
             "kambi": "950/-2000"
         },
-        "isiah kiner falefa": {
-            "kambi": "1600/-10000"
+        "brooks lee": {
+            "kambi": "1000/-2500"
+        },
+        "royce lewis": {
+            "kambi": "850/-2000"
+        },
+        "tommy pham": {
+            "kambi": "1500/-10000"
+        },
+        "henry davis": {
+            "kambi": "1100/-3335"
         },
         "byron buxton": {
-            "kambi": "525/-835"
-        },
-        "christian vazquez": {
-            "kambi": "1050/-2500"
+            "kambi": "700/-1250"
         },
         "kody clemens": {
-            "kambi": "500/-770"
+            "kambi": "850/-2000"
         }
     },
     "nym @ kc": {
         "bobby witt": {
-            "kambi": "450/-715"
+            "kambi": "440/-670"
         },
         "vinnie pasquantino": {
-            "kambi": "600/-1250"
+            "kambi": "650/-1115"
         },
         "ronny mauricio": {
-            "kambi": "650/-1250"
+            "kambi": "650/-1115"
         },
         "brandon nimmo": {
-            "kambi": "510/-835"
+            "kambi": "650/-1115"
         },
         "francisco lindor": {
-            "kambi": "510/-835"
+            "kambi": "650/-1115"
         },
         "jeff mcneil": {
-            "kambi": "800/-2000"
+            "kambi": "800/-1667"
         },
         "jac caglianone": {
-            "kambi": "700/-1430"
+            "kambi": "700/-1250"
         },
         "nick loftin": {
-            "kambi": "950/-3335"
+            "kambi": "1050/-2500"
         },
         "pete alonso": {
-            "kambi": "420/-670"
+            "kambi": "420/-625"
         },
         "mark vientos": {
-            "kambi": "600/-1115"
+            "kambi": "600/-1000"
         },
         "salvador perez": {
-            "kambi": "480/-770"
+            "kambi": "460/-670"
         },
         "jonathan india": {
-            "kambi": "650/-1250"
+            "kambi": "650/-1115"
         },
         "maikel garcia": {
-            "kambi": "1050/-3335"
+            "kambi": "950/-2500"
         },
         "juan soto": {
-            "kambi": "380/-560"
+            "kambi": "350/-500"
         },
         "john rave": {
-            "kambi": "1150/-5000"
+            "kambi": "1000/-2500"
         },
         "kyle isbel": {
-            "kambi": "950/-3335"
+            "kambi": "1050/-2500"
         },
         "luis torrens": {
             "kambi": "850/-2000"
