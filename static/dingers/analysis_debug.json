@@ -12278,7 +12278,7 @@
         "fd_avg": 611,
         "fd_median": "+600",
         "fd_std_dev": 144.77,
-        "fd_z_score": 0
+        "fd_z_score": -0.08
     },
     "yandy diaz": {
         "pn": {
@@ -12494,7 +12494,7 @@
         "fd_avg": 551,
         "fd_median": "+540",
         "fd_std_dev": 140.54,
-        "fd_z_score": 0
+        "fd_z_score": 0.35
     },
     "wilyer abreu": {
         "pn": {
@@ -12990,7 +12990,7 @@
         "fd_avg": 470,
         "fd_median": "+470",
         "fd_std_dev": 106.69,
-        "fd_z_score": 0
+        "fd_z_score": -0.47
     },
     "jarren duran": {
         "pn": {
@@ -13420,7 +13420,7 @@
         "fd_avg": 439,
         "fd_median": "+450",
         "fd_std_dev": 117.31,
-        "fd_z_score": 0
+        "fd_z_score": 1.03
     },
     "rafael devers": {
         "pn": {
@@ -13891,7 +13891,7 @@
         "fd_avg": 487,
         "fd_median": "+500",
         "fd_std_dev": 113.67,
-        "fd_z_score": 0
+        "fd_z_score": 1.26
     },
     "jake mangum": {
         "fd": {
@@ -51380,7 +51380,7 @@
         "fd_avg": 752,
         "fd_median": "+750",
         "fd_std_dev": 149.08,
-        "fd_z_score": 0,
+        "fd_z_score": -0.48,
         "pn": {
             "2025-06-23": "565/-1142",
             "2025-07-01": "589/-1228"
