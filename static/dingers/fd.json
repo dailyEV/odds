@@ -12,11 +12,11 @@
         "jazz chisholm": {
             "fd": "+400"
         },
-        "seiya suzuki": {
-            "fd": "+430"
-        },
         "trent grisham": {
             "fd": "+420"
+        },
+        "seiya suzuki": {
+            "fd": "+430"
         },
         "pete crow armstrong": {
             "fd": "+440"
@@ -39,11 +39,11 @@
         "anthony volpe": {
             "fd": "+630"
         },
-        "dansby swanson": {
-            "fd": "+680"
-        },
         "carson kelly": {
             "fd": "+630"
+        },
+        "dansby swanson": {
+            "fd": "+680"
         },
         "oswald peraza": {
             "fd": "+830"
@@ -177,29 +177,26 @@
         "nolan gorman": {
             "fd": "+460"
         },
-        "alec burleson": {
-            "fd": "+470"
-        },
-        "": {
-            "fd": "+450"
-        },
-        "willson contreras": {
-            "fd": "+480"
-        },
         "lars nootbaar": {
             "fd": "+470"
         },
         "marcell ozuna": {
             "fd": "+470"
         },
+        "alec burleson": {
+            "fd": "+470"
+        },
+        "willson contreras": {
+            "fd": "+480"
+        },
+        "ozzie albies": {
+            "fd": "+600"
+        },
         "pedro pages": {
             "fd": "+600"
         },
         "brendan donovan": {
             "fd": "+630"
-        },
-        "ozzie albies": {
-            "fd": "+600"
         },
         "nolan arenado": {
             "fd": "+630"
@@ -213,8 +210,14 @@
         "michael harris": {
             "fd": "+700"
         },
+        "drake baldwin": {
+            "fd": "+750"
+        },
         "victor scott": {
             "fd": "+1000"
+        },
+        "luke williams": {
+            "fd": "+1100"
         },
         "nick allen": {
             "fd": "+1200"
@@ -528,11 +531,14 @@
         "nathaniel lowe": {
             "fd": "+600"
         },
-        "andruw monasterio": {
-            "fd": "+830"
-        },
         "isaac collins": {
             "fd": "+750"
+        },
+        "sal frelick": {
+            "fd": "+830"
+        },
+        "andruw monasterio": {
+            "fd": "+830"
         },
         "joey ortiz": {
             "fd": "+830"
@@ -541,9 +547,6 @@
             "fd": "+830"
         },
         "daylen lile": {
-            "fd": "+830"
-        },
-        "sal frelick": {
             "fd": "+830"
         },
         "riley adams": {
@@ -616,10 +619,10 @@
         "corey seager": {
             "fd": "+430"
         },
-        "jake burger": {
+        "christian walker": {
             "fd": "+560"
         },
-        "christian walker": {
+        "jake burger": {
             "fd": "+560"
         },
         "victor caratini": {
@@ -649,16 +652,16 @@
         "taylor trammell": {
             "fd": "+870"
         },
-        "brice matthews": {
-            "fd": "+870"
-        },
         "jonah heim": {
             "fd": "+900"
         },
-        "michael helman": {
-            "fd": "+1200"
+        "brice matthews": {
+            "fd": "+870"
         },
         "mauricio dubon": {
+            "fd": "+1200"
+        },
+        "michael helman": {
             "fd": "+1200"
         },
         "ezequiel duran": {
@@ -817,20 +820,20 @@
         "zack gelof": {
             "fd": "+560"
         },
-        "ernie clement": {
-            "fd": "+700"
-        },
         "jacob wilson": {
             "fd": "+680"
+        },
+        "ernie clement": {
+            "fd": "+700"
         },
         "joey loperfido": {
             "fd": "+750"
         },
-        "leo jimenez": {
-            "fd": "+900"
-        },
         "denzel clarke": {
             "fd": "+870"
+        },
+        "leo jimenez": {
+            "fd": "+900"
         },
         "myles straw": {
             "fd": "+1200"
