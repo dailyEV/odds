@@ -212,7 +212,7 @@
         "fd_avg": 413,
         "fd_median": "+420",
         "fd_std_dev": 100.6,
-        "fd_z_score": -0.73
+        "fd_z_score": 0
     },
     "luis garcia": {
         "pn": {
@@ -435,7 +435,7 @@
         "fd_avg": 924,
         "fd_median": "+630",
         "fd_std_dev": 152.62,
-        "fd_z_score": -0.81
+        "fd_z_score": 0
     },
     "nathaniel lowe": {
         "pn": {
@@ -942,7 +942,7 @@
         "fd_avg": 1497,
         "fd_median": "+1500",
         "fd_std_dev": 516.19,
-        "fd_z_score": -0.19
+        "fd_z_score": 0
     },
     "keibert ruiz": {
         "pn": {
@@ -1446,7 +1446,7 @@
         "fd_avg": 644,
         "fd_median": "+630",
         "fd_std_dev": 275.77,
-        "fd_z_score": -0.52
+        "fd_z_score": 0
     },
     "kebryan hayes": {
         "circa": {
@@ -1572,7 +1572,7 @@
         "fd_avg": 1021,
         "fd_median": "+1100",
         "fd_std_dev": 170.11,
-        "fd_z_score": -0.89
+        "fd_z_score": 0
     },
     "henry davis": {
         "pn": {
@@ -1639,7 +1639,7 @@
         "fd_avg": 852,
         "fd_median": "+750",
         "fd_std_dev": 375.05,
-        "fd_z_score": -0.46
+        "fd_z_score": 0
     },
     "james wood": {
         "pn": {
@@ -22942,7 +22942,7 @@
         "fd_avg": 348,
         "fd_median": "+350",
         "fd_std_dev": 74.84,
-        "fd_z_score": -0.84
+        "fd_z_score": 0
     },
     "pete alonso": {
         "pn": {
@@ -23538,7 +23538,7 @@
         "fd_avg": 395,
         "fd_median": "+420",
         "fd_std_dev": 97.0,
-        "fd_z_score": 0.26
+        "fd_z_score": 0
     },
     "juan soto": {
         "pn": {
@@ -24179,7 +24179,7 @@
         "fd_avg": 781,
         "fd_median": "+800",
         "fd_std_dev": 127.92,
-        "fd_z_score": 0.93
+        "fd_z_score": 0
     },
     "edouard julien": {
         "pn": {
@@ -24553,7 +24553,7 @@
         "fd_avg": 575,
         "fd_median": "+560",
         "fd_std_dev": 119.83,
-        "fd_z_score": 0.21,
+        "fd_z_score": 0,
         "circa": {
             "2025-04-06": "+600/-850",
             "2025-04-08": "+600/-850",
@@ -24818,7 +24818,7 @@
         "fd_avg": 761,
         "fd_median": "+750",
         "fd_std_dev": 161.28,
-        "fd_z_score": -0.81,
+        "fd_z_score": 0,
         "circa": {
             "2025-06-05": "+575/-800",
             "2025-06-15": "+775/-1200",
@@ -24972,7 +24972,7 @@
         "fd_avg": 581,
         "fd_median": "+560",
         "fd_std_dev": 152.7,
-        "fd_z_score": -0.14,
+        "fd_z_score": 0,
         "circa": {
             "2025-04-06": "+550/-750",
             "2025-04-14": "+800/-1250",
@@ -41678,7 +41678,7 @@
         "fd_avg": 609,
         "fd_median": "+600",
         "fd_std_dev": 209.04,
-        "fd_z_score": -0.43
+        "fd_z_score": 0
     },
     "amed rosario": {
         "pn": {
@@ -42299,7 +42299,7 @@
         "fd_avg": 721,
         "fd_median": "+750",
         "fd_std_dev": 141.39,
-        "fd_z_score": -1.7,
+        "fd_z_score": 0,
         "circa": {
             "2025-05-13": "+850/-1350",
             "2025-05-14": "+850/-1350",
@@ -48441,7 +48441,7 @@
         "fd_avg": 498,
         "fd_median": "+520",
         "fd_std_dev": 106.17,
-        "fd_z_score": -0.92,
+        "fd_z_score": 0,
         "circa": {
             "2025-05-24": "600/-850",
             "2025-05-26": "340/-420",
@@ -49828,7 +49828,7 @@
         "fd_avg": 531,
         "fd_median": "+540",
         "fd_std_dev": 103.4,
-        "fd_z_score": 0.96,
+        "fd_z_score": 0,
         "circa": {
             "2025-05-06": "+490/-650",
             "2025-05-07": "+600/-850",
@@ -51247,7 +51247,7 @@
         "fd_avg": 749,
         "fd_median": "+750",
         "fd_std_dev": 144.43,
-        "fd_z_score": -1.31,
+        "fd_z_score": 0,
         "pn": {
             "2025-06-09": "604/-1283",
             "2025-06-22": "607/-1293",
@@ -52987,7 +52987,7 @@
         "fd_avg": 881,
         "fd_median": "+800",
         "fd_std_dev": 114.73,
-        "fd_z_score": -1.14
+        "fd_z_score": 0
     },
     "jerar encarnacion": {
         "fd": {
