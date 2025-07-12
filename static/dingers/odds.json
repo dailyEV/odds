@@ -298,11 +298,11 @@
         }
     },
     "nym @ kc": {
-        "pete alonso": {
-            "fd": "+340"
-        },
         "juan soto": {
             "fd": "+330"
+        },
+        "pete alonso": {
+            "fd": "+340"
         },
         "brandon nimmo": {
             "fd": "+450"
@@ -340,9 +340,6 @@
         "kyle isbel": {
             "fd": "+900"
         },
-        "john rave": {
-            "fd": "+1000"
-        },
         "jonathan india": {
             "fd": "+900"
         },
@@ -351,6 +348,9 @@
         },
         "tyrone taylor": {
             "fd": "+900"
+        },
+        "john rave": {
+            "fd": "+1000"
         }
     },
     "tb @ bos": {
@@ -480,14 +480,14 @@
         "isaac collins": {
             "fd": "+800"
         },
+        "daylen lile": {
+            "fd": "+830"
+        },
         "joey ortiz": {
             "fd": "+830"
         },
         "brady house": {
             "fd": "+800"
-        },
-        "daylen lile": {
-            "fd": "+830"
         },
         "sal frelick": {
             "fd": "+830"
