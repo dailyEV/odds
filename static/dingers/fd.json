@@ -177,26 +177,26 @@
         "matt chapman": {
             "fd": "+500"
         },
+        "mike yastrzemski": {
+            "fd": "+600"
+        },
         "willy adames": {
+            "fd": "+680"
+        },
+        "andy pages": {
             "fd": "+680"
         },
         "heliot ramos": {
             "fd": "+680"
         },
-        "mike yastrzemski": {
-            "fd": "+600"
-        },
-        "andy pages": {
-            "fd": "+680"
-        },
         "teoscar hernandez": {
             "fd": "+700"
         },
-        "mookie betts": {
-            "fd": "+800"
-        },
         "freddie freeman": {
             "fd": "+750"
+        },
+        "mookie betts": {
+            "fd": "+800"
         },
         "michael conforto": {
             "fd": "+800"
@@ -204,13 +204,16 @@
         "casey schmitt": {
             "fd": "+900"
         },
+        "tommy edman": {
+            "fd": "+1060"
+        },
         "jung hoo lee": {
             "fd": "+1060"
         },
         "dominic smith": {
             "fd": "+1060"
         },
-        "tommy edman": {
+        "dalton rushing": {
             "fd": "+1060"
         },
         "patrick bailey": {
@@ -407,11 +410,11 @@
         "daniel schneemann": {
             "fd": "+470"
         },
-        "lenyn sosa": {
-            "fd": "+520"
-        },
         "andrew benintendi": {
             "fd": "+500"
+        },
+        "lenyn sosa": {
+            "fd": "+520"
         },
         "mike tauchman": {
             "fd": "+600"
@@ -425,19 +428,19 @@
         "colson montgomery": {
             "fd": "+680"
         },
-        "angel martinez": {
-            "fd": "+700"
-        },
         "will robertson": {
             "fd": "+680"
         },
-        "steven kwan": {
+        "angel martinez": {
+            "fd": "+700"
+        },
+        "chase meidroth": {
             "fd": "+750"
         },
         "josh rojas": {
             "fd": "+750"
         },
-        "chase meidroth": {
+        "steven kwan": {
             "fd": "+750"
         },
         "brayan rocchio": {
@@ -711,14 +714,14 @@
         "james mccann": {
             "fd": "+680"
         },
+        "nolan schanuel": {
+            "fd": "+800"
+        },
         "alek thomas": {
             "fd": "+800"
         },
         "geraldo perdomo": {
             "fd": "+830"
-        },
-        "nolan schanuel": {
-            "fd": "+800"
         },
         "luis rengifo": {
             "fd": "+900"

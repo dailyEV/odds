@@ -7036,11 +7036,11 @@
         "pn_z_score": 0
     },
     "dalton rushing": {
-        "fd_avg_vig": 1500,
-        "fd_avg": 747,
+        "fd_avg_vig": 1547,
+        "fd_avg": 757,
         "fd_median": "+650",
-        "fd_std_dev": 362.44,
-        "fd_z_score": 0,
+        "fd_std_dev": 357.22,
+        "fd_z_score": 0.85,
         "pn_avg_vig": 725,
         "pn_avg": 482,
         "pn_median": "526/-1010",
