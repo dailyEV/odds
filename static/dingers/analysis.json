@@ -4328,11 +4328,11 @@
         "fd_z_score": 0
     },
     "jacob stallings": {
-        "fd_avg_vig": 3260,
-        "fd_avg": 1027,
-        "fd_median": "+600",
-        "fd_std_dev": 655.59,
-        "fd_z_score": -0.04,
+        "fd_avg_vig": 3294,
+        "fd_avg": 1031,
+        "fd_median": "+3600",
+        "fd_std_dev": 654.58,
+        "fd_z_score": -0.05,
         "pn_avg_vig": 1397,
         "pn_avg": 771,
         "pn_median": "824/-1975",
@@ -4579,10 +4579,10 @@
         "circa_z_score": 0
     },
     "ryan ohearn": {
-        "fd_avg_vig": 1049,
+        "fd_avg_vig": 1050,
         "fd_avg": 608,
         "fd_median": "+600",
-        "fd_std_dev": 292.28,
+        "fd_std_dev": 292.13,
         "fd_z_score": -0.81,
         "pn_avg_vig": 940,
         "pn_avg": 577,
