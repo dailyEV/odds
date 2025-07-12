@@ -113,10 +113,10 @@
     },
     "pit @ min": {
         "byron buxton": {
-            "fd": "+290"
+            "fd": "+300"
         },
         "oneil cruz": {
-            "fd": "+340"
+            "fd": "+330"
         },
         "kody clemens": {
             "fd": "+400"
@@ -125,7 +125,7 @@
             "fd": "+420"
         },
         "bryan reynolds": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "andrew mccutchen": {
             "fd": "+520"
@@ -134,16 +134,16 @@
             "fd": "+500"
         },
         "trevor larnach": {
-            "fd": "+560"
+            "fd": "+520"
         },
         "spencer horwitz": {
             "fd": "+600"
         },
         "ryan jeffers": {
-            "fd": "+630"
+            "fd": "+600"
         },
         "willi castro": {
-            "fd": "+630"
+            "fd": "+680"
         },
         "royce lewis": {
             "fd": "+600"
@@ -152,10 +152,10 @@
             "fd": "+680"
         },
         "nick gonzales": {
-            "fd": "+680"
+            "fd": "+700"
         },
         "tommy pham": {
-            "fd": "+830"
+            "fd": "+800"
         },
         "kebryan hayes": {
             "fd": "+870"
@@ -164,7 +164,7 @@
             "fd": "+900"
         },
         "isiah kiner falefa": {
-            "fd": "+1400"
+            "fd": "+1300"
         }
     },
     "atl @ stl": {
