@@ -11873,7 +11873,7 @@
         "playerFactor": ".73",
         "playerFactorColor": "rgb(255, 170, 165)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -12595,7 +12595,7 @@
         "playerFactor": ".80",
         "playerFactorColor": "rgb(255, 199, 195)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -13923,7 +13923,7 @@
         "playerFactor": ".78",
         "playerFactorColor": "rgb(255, 199, 195)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -14592,7 +14592,7 @@
         "playerFactor": ".77",
         "playerFactorColor": "rgb(255, 199, 195)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -17161,7 +17161,7 @@
         "playerFactor": ".64",
         "playerFactorColor": "rgb(255, 141, 137)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -19230,7 +19230,7 @@
         "playerFactor": ".91",
         "playerFactorColor": "rgb(255, 227, 224)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -19745,7 +19745,7 @@
         "playerFactor": ".60",
         "playerFactorColor": "rgb(255, 141, 137)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -20308,7 +20308,7 @@
         "playerFactor": ".49",
         "playerFactorColor": "rgb(250, 110, 110)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -21395,7 +21395,7 @@
         "playerFactor": ".63",
         "playerFactorColor": "rgb(255, 141, 137)",
         "roof": false,
-        "pitcher": "shohei ohtani (R)",
+        "pitcher": "shohei ohtani (L)",
         "game": "lad @ sf",
         "team": "sf",
         "weather": {
@@ -31574,7 +31574,7 @@
         "playerFactor": "1.05",
         "playerFactorColor": "rgb(225, 244, 222)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -32120,7 +32120,7 @@
         "playerFactor": "1.16",
         "playerFactorColor": "rgb(194, 233, 189)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -32716,7 +32716,7 @@
         "playerFactor": "1.11",
         "playerFactorColor": "rgb(225, 244, 222)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -33263,7 +33263,7 @@
         "playerFactor": ".98",
         "playerFactorColor": "rgb(255, 255, 255)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -33891,7 +33891,7 @@
         "playerFactor": "1.18",
         "playerFactorColor": "rgb(194, 233, 189)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -34423,7 +34423,7 @@
         "playerFactor": "1.15",
         "playerFactorColor": "rgb(225, 244, 222)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -35017,7 +35017,7 @@
         "playerFactor": "1.21",
         "playerFactorColor": "rgb(194, 233, 189)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -35630,7 +35630,7 @@
         "playerFactor": ".99",
         "playerFactorColor": "rgb(255, 255, 255)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -36237,7 +36237,7 @@
         "playerFactor": "1.00",
         "playerFactorColor": "rgb(255, 255, 255)",
         "roof": false,
-        "pitcher": "janson junk (R)",
+        "pitcher": "janson junk ()",
         "game": "mia @ bal",
         "team": "bal",
         "weather": {
@@ -36756,7 +36756,7 @@
         "playerFactor": "1.32",
         "playerFactorColor": "rgb(162, 222, 157)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -37278,7 +37278,7 @@
         "playerFactor": "1.20",
         "playerFactorColor": "rgb(194, 233, 189)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -37825,7 +37825,7 @@
         "playerFactor": "1.44",
         "playerFactorColor": "rgb(128, 210, 125)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -38363,7 +38363,7 @@
         "playerFactor": "1.31",
         "playerFactorColor": "rgb(162, 222, 157)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -38929,7 +38929,7 @@
         "playerFactor": "1.53",
         "playerFactorColor": "rgb(90, 198, 93)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -39446,7 +39446,7 @@
         "playerFactor": "1.34",
         "playerFactorColor": "rgb(162, 222, 157)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -39941,7 +39941,7 @@
         "playerFactor": "1.50",
         "playerFactorColor": "rgb(90, 198, 93)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -40457,7 +40457,7 @@
         "playerFactor": "1.29",
         "playerFactorColor": "rgb(162, 222, 157)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
@@ -41005,7 +41005,7 @@
         "playerFactor": "1.48",
         "playerFactorColor": "rgb(90, 198, 93)",
         "roof": false,
-        "pitcher": "bradley blalock (R)",
+        "pitcher": "bradley blalock ()",
         "game": "col @ cin",
         "team": "cin",
         "weather": {
