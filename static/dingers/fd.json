@@ -57,13 +57,13 @@
     },
     "sea @ det": {
         "": {
-            "fd": "+250"
+            "fd": "+255"
         },
         "riley greene": {
             "fd": "+420"
         },
         "spencer torkelson": {
-            "fd": "+470"
+            "fd": "+460"
         },
         "colt keith": {
             "fd": "+750"
@@ -72,19 +72,19 @@
             "fd": "+750"
         },
         "wenceel perez": {
-            "fd": "+750"
+            "fd": "+680"
         },
         "jake rogers": {
             "fd": "+800"
         },
         "trey sweeney": {
-            "fd": "+800"
+            "fd": "+830"
         },
         "zach mckinstry": {
             "fd": "+900"
         },
         "matt vierling": {
-            "fd": "+800"
+            "fd": "+830"
         }
     },
     "sea-gm2 @ det-gm2": {
