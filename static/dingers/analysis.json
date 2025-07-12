@@ -1623,11 +1623,11 @@
         "circa_median": "+395/-500",
         "circa_std_dev": 88.45,
         "circa_z_score": 0,
-        "fd_avg_vig": 746,
-        "fd_avg": 487,
+        "fd_avg_vig": 748,
+        "fd_avg": 488,
         "fd_median": "+500",
-        "fd_std_dev": 113.67,
-        "fd_z_score": 1.7
+        "fd_std_dev": 114.97,
+        "fd_z_score": 1.67
     },
     "jake mangum": {
         "fd_avg_vig": 6368,
@@ -1676,11 +1676,11 @@
         "pn_median": "609/-1302",
         "pn_std_dev": 141.05,
         "pn_z_score": 0,
-        "fd_avg_vig": 1591,
-        "fd_avg": 757,
+        "fd_avg_vig": 1594,
+        "fd_avg": 758,
         "fd_median": "+680",
-        "fd_std_dev": 292.2,
-        "fd_z_score": -0.02,
+        "fd_std_dev": 291.96,
+        "fd_z_score": -0.03,
         "circa_avg_vig": 613,
         "circa_avg": 503,
         "circa_median": "+575/-800",
@@ -8342,18 +8342,18 @@
         "fd_z_score": 0
     },
     "ha seong kim": {
-        "fd_avg_vig": 2596,
-        "fd_avg": 925,
-        "fd_median": "+900",
-        "fd_std_dev": 103.28,
-        "fd_z_score": 0.73
+        "fd_avg_vig": 2736,
+        "fd_avg": 941,
+        "fd_median": "+800",
+        "fd_std_dev": 104.88,
+        "fd_z_score": 0.56
     },
     "austin nola": {
         "fd_avg_vig": 9426,
         "fd_avg": 1200,
         "fd_median": "+1200",
         "fd_std_dev": 0,
-        "fd_z_score": 0.73
+        "fd_z_score": 0.56
     },
     "masataka yoshida": {
         "fd_avg_vig": 1863,
