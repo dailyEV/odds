@@ -3317,11 +3317,11 @@
         "pn_median": "653/-1339",
         "pn_std_dev": 140.88,
         "pn_z_score": 0,
-        "fd_avg_vig": 1722,
-        "fd_avg": 785,
+        "fd_avg_vig": 1724,
+        "fd_avg": 786,
         "fd_median": "+750",
-        "fd_std_dev": 202.54,
-        "fd_z_score": 0.07,
+        "fd_std_dev": 202.52,
+        "fd_z_score": 0.22,
         "circa_avg_vig": 949,
         "circa_avg": 718,
         "circa_median": "+775/-1200",
@@ -8374,11 +8374,11 @@
         "fd_z_score": 0
     },
     "brice matthews": {
-        "fd_avg_vig": 1732,
-        "fd_avg": 789,
-        "fd_median": "+900",
-        "fd_std_dev": 141.42,
-        "fd_z_score": 0.78
+        "fd_avg_vig": 1672,
+        "fd_avg": 777,
+        "fd_median": "+870",
+        "fd_std_dev": 120.21,
+        "fd_z_score": 0.77
     },
     "tsung che cheng": {
         "fd_avg_vig": 3052,
