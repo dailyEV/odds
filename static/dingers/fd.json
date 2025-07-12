@@ -57,22 +57,22 @@
     },
     "lad @ sf": {
         "shohei ohtani": {
-            "fd": "+340"
-        },
-        "rafael devers": {
-            "fd": "+500"
+            "fd": "+330"
         },
         "matt chapman": {
             "fd": "+500"
         },
-        "will smith": {
-            "fd": "+600"
-        },
-        "willy adames": {
-            "fd": "+630"
+        "rafael devers": {
+            "fd": "+520"
         },
         "heliot ramos": {
+            "fd": "+600"
+        },
+        "will smith": {
             "fd": "+630"
+        },
+        "willy adames": {
+            "fd": "+680"
         },
         "teoscar hernandez": {
             "fd": "+750"
@@ -101,10 +101,10 @@
         "jung hoo lee": {
             "fd": "+1060"
         },
-        "tommy edman": {
-            "fd": "+1100"
-        },
         "patrick bailey": {
+            "fd": "+1200"
+        },
+        "tommy edman": {
             "fd": "+1200"
         },
         "hyeseong kim": {
@@ -113,10 +113,10 @@
     },
     "tex @ hou": {
         "corey seager": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "christian walker": {
-            "fd": "+520"
+            "fd": "+540"
         },
         "victor caratini": {
             "fd": "+540"
@@ -134,7 +134,7 @@
             "fd": "+600"
         },
         "adolis garcia": {
-            "fd": "+700"
+            "fd": "+680"
         },
         "cam smith": {
             "fd": "+800"
@@ -142,26 +142,49 @@
         "marcus semien": {
             "fd": "+830"
         },
-        "brice matthews": {
-            "fd": "+870"
-        },
         "jonah heim": {
             "fd": "+900"
         },
         "taylor trammell": {
             "fd": "+900"
         },
-        "michael helman": {
-            "fd": "+1100"
+        "brice matthews": {
+            "fd": "+900"
+        },
+        "josh smith": {
+            "fd": "+1060"
         },
         "mauricio dubon": {
             "fd": "+1200"
         },
-        "ezequiel duran": {
+        "michael helman": {
             "fd": "+1200"
         },
         "sam haggerty": {
-            "fd": "+1300"
+            "fd": "+1200"
+        },
+        "ezequiel duran": {
+            "fd": "+1200"
+        }
+    },
+    "phi @ sd": {
+        "kyle schwarber": {
+            "fd": "+255"
+        },
+        "bryce harper": {
+            "fd": "+420"
+        },
+        "fernando tatis": {
+            "fd": "+420"
+        },
+        "manny machado": {
+            "fd": "+450"
+        },
+        "max kepler": {
+            "fd": "+470"
+        },
+        "nick castellanos": {
+            "fd": "+500"
         }
     }
 }
