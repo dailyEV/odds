@@ -59,31 +59,31 @@
     },
     "sea @ det": {
         "colt keith": {
-            "dk": "+500"
+            "dk": "+450"
         },
         "spencer torkelson": {
-            "dk": "+500"
+            "dk": "+450"
         },
         "riley greene": {
-            "dk": "+550"
-        },
-        "dillon dingler": {
-            "dk": "+700"
-        },
-        "zach mckinstry": {
-            "dk": "+750"
+            "dk": "+500"
         },
         "matt vierling": {
-            "dk": "+750"
+            "dk": "+600"
+        },
+        "zach mckinstry": {
+            "dk": "+650"
+        },
+        "dillon dingler": {
+            "dk": "+650"
         },
         "gleyber torres": {
-            "dk": "+800"
+            "dk": "+700"
         },
         "javier baez": {
-            "dk": "+900"
+            "dk": "+800"
         },
         "parker meadows": {
-            "dk": "+950"
+            "dk": "+850"
         }
     },
     "tb @ bos": {
