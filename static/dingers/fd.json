@@ -59,11 +59,8 @@
         "cal raleigh": {
             "fd": "+255"
         },
-        "riley greene": {
+        "": {
             "fd": "+420"
-        },
-        "spencer torkelson": {
-            "fd": "+470"
         },
         "dominic canzone": {
             "fd": "+520"
@@ -80,35 +77,19 @@
         "julio rodriguez": {
             "fd": "+630"
         },
-        "colt keith": {
-            "fd": "+750"
-        },
-        "gleyber torres": {
-            "fd": "+750"
-        },
-        "wenceel perez": {
-            "fd": "+750"
-        },
-        "dillon dingler": {
-            "fd": "+870"
-        },
-        "parker meadows": {
-            "fd": "+870"
-        },
-        "zach mckinstry": {
-            "fd": "+900"
-        },
         "jp crawford": {
             "fd": "+900"
-        },
-        "javier baez": {
-            "fd": "+1000"
         },
         "cole young": {
             "fd": "+1060"
         },
         "miles mastrobuoni": {
             "fd": "+1300"
+        }
+    },
+    "sea-gm2 @ det-gm2": {
+        "": {
+            "fd": "+1000"
         }
     },
     "pit @ min": {
@@ -561,7 +542,7 @@
     },
     "col @ cin": {
         "hunter goodman": {
-            "fd": "+255"
+            "fd": "+250"
         },
         "elly de la cruz": {
             "fd": "+280"
@@ -570,37 +551,37 @@
             "fd": "+300"
         },
         "matt mclain": {
-            "fd": "+310"
+            "fd": "+300"
         },
         "mickey moniak": {
             "fd": "+330"
         },
         "will benson": {
-            "fd": "+340"
+            "fd": "+330"
         },
         "tyler stephenson": {
-            "fd": "+360"
+            "fd": "+370"
         },
         "spencer steer": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "ryan mcmahon": {
             "fd": "+420"
         },
         "michael toglia": {
-            "fd": "+420"
+            "fd": "+400"
         },
         "noelvi marte": {
             "fd": "+450"
         },
         "jordan beck": {
-            "fd": "+460"
+            "fd": "+470"
         },
         "tj friedl": {
             "fd": "+470"
         },
         "gavin lux": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "brenton doyle": {
             "fd": "+560"
