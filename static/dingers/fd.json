@@ -92,11 +92,11 @@
         "trey sweeney": {
             "fd": "+750"
         },
-        "matt vierling": {
-            "fd": "+830"
-        },
         "jake rogers": {
             "fd": "+800"
+        },
+        "matt vierling": {
+            "fd": "+830"
         },
         "zach mckinstry": {
             "fd": "+900"
@@ -124,31 +124,31 @@
         "matt wallner": {
             "fd": "+420"
         },
-        "bryan reynolds": {
-            "fd": "+500"
-        },
-        "andrew mccutchen": {
-            "fd": "+520"
-        },
         "brooks lee": {
             "fd": "+500"
         },
         "trevor larnach": {
             "fd": "+540"
         },
-        "spencer horwitz": {
-            "fd": "+600"
+        "andrew mccutchen": {
+            "fd": "+520"
+        },
+        "bryan reynolds": {
+            "fd": "+500"
         },
         "ryan jeffers": {
             "fd": "+600"
         },
-        "willi castro": {
-            "fd": "+680"
-        },
         "royce lewis": {
             "fd": "+600"
         },
+        "spencer horwitz": {
+            "fd": "+600"
+        },
         "henry davis": {
+            "fd": "+680"
+        },
+        "willi castro": {
             "fd": "+680"
         },
         "nick gonzales": {
@@ -168,11 +168,11 @@
         }
     },
     "atl @ stl": {
-        "matt olson": {
-            "fd": "+330"
-        },
         "ronald acuna": {
             "fd": "+320"
+        },
+        "matt olson": {
+            "fd": "+330"
         },
         "nolan gorman": {
             "fd": "+450"
@@ -192,10 +192,10 @@
         "pedro pages": {
             "fd": "+560"
         },
-        "ozzie albies": {
+        "brendan donovan": {
             "fd": "+600"
         },
-        "brendan donovan": {
+        "ozzie albies": {
             "fd": "+600"
         },
         "masyn winn": {
@@ -204,14 +204,14 @@
         "jurickson profar": {
             "fd": "+680"
         },
-        "michael harris": {
-            "fd": "+750"
-        },
         "drake baldwin": {
             "fd": "+680"
         },
         "thomas saggese": {
             "fd": "+680"
+        },
+        "michael harris": {
+            "fd": "+750"
         },
         "victor scott": {
             "fd": "+1000"
