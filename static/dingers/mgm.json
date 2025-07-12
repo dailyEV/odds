@@ -1,107 +1,4 @@
 {
-    "atl @ stl": {
-        "ronald acuna": {
-            "mgm": "+333/-450"
-        },
-        "nacho alvarez": {
-            "mgm": "+1000/-2000"
-        },
-        "ozzie albies": {
-            "mgm": "+625/-1000"
-        },
-        "jurickson profar": {
-            "mgm": "+550/-800"
-        },
-        "nick allen": {
-            "mgm": "+1850/-10000"
-        },
-        "sean murphy": {
-            "mgm": "+450/-625"
-        },
-        "marcell ozuna": {
-            "mgm": "+450/-625"
-        },
-        "michael harris": {
-            "mgm": "+650/-1100"
-        },
-        "brendan donovan": {
-            "mgm": "+825/-1400"
-        },
-        "masyn winn": {
-            "mgm": "+600/-900"
-        },
-        "willson contreras": {
-            "mgm": "+425/-600"
-        },
-        "alec burleson": {
-            "mgm": "+575/-900"
-        },
-        "yohel pozo": {
-            "mgm": "+600/-900"
-        },
-        "lars nootbaar": {
-            "mgm": "+575/-800"
-        },
-        "thomas saggese": {
-            "mgm": "+650/-1000"
-        },
-        "nolan gorman": {
-            "mgm": "+500/-750"
-        },
-        "victor scott": {
-            "mgm": "+1300/-3000"
-        }
-    },
-    "sea @ det": {
-        "jp crawford": {
-            "mgm": "+1050/-2500"
-        },
-        "riley greene": {
-            "mgm": "+475/-650"
-        },
-        "cole young": {
-            "mgm": "+1400/-5000"
-        },
-        "randy arozarena": {
-            "mgm": "+475/-700"
-        },
-        "dominic canzone": {
-            "mgm": "+675/-1100"
-        },
-        "zach mckinstry": {
-            "mgm": "+875/-1600"
-        },
-        "colt keith": {
-            "mgm": "+725/-1200"
-        },
-        "julio rodriguez": {
-            "mgm": "+575/-900"
-        },
-        "ben williamson": {
-            "mgm": "+1400/-5000"
-        },
-        "spencer torkelson": {
-            "mgm": "+450/-625"
-        },
-        "jorge polanco": {
-            "mgm": "+525/-750"
-        },
-        "cal raleigh": {
-            "mgm": "+240/-295"
-        },
-        "luke raley": {
-            "mgm": "+675/-1100"
-        },
-        "jake rogers": {
-            "mgm": "+875/-1600"
-        },
-        "wenceel perez": {
-            "mgm": "+725/-1200"
-        },
-        "trey sweeney": {
-            "mgm": "+950/-2000"
-        }
-    },
     "lad @ sf": {
         "tommy edman": {
             "mgm": "+1150/-3000"
@@ -119,13 +16,13 @@
             "mgm": "+375/-525"
         },
         "dominic smith": {
-            "mgm": "+850/-1600"
+            "mgm": "+875/-1600"
         },
         "andy pages": {
             "mgm": "+775/-1400"
         },
         "casey schmitt": {
-            "mgm": "+750/-1200"
+            "mgm": "+775/-1400"
         },
         "teoscar hernandez": {
             "mgm": "+725/-1200"
@@ -140,7 +37,7 @@
             "mgm": "+650/-1000"
         },
         "matt chapman": {
-            "mgm": "+450/-625"
+            "mgm": "+425/-625"
         },
         "michael conforto": {
             "mgm": "+700/-1100"
@@ -160,13 +57,13 @@
             "mgm": "+400/-550"
         },
         "derek hill": {
-            "mgm": "+1150/-3000"
+            "mgm": "+1250/-3000"
         },
         "heriberto hernandez": {
-            "mgm": "+875/-1600"
+            "mgm": "+950/-2000"
         },
         "otto lopez": {
-            "mgm": "+1000/-2000"
+            "mgm": "+1050/-2500"
         },
         "jackson holliday": {
             "mgm": "+525/-750"
@@ -187,19 +84,19 @@
             "mgm": "+450/-625"
         },
         "dane myers": {
-            "mgm": "+800/-1400"
+            "mgm": "+850/-1600"
         },
         "xavier edwards": {
             "mgm": "+1300/-3000"
         },
         "connor norby": {
-            "mgm": "+675/-1100"
+            "mgm": "+725/-1200"
         },
         "eric wagaman": {
-            "mgm": "+775/-1400"
+            "mgm": "+825/-1400"
         },
         "jacob stallings": {
-            "mgm": "+1150/-3000"
+            "mgm": "+1150/-2500"
         },
         "gunnar henderson": {
             "mgm": "+350/-450"
@@ -210,34 +107,34 @@
     },
     "cle @ chw": {
         "chase meidroth": {
-            "mgm": "+825/-1400"
+            "mgm": "+825/-1600"
         },
         "steven kwan": {
-            "mgm": "+700/-1200"
+            "mgm": "+675/-1100"
         },
         "kyle manzardo": {
             "mgm": "+340/-450"
         },
         "andrew benintendi": {
-            "mgm": "+425/-625"
+            "mgm": "+425/-600"
         },
         "daniel schneemann": {
             "mgm": "+375/-525"
         },
         "brayan rocchio": {
-            "mgm": "+950/-2000"
+            "mgm": "+1000/-2000"
         },
         "kyle teel": {
             "mgm": "+625/-1000"
         },
         "carlos santana": {
-            "mgm": "+425/-600"
+            "mgm": "+450/-625"
         },
         "mike tauchman": {
             "mgm": "+525/-750"
         },
         "josh rojas": {
-            "mgm": "+950/-2000"
+            "mgm": "+900/-1600"
         },
         "jose ramirez": {
             "mgm": "+280/-350"
@@ -252,7 +149,7 @@
             "mgm": "+525/-750"
         },
         "lenyn sosa": {
-            "mgm": "+475/-700"
+            "mgm": "+500/-700"
         },
         "w robertson": {
             "mgm": "+550/-800"
@@ -275,7 +172,7 @@
             "mgm": "+425/-600"
         },
         "jonathan india": {
-            "mgm": "+725/-1200"
+            "mgm": "+700/-1200"
         },
         "mark vientos": {
             "mgm": "+625/-1000"
@@ -291,27 +188,6 @@
         },
         "jeff mcneil": {
             "mgm": "+725/-1200"
-        },
-        "juan soto": {
-            "mgm": "+333/-450"
-        },
-        "vinnie pasquantino": {
-            "mgm": "+525/-750"
-        },
-        "kyle isbel": {
-            "mgm": "+1150/-3000"
-        },
-        "jac caglianone": {
-            "mgm": "+600/-900"
-        },
-        "pete alonso": {
-            "mgm": "+350/-450"
-        },
-        "john rave": {
-            "mgm": "+1050/-2500"
-        },
-        "tyrone taylor": {
-            "mgm": "+1100/-2500"
         }
     },
     "wsh @ mil": {
@@ -365,6 +241,59 @@
         },
         "caleb durbin": {
             "mgm": "+950/-2000"
+        }
+    },
+    "tb @ bos": {
+        "ceddanne rafaela": {
+            "mgm": "+525/-750"
+        },
+        "ha seong kim": {
+            "mgm": "+950/-2000"
+        },
+        "wilyer abreu": {
+            "mgm": "+425/-625"
+        },
+        "junior caminero": {
+            "mgm": "+525/-750"
+        },
+        "jake mangum": {
+            "mgm": "+1550/-10000"
+        },
+        "christopher morel": {
+            "mgm": "+650/-1000"
+        },
+        "taylor walls": {
+            "mgm": "+1700/-10000"
+        },
+        "carlos narvaez": {
+            "mgm": "+525/-750"
+        },
+        "yandy diaz": {
+            "mgm": "+600/-900"
+        },
+        "roman anthony": {
+            "mgm": "+625/-1000"
+        },
+        "curtis mead": {
+            "mgm": "+1150/-2500"
+        },
+        "jarren duran": {
+            "mgm": "+525/-750"
+        },
+        "marcelo mayer": {
+            "mgm": "+775/-1200"
+        },
+        "danny jansen": {
+            "mgm": "+750/-1200"
+        },
+        "trevor story": {
+            "mgm": "+500/-700"
+        },
+        "abraham toro": {
+            "mgm": "+825/-1400"
+        },
+        "jose caballero": {
+            "mgm": "+1300/-3000"
         }
     },
     "col @ cin": {
@@ -473,6 +402,56 @@
             "mgm": "+900/-2000"
         }
     },
+    "tex @ hou": {
+        "sam haggerty": {
+            "mgm": "+1350/-5000"
+        },
+        "victor caratini": {
+            "mgm": "+750/-1200"
+        },
+        "michael helman": {
+            "mgm": "+1250/-3000"
+        },
+        "jake burger": {
+            "mgm": "+525/-750"
+        },
+        "kyle higashioka": {
+            "mgm": "+725/-1200"
+        },
+        "yainer diaz": {
+            "mgm": "+700/-1200"
+        },
+        "isaac paredes": {
+            "mgm": "+575/-900"
+        },
+        "cam smith": {
+            "mgm": "+775/-1400"
+        },
+        "christian walker": {
+            "mgm": "+475/-650"
+        },
+        "jose altuve": {
+            "mgm": "+750/-1200"
+        },
+        "jonah heim": {
+            "mgm": "+850/-1600"
+        },
+        "adolis garcia": {
+            "mgm": "+600/-900"
+        },
+        "cooper hummel": {
+            "mgm": "+1150/-2500"
+        },
+        "corey seager": {
+            "mgm": "+475/-650"
+        },
+        "marcus semien": {
+            "mgm": "+750/-1200"
+        },
+        "wyatt langford": {
+            "mgm": "+675/-1100"
+        }
+    },
     "ari @ laa": {
         "eugenio suarez": {
             "mgm": "+290/-375"
@@ -500,6 +479,30 @@
         },
         "geraldo perdomo": {
             "mgm": "+1100/-2500"
+        },
+        "alek thomas": {
+            "mgm": "+775/-1400"
+        },
+        "travis darnaud": {
+            "mgm": "+475/-700"
+        },
+        "lourdes gurriel": {
+            "mgm": "+500/-750"
+        },
+        "luis rengifo": {
+            "mgm": "+1000/-2000"
+        },
+        "ketel marte": {
+            "mgm": "+280/-350"
+        },
+        "jorge soler": {
+            "mgm": "+475/-700"
+        },
+        "taylor ward": {
+            "mgm": "+375/-525"
+        },
+        "jo adell": {
+            "mgm": "+320/-400"
         }
     },
     "tor @ ath": {
