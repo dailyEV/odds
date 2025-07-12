@@ -1,4 +1,60 @@
 {
+    "tex @ hou": {
+        "corey seager": {
+            "fd": "+450"
+        },
+        "christian walker": {
+            "fd": "+520"
+        },
+        "jose altuve": {
+            "fd": "+600"
+        },
+        "wyatt langford": {
+            "fd": "+600"
+        },
+        "victor caratini": {
+            "fd": "+600"
+        },
+        "isaac paredes": {
+            "fd": "+600"
+        },
+        "yainer diaz": {
+            "fd": "+750"
+        },
+        "adolis garcia": {
+            "fd": "+750"
+        },
+        "kyle higashioka": {
+            "fd": "+750"
+        },
+        "marcus semien": {
+            "fd": "+830"
+        },
+        "cam smith": {
+            "fd": "+870"
+        },
+        "taylor trammell": {
+            "fd": "+870"
+        },
+        "jonah heim": {
+            "fd": "+900"
+        },
+        "brice matthews": {
+            "fd": "+900"
+        },
+        "josh smith": {
+            "fd": "+1060"
+        },
+        "mauricio dubon": {
+            "fd": "+1200"
+        },
+        "sam haggerty": {
+            "fd": "+1300"
+        },
+        "ezequiel duran": {
+            "fd": "+1300"
+        }
+    },
     "phi @ sd": {
         "kyle schwarber": {
             "fd": "+250"
