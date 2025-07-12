@@ -2013,10 +2013,10 @@
         "circa_median": "+600/-850",
         "circa_std_dev": 131.0,
         "circa_z_score": -0.6,
-        "fd_avg_vig": 979,
-        "fd_avg": 581,
+        "fd_avg_vig": 978,
+        "fd_avg": 580,
         "fd_median": "+560",
-        "fd_std_dev": 154.69,
+        "fd_std_dev": 154.85,
         "fd_z_score": -0.52
     },
     "mj melendez": {
@@ -2634,10 +2634,10 @@
         "circa_median": "+520/-700",
         "circa_std_dev": 79.64,
         "circa_z_score": 1.54,
-        "fd_avg_vig": 737,
+        "fd_avg_vig": 738,
         "fd_avg": 484,
         "fd_median": "+480",
-        "fd_std_dev": 146.38,
+        "fd_std_dev": 146.49,
         "fd_z_score": 0.52
     },
     "byron buxton": {
@@ -2755,10 +2755,10 @@
         "pn_median": "840/-2044",
         "pn_std_dev": 141.78,
         "pn_z_score": 0,
-        "fd_avg_vig": 2049,
-        "fd_avg": 855,
+        "fd_avg_vig": 2060,
+        "fd_avg": 856,
         "fd_median": "+830",
-        "fd_std_dev": 422.53,
+        "fd_std_dev": 422.7,
         "fd_z_score": 0.34
     },
     "ty france": {
@@ -4702,11 +4702,11 @@
         "fd_z_score": 0
     },
     "kyle isbel": {
-        "fd_avg_vig": 6838,
+        "fd_avg_vig": 6863,
         "fd_avg": 1225,
         "fd_median": "+1300",
-        "fd_std_dev": 384.75,
-        "fd_z_score": -0.32
+        "fd_std_dev": 384.43,
+        "fd_z_score": -0.33
     },
     "tyler tolbert": {
         "fd_avg_vig": 2127,
@@ -5149,11 +5149,11 @@
         "pn_median": "772/-1767",
         "pn_std_dev": 100.2,
         "pn_z_score": 0,
-        "fd_avg_vig": 1410,
-        "fd_avg": 713,
+        "fd_avg_vig": 1407,
+        "fd_avg": 712,
         "fd_median": "+700",
-        "fd_std_dev": 154.29,
-        "fd_z_score": 0.24,
+        "fd_std_dev": 154.09,
+        "fd_z_score": 0.25,
         "circa_avg_vig": 810,
         "circa_avg": 631,
         "circa_median": "+625/-900",
@@ -7282,11 +7282,11 @@
         "fd_z_score": 0
     },
     "nick loftin": {
-        "fd_avg_vig": 2844,
-        "fd_avg": 964,
+        "fd_avg_vig": 2808,
+        "fd_avg": 960,
         "fd_median": "+830",
-        "fd_std_dev": 235.01,
-        "fd_z_score": -0.27
+        "fd_std_dev": 235.82,
+        "fd_z_score": -0.25
     },
     "jared young": {
         "pn_avg_vig": 807,
@@ -7566,11 +7566,11 @@
         "circa_median": "+625/-900",
         "circa_std_dev": 127.74,
         "circa_z_score": -0.78,
-        "fd_avg_vig": 1109,
-        "fd_avg": 626,
+        "fd_avg_vig": 1111,
+        "fd_avg": 627,
         "fd_median": "+600",
-        "fd_std_dev": 127.01,
-        "fd_z_score": -0.52,
+        "fd_std_dev": 126.5,
+        "fd_z_score": -0.53,
         "pn_avg_vig": 994,
         "pn_avg": 592,
         "pn_median": "604/-1285",
