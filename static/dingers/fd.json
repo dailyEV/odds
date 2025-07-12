@@ -458,13 +458,13 @@
             "fd": "+400"
         },
         "luis robert": {
-            "fd": "+420"
+            "fd": "+430"
         },
         "carlos santana": {
             "fd": "+460"
         },
         "daniel schneemann": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "miguel vargas": {
             "fd": "+480"
@@ -473,13 +473,13 @@
             "fd": "+520"
         },
         "mike tauchman": {
-            "fd": "+540"
-        },
-        "lenyn sosa": {
             "fd": "+560"
         },
-        "nolan jones": {
+        "lenyn sosa": {
             "fd": "+600"
+        },
+        "nolan jones": {
+            "fd": "+560"
         },
         "kyle teel": {
             "fd": "+630"
@@ -500,7 +500,7 @@
             "fd": "+800"
         },
         "brayan rocchio": {
-            "fd": "+900"
+            "fd": "+870"
         }
     },
     "wsh @ mil": {
@@ -729,22 +729,22 @@
     },
     "ari @ laa": {
         "ketel marte": {
-            "fd": "+240"
+            "fd": "+230"
         },
         "mike trout": {
             "fd": "+285"
         },
         "eugenio suarez": {
-            "fd": "+340"
+            "fd": "+320"
         },
         "corbin carroll": {
-            "fd": "+360"
+            "fd": "+350"
         },
         "jo adell": {
-            "fd": "+390"
+            "fd": "+370"
         },
         "randal grichuk": {
-            "fd": "+420"
+            "fd": "+400"
         },
         "": {
             "fd": "+430"
@@ -756,7 +756,7 @@
             "fd": "+440"
         },
         "jorge soler": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "lourdes gurriel": {
             "fd": "+500"
