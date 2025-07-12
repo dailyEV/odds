@@ -12778,7 +12778,7 @@
         "fd_avg": 416,
         "fd_median": "+430",
         "fd_std_dev": 108.38,
-        "fd_z_score": 1.14
+        "fd_z_score": 0.96
     },
     "jonathan aranda": {
         "pn": {
@@ -13291,7 +13291,7 @@
         "fd_avg": 590,
         "fd_median": "+560",
         "fd_std_dev": 160.52,
-        "fd_z_score": -0.19
+        "fd_z_score": 0.06
     },
     "junior caminero": {
         "pn": {
@@ -14180,7 +14180,7 @@
         "fd_avg": 790,
         "fd_median": "+700",
         "fd_std_dev": 188.13,
-        "fd_z_score": -1.01,
+        "fd_z_score": -0.85,
         "circa": {
             "2025-06-09": "+800/-1250",
             "2025-06-11": "+750/-1150",

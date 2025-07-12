@@ -1508,7 +1508,7 @@
         "fd_avg": 416,
         "fd_median": "+430",
         "fd_std_dev": 108.38,
-        "fd_z_score": 1.14
+        "fd_z_score": 0.96
     },
     "jonathan aranda": {
         "pn_avg_vig": 676,
@@ -1559,7 +1559,7 @@
         "fd_avg": 590,
         "fd_median": "+560",
         "fd_std_dev": 160.52,
-        "fd_z_score": -0.19
+        "fd_z_score": 0.06
     },
     "junior caminero": {
         "pn_avg_vig": 590,
@@ -1651,7 +1651,7 @@
         "fd_avg": 790,
         "fd_median": "+700",
         "fd_std_dev": 188.13,
-        "fd_z_score": -1.01,
+        "fd_z_score": -0.85,
         "circa_avg_vig": 852,
         "circa_avg": 655,
         "circa_median": "+700/-1050",
