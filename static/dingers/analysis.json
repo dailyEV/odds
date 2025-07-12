@@ -965,7 +965,7 @@
         "fd_avg": 417,
         "fd_median": "+430",
         "fd_std_dev": 65.8,
-        "fd_z_score": 0.5
+        "fd_z_score": 0.2
     },
     "kyle schwarber": {
         "pn_avg_vig": 382,
@@ -1593,7 +1593,7 @@
         "fd_avg": 379,
         "fd_median": "+390",
         "fd_std_dev": 122.51,
-        "fd_z_score": 0.33
+        "fd_z_score": 0.09
     },
     "kristian campbell": {
         "pn_avg_vig": 1035,
@@ -1627,7 +1627,7 @@
         "fd_avg": 488,
         "fd_median": "+500",
         "fd_std_dev": 114.97,
-        "fd_z_score": 1.67
+        "fd_z_score": 1.24
     },
     "jake mangum": {
         "fd_avg_vig": 6368,
@@ -4192,7 +4192,7 @@
         "fd_avg": 609,
         "fd_median": "+600",
         "fd_std_dev": 131.49,
-        "fd_z_score": 1.07,
+        "fd_z_score": 1.45,
         "pn_avg_vig": 820,
         "pn_avg": 529,
         "pn_median": "530/-958",
@@ -4296,7 +4296,7 @@
         "fd_avg": 666,
         "fd_median": "+630",
         "fd_std_dev": 194.08,
-        "fd_z_score": 2.24,
+        "fd_z_score": 2.75,
         "pn_avg_vig": 944,
         "pn_avg": 597,
         "pn_median": "717/-1559",
@@ -4354,7 +4354,7 @@
         "fd_avg": 427,
         "fd_median": "+440",
         "fd_std_dev": 115.07,
-        "fd_z_score": 1.76
+        "fd_z_score": 1.5
     },
     "michael toglia": {
         "pn_avg_vig": 635,
@@ -4742,7 +4742,7 @@
         "fd_avg": 591,
         "fd_median": "+600",
         "fd_std_dev": 265.56,
-        "fd_z_score": 0.6,
+        "fd_z_score": 0.79,
         "circa_avg_vig": 746,
         "circa_avg": 591,
         "circa_median": "+600/-850",
@@ -6486,7 +6486,7 @@
         "fd_avg": 1030,
         "fd_median": "+1500",
         "fd_std_dev": 856.67,
-        "fd_z_score": 0.2
+        "fd_z_score": 0.08
     },
     "jose barrero": {
         "fd_avg_vig": 2936,
@@ -8346,14 +8346,14 @@
         "fd_avg": 941,
         "fd_median": "+800",
         "fd_std_dev": 104.88,
-        "fd_z_score": 0.56
+        "fd_z_score": -0.39
     },
     "austin nola": {
         "fd_avg_vig": 9426,
         "fd_avg": 1200,
         "fd_median": "+1200",
         "fd_std_dev": 0,
-        "fd_z_score": 0.56
+        "fd_z_score": -0.39
     },
     "masataka yoshida": {
         "fd_avg_vig": 1863,

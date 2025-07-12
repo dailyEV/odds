@@ -8203,7 +8203,7 @@
         "fd_avg": 417,
         "fd_median": "+430",
         "fd_std_dev": 65.8,
-        "fd_z_score": 0.5
+        "fd_z_score": 0.2
     },
     "kyle schwarber": {
         "pn": {
@@ -13768,7 +13768,7 @@
         "fd_avg": 379,
         "fd_median": "+390",
         "fd_std_dev": 122.51,
-        "fd_z_score": 0.33
+        "fd_z_score": 0.09
     },
     "kristian campbell": {
         "pn": {
@@ -14003,7 +14003,7 @@
         "fd_avg": 488,
         "fd_median": "+500",
         "fd_std_dev": 114.97,
-        "fd_z_score": 1.67
+        "fd_z_score": 1.24
     },
     "jake mangum": {
         "fd": {
@@ -36539,7 +36539,7 @@
         "fd_avg": 609,
         "fd_median": "+600",
         "fd_std_dev": 131.49,
-        "fd_z_score": 1.07,
+        "fd_z_score": 1.45,
         "pn": {
             "2025-04-15": "506/-900",
             "2025-04-16": "531/-961",
@@ -37452,7 +37452,7 @@
         "fd_avg": 666,
         "fd_median": "+630",
         "fd_std_dev": 194.08,
-        "fd_z_score": 2.24,
+        "fd_z_score": 2.75,
         "pn": {
             "2025-04-15": "797/-1863",
             "2025-04-16": "837/-2030",
@@ -37848,7 +37848,7 @@
         "fd_avg": 427,
         "fd_median": "+440",
         "fd_std_dev": 115.07,
-        "fd_z_score": 1.76
+        "fd_z_score": 1.5
     },
     "michael toglia": {
         "pn": {
@@ -40437,7 +40437,7 @@
         "fd_avg": 591,
         "fd_median": "+600",
         "fd_std_dev": 265.56,
-        "fd_z_score": 0.6,
+        "fd_z_score": 0.79,
         "circa": {
             "2025-05-19": "+490/-650",
             "2025-05-20": "+475/-625",
@@ -49115,7 +49115,7 @@
         "fd_avg": 1030,
         "fd_median": "+1500",
         "fd_std_dev": 856.67,
-        "fd_z_score": 0.2
+        "fd_z_score": 0.08
     },
     "jose barrero": {
         "fd": {
@@ -54477,7 +54477,7 @@
         "fd_avg": 941,
         "fd_median": "+800",
         "fd_std_dev": 104.88,
-        "fd_z_score": 0.56
+        "fd_z_score": -0.39
     },
     "austin nola": {
         "fd": {
@@ -54487,7 +54487,7 @@
         "fd_avg": 1200,
         "fd_median": "+1200",
         "fd_std_dev": 0,
-        "fd_z_score": 0.56
+        "fd_z_score": -0.39
     },
     "masataka yoshida": {
         "fd": {
