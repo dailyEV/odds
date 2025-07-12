@@ -111,62 +111,6 @@
             "fd": "+1000"
         }
     },
-    "ari @ laa": {
-        "ketel marte": {
-            "fd": "+255"
-        },
-        "mike trout": {
-            "fd": "+280"
-        },
-        "eugenio suarez": {
-            "fd": "+300"
-        },
-        "corbin carroll": {
-            "fd": "+360"
-        },
-        "jo adell": {
-            "fd": "+390"
-        },
-        "randal grichuk": {
-            "fd": "+400"
-        },
-        "taylor ward": {
-            "fd": "+420"
-        },
-        "zach neto": {
-            "fd": "+430"
-        },
-        "travis darnaud": {
-            "fd": "+450"
-        },
-        "jorge soler": {
-            "fd": "+480"
-        },
-        "yoan moncada": {
-            "fd": "+480"
-        },
-        "lourdes gurriel": {
-            "fd": "+520"
-        },
-        "josh naylor": {
-            "fd": "+520"
-        },
-        "james mccann": {
-            "fd": "+630"
-        },
-        "nolan schanuel": {
-            "fd": "+830"
-        },
-        "alek thomas": {
-            "fd": "+830"
-        },
-        "luis rengifo": {
-            "fd": "+1000"
-        },
-        "geraldo perdomo": {
-            "fd": "+1060"
-        }
-    },
     "tor @ ath": {
         "brent rooker": {
             "fd": "+330"
