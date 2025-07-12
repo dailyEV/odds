@@ -55,34 +55,6 @@
             "kody clemens"
         ]
     },
-    "sea": {
-        "pitcher": "george kirby",
-        "batters": [
-            "jp crawford",
-            "julio rodriguez",
-            "cal raleigh",
-            "randy arozarena",
-            "jorge polanco",
-            "luke raley",
-            "dominic canzone",
-            "ben williamson",
-            "cole young"
-        ]
-    },
-    "det": {
-        "pitcher": "casey mize",
-        "batters": [
-            "colt keith",
-            "gleyber torres",
-            "wenceel perez",
-            "riley greene",
-            "spencer torkelson",
-            "zach mckinstry",
-            "matt vierling",
-            "trey sweeney",
-            "jake rogers"
-        ]
-    },
     "atl": {
         "pitcher": "nathan wiles",
         "batters": [
@@ -109,6 +81,34 @@
             "thomas saggese",
             "nolan gorman",
             "victor scott"
+        ]
+    },
+    "sea": {
+        "pitcher": "george kirby",
+        "batters": [
+            "jp crawford",
+            "julio rodriguez",
+            "cal raleigh",
+            "randy arozarena",
+            "jorge polanco",
+            "luke raley",
+            "dominic canzone",
+            "ben williamson",
+            "cole young"
+        ]
+    },
+    "det": {
+        "pitcher": "casey mize",
+        "batters": [
+            "colt keith",
+            "gleyber torres",
+            "wenceel perez",
+            "riley greene",
+            "spencer torkelson",
+            "zach mckinstry",
+            "matt vierling",
+            "trey sweeney",
+            "jake rogers"
         ]
     },
     "lad": {
@@ -280,7 +280,15 @@
     "mil": {
         "pitcher": "brandon woodruff",
         "batters": [
-            "tbd"
+            "sal frelick",
+            "william contreras",
+            "jackson chourio",
+            "christian yelich",
+            "andrew vaughn",
+            "isaac collins",
+            "brice turang",
+            "caleb durbin",
+            "joey ortiz"
         ]
     },
     "tex": {
