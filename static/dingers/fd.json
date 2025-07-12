@@ -30,13 +30,13 @@
         "cody bellinger": {
             "fd": "+540"
         },
+        "dansby swanson": {
+            "fd": "+680"
+        },
         "anthony volpe": {
             "fd": "+680"
         },
         "carson kelly": {
-            "fd": "+680"
-        },
-        "dansby swanson": {
             "fd": "+680"
         },
         "ian happ": {
@@ -118,13 +118,16 @@
         "ronald acuna": {
             "fd": "+340"
         },
-        "marcell ozuna": {
-            "fd": "+470"
-        },
         "sean murphy": {
             "fd": "+460"
         },
+        "marcell ozuna": {
+            "fd": "+470"
+        },
         "nolan gorman": {
+            "fd": "+560"
+        },
+        "ozzie albies": {
             "fd": "+560"
         },
         "willson contreras": {
@@ -132,9 +135,6 @@
         },
         "lars nootbaar": {
             "fd": "+600"
-        },
-        "ozzie albies": {
-            "fd": "+560"
         },
         "alec burleson": {
             "fd": "+600"
@@ -145,20 +145,20 @@
         "michael harris": {
             "fd": "+750"
         },
-        "masyn winn": {
-            "fd": "+800"
-        },
         "yohel pozo": {
             "fd": "+750"
+        },
+        "brendan donovan": {
+            "fd": "+800"
+        },
+        "masyn winn": {
+            "fd": "+800"
         },
         "thomas saggese": {
             "fd": "+800"
         },
         "nacho alvarez": {
             "fd": "+830"
-        },
-        "brendan donovan": {
-            "fd": "+800"
         },
         "victor scott": {
             "fd": "+1100"
@@ -384,11 +384,11 @@
         "jose caballero": {
             "fd": "+1100"
         },
-        "jake mangum": {
-            "fd": "+1200"
-        },
         "taylor walls": {
             "fd": "+1100"
+        },
+        "jake mangum": {
+            "fd": "+1200"
         }
     },
     "cle @ chw": {
@@ -631,11 +631,11 @@
         "max kepler": {
             "fd": "+480"
         },
-        "trea turner": {
-            "fd": "+520"
-        },
         "nick castellanos": {
             "fd": "+500"
+        },
+        "trea turner": {
+            "fd": "+520"
         },
         "gavin sheets": {
             "fd": "+560"
@@ -646,10 +646,10 @@
         "jt realmuto": {
             "fd": "+600"
         },
-        "alec bohm": {
+        "jake cronenworth": {
             "fd": "+630"
         },
-        "jake cronenworth": {
+        "alec bohm": {
             "fd": "+630"
         },
         "brandon marsh": {
