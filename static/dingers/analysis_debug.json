@@ -9933,7 +9933,7 @@
         "circa_avg": 610,
         "circa_median": "+625/-900",
         "circa_std_dev": 113.97,
-        "circa_z_score": 0,
+        "circa_z_score": -1.84,
         "fd": {
             "2025-04-08": "+600",
             "2025-04-09": "+560",
@@ -10131,7 +10131,7 @@
         "circa_avg": 427,
         "circa_median": "+455/-600",
         "circa_std_dev": 106.45,
-        "circa_z_score": 0,
+        "circa_z_score": -0.72,
         "fd": {
             "2025-04-08": "+450",
             "2025-04-09": "+450",
@@ -11410,13 +11410,14 @@
             "2025-06-28": "375/-470",
             "2025-06-29": "450/-590",
             "2025-06-30": "575/-800",
-            "2025-07-08": "+575/-800"
+            "2025-07-08": "+575/-800",
+            "2025-07-12": "+450/-590"
         },
-        "circa_avg_vig": 651,
-        "circa_avg": 529,
+        "circa_avg_vig": 648,
+        "circa_avg": 527,
         "circa_median": "+575/-800",
-        "circa_std_dev": 110.5,
-        "circa_z_score": 0,
+        "circa_std_dev": 110.18,
+        "circa_z_score": -0.7,
         "fd": {
             "2025-04-08": "+600",
             "2025-04-09": "+650",
@@ -39505,7 +39506,7 @@
         "circa_avg": 613,
         "circa_median": "+575/-800",
         "circa_std_dev": 130.52,
-        "circa_z_score": 0
+        "circa_z_score": -1.44
     },
     "ramon urias": {
         "fd": {
@@ -46177,7 +46178,7 @@
         "circa_avg": 542,
         "circa_median": "+550/-750",
         "circa_std_dev": 93.97,
-        "circa_z_score": 0
+        "circa_z_score": -0.82
     },
     "jorbit vivas": {
         "fd": {
@@ -52884,7 +52885,7 @@
         "circa_avg": 462,
         "circa_median": "+500/-670",
         "circa_std_dev": 59.01,
-        "circa_z_score": 0
+        "circa_z_score": -1.05
     },
     "jacob melton": {
         "pn": {
@@ -52894,7 +52895,7 @@
         "pn_avg": 603,
         "pn_median": "603/-1279",
         "pn_std_dev": 0,
-        "pn_z_score": 0,
+        "pn_z_score": -1.05,
         "fd": {
             "2025-06-01": "+750",
             "2025-06-03": "+1000",
