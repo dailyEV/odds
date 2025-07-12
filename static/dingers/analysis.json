@@ -2743,11 +2743,11 @@
         "pn_median": "707/-1524",
         "pn_std_dev": 117.92,
         "pn_z_score": 0,
-        "fd_avg_vig": 1838,
-        "fd_avg": 809,
-        "fd_median": "+750",
-        "fd_std_dev": 193.25,
-        "fd_z_score": 0.99
+        "fd_avg_vig": 1844,
+        "fd_avg": 810,
+        "fd_median": "+700",
+        "fd_std_dev": 194.01,
+        "fd_z_score": 0.98
     },
     "luis torrens": {
         "pn_avg_vig": 1362,
@@ -7336,11 +7336,11 @@
         "circa_z_score": 0
     },
     "john rave": {
-        "fd_avg_vig": 2544,
-        "fd_avg": 923,
-        "fd_median": "+750",
-        "fd_std_dev": 253.46,
-        "fd_z_score": 0.3
+        "fd_avg_vig": 2577,
+        "fd_avg": 927,
+        "fd_median": "+700",
+        "fd_std_dev": 253.16,
+        "fd_z_score": 0.29
     },
     "alejandro osuna": {
         "fd_avg_vig": 1903,
