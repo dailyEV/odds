@@ -411,10 +411,10 @@
         "circa_median": "+675/-1000",
         "circa_std_dev": 124.27,
         "circa_z_score": -0.92,
-        "fd_avg_vig": 1084,
+        "fd_avg_vig": 1085,
         "fd_avg": 617,
         "fd_median": "+600",
-        "fd_std_dev": 159.89,
+        "fd_std_dev": 159.66,
         "fd_z_score": -0.61
     },
     "xavier edwards": {
@@ -3707,10 +3707,10 @@
         "circa_z_score": 0
     },
     "nolan schanuel": {
-        "fd_avg_vig": 2976,
+        "fd_avg_vig": 2971,
         "fd_avg": 971,
         "fd_median": "+1200",
-        "fd_std_dev": 274.65,
+        "fd_std_dev": 274.93,
         "fd_z_score": -0.62,
         "pn_avg_vig": 1721,
         "pn_avg": 877,
