@@ -1,4 +1,60 @@
 {
+    "sea @ det": {
+        "cal raleigh": {
+            "dk": "+240"
+        },
+        "colt keith": {
+            "dk": "+425"
+        },
+        "spencer torkelson": {
+            "dk": "+450"
+        },
+        "riley greene": {
+            "dk": "+475"
+        },
+        "jorge polanco": {
+            "dk": "+500"
+        },
+        "randy arozarena": {
+            "dk": "+500"
+        },
+        "zach mckinstry": {
+            "dk": "+600"
+        },
+        "matt vierling": {
+            "dk": "+600"
+        },
+        "luke raley": {
+            "dk": "+650"
+        },
+        "dillon dingler": {
+            "dk": "+650"
+        },
+        "dominic canzone": {
+            "dk": "+650"
+        },
+        "gleyber torres": {
+            "dk": "+700"
+        },
+        "julio rodriguez": {
+            "dk": "+700"
+        },
+        "javier baez": {
+            "dk": "+800"
+        },
+        "parker meadows": {
+            "dk": "+850"
+        },
+        "jp crawford": {
+            "dk": "+950"
+        },
+        "ben williamson": {
+            "dk": "+1700"
+        },
+        "cole young": {
+            "dk": "+1800"
+        }
+    },
     "mia @ bal": {
         "jordan westburg": {
             "dk": "+340"
@@ -55,35 +111,6 @@
         },
         "jon berti": {
             "dk": "+1500"
-        }
-    },
-    "sea @ det": {
-        "colt keith": {
-            "dk": "+450"
-        },
-        "spencer torkelson": {
-            "dk": "+450"
-        },
-        "riley greene": {
-            "dk": "+500"
-        },
-        "matt vierling": {
-            "dk": "+600"
-        },
-        "zach mckinstry": {
-            "dk": "+650"
-        },
-        "dillon dingler": {
-            "dk": "+650"
-        },
-        "gleyber torres": {
-            "dk": "+700"
-        },
-        "javier baez": {
-            "dk": "+800"
-        },
-        "parker meadows": {
-            "dk": "+850"
         }
     },
     "tb @ bos": {
