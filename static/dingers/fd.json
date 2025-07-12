@@ -112,20 +112,20 @@
         }
     },
     "mia @ bal": {
-        "jordan westburg": {
-            "fd": "+350"
-        },
         "gunnar henderson": {
             "fd": "+340"
         },
-        "colton cowser": {
-            "fd": "+390"
+        "jordan westburg": {
+            "fd": "+350"
         },
         "ryan ohearn": {
             "fd": "+370"
         },
         "agustin ramirez": {
             "fd": "+370"
+        },
+        "colton cowser": {
+            "fd": "+390"
         },
         "ramon laureano": {
             "fd": "+400"
@@ -139,13 +139,13 @@
         "cedric mullins": {
             "fd": "+450"
         },
-        "eric wagaman": {
-            "fd": "+600"
-        },
         "connor norby": {
             "fd": "+600"
         },
         "heriberto hernandez": {
+            "fd": "+600"
+        },
+        "eric wagaman": {
             "fd": "+600"
         },
         "dane myers": {
@@ -307,11 +307,11 @@
         "nolan jones": {
             "fd": "+560"
         },
-        "colson montgomery": {
-            "fd": "+680"
-        },
         "kyle teel": {
             "fd": "+630"
+        },
+        "colson montgomery": {
+            "fd": "+680"
         },
         "angel martinez": {
             "fd": "+680"
@@ -325,14 +325,14 @@
         "chase meidroth": {
             "fd": "+750"
         },
-        "austin hedges": {
-            "fd": "+900"
-        },
         "josh rojas": {
             "fd": "+800"
         },
         "brayan rocchio": {
             "fd": "+830"
+        },
+        "austin hedges": {
+            "fd": "+900"
         }
     },
     "wsh @ mil": {
@@ -354,28 +354,28 @@
         "cj abrams": {
             "fd": "+520"
         },
+        "luis garcia": {
+            "fd": "+540"
+        },
         "william contreras": {
             "fd": "+560"
         },
         "nathaniel lowe": {
             "fd": "+560"
         },
-        "luis garcia": {
-            "fd": "+540"
+        "daylen lile": {
+            "fd": "+750"
+        },
+        "caleb durbin": {
+            "fd": "+750"
+        },
+        "isaac collins": {
+            "fd": "+800"
         },
         "brady house": {
             "fd": "+800"
         },
         "sal frelick": {
-            "fd": "+830"
-        },
-        "isaac collins": {
-            "fd": "+800"
-        },
-        "daylen lile": {
-            "fd": "+750"
-        },
-        "": {
             "fd": "+830"
         },
         "joey ortiz": {
