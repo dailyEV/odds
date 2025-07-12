@@ -12,13 +12,13 @@
         "willy adames": {
             "fd": "+560"
         },
-        "teoscar hernandez": {
-            "fd": "+600"
-        },
         "heliot ramos": {
             "fd": "+600"
         },
         "mike yastrzemski": {
+            "fd": "+600"
+        },
+        "teoscar hernandez": {
             "fd": "+600"
         },
         "andy pages": {
@@ -27,17 +27,14 @@
         "mookie betts": {
             "fd": "+750"
         },
-        "freddie freeman": {
+        "michael conforto": {
             "fd": "+800"
         },
-        "michael conforto": {
+        "freddie freeman": {
             "fd": "+800"
         },
         "casey schmitt": {
             "fd": "+870"
-        },
-        "jung hoo lee": {
-            "fd": "+1100"
         },
         "dominic smith": {
             "fd": "+1060"
@@ -48,11 +45,14 @@
         "patrick bailey": {
             "fd": "+1100"
         },
-        "hyeseong kim": {
-            "fd": "+1100"
-        },
         "tommy edman": {
             "fd": "+1200"
+        },
+        "jung hoo lee": {
+            "fd": "+1100"
+        },
+        "hyeseong kim": {
+            "fd": "+1100"
         }
     },
     "mia @ bal": {
@@ -174,13 +174,13 @@
         "jarren duran": {
             "fd": "+560"
         },
+        "yandy diaz": {
+            "fd": "+600"
+        },
         "junior caminero": {
             "fd": "+600"
         },
         "ceddanne rafaela": {
-            "fd": "+600"
-        },
-        "yandy diaz": {
             "fd": "+600"
         },
         "roman anthony": {
@@ -189,11 +189,11 @@
         "trevor story": {
             "fd": "+630"
         },
-        "christopher morel": {
-            "fd": "+630"
-        },
         "carlos narvaez": {
             "fd": "+680"
+        },
+        "christopher morel": {
+            "fd": "+630"
         },
         "danny jansen": {
             "fd": "+800"
@@ -242,22 +242,22 @@
         "andrew benintendi": {
             "fd": "+520"
         },
-        "angel martinez": {
-            "fd": "+560"
-        },
         "lenyn sosa": {
             "fd": "+540"
         },
         "mike tauchman": {
             "fd": "+560"
         },
+        "angel martinez": {
+            "fd": "+560"
+        },
         "nolan jones": {
             "fd": "+600"
         },
-        "kyle teel": {
+        "colson montgomery": {
             "fd": "+630"
         },
-        "colson montgomery": {
+        "kyle teel": {
             "fd": "+630"
         },
         "will robertson": {
@@ -395,22 +395,22 @@
         "corey seager": {
             "fd": "+460"
         },
-        "jake burger": {
-            "fd": "+600"
+        "christian walker": {
+            "fd": "+520"
         },
         "victor caratini": {
             "fd": "+560"
         },
-        "christian walker": {
-            "fd": "+520"
+        "jose altuve": {
+            "fd": "+600"
+        },
+        "jake burger": {
+            "fd": "+600"
         },
         "wyatt langford": {
             "fd": "+600"
         },
         "isaac paredes": {
-            "fd": "+600"
-        },
-        "jose altuve": {
             "fd": "+600"
         },
         "yainer diaz": {
@@ -419,29 +419,29 @@
         "adolis garcia": {
             "fd": "+750"
         },
-        "cam smith": {
-            "fd": "+870"
-        },
         "marcus semien": {
             "fd": "+830"
-        },
-        "brice matthews": {
-            "fd": "+900"
         },
         "taylor trammell": {
             "fd": "+830"
         },
+        "cam smith": {
+            "fd": "+870"
+        },
         "jonah heim": {
             "fd": "+900"
         },
-        "mauricio dubon": {
-            "fd": "+1300"
+        "brice matthews": {
+            "fd": "+900"
+        },
+        "michael helman": {
+            "fd": "+1100"
         },
         "ezequiel duran": {
             "fd": "+1200"
         },
-        "michael helman": {
-            "fd": "+1100"
+        "mauricio dubon": {
+            "fd": "+1300"
         },
         "sam haggerty": {
             "fd": "+1300"
