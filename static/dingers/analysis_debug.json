@@ -17861,7 +17861,7 @@
         "fd_avg": 371,
         "fd_median": "+370",
         "fd_std_dev": 78.68,
-        "fd_z_score": -0.52
+        "fd_z_score": -0.65
     },
     "jarred kelenic": {
         "pn": {
@@ -18295,7 +18295,7 @@
         "fd_avg": 501,
         "fd_median": "+520",
         "fd_std_dev": 112.84,
-        "fd_z_score": -0.19
+        "fd_z_score": -0.01
     },
     "michael harris": {
         "pn": {
@@ -18461,7 +18461,7 @@
         "fd_avg": 652,
         "fd_median": "+680",
         "fd_std_dev": 146.22,
-        "fd_z_score": 0.67
+        "fd_z_score": 1.01
     },
     "ozzie albies": {
         "pn": {
@@ -18646,7 +18646,7 @@
         "fd_avg": 652,
         "fd_median": "+630",
         "fd_std_dev": 108.11,
-        "fd_z_score": -0.48
+        "fd_z_score": -0.02
     },
     "will wagner": {
         "pn": {
@@ -19441,7 +19441,7 @@
         "fd_avg": 1686,
         "fd_median": "+1700",
         "fd_std_dev": 723.55,
-        "fd_z_score": -0.67
+        "fd_z_score": -0.12
     },
     "drake baldwin": {
         "pn": {
@@ -28283,7 +28283,7 @@
         "fd_avg": 581,
         "fd_median": "+600",
         "fd_std_dev": 161.74,
-        "fd_z_score": 0.12,
+        "fd_z_score": 0.43,
         "circa": {
             "2025-04-04": "+775/-1200",
             "2025-04-07": "+650/-950",
@@ -28664,7 +28664,7 @@
         "fd_avg": 514,
         "fd_median": "+520",
         "fd_std_dev": 119.12,
-        "fd_z_score": 0.72
+        "fd_z_score": 1.14
     },
     "pedro pages": {
         "fd": {
@@ -29289,7 +29289,7 @@
         "fd_avg": 785,
         "fd_median": "+680",
         "fd_std_dev": 201.88,
-        "fd_z_score": 0.22,
+        "fd_z_score": 0.57,
         "pn": {
             "2025-04-16": "638/-1286",
             "2025-04-17": "687/-1452",
@@ -29486,7 +29486,7 @@
         "fd_avg": 488,
         "fd_median": "+500",
         "fd_std_dev": 106.94,
-        "fd_z_score": 0.67
+        "fd_z_score": 0.58
     },
     "jordan walker": {
         "circa": {
@@ -29997,7 +29997,7 @@
         "fd_avg": 631,
         "fd_median": "+600",
         "fd_std_dev": 180.53,
-        "fd_z_score": -0.17,
+        "fd_z_score": 0.11,
         "pn": {
             "2025-04-16": "712/-1543",
             "2025-04-17": "773/-1770",
@@ -38237,7 +38237,7 @@
         "fd_avg": 778,
         "fd_median": "+750",
         "fd_std_dev": 176.47,
-        "fd_z_score": 0.12,
+        "fd_z_score": 0.41,
         "pn": {
             "2025-04-16": "844/-2063",
             "2025-04-18": "870/-2174",
@@ -38343,7 +38343,7 @@
         "fd_avg": 746,
         "fd_median": "+750",
         "fd_std_dev": 411.8,
-        "fd_z_score": -0.16,
+        "fd_z_score": -0.11,
         "pn": {
             "2025-04-16": "692/-1471",
             "2025-04-22": "750/-1683",
@@ -38445,7 +38445,7 @@
         "fd_avg": 1092,
         "fd_median": "+1300",
         "fd_std_dev": 336.63,
-        "fd_z_score": 0.02,
+        "fd_z_score": 0.91,
         "pn": {
             "2025-04-16": "749/-1677",
             "2025-04-17": "814/-1937",
@@ -44282,7 +44282,7 @@
         "fd_avg": 407,
         "fd_median": "+420",
         "fd_std_dev": 92.43,
-        "fd_z_score": 0.79,
+        "fd_z_score": 1.01,
         "circa": {
             "2025-04-04": "+335/-410",
             "2025-04-08": "+520/-700",
@@ -46425,7 +46425,7 @@
         "fd_avg": 620,
         "fd_median": "+560",
         "fd_std_dev": 306.8,
-        "fd_z_score": 0
+        "fd_z_score": 0.03
     },
     "miguel rojas": {
         "pn": {
@@ -47021,7 +47021,7 @@
         "fd_avg": 727,
         "fd_median": "+680",
         "fd_std_dev": 200.76,
-        "fd_z_score": 0.51,
+        "fd_z_score": 0.86,
         "circa": {
             "2025-05-01": "+455/-600",
             "2025-05-11": "+650/-950",
@@ -51688,7 +51688,7 @@
         "fd_avg": 356,
         "fd_median": "+350",
         "fd_std_dev": 88.87,
-        "fd_z_score": -0.41
+        "fd_z_score": -0.52
     },
     "daylen lile": {
         "fd": {
@@ -54227,7 +54227,7 @@
         "fd_avg": 528,
         "fd_median": "+520",
         "fd_std_dev": 124.2,
-        "fd_z_score": 0.82,
+        "fd_z_score": 0,
         "circa": {
             "2025-07-06": "+525/-710"
         },
@@ -54235,7 +54235,7 @@
         "circa_avg": 525,
         "circa_median": "+525/-710",
         "circa_std_dev": 0,
-        "circa_z_score": 0.82,
+        "circa_z_score": 0,
         "pn": {
             "2025-07-08": "598/-1262",
             "2025-07-12": "593/-1243"
