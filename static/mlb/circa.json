@@ -129,6 +129,47 @@
                 "jackson merrill": "+575/-800",
                 "manny machado": "+450/-590"
             }
+        },
+        "tex @ hou": {
+            "hr": {
+                "wyatt langford": "+600/-850",
+                "corey seager": "+425/-550",
+                "jake burger": "+550/-750",
+                "marcus semien": "+900/-1450",
+                "adolis garcia": "+750/-1150",
+                "jose altuve": "+650/-950",
+                "isaac paredes": "+575/-800",
+                "christian walker": "+575/-800",
+                "cam smith": "+850/-1350",
+                "yainer diaz": "+675/-1000"
+            }
+        },
+        "ari @ laa": {
+            "hr": {
+                "eugenio suarez": "+350/-435",
+                "corbin carroll": "+375/-470",
+                "ketel marte": "+250/-300",
+                "lourdes gurriel": "+500/-670",
+                "josh naylor": "+500/-670",
+                "mike trout": "+290/-350",
+                "taylor ward": "+450/-590",
+                "logan ohoppe": "+425/-550",
+                "zach neto": "+425/-550",
+                "jo adell": "+400/-510"
+            }
+        },
+        "tor @ ath": {
+            "hr": {
+                "vladimir guerrero": "+350/-435",
+                "george springer": "+350/-435",
+                "bo bichette": "+500/-670",
+                "alejandro kirk": "+525/-710",
+                "brent rooker": "+350/-435",
+                "lawrence butler": "+450/-590",
+                "tyler soderstrom": "+475/-630",
+                "shea langeliers": "+350/-435",
+                "nick kurtz": "+350/-435"
+            }
         }
     },
     "2025-07-11": {
