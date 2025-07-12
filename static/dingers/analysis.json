@@ -1559,7 +1559,7 @@
         "fd_avg": 591,
         "fd_median": "+560",
         "fd_std_dev": 160.52,
-        "fd_z_score": 0.55
+        "fd_z_score": 0.06
     },
     "junior caminero": {
         "pn_avg_vig": 590,
@@ -1651,7 +1651,7 @@
         "fd_avg": 792,
         "fd_median": "+700",
         "fd_std_dev": 187.08,
-        "fd_z_score": -0.6,
+        "fd_z_score": -0.87,
         "circa_avg_vig": 853,
         "circa_avg": 656,
         "circa_median": "+700/-1050",
@@ -4795,7 +4795,7 @@
         "fd_avg": 813,
         "fd_median": "+750",
         "fd_std_dev": 542.52,
-        "fd_z_score": 0.34
+        "fd_z_score": 0.46
     },
     "romy gonzalez": {
         "pn_avg_vig": 679,
