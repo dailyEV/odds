@@ -407,9 +407,6 @@
         "ryan mcmahon": {
             "fd": "+400"
         },
-        "": {
-            "fd": "+370"
-        },
         "spencer steer": {
             "fd": "+420"
         },
@@ -444,23 +441,18 @@
             "fd": "+750"
         }
     },
-    "col-gm2 @ cin-gm2": {
-        "": {
-            "fd": "+430"
-        }
-    },
     "tex @ hou": {
         "corey seager": {
             "fd": "+450"
+        },
+        "victor caratini": {
+            "fd": "+560"
         },
         "christian walker": {
             "fd": "+600"
         },
         "jake burger": {
             "fd": "+600"
-        },
-        "victor caratini": {
-            "fd": "+560"
         },
         "wyatt langford": {
             "fd": "+600"
