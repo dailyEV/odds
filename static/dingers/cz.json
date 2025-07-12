@@ -9,10 +9,10 @@
         "paul goldschmidt": {
             "cz": "350"
         },
-        "austin wells": {
-            "cz": "380"
-        },
         "kyle tucker": {
+            "cz": "375"
+        },
+        "austin wells": {
             "cz": "380"
         },
         "pete crow armstrong": {
@@ -52,7 +52,7 @@
             "cz": "650"
         },
         "jon berti": {
-            "cz": "800"
+            "cz": "850"
         }
     },
     "mia @ bal": {
@@ -113,7 +113,7 @@
     },
     "sea @ det": {
         "cal raleigh": {
-            "cz": "225"
+            "cz": "220"
         },
         "spencer torkelson": {
             "cz": "400"
@@ -130,10 +130,10 @@
         "jorge polanco": {
             "cz": "450"
         },
-        "julio rodriguez": {
-            "cz": "450"
-        },
         "jake rogers": {
+            "cz": "500"
+        },
+        "julio rodriguez": {
             "cz": "500"
         },
         "luke raley": {
@@ -164,12 +164,12 @@
             "cz": "750"
         },
         "ben williamson": {
-            "cz": "850"
+            "cz": "800"
         }
     },
     "tb @ bos": {
         "wilyer abreu": {
-            "cz": "320"
+            "cz": "360"
         },
         "jarren duran": {
             "cz": "380"
@@ -298,13 +298,13 @@
         "royce lewis": {
             "cz": "400"
         },
-        "andrew mccutchen": {
-            "cz": "400"
-        },
         "trevor larnach": {
             "cz": "400"
         },
         "spencer horwitz": {
+            "cz": "450"
+        },
+        "andrew mccutchen": {
             "cz": "450"
         },
         "willi castro": {
@@ -313,20 +313,14 @@
         "ryan jeffers": {
             "cz": "450"
         },
-        "nick gonzales": {
-            "cz": "500"
-        },
-        "tommy pham": {
-            "cz": "550"
-        },
         "ty france": {
             "cz": "600"
         },
-        "henry davis": {
+        "nick gonzales": {
             "cz": "600"
         },
         "kebryan hayes": {
-            "cz": "650"
+            "cz": "700"
         },
         "isiah kiner falefa": {
             "cz": "800"
@@ -339,20 +333,50 @@
         "ronald acuna": {
             "cz": "300"
         },
-        "marcell ozuna": {
-            "cz": "360"
-        },
         "sean murphy": {
             "cz": "380"
+        },
+        "marcell ozuna": {
+            "cz": "380"
+        },
+        "alec burleson": {
+            "cz": "400"
+        },
+        "willson contreras": {
+            "cz": "400"
+        },
+        "nolan gorman": {
+            "cz": "400"
+        },
+        "lars nootbaar": {
+            "cz": "450"
         },
         "ozzie albies": {
             "cz": "450"
         },
+        "yohel pozo": {
+            "cz": "500"
+        },
         "jurickson profar": {
+            "cz": "500"
+        },
+        "thomas saggese": {
+            "cz": "500"
+        },
+        "masyn winn": {
             "cz": "500"
         },
         "michael harris": {
             "cz": "500"
+        },
+        "brendan donovan": {
+            "cz": "600"
+        },
+        "nacho alvarez": {
+            "cz": "650"
+        },
+        "victor scott": {
+            "cz": "650"
         },
         "nick allen": {
             "cz": "800"
@@ -402,7 +426,7 @@
             "cz": "650"
         },
         "jung hoo lee": {
-            "cz": "700"
+            "cz": "650"
         },
         "andrew knizner": {
             "cz": "700"
@@ -419,7 +443,7 @@
             "cz": "225"
         },
         "elly de la cruz": {
-            "cz": "250"
+            "cz": "240"
         },
         "austin hays": {
             "cz": "260"
@@ -440,7 +464,7 @@
             "cz": "320"
         },
         "spencer steer": {
-            "cz": "350"
+            "cz": "340"
         },
         "noelvi marte": {
             "cz": "360"
@@ -456,6 +480,12 @@
         },
         "tj friedl": {
             "cz": "400"
+        },
+        "yanquiel fernandez": {
+            "cz": "450"
+        },
+        "orlando arcia": {
+            "cz": "500"
         },
         "tyler freeman": {
             "cz": "500"
@@ -495,13 +525,13 @@
         "riley adams": {
             "cz": "500"
         },
-        "joey ortiz": {
-            "cz": "500"
-        },
         "brady house": {
             "cz": "550"
         },
         "daylen lile": {
+            "cz": "550"
+        },
+        "joey ortiz": {
             "cz": "550"
         },
         "andruw monasterio": {
@@ -604,13 +634,13 @@
         "cam smith": {
             "cz": "550"
         },
-        "victor caratini": {
-            "cz": "550"
-        },
         "marcus semien": {
             "cz": "550"
         },
         "jonah heim": {
+            "cz": "600"
+        },
+        "victor caratini": {
             "cz": "600"
         },
         "brice matthews": {
