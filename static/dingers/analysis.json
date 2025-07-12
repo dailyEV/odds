@@ -208,10 +208,10 @@
         "circa_median": "+520/-700",
         "circa_std_dev": 125.61,
         "circa_z_score": -1.08,
-        "fd_avg_vig": 680,
+        "fd_avg_vig": 681,
         "fd_avg": 457,
         "fd_median": "+470",
-        "fd_std_dev": 117.35,
+        "fd_std_dev": 117.22,
         "fd_z_score": -0.83
     },
     "alex call": {
@@ -3017,17 +3017,17 @@
         "circa_median": "+550/-750",
         "circa_std_dev": 155.81,
         "circa_z_score": -0.64,
-        "fd_avg_vig": 899,
+        "fd_avg_vig": 901,
         "fd_avg": 552,
         "fd_median": "+540",
-        "fd_std_dev": 289.41,
+        "fd_std_dev": 289.11,
         "fd_z_score": -0.53
     },
     "sal frelick": {
-        "fd_avg_vig": 5521,
-        "fd_avg": 1197,
+        "fd_avg_vig": 5538,
+        "fd_avg": 1198,
         "fd_median": "+1400",
-        "fd_std_dev": 560.21,
+        "fd_std_dev": 559.84,
         "fd_z_score": -0.66,
         "circa_avg_vig": 1432,
         "circa_avg": 980,
@@ -3167,10 +3167,10 @@
         "pn_median": "916/-2385",
         "pn_std_dev": 107.48,
         "pn_z_score": 0,
-        "fd_avg_vig": 3856,
+        "fd_avg_vig": 3848,
         "fd_avg": 1055,
         "fd_median": "+1400",
-        "fd_std_dev": 296.33,
+        "fd_std_dev": 296.72,
         "fd_z_score": -0.86,
         "circa_avg_vig": 1185,
         "circa_avg": 850,
@@ -5007,10 +5007,10 @@
         "fd_z_score": 0
     },
     "riley adams": {
-        "fd_avg_vig": 1652,
-        "fd_avg": 777,
+        "fd_avg_vig": 1647,
+        "fd_avg": 776,
         "fd_median": "+700",
-        "fd_std_dev": 336.71,
+        "fd_std_dev": 336.66,
         "fd_z_score": 0.16,
         "pn_avg_vig": 996,
         "pn_avg": 608,
@@ -5681,11 +5681,11 @@
         "fd_z_score": 0
     },
     "caleb durbin": {
-        "fd_avg_vig": 3607,
-        "fd_avg": 1023,
+        "fd_avg_vig": 3622,
+        "fd_avg": 1024,
         "fd_median": "+1200",
-        "fd_std_dev": 222.24,
-        "fd_z_score": -1.0,
+        "fd_std_dev": 221.29,
+        "fd_z_score": -1.01,
         "pn_avg_vig": 1520,
         "pn_avg": 814,
         "pn_median": "910/-2356",
@@ -5739,10 +5739,10 @@
         "fd_z_score": -0.76
     },
     "isaac collins": {
-        "fd_avg_vig": 2119,
-        "fd_avg": 875,
+        "fd_avg_vig": 2125,
+        "fd_avg": 876,
         "fd_median": "+750",
-        "fd_std_dev": 533.5,
+        "fd_std_dev": 533.18,
         "fd_z_score": -0.14
     },
     "jordan beck": {
