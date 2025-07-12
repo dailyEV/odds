@@ -1,7 +1,7 @@
 {
     "chc @ nyy": {
         "aaron judge": {
-            "fd": "+180"
+            "fd": "+186"
         },
         "giancarlo stanton": {
             "fd": "+280"
@@ -13,10 +13,10 @@
             "fd": "+400"
         },
         "seiya suzuki": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "trent grisham": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "pete crow armstrong": {
             "fd": "+440"
@@ -25,7 +25,7 @@
             "fd": "+480"
         },
         "austin wells": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "cody bellinger": {
             "fd": "+520"
@@ -34,19 +34,19 @@
             "fd": "+680"
         },
         "anthony volpe": {
-            "fd": "+680"
-        },
-        "ian happ": {
             "fd": "+630"
         },
-        "carson kelly": {
+        "ian happ": {
             "fd": "+680"
+        },
+        "carson kelly": {
+            "fd": "+630"
         },
         "oswald peraza": {
             "fd": "+830"
         },
         "justin turner": {
-            "fd": "+1000"
+            "fd": "+900"
         },
         "jon berti": {
             "fd": "+1060"
