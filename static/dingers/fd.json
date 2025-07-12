@@ -177,6 +177,9 @@
         "nolan gorman": {
             "fd": "+450"
         },
+        "sean murphy": {
+            "fd": "+460"
+        },
         "alec burleson": {
             "fd": "+470"
         },
@@ -189,14 +192,14 @@
         "marcell ozuna": {
             "fd": "+520"
         },
+        "ozzie albies": {
+            "fd": "+600"
+        },
         "pedro pages": {
             "fd": "+600"
         },
         "brendan donovan": {
             "fd": "+630"
-        },
-        "ozzie albies": {
-            "fd": "+600"
         },
         "masyn winn": {
             "fd": "+630"
@@ -204,25 +207,20 @@
         "jurickson profar": {
             "fd": "+680"
         },
+        "thomas saggese": {
+            "fd": "+680"
+        },
         "michael harris": {
             "fd": "+750"
         },
-        "": {
-            "fd": "+680"
-        },
-        "thomas saggese": {
-            "fd": "+680"
+        "jarred kelenic": {
+            "fd": "+870"
         },
         "victor scott": {
             "fd": "+900"
         },
         "nick allen": {
             "fd": "+1300"
-        }
-    },
-    "atl-gm2 @ stl-gm2": {
-        "": {
-            "fd": "+1100"
         }
     },
     "lad @ sf": {
@@ -391,6 +389,62 @@
         },
         "kyle isbel": {
             "fd": "+1060"
+        }
+    },
+    "tb @ bos": {
+        "wilyer abreu": {
+            "fd": "+520"
+        },
+        "junior caminero": {
+            "fd": "+560"
+        },
+        "jarren duran": {
+            "fd": "+560"
+        },
+        "yandy diaz": {
+            "fd": "+600"
+        },
+        "ceddanne rafaela": {
+            "fd": "+600"
+        },
+        "trevor story": {
+            "fd": "+630"
+        },
+        "christopher morel": {
+            "fd": "+680"
+        },
+        "carlos narvaez": {
+            "fd": "+750"
+        },
+        "roman anthony": {
+            "fd": "+750"
+        },
+        "marcelo mayer": {
+            "fd": "+800"
+        },
+        "danny jansen": {
+            "fd": "+800"
+        },
+        "masataka yoshida": {
+            "fd": "+800"
+        },
+        "abraham toro": {
+            "fd": "+900"
+        },
+        "ha seong kim": {
+            "fd": "+1000"
+        },
+        "curtis mead": {
+            "fd": "+1060"
+        },
+        "jose caballero": {
+            "fd": "+1100"
+        },
+        "taylor walls": {
+            "fd": "+1100"
+        },
+        "jake mangum": {
+            "fd": "+1200"
         }
     },
     "cle @ chw": {
