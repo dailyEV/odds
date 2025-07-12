@@ -121,12 +121,6 @@
         "victor caratini": {
             "fd": "+540"
         },
-        "": {
-            "fd": "+560"
-        },
-        "wyatt langford": {
-            "fd": "+600"
-        },
         "isaac paredes": {
             "fd": "+560"
         },
@@ -134,6 +128,9 @@
             "fd": "+600"
         },
         "jose altuve": {
+            "fd": "+600"
+        },
+        "wyatt langford": {
             "fd": "+600"
         },
         "adolis garcia": {
@@ -154,17 +151,17 @@
         "taylor trammell": {
             "fd": "+900"
         },
-        "mauricio dubon": {
-            "fd": "+1200"
-        },
         "michael helman": {
             "fd": "+1100"
         },
-        "sam haggerty": {
-            "fd": "+1300"
+        "mauricio dubon": {
+            "fd": "+1200"
         },
         "ezequiel duran": {
             "fd": "+1200"
+        },
+        "sam haggerty": {
+            "fd": "+1300"
         }
     }
 }
