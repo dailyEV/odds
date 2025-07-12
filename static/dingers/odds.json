@@ -143,6 +143,58 @@
             "365": "+1600/-5000"
         }
     },
+    "tex @ hou": {
+        "corey seager": {
+            "fd": "+430",
+            "kambi": "700/-1250"
+        },
+        "christian walker": {
+            "fd": "+540",
+            "kambi": "700/-1250"
+        },
+        "victor caratini": {
+            "fd": "+540"
+        },
+        "jake burger": {
+            "fd": "+560",
+            "kambi": "480/-770"
+        },
+        "wyatt langford": {
+            "fd": "+560",
+            "kambi": "700/-1250"
+        },
+        "isaac paredes": {
+            "fd": "+560",
+            "kambi": "950/-2000"
+        },
+        "jonah heim": {
+            "kambi": "1300/-5000"
+        },
+        "josh smith": {
+            "kambi": "1400/-10000"
+        },
+        "jose altuve": {
+            "kambi": "1200/-3335"
+        },
+        "cam smith": {
+            "kambi": "1100/-3335"
+        },
+        "evan carter": {
+            "kambi": "1400/-10000"
+        },
+        "yainer diaz": {
+            "kambi": "1200/-5000"
+        },
+        "marcus semien": {
+            "kambi": "1000/-2500"
+        },
+        "taylor trammell": {
+            "kambi": "800/-1430"
+        },
+        "kyle higashioka": {
+            "kambi": "950/-2500"
+        }
+    },
     "phi @ sd": {
         "alec bohm": {
             "365": "+700/-1100",
@@ -284,50 +336,6 @@
         },
         "max muncy": {
             "kambi": "750/-1667"
-        }
-    },
-    "tex @ hou": {
-        "jonah heim": {
-            "kambi": "1300/-5000"
-        },
-        "josh smith": {
-            "kambi": "1400/-10000"
-        },
-        "jose altuve": {
-            "kambi": "1200/-3335"
-        },
-        "isaac paredes": {
-            "kambi": "950/-2000"
-        },
-        "cam smith": {
-            "kambi": "1100/-3335"
-        },
-        "evan carter": {
-            "kambi": "1400/-10000"
-        },
-        "wyatt langford": {
-            "kambi": "700/-1250"
-        },
-        "christian walker": {
-            "kambi": "700/-1250"
-        },
-        "yainer diaz": {
-            "kambi": "1200/-5000"
-        },
-        "corey seager": {
-            "kambi": "700/-1250"
-        },
-        "marcus semien": {
-            "kambi": "1000/-2500"
-        },
-        "taylor trammell": {
-            "kambi": "800/-1430"
-        },
-        "kyle higashioka": {
-            "kambi": "950/-2500"
-        },
-        "jake burger": {
-            "kambi": "480/-770"
         }
     },
     "wsh @ mil": {

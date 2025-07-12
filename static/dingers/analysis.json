@@ -3208,11 +3208,11 @@
         "circa_median": "+425/-550",
         "circa_std_dev": 78.64,
         "circa_z_score": 0,
-        "fd_avg_vig": 613,
-        "fd_avg": 424,
+        "fd_avg_vig": 615,
+        "fd_avg": 425,
         "fd_median": "+430",
-        "fd_std_dev": 81.6,
-        "fd_z_score": 0
+        "fd_std_dev": 81.93,
+        "fd_z_score": 1.4
     },
     "nolan arenado": {
         "circa_avg_vig": 891,
@@ -3308,8 +3308,8 @@
         "fd_avg_vig": 937,
         "fd_avg": 565,
         "fd_median": "+560",
-        "fd_std_dev": 143.17,
-        "fd_z_score": 0
+        "fd_std_dev": 142.28,
+        "fd_z_score": -0.04
     },
     "cam smith": {
         "pn_avg_vig": 1040,
@@ -3525,11 +3525,11 @@
         "circa_z_score": 0
     },
     "corey seager": {
-        "fd_avg_vig": 478,
-        "fd_avg": 351,
+        "fd_avg_vig": 480,
+        "fd_avg": 352,
         "fd_median": "+350",
-        "fd_std_dev": 79.1,
-        "fd_z_score": 0,
+        "fd_std_dev": 78.9,
+        "fd_z_score": 0.99,
         "pn_avg_vig": 477,
         "pn_avg": 354,
         "pn_median": "364/-586",
@@ -3765,11 +3765,11 @@
         "pn_median": "401/-670",
         "pn_std_dev": 71.07,
         "pn_z_score": 0,
-        "fd_avg_vig": 613,
-        "fd_avg": 424,
+        "fd_avg_vig": 616,
+        "fd_avg": 426,
         "fd_median": "+420",
-        "fd_std_dev": 77.29,
-        "fd_z_score": 0
+        "fd_std_dev": 78.32,
+        "fd_z_score": 1.71
     },
     "fernando tatis": {
         "fd_avg_vig": 464,
@@ -5599,11 +5599,11 @@
         "circa_z_score": 0
     },
     "wyatt langford": {
-        "fd_avg_vig": 648,
-        "fd_avg": 441,
+        "fd_avg_vig": 651,
+        "fd_avg": 443,
         "fd_median": "+440",
-        "fd_std_dev": 86.56,
-        "fd_z_score": 0,
+        "fd_std_dev": 86.89,
+        "fd_z_score": 1.35,
         "pn_avg_vig": 606,
         "pn_avg": 425,
         "pn_median": "434/-750",
@@ -5727,11 +5727,11 @@
         "circa_median": "+800/-1250",
         "circa_std_dev": 176.78,
         "circa_z_score": 0,
-        "fd_avg_vig": 1291,
-        "fd_avg": 682,
+        "fd_avg_vig": 1281,
+        "fd_avg": 679,
         "fd_median": "+680",
-        "fd_std_dev": 158.82,
-        "fd_z_score": 0
+        "fd_std_dev": 158.93,
+        "fd_z_score": -0.87
     },
     "isaac collins": {
         "fd_avg_vig": 2131,

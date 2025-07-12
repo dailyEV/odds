@@ -2,10 +2,10 @@
     "josh naylor": {
         "lastHRDt": "2025-07-07-39",
         "pa": {
-            "streak": 6,
+            "streak": 10,
             "sd": 27.11,
-            "z": -0.8,
-            "z_median": -0.52,
+            "z": -0.65,
+            "z_median": -0.37,
             "btwn": [
                 21,
                 11,
@@ -104,20 +104,20 @@
             ],
             "med": 20.0,
             "avg": 27.7,
-            "diff": -21.7
+            "diff": -17.7
         },
         "close": 11,
-        "close3": 2,
+        "close3": 1,
         "close5": 2,
         "close7": 3
     },
     "lourdes gurriel": {
         "lastHRDt": "2025-07-01-42",
         "pa": {
-            "streak": 35,
+            "streak": 39,
             "sd": 32.97,
-            "z": 0.23,
-            "z_median": 0.5,
+            "z": 0.35,
+            "z_median": 0.62,
             "btwn": [
                 20,
                 34,
@@ -244,7 +244,7 @@
             ],
             "med": 18.5,
             "avg": 27.5,
-            "diff": 7.5
+            "diff": 11.5
         },
         "close": 4,
         "close3": 0,
@@ -254,10 +254,10 @@
     "corbin carroll": {
         "lastHRDt": "2025-07-09-65",
         "pa": {
-            "streak": 2,
+            "streak": 6,
             "sd": 33.94,
-            "z": -0.68,
-            "z_median": -0.41,
+            "z": -0.56,
+            "z_median": -0.29,
             "btwn": [
                 30,
                 5,
@@ -334,7 +334,7 @@
             ],
             "med": 16.0,
             "avg": 25.0,
-            "diff": -23.0
+            "diff": -19.0
         },
         "close": 16,
         "close3": 1,
@@ -344,10 +344,10 @@
     "ketel marte": {
         "lastHRDt": "2025-07-03-68",
         "pa": {
-            "streak": 20,
+            "streak": 24,
             "sd": 42.96,
-            "z": -0.21,
-            "z_median": 0.12,
+            "z": -0.12,
+            "z_median": 0.21,
             "btwn": [
                 210,
                 10,
@@ -516,7 +516,7 @@
             ],
             "med": 15.0,
             "avg": 29.2,
-            "diff": -9.2
+            "diff": -5.2
         },
         "close": 9,
         "close3": 0,
@@ -526,10 +526,10 @@
     "geraldo perdomo": {
         "lastHRDt": "2025-07-09-34",
         "pa": {
-            "streak": 4,
+            "streak": 8,
             "sd": 80.76,
-            "z": -0.86,
-            "z_median": -0.61,
+            "z": -0.81,
+            "z_median": -0.56,
             "btwn": [
                 197,
                 26,
@@ -559,20 +559,20 @@
             ],
             "med": 53,
             "avg": 73.4,
-            "diff": -69.4
+            "diff": -65.4
         },
-        "close": 7,
-        "close3": 0,
-        "close5": 0,
-        "close7": 0
+        "close": 8,
+        "close3": 1,
+        "close5": 1,
+        "close7": 1
     },
     "jake mccarthy": {
         "lastHRDt": "2025-07-01-31",
         "pa": {
-            "streak": 22,
+            "streak": 26,
             "sd": 73.25,
-            "z": -0.52,
-            "z_median": -0.12,
+            "z": -0.46,
+            "z_median": -0.07,
             "btwn": [
                 41,
                 17,
@@ -599,7 +599,7 @@
             ],
             "med": 31.0,
             "avg": 59.8,
-            "diff": -37.8
+            "diff": -33.8
         },
         "close": 3,
         "close3": 0,
@@ -672,10 +672,10 @@
     "eugenio suarez": {
         "lastHRDt": "2025-07-09-23",
         "pa": {
-            "streak": 4,
+            "streak": 8,
             "sd": 19.51,
-            "z": -0.84,
-            "z_median": -0.56,
+            "z": -0.63,
+            "z_median": -0.36,
             "btwn": [
                 11,
                 61,
@@ -978,7 +978,7 @@
             ],
             "med": 15.0,
             "avg": 20.3,
-            "diff": -16.3
+            "diff": -12.3
         },
         "close": 9,
         "close3": 0,
@@ -1024,10 +1024,10 @@
     "randal grichuk": {
         "lastHRDt": "2025-07-05-67",
         "pa": {
-            "streak": 10,
+            "streak": 12,
             "sd": 21.36,
-            "z": -0.59,
-            "z_median": -0.19,
+            "z": -0.49,
+            "z_median": -0.09,
             "btwn": [
                 0,
                 42,
@@ -1235,7 +1235,7 @@
             ],
             "med": 14,
             "avg": 22.5,
-            "diff": -12.5
+            "diff": -10.5
         },
         "close": 7,
         "close3": 0,
@@ -1245,17 +1245,17 @@
     "jose herrera": {
         "lastHRDt": "2025-04-06-15",
         "pa": {
-            "streak": 137,
+            "streak": 141,
             "sd": 235.47,
-            "z": -0.22,
-            "z_median": -0.22,
+            "z": -0.2,
+            "z_median": -0.2,
             "btwn": [
                 355,
                 22
             ],
             "med": 188.5,
             "avg": 188.5,
-            "diff": -51.5
+            "diff": -47.5
         },
         "close": 1,
         "close3": 0,
@@ -1265,10 +1265,10 @@
     "alek thomas": {
         "lastHRDt": "2025-07-02-39",
         "pa": {
-            "streak": 23,
+            "streak": 25,
             "sd": 47.79,
-            "z": -0.46,
-            "z_median": -0.09,
+            "z": -0.42,
+            "z_median": -0.05,
             "btwn": [
                 11,
                 18,
@@ -1299,7 +1299,7 @@
             ],
             "med": 27.5,
             "avg": 45.0,
-            "diff": -22.0
+            "diff": -20.0
         },
         "close": 8,
         "close3": 0,
@@ -8582,10 +8582,10 @@
     "kevin newman": {
         "lastHRDt": "2025-06-28-55",
         "pa": {
-            "streak": 6,
+            "streak": 7,
             "sd": 81.32,
-            "z": -0.98,
-            "z_median": -0.77,
+            "z": -0.97,
+            "z_median": -0.76,
             "btwn": [
                 174,
                 42,
@@ -8617,7 +8617,7 @@
             ],
             "med": 69,
             "avg": 85.8,
-            "diff": -79.8
+            "diff": -78.8
         },
         "close": 0,
         "close3": 0,
@@ -9357,10 +9357,10 @@
     "josh bell": {
         "lastHRDt": "2025-06-27-09",
         "pa": {
-            "streak": 44,
+            "streak": 45,
             "sd": 26.75,
-            "z": 0.64,
-            "z_median": 0.95,
+            "z": 0.68,
+            "z_median": 0.99,
             "btwn": [
                 1,
                 33,
@@ -9547,7 +9547,7 @@
             ],
             "med": 18.5,
             "avg": 26.9,
-            "diff": 17.1
+            "diff": 18.1
         },
         "close": 9,
         "close3": 0,
@@ -9663,10 +9663,10 @@
     "brent rooker": {
         "lastHRDt": "2025-07-08-06",
         "pa": {
-            "streak": 10,
+            "streak": 13,
             "sd": 16.11,
-            "z": -0.54,
-            "z_median": -0.19,
+            "z": -0.35,
+            "z_median": 0.0,
             "btwn": [
                 16,
                 28,
@@ -9768,20 +9768,20 @@
             ],
             "med": 13,
             "avg": 18.7,
-            "diff": -8.7
+            "diff": -5.7
         },
-        "close": 8,
-        "close3": 0,
-        "close5": 0,
-        "close7": 0
+        "close": 9,
+        "close3": 1,
+        "close5": 1,
+        "close7": 1
     },
     "lawrence butler": {
         "lastHRDt": "2025-07-08-31",
         "pa": {
-            "streak": 10,
+            "streak": 13,
             "sd": 26.09,
-            "z": -0.57,
-            "z_median": -0.23,
+            "z": -0.46,
+            "z_median": -0.11,
             "btwn": [
                 17,
                 40,
@@ -9825,7 +9825,7 @@
             ],
             "med": 16,
             "avg": 24.9,
-            "diff": -14.9
+            "diff": -11.9
         },
         "close": 7,
         "close3": 0,
@@ -9862,10 +9862,10 @@
     "max muncy": {
         "lastHRDt": "2025-07-08-10",
         "pa": {
-            "streak": 9,
+            "streak": 12,
             "sd": 19.86,
-            "z": -0.5,
-            "z_median": -0.2,
+            "z": -0.35,
+            "z_median": -0.05,
             "btwn": [
                 22,
                 71,
@@ -10084,7 +10084,7 @@
             ],
             "med": 13.0,
             "avg": 19.0,
-            "diff": -10.0
+            "diff": -7.0
         },
         "close": 7,
         "close3": 0,
@@ -10184,10 +10184,10 @@
     "tyler soderstrom": {
         "lastHRDt": "2025-07-10-08",
         "pa": {
-            "streak": 1,
+            "streak": 5,
             "sd": 27.43,
-            "z": -0.91,
-            "z_median": -0.62,
+            "z": -0.77,
+            "z_median": -0.47,
             "btwn": [
                 49,
                 35,
@@ -10220,7 +10220,7 @@
             ],
             "med": 18.0,
             "avg": 26.0,
-            "diff": -25.0
+            "diff": -21.0
         },
         "close": 8,
         "close3": 0,
@@ -10230,10 +10230,10 @@
     "miguel andujar": {
         "lastHRDt": "2025-05-13-74",
         "pa": {
-            "streak": 61,
+            "streak": 64,
             "sd": 37.77,
-            "z": 0.71,
-            "z_median": 1.16,
+            "z": 0.79,
+            "z_median": 1.24,
             "btwn": [
                 50,
                 2,
@@ -10284,7 +10284,7 @@
             ],
             "med": 17.0,
             "avg": 34.1,
-            "diff": 26.9
+            "diff": 29.9
         },
         "close": 4,
         "close3": 0,
@@ -10294,10 +10294,10 @@
     "shea langeliers": {
         "lastHRDt": "2025-07-01-41",
         "pa": {
-            "streak": 22,
+            "streak": 23,
             "sd": 16.79,
-            "z": 0.09,
-            "z_median": 0.36,
+            "z": 0.15,
+            "z_median": 0.42,
             "btwn": [
                 7,
                 27,
@@ -10371,11 +10371,11 @@
             ],
             "med": 16,
             "avg": 20.5,
-            "diff": 1.5
+            "diff": 2.5
         },
         "close": 5,
         "close3": 0,
-        "close5": 1,
+        "close5": 0,
         "close7": 2
     },
     "luis urias": {
@@ -10798,12 +10798,12 @@
         "close7": 0
     },
     "nick kurtz": {
-        "lastHRDt": "2025-07-08-21",
+        "lastHRDt": "2025-07-10-60",
         "pa": {
-            "streak": 9,
-            "sd": 15.9,
-            "z": -0.38,
-            "z_median": -0.09,
+            "streak": 2,
+            "sd": 15.37,
+            "z": -0.83,
+            "z_median": -0.52,
             "btwn": [
                 62,
                 24,
@@ -10818,11 +10818,12 @@
                 17,
                 13,
                 23,
-                11
+                11,
+                10
             ],
-            "med": 10.5,
-            "avg": 15.0,
-            "diff": -6.0
+            "med": 10,
+            "avg": 14.7,
+            "diff": -12.7
         },
         "close": 3,
         "close3": 0,
@@ -10832,10 +10833,10 @@
     "denzel clarke": {
         "lastHRDt": "2025-07-04-62",
         "pa": {
-            "streak": 17,
+            "streak": 19,
             "sd": 21.17,
-            "z": -1.04,
-            "z_median": -0.66,
+            "z": -0.94,
+            "z_median": -0.57,
             "btwn": [
                 23,
                 63,
@@ -10843,7 +10844,7 @@
             ],
             "med": 31,
             "avg": 39.0,
-            "diff": -22.0
+            "diff": -20.0
         },
         "close": 2,
         "close3": 0,
@@ -10907,10 +10908,10 @@
     "austin wynns": {
         "lastHRDt": "2025-06-15-44",
         "pa": {
-            "streak": 35,
+            "streak": 38,
             "sd": 38.85,
-            "z": -0.14,
-            "z_median": 0.23,
+            "z": -0.06,
+            "z_median": 0.31,
             "btwn": [
                 5,
                 27,
@@ -10933,7 +10934,7 @@
             ],
             "med": 26.0,
             "avg": 40.4,
-            "diff": -5.4
+            "diff": -2.4
         },
         "close": 3,
         "close3": 0,
@@ -10960,10 +10961,10 @@
     "zack gelof": {
         "lastHRDt": "2024-09-10-10",
         "pa": {
-            "streak": 92,
+            "streak": 95,
             "sd": 19.52,
-            "z": 3.42,
-            "z_median": 3.79,
+            "z": 3.58,
+            "z_median": 3.94,
             "btwn": [
                 32,
                 16,
@@ -10999,7 +11000,7 @@
             ],
             "med": 18,
             "avg": 25.2,
-            "diff": 66.8
+            "diff": 69.8
         },
         "close": 0,
         "close3": 0,
@@ -11216,10 +11217,10 @@
     "marcus semien": {
         "lastHRDt": "2025-07-09-56",
         "pa": {
-            "streak": 3,
+            "streak": 7,
             "sd": 28.24,
-            "z": -0.87,
-            "z_median": -0.57,
+            "z": -0.73,
+            "z_median": -0.42,
             "btwn": [
                 30,
                 23,
@@ -11462,7 +11463,7 @@
             ],
             "med": 19.0,
             "avg": 27.6,
-            "diff": -24.6
+            "diff": -20.6
         },
         "close": 7,
         "close3": 0,
@@ -13012,10 +13013,10 @@
     "matt olson": {
         "lastHRDt": "2025-07-05-24",
         "pa": {
-            "streak": 18,
+            "streak": 22,
             "sd": 17.61,
-            "z": 0.02,
-            "z_median": 0.34,
+            "z": 0.25,
+            "z_median": 0.57,
             "btwn": [
                 49,
                 4,
@@ -13294,12 +13295,12 @@
             ],
             "med": 12.0,
             "avg": 17.6,
-            "diff": 0.4
+            "diff": 4.4
         },
-        "close": 16,
-        "close3": 0,
-        "close5": 0,
-        "close7": 0
+        "close": 17,
+        "close3": 1,
+        "close5": 1,
+        "close7": 1
     },
     "rajai davis": {
         "lastHRDt": "2019-05-22-65",
@@ -14410,12 +14411,12 @@
         "close7": 0
     },
     "jurickson profar": {
-        "lastHRDt": "2025-07-03-75",
+        "lastHRDt": "2025-07-10-27",
         "pa": {
-            "streak": 24,
-            "sd": 41.04,
-            "z": -0.34,
-            "z_median": -0.05,
+            "streak": 3,
+            "sd": 40.86,
+            "z": -0.85,
+            "z_median": -0.56,
             "btwn": [
                 20,
                 10,
@@ -14521,11 +14522,12 @@
                 41,
                 43,
                 19,
-                53
+                53,
+                24
             ],
-            "med": 26,
-            "avg": 37.9,
-            "diff": -13.9
+            "med": 26.0,
+            "avg": 37.8,
+            "diff": -34.8
         },
         "close": 1,
         "close3": 0,
@@ -14859,10 +14861,10 @@
     "sean murphy": {
         "lastHRDt": "2025-07-06-66",
         "pa": {
-            "streak": 6,
+            "streak": 9,
             "sd": 22.39,
-            "z": -0.79,
-            "z_median": -0.63,
+            "z": -0.66,
+            "z_median": -0.49,
             "btwn": [
                 2,
                 11,
@@ -14958,7 +14960,7 @@
             ],
             "med": 20,
             "avg": 23.7,
-            "diff": -17.7
+            "diff": -14.7
         },
         "close": 5,
         "close3": 1,
@@ -15130,10 +15132,10 @@
     "jonah heim": {
         "lastHRDt": "2025-06-25-41",
         "pa": {
-            "streak": 51,
+            "streak": 55,
             "sd": 24.08,
-            "z": 0.84,
-            "z_median": 0.96,
+            "z": 1.01,
+            "z_median": 1.12,
             "btwn": [
                 47,
                 36,
@@ -15203,12 +15205,12 @@
             ],
             "med": 28,
             "avg": 30.7,
-            "diff": 20.3
+            "diff": 24.3
         },
-        "close": 4,
-        "close3": 0,
-        "close5": 0,
-        "close7": 0
+        "close": 5,
+        "close3": 1,
+        "close5": 1,
+        "close7": 1
     },
     "tommy la stella": {
         "lastHRDt": "2022-05-24-36",
@@ -16055,10 +16057,10 @@
     "nick allen": {
         "lastHRDt": "2024-04-25-17",
         "pa": {
-            "streak": 306,
+            "streak": 308,
             "sd": 65.03,
-            "z": 3.45,
-            "z_median": 3.55,
+            "z": 3.48,
+            "z_median": 3.58,
             "btwn": [
                 28,
                 136,
@@ -16072,7 +16074,7 @@
             ],
             "med": 75,
             "avg": 81.7,
-            "diff": 224.3
+            "diff": 226.3
         },
         "close": 1,
         "close3": 0,
@@ -17111,10 +17113,10 @@
     "yohel pozo": {
         "lastHRDt": "2025-07-05-70",
         "pa": {
-            "streak": 12,
+            "streak": 13,
             "sd": 34.87,
-            "z": -0.8,
-            "z_median": -0.79,
+            "z": -0.77,
+            "z_median": -0.76,
             "btwn": [
                 2,
                 78,
@@ -17123,7 +17125,7 @@
             ],
             "med": 39.5,
             "avg": 39.8,
-            "diff": -27.8
+            "diff": -26.8
         },
         "close": 0,
         "close3": 0,
@@ -17276,12 +17278,12 @@
         "close7": 0
     },
     "ozzie albies": {
-        "lastHRDt": "2025-05-29-27",
+        "lastHRDt": "2025-07-10-50",
         "pa": {
-            "streak": 152,
-            "sd": 29.56,
-            "z": 4.22,
-            "z_median": 4.58,
+            "streak": 2,
+            "sd": 31.21,
+            "z": -0.84,
+            "z_median": -0.48,
             "btwn": [
                 10,
                 20,
@@ -17430,11 +17432,12 @@
                 4,
                 13,
                 63,
-                95
+                95,
+                153
             ],
-            "med": 16.5,
-            "avg": 27.3,
-            "diff": 124.7
+            "med": 17,
+            "avg": 28.2,
+            "diff": -26.2
         },
         "close": 6,
         "close3": 1,
@@ -17444,10 +17447,10 @@
     "marcell ozuna": {
         "lastHRDt": "2025-07-09-44",
         "pa": {
-            "streak": 3,
+            "streak": 6,
             "sd": 22.68,
-            "z": -0.8,
-            "z_median": -0.49,
+            "z": -0.67,
+            "z_median": -0.35,
             "btwn": [
                 111,
                 7,
@@ -17715,7 +17718,7 @@
             ],
             "med": 14,
             "avg": 21.2,
-            "diff": -18.2
+            "diff": -15.2
         },
         "close": 10,
         "close3": 0,
@@ -17725,10 +17728,10 @@
     "austin riley": {
         "lastHRDt": "2025-07-09-15",
         "pa": {
-            "streak": 5,
+            "streak": 9,
             "sd": 19.29,
-            "z": -0.8,
-            "z_median": -0.47,
+            "z": -0.59,
+            "z_median": -0.26,
             "btwn": [
                 1,
                 13,
@@ -17901,7 +17904,7 @@
             ],
             "med": 14.0,
             "avg": 20.4,
-            "diff": -15.4
+            "diff": -11.4
         },
         "close": 10,
         "close3": 1,
@@ -18087,10 +18090,10 @@
     "drake baldwin": {
         "lastHRDt": "2025-07-09-04",
         "pa": {
-            "streak": 5,
+            "streak": 6,
             "sd": 13.08,
-            "z": -1.0,
-            "z_median": -0.46,
+            "z": -0.93,
+            "z_median": -0.38,
             "btwn": [
                 42,
                 3,
@@ -18106,7 +18109,7 @@
             ],
             "med": 11,
             "avg": 18.1,
-            "diff": -13.1
+            "diff": -12.1
         },
         "close": 4,
         "close3": 0,
@@ -18116,10 +18119,10 @@
     "michael harris": {
         "lastHRDt": "2025-06-13-59",
         "pa": {
-            "streak": 72,
+            "streak": 75,
             "sd": 30.25,
-            "z": 1.41,
-            "z_median": 1.65,
+            "z": 1.51,
+            "z_median": 1.75,
             "btwn": [
                 59,
                 3,
@@ -18183,7 +18186,7 @@
             ],
             "med": 22,
             "avg": 29.3,
-            "diff": 42.7
+            "diff": 45.7
         },
         "close": 7,
         "close3": 0,
@@ -18811,10 +18814,10 @@
     "ronald acuna": {
         "lastHRDt": "2025-07-09-30",
         "pa": {
-            "streak": 4,
+            "streak": 8,
             "sd": 19.24,
-            "z": -0.81,
-            "z_median": -0.47,
+            "z": -0.6,
+            "z_median": -0.26,
             "btwn": [
                 5,
                 29,
@@ -18993,7 +18996,7 @@
             ],
             "med": 13.0,
             "avg": 19.5,
-            "diff": -15.5
+            "diff": -11.5
         },
         "close": 3,
         "close3": 0,
@@ -23719,10 +23722,10 @@
     "jorge soler": {
         "lastHRDt": "2025-07-09-70",
         "pa": {
-            "streak": 1,
+            "streak": 4,
             "sd": 20.66,
-            "z": -1.0,
-            "z_median": -0.68,
+            "z": -0.86,
+            "z_median": -0.53,
             "btwn": [
                 20,
                 3,
@@ -23922,7 +23925,7 @@
             ],
             "med": 15,
             "avg": 21.7,
-            "diff": -20.7
+            "diff": -17.7
         },
         "close": 5,
         "close3": 1,
@@ -26831,12 +26834,12 @@
         "close7": 0
     },
     "manny machado": {
-        "lastHRDt": "2025-07-07-69",
+        "lastHRDt": "2025-07-10-44",
         "pa": {
-            "streak": 9,
-            "sd": 18.94,
-            "z": -0.6,
-            "z_median": -0.32,
+            "streak": 3,
+            "sd": 18.92,
+            "z": -0.92,
+            "z_median": -0.63,
             "btwn": [
                 24,
                 29,
@@ -27158,15 +27161,16 @@
                 20,
                 10,
                 38,
-                15
+                15,
+                11
             ],
-            "med": 15,
+            "med": 15.0,
             "avg": 20.4,
-            "diff": -11.4
+            "diff": -17.4
         },
-        "close": 13,
-        "close3": 0,
-        "close5": 0,
+        "close": 14,
+        "close3": 1,
+        "close5": 1,
         "close7": 1
     },
     "chris davis": {
@@ -29699,10 +29703,10 @@
     "jose iglesias": {
         "lastHRDt": "2024-09-20-04",
         "pa": {
-            "streak": 230,
+            "streak": 234,
             "sd": 75.86,
-            "z": 1.97,
-            "z_median": 2.37,
+            "z": 2.02,
+            "z_median": 2.43,
             "btwn": [
                 58,
                 192,
@@ -29754,7 +29758,7 @@
             ],
             "med": 50,
             "avg": 80.8,
-            "diff": 149.2
+            "diff": 153.2
         },
         "close": 1,
         "close3": 0,
@@ -32792,10 +32796,10 @@
     "xander bogaerts": {
         "lastHRDt": "2025-06-29-24",
         "pa": {
-            "streak": 39,
+            "streak": 44,
             "sd": 33.84,
-            "z": 0.13,
-            "z_median": 0.44,
+            "z": 0.28,
+            "z_median": 0.59,
             "btwn": [
                 63,
                 74,
@@ -32978,7 +32982,7 @@
             ],
             "med": 24.0,
             "avg": 34.6,
-            "diff": 4.4
+            "diff": 9.4
         },
         "close": 4,
         "close3": 0,
@@ -34630,10 +34634,10 @@
     "yoan moncada": {
         "lastHRDt": "2025-05-31-20",
         "pa": {
-            "streak": 12,
+            "streak": 16,
             "sd": 29.29,
-            "z": -0.72,
-            "z_median": -0.44,
+            "z": -0.59,
+            "z_median": -0.31,
             "btwn": [
                 46,
                 49,
@@ -34736,7 +34740,7 @@
             ],
             "med": 25.0,
             "avg": 33.2,
-            "diff": -21.2
+            "diff": -17.2
         },
         "close": 1,
         "close3": 1,
@@ -42003,10 +42007,10 @@
     "martin maldonado": {
         "lastHRDt": "2025-06-24-43",
         "pa": {
-            "streak": 21,
+            "streak": 24,
             "sd": 27.69,
-            "z": -0.43,
-            "z_median": -0.22,
+            "z": -0.33,
+            "z_median": -0.11,
             "btwn": [
                 10,
                 58,
@@ -42114,7 +42118,7 @@
             ],
             "med": 27,
             "avg": 33.0,
-            "diff": -12.0
+            "diff": -9.0
         },
         "close": 2,
         "close3": 0,
@@ -43857,10 +43861,10 @@
     "cody bellinger": {
         "lastHRDt": "2025-07-04-27",
         "pa": {
-            "streak": 22,
+            "streak": 23,
             "sd": 22.25,
-            "z": 0.04,
-            "z_median": 0.36,
+            "z": 0.08,
+            "z_median": 0.4,
             "btwn": [
                 18,
                 1,
@@ -44073,7 +44077,7 @@
             ],
             "med": 14.0,
             "avg": 21.2,
-            "diff": 0.8
+            "diff": 1.8
         },
         "close": 8,
         "close3": 0,
@@ -48552,10 +48556,10 @@
     "gavin sheets": {
         "lastHRDt": "2025-07-09-53",
         "pa": {
-            "streak": 2,
+            "streak": 6,
             "sd": 31.0,
-            "z": -0.89,
-            "z_median": -0.61,
+            "z": -0.76,
+            "z_median": -0.48,
             "btwn": [
                 6,
                 10,
@@ -48620,7 +48624,7 @@
             ],
             "med": 21.0,
             "avg": 29.6,
-            "diff": -27.6
+            "diff": -23.6
         },
         "close": 8,
         "close3": 0,
@@ -48630,10 +48634,10 @@
     "jake burger": {
         "lastHRDt": "2025-07-08-58",
         "pa": {
-            "streak": 6,
+            "streak": 11,
             "sd": 18.73,
-            "z": -0.71,
-            "z_median": -0.35,
+            "z": -0.44,
+            "z_median": -0.08,
             "btwn": [
                 26,
                 30,
@@ -48722,7 +48726,7 @@
             ],
             "med": 12.5,
             "avg": 19.3,
-            "diff": -13.3
+            "diff": -8.3
         },
         "close": 6,
         "close3": 0,
@@ -49066,10 +49070,10 @@
     "paul dejong": {
         "lastHRDt": "2025-07-03-13",
         "pa": {
-            "streak": 12,
+            "streak": 13,
             "sd": 23.32,
-            "z": -0.5,
-            "z_median": -0.17,
+            "z": -0.46,
+            "z_median": -0.13,
             "btwn": [
                 0,
                 46,
@@ -49216,7 +49220,7 @@
             ],
             "med": 16.0,
             "avg": 23.7,
-            "diff": -11.7
+            "diff": -10.7
         },
         "close": 0,
         "close3": 0,
@@ -59884,10 +59888,10 @@
     "nolan arenado": {
         "lastHRDt": "2025-06-21-70",
         "pa": {
-            "streak": 46,
+            "streak": 47,
             "sd": 20.02,
-            "z": 1.3,
-            "z_median": 1.55,
+            "z": 1.35,
+            "z_median": 1.6,
             "btwn": [
                 1,
                 17,
@@ -60210,7 +60214,7 @@
             ],
             "med": 15.0,
             "avg": 19.9,
-            "diff": 26.1
+            "diff": 27.1
         },
         "close": 11,
         "close3": 1,
@@ -68569,10 +68573,10 @@
     "luis garcia": {
         "lastHRDt": "2025-06-21-23",
         "pa": {
-            "streak": 54,
+            "streak": 55,
             "sd": 39.14,
-            "z": 0.3,
-            "z_median": 0.56,
+            "z": 0.33,
+            "z_median": 0.59,
             "btwn": [
                 9,
                 89,
@@ -68626,7 +68630,7 @@
             ],
             "med": 32,
             "avg": 42.1,
-            "diff": 11.9
+            "diff": 12.9
         },
         "close": 12,
         "close3": 0,
@@ -71390,10 +71394,10 @@
     "logan ohoppe": {
         "lastHRDt": "2025-06-22-30",
         "pa": {
-            "streak": 47,
+            "streak": 51,
             "sd": 18.58,
-            "z": 1.51,
-            "z_median": 1.91,
+            "z": 1.73,
+            "z_median": 2.13,
             "btwn": [
                 24,
                 7,
@@ -71450,20 +71454,20 @@
             ],
             "med": 11.5,
             "avg": 18.9,
-            "diff": 28.1
+            "diff": 32.1
         },
         "close": 7,
         "close3": 0,
         "close5": 0,
-        "close7": 1
+        "close7": 0
     },
     "luis rengifo": {
         "lastHRDt": "2025-06-21-15",
         "pa": {
-            "streak": 68,
+            "streak": 72,
             "sd": 40.28,
-            "z": 0.72,
-            "z_median": 1.19,
+            "z": 0.82,
+            "z_median": 1.29,
             "btwn": [
                 89,
                 53,
@@ -71525,7 +71529,7 @@
             ],
             "med": 20,
             "avg": 38.9,
-            "diff": 29.1
+            "diff": 33.1
         },
         "close": 5,
         "close3": 0,
@@ -71535,10 +71539,10 @@
     "mike trout": {
         "lastHRDt": "2025-07-09-44",
         "pa": {
-            "streak": 3,
+            "streak": 7,
             "sd": 14.93,
-            "z": -0.86,
-            "z_median": -0.54,
+            "z": -0.59,
+            "z_median": -0.27,
             "btwn": [
                 0,
                 40,
@@ -71836,7 +71840,7 @@
             ],
             "med": 11,
             "avg": 15.8,
-            "diff": -12.8
+            "diff": -8.8
         },
         "close": 7,
         "close3": 0,
@@ -71885,12 +71889,12 @@
         "close7": 0
     },
     "taylor ward": {
-        "lastHRDt": "2025-06-27-26",
+        "lastHRDt": "2025-07-10-52",
         "pa": {
-            "streak": 50,
+            "streak": 2,
             "sd": 25.32,
-            "z": 0.95,
-            "z_median": 1.3,
+            "z": -0.96,
+            "z_median": -0.61,
             "btwn": [
                 19,
                 14,
@@ -71988,11 +71992,12 @@
                 16,
                 13,
                 38,
-                30
+                30,
+                52
             ],
-            "med": 17,
-            "avg": 26.0,
-            "diff": 24.0
+            "med": 17.5,
+            "avg": 26.3,
+            "diff": -24.3
         },
         "close": 9,
         "close3": 0,
@@ -72002,10 +72007,10 @@
     "jo adell": {
         "lastHRDt": "2025-07-04-46",
         "pa": {
-            "streak": 23,
+            "streak": 27,
             "sd": 22.77,
-            "z": -0.04,
-            "z_median": 0.13,
+            "z": 0.14,
+            "z_median": 0.31,
             "btwn": [
                 68,
                 2,
@@ -72067,12 +72072,12 @@
             ],
             "med": 20,
             "avg": 23.9,
-            "diff": -0.9
+            "diff": 3.1
         },
-        "close": 11,
-        "close3": 1,
-        "close5": 1,
-        "close7": 1
+        "close": 12,
+        "close3": 2,
+        "close5": 2,
+        "close7": 2
     },
     "david mershon": {
         "lastHRDt": "",
@@ -72443,12 +72448,12 @@
         "close7": 0
     },
     "zach neto": {
-        "lastHRDt": "2025-07-03-30",
+        "lastHRDt": "2025-07-10-82",
         "pa": {
-            "streak": 31,
-            "sd": 26.69,
-            "z": 0.15,
-            "z_median": 0.45,
+            "streak": 1,
+            "sd": 26.42,
+            "z": -0.99,
+            "z_median": -0.68,
             "btwn": [
                 86,
                 13,
@@ -72494,31 +72499,32 @@
                 26,
                 79,
                 1,
-                20
+                20,
+                35
             ],
-            "med": 19,
-            "avg": 27.0,
-            "diff": 4.0
+            "med": 19.0,
+            "avg": 27.2,
+            "diff": -26.2
         },
         "close": 12,
         "close3": 0,
         "close5": 0,
-        "close7": 1
+        "close7": 0
     },
     "gustavo campero": {
         "lastHRDt": "2025-06-28-67",
         "pa": {
-            "streak": 13,
+            "streak": 14,
             "sd": 10.61,
-            "z": -1.93,
-            "z_median": -1.93,
+            "z": -1.84,
+            "z_median": -1.84,
             "btwn": [
                 41,
                 26
             ],
             "med": 33.5,
             "avg": 33.5,
-            "diff": -20.5
+            "diff": -19.5
         },
         "close": 0,
         "close3": 0,
@@ -72702,10 +72708,10 @@
     "lamonte wade": {
         "lastHRDt": "2025-04-02-65",
         "pa": {
-            "streak": 193,
+            "streak": 197,
             "sd": 30.89,
-            "z": 5.24,
-            "z_median": 5.5,
+            "z": 5.37,
+            "z_median": 5.63,
             "btwn": [
                 33,
                 9,
@@ -72764,7 +72770,7 @@
             ],
             "med": 23.0,
             "avg": 31.1,
-            "diff": 161.9
+            "diff": 165.9
         },
         "close": 2,
         "close3": 0,
@@ -76824,10 +76830,10 @@
     "corey seager": {
         "lastHRDt": "2025-07-08-48",
         "pa": {
-            "streak": 7,
+            "streak": 10,
             "sd": 22.16,
-            "z": -0.67,
-            "z_median": -0.41,
+            "z": -0.54,
+            "z_median": -0.27,
             "btwn": [
                 34,
                 17,
@@ -77045,7 +77051,7 @@
             ],
             "med": 16,
             "avg": 21.9,
-            "diff": -14.9
+            "diff": -11.9
         },
         "close": 13,
         "close3": 1,
@@ -78320,10 +78326,10 @@
     "luke raley": {
         "lastHRDt": "2025-06-23-25",
         "pa": {
-            "streak": 50,
+            "streak": 51,
             "sd": 19.52,
-            "z": 1.34,
-            "z_median": 1.69,
+            "z": 1.39,
+            "z_median": 1.74,
             "btwn": [
                 9,
                 62,
@@ -78375,7 +78381,7 @@
             ],
             "med": 17,
             "avg": 23.8,
-            "diff": 26.2
+            "diff": 27.2
         },
         "close": 1,
         "close3": 0,
@@ -82147,10 +82153,10 @@
     "jazz chisholm": {
         "lastHRDt": "2025-07-09-42",
         "pa": {
-            "streak": 5,
+            "streak": 6,
             "sd": 18.58,
-            "z": -0.92,
-            "z_median": -0.78,
+            "z": -0.87,
+            "z_median": -0.73,
             "btwn": [
                 18,
                 42,
@@ -82249,7 +82255,7 @@
             ],
             "med": 19.5,
             "avg": 22.1,
-            "diff": -17.1
+            "diff": -16.1
         },
         "close": 5,
         "close3": 1,
@@ -82747,10 +82753,10 @@
     "luis arraez": {
         "lastHRDt": "2025-07-08-49",
         "pa": {
-            "streak": 5,
+            "streak": 10,
             "sd": 79.11,
-            "z": -1.13,
-            "z_median": -0.78,
+            "z": -1.07,
+            "z_median": -0.72,
             "btwn": [
                 13,
                 68,
@@ -82789,7 +82795,7 @@
             ],
             "med": 67.0,
             "avg": 94.5,
-            "diff": -89.5
+            "diff": -84.5
         },
         "close": 2,
         "close3": 0,
@@ -84603,10 +84609,10 @@
     "trent grisham": {
         "lastHRDt": "2025-07-03-19",
         "pa": {
-            "streak": 18,
+            "streak": 20,
             "sd": 26.66,
-            "z": -0.45,
-            "z_median": -0.15,
+            "z": -0.38,
+            "z_median": -0.08,
             "btwn": [
                 8,
                 31,
@@ -84696,7 +84702,7 @@
             ],
             "med": 22,
             "avg": 30.0,
-            "diff": -12.0
+            "diff": -10.0
         },
         "close": 5,
         "close3": 0,
@@ -87451,10 +87457,10 @@
     "jorge polanco": {
         "lastHRDt": "2025-07-10-51",
         "pa": {
-            "streak": 1,
+            "streak": 2,
             "sd": 31.78,
-            "z": -0.91,
-            "z_median": -0.63,
+            "z": -0.88,
+            "z_median": -0.6,
             "btwn": [
                 32,
                 176,
@@ -87602,7 +87608,7 @@
             ],
             "med": 21,
             "avg": 29.9,
-            "diff": -28.9
+            "diff": -27.9
         },
         "close": 4,
         "close3": 0,
@@ -91796,10 +91802,10 @@
     "ben rice": {
         "lastHRDt": "2025-06-24-22",
         "pa": {
-            "streak": 41,
+            "streak": 42,
             "sd": 17.67,
-            "z": 1.13,
-            "z_median": 1.19,
+            "z": 1.19,
+            "z_median": 1.25,
             "btwn": [
                 51,
                 8,
@@ -91825,7 +91831,7 @@
             ],
             "med": 20,
             "avg": 21.0,
-            "diff": 20.0
+            "diff": 21.0
         },
         "close": 7,
         "close3": 1,
@@ -91835,10 +91841,10 @@
     "anthony volpe": {
         "lastHRDt": "2025-07-05-52",
         "pa": {
-            "streak": 17,
+            "streak": 18,
             "sd": 45.33,
-            "z": -0.46,
-            "z_median": -0.22,
+            "z": -0.43,
+            "z_median": -0.2,
             "btwn": [
                 43,
                 34,
@@ -91887,7 +91893,7 @@
             ],
             "med": 27.0,
             "avg": 37.7,
-            "diff": -20.7
+            "diff": -19.7
         },
         "close": 3,
         "close3": 0,
@@ -91897,10 +91903,10 @@
     "aaron judge": {
         "lastHRDt": "2025-07-08-56",
         "pa": {
-            "streak": 9,
+            "streak": 11,
             "sd": 13.3,
-            "z": -0.33,
-            "z_median": 0.0,
+            "z": -0.18,
+            "z_median": 0.15,
             "btwn": [
                 0,
                 4,
@@ -92253,7 +92259,7 @@
             ],
             "med": 9.0,
             "avg": 13.4,
-            "diff": -4.4
+            "diff": -2.4
         },
         "close": 9,
         "close3": 0,
@@ -92263,10 +92269,10 @@
     "austin wells": {
         "lastHRDt": "2025-07-08-49",
         "pa": {
-            "streak": 10,
+            "streak": 11,
             "sd": 22.26,
-            "z": -0.66,
-            "z_median": -0.27,
+            "z": -0.62,
+            "z_median": -0.22,
             "btwn": [
                 46,
                 10,
@@ -92302,7 +92308,7 @@
             ],
             "med": 16,
             "avg": 24.8,
-            "diff": -14.8
+            "diff": -13.8
         },
         "close": 6,
         "close3": 0,
@@ -92402,10 +92408,10 @@
     "oswald peraza": {
         "lastHRDt": "2025-05-27-49",
         "pa": {
-            "streak": 65,
+            "streak": 66,
             "sd": 46.29,
-            "z": 0.34,
-            "z_median": 0.58,
+            "z": 0.36,
+            "z_median": 0.6,
             "btwn": [
                 46,
                 150,
@@ -92417,7 +92423,7 @@
             ],
             "med": 38,
             "avg": 49.3,
-            "diff": 15.7
+            "diff": 16.7
         },
         "close": 3,
         "close3": 0,
@@ -98887,10 +98893,10 @@
     "jake cronenworth": {
         "lastHRDt": "2025-07-05-15",
         "pa": {
-            "streak": 18,
+            "streak": 22,
             "sd": 32.86,
-            "z": -0.62,
-            "z_median": -0.37,
+            "z": -0.5,
+            "z_median": -0.24,
             "btwn": [
                 16,
                 8,
@@ -98972,7 +98978,7 @@
             ],
             "med": 30,
             "avg": 38.3,
-            "diff": -20.3
+            "diff": -16.3
         },
         "close": 2,
         "close3": 0,
@@ -98982,10 +98988,10 @@
     "jackson merrill": {
         "lastHRDt": "2025-05-27-76",
         "pa": {
-            "streak": 133,
+            "streak": 137,
             "sd": 30.02,
-            "z": 3.6,
-            "z_median": 4.0,
+            "z": 3.73,
+            "z_median": 4.13,
             "btwn": [
                 25,
                 102,
@@ -99019,20 +99025,20 @@
             ],
             "med": 13,
             "avg": 24.9,
-            "diff": 108.1
+            "diff": 112.1
         },
         "close": 11,
-        "close3": 1,
+        "close3": 0,
         "close5": 1,
         "close7": 1
     },
     "fernando tatis": {
-        "lastHRDt": "2025-06-23-82",
+        "lastHRDt": "2025-07-10-24",
         "pa": {
-            "streak": 59,
-            "sd": 17.4,
-            "z": 2.34,
-            "z_median": 2.64,
+            "streak": 4,
+            "sd": 17.69,
+            "z": -0.82,
+            "z_median": -0.51,
             "btwn": [
                 17,
                 13,
@@ -99175,11 +99181,12 @@
                 13,
                 34,
                 99,
-                9
+                9,
+                60
             ],
-            "med": 13.0,
-            "avg": 18.2,
-            "diff": 40.8
+            "med": 13,
+            "avg": 18.5,
+            "diff": -14.5
         },
         "close": 7,
         "close3": 0,
@@ -99294,7 +99301,7 @@
     "trenton brooks": {
         "lastHRDt": "2025-06-17-56",
         "pa": {
-            "streak": 32,
+            "streak": 33,
             "sd": 0,
             "z": 0,
             "z_median": 0,
@@ -99353,7 +99360,7 @@
     "bryce johnson": {
         "lastHRDt": "2023-04-03-74",
         "pa": {
-            "streak": 140,
+            "streak": 141,
             "sd": 0,
             "z": 0,
             "z_median": 0,
@@ -100520,10 +100527,10 @@
     "cj abrams": {
         "lastHRDt": "2025-06-28-33",
         "pa": {
-            "streak": 40,
+            "streak": 41,
             "sd": 40.02,
-            "z": 0.14,
-            "z_median": 0.45,
+            "z": 0.17,
+            "z_median": 0.47,
             "btwn": [
                 16,
                 106,
@@ -100582,7 +100589,7 @@
             ],
             "med": 22.0,
             "avg": 34.2,
-            "diff": 5.8
+            "diff": 6.8
         },
         "close": 7,
         "close3": 1,
@@ -100732,10 +100739,10 @@
     "randy arozarena": {
         "lastHRDt": "2025-07-09-47",
         "pa": {
-            "streak": 6,
+            "streak": 7,
             "sd": 27.73,
-            "z": -0.81,
-            "z_median": -0.5,
+            "z": -0.77,
+            "z_median": -0.47,
             "btwn": [
                 20,
                 11,
@@ -100847,7 +100854,7 @@
             ],
             "med": 20,
             "avg": 28.4,
-            "diff": -22.4
+            "diff": -21.4
         },
         "close": 9,
         "close3": 0,
@@ -104968,10 +104975,10 @@
     "victor scott": {
         "lastHRDt": "2025-06-29-52",
         "pa": {
-            "streak": 32,
+            "streak": 33,
             "sd": 39.1,
-            "z": -1.04,
-            "z_median": -0.75,
+            "z": -1.01,
+            "z_median": -0.73,
             "btwn": [
                 72,
                 51,
@@ -104982,7 +104989,7 @@
             ],
             "med": 61.5,
             "avg": 72.5,
-            "diff": -40.5
+            "diff": -39.5
         },
         "close": 1,
         "close3": 1,
@@ -105125,10 +105132,10 @@
     "brendan donovan": {
         "lastHRDt": "2025-07-08-23",
         "pa": {
-            "streak": 11,
+            "streak": 12,
             "sd": 45.89,
-            "z": -0.8,
-            "z_median": -0.35,
+            "z": -0.78,
+            "z_median": -0.33,
             "btwn": [
                 16,
                 175,
@@ -105172,7 +105179,7 @@
             ],
             "med": 27,
             "avg": 47.8,
-            "diff": -36.8
+            "diff": -35.8
         },
         "close": 6,
         "close3": 0,
@@ -105329,10 +105336,10 @@
     "nolan gorman": {
         "lastHRDt": "2025-07-05-31",
         "pa": {
-            "streak": 10,
+            "streak": 11,
             "sd": 19.98,
-            "z": -0.52,
-            "z_median": -0.15,
+            "z": -0.47,
+            "z_median": -0.1,
             "btwn": [
                 24,
                 9,
@@ -105406,7 +105413,7 @@
             ],
             "med": 13,
             "avg": 20.3,
-            "diff": -10.3
+            "diff": -9.3
         },
         "close": 4,
         "close3": 0,
@@ -106271,12 +106278,12 @@
         "close7": 0
     },
     "adolis garcia": {
-        "lastHRDt": "2025-06-30-83",
+        "lastHRDt": "2025-07-10-71",
         "pa": {
-            "streak": 35,
-            "sd": 19.47,
-            "z": 0.67,
-            "z_median": 1.03,
+            "streak": 1,
+            "sd": 19.45,
+            "z": -1.08,
+            "z_median": -0.72,
             "btwn": [
                 36,
                 13,
@@ -106409,11 +106416,12 @@
                 35,
                 43,
                 29,
-                43
+                43,
+                38
             ],
-            "med": 15.0,
-            "avg": 22.0,
-            "diff": 13.0
+            "med": 15,
+            "avg": 22.1,
+            "diff": -21.1
         },
         "close": 9,
         "close3": 0,
@@ -107694,10 +107702,10 @@
     "nathaniel lowe": {
         "lastHRDt": "2025-07-09-05",
         "pa": {
-            "streak": 7,
+            "streak": 8,
             "sd": 27.75,
-            "z": -0.87,
-            "z_median": -0.61,
+            "z": -0.83,
+            "z_median": -0.58,
             "btwn": [
                 44,
                 6,
@@ -107805,7 +107813,7 @@
             ],
             "med": 24,
             "avg": 31.1,
-            "diff": -24.1
+            "diff": -23.1
         },
         "close": 7,
         "close3": 0,
@@ -108485,10 +108493,10 @@
     "wyatt langford": {
         "lastHRDt": "2025-07-08-68",
         "pa": {
-            "streak": 5,
+            "streak": 10,
             "sd": 29.27,
-            "z": -0.84,
-            "z_median": -0.43,
+            "z": -0.67,
+            "z_median": -0.26,
             "btwn": [
                 126,
                 86,
@@ -108523,7 +108531,7 @@
             ],
             "med": 17.5,
             "avg": 29.6,
-            "diff": -24.6
+            "diff": -19.6
         },
         "close": 5,
         "close3": 0,
@@ -108533,10 +108541,10 @@
     "josh smith": {
         "lastHRDt": "2025-07-05-01",
         "pa": {
-            "streak": 22,
+            "streak": 26,
             "sd": 37.71,
-            "z": -0.68,
-            "z_median": -0.4,
+            "z": -0.58,
+            "z_median": -0.29,
             "btwn": [
                 80,
                 127,
@@ -108570,7 +108578,7 @@
             ],
             "med": 37,
             "avg": 47.8,
-            "diff": -25.8
+            "diff": -21.8
         },
         "close": 3,
         "close3": 0,
@@ -108580,10 +108588,10 @@
     "ezequiel duran": {
         "lastHRDt": "2024-09-08-13",
         "pa": {
-            "streak": 135,
+            "streak": 136,
             "sd": 48.41,
-            "z": 1.94,
-            "z_median": 2.22,
+            "z": 1.96,
+            "z_median": 2.24,
             "btwn": [
                 5,
                 27,
@@ -108610,7 +108618,7 @@
             ],
             "med": 27.5,
             "avg": 41.1,
-            "diff": 93.9
+            "diff": 94.9
         },
         "close": 1,
         "close3": 0,
@@ -108810,7 +108818,7 @@
     "alejandro osuna": {
         "lastHRDt": "2025-07-01-42",
         "pa": {
-            "streak": 6,
+            "streak": 11,
             "sd": 0,
             "z": 0,
             "z_median": 0,
@@ -108822,7 +108830,7 @@
             "diff": 0
         },
         "close": 2,
-        "close3": 1,
+        "close3": 0,
         "close5": 2,
         "close7": 2
     },
@@ -108863,10 +108871,10 @@
     "evan carter": {
         "lastHRDt": "2025-06-12-41",
         "pa": {
-            "streak": 73,
+            "streak": 78,
             "sd": 25.36,
-            "z": 1.99,
-            "z_median": 2.54,
+            "z": 2.18,
+            "z_median": 2.74,
             "btwn": [
                 8,
                 35,
@@ -108885,7 +108893,7 @@
             ],
             "med": 8.5,
             "avg": 22.6,
-            "diff": 50.4
+            "diff": 55.4
         },
         "close": 1,
         "close3": 0,
@@ -111388,10 +111396,10 @@
     "jacob young": {
         "lastHRDt": "2024-08-26-66",
         "pa": {
-            "streak": 312,
+            "streak": 313,
             "sd": 139.15,
             "z": 0.92,
-            "z_median": 0.97,
+            "z_median": 0.98,
             "btwn": [
                 327,
                 177,
@@ -111399,7 +111407,7 @@
             ],
             "med": 177,
             "avg": 184.3,
-            "diff": 127.7
+            "diff": 128.7
         },
         "close": 2,
         "close3": 0,
@@ -111437,10 +111445,10 @@
     "james wood": {
         "lastHRDt": "2025-07-09-53",
         "pa": {
-            "streak": 4,
+            "streak": 5,
             "sd": 21.02,
-            "z": -0.9,
-            "z_median": -0.59,
+            "z": -0.86,
+            "z_median": -0.55,
             "btwn": [
                 27,
                 48,
@@ -111477,7 +111485,7 @@
             ],
             "med": 16.5,
             "avg": 23.0,
-            "diff": -19.0
+            "diff": -18.0
         },
         "close": 7,
         "close3": 0,
@@ -111593,7 +111601,7 @@
     "daylen lile": {
         "lastHRDt": "2025-06-16-37",
         "pa": {
-            "streak": 67,
+            "streak": 68,
             "sd": 0,
             "z": 0,
             "z_median": 0,
@@ -111629,17 +111637,17 @@
     "drew millas": {
         "lastHRDt": "2024-06-21-30",
         "pa": {
-            "streak": 49,
+            "streak": 50,
             "sd": 23.33,
-            "z": 0.88,
-            "z_median": 0.88,
+            "z": 0.92,
+            "z_median": 0.92,
             "btwn": [
                 12,
                 45
             ],
             "med": 28.5,
             "avg": 28.5,
-            "diff": 20.5
+            "diff": 21.5
         },
         "close": 0,
         "close3": 0,

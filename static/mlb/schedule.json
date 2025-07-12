@@ -8753,6 +8753,12 @@
             "start": ""
         },
         {
+            "game": "sea @ nyy",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696305/mariners-yankees",
+            "score": "5-6",
+            "start": ""
+        },
+        {
             "game": "tb @ bos",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696306/rays-red-sox",
             "score": "3-4",
@@ -8765,34 +8771,28 @@
             "start": "Postponed"
         },
         {
-            "game": "sea @ nyy",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696305",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
             "game": "wsh @ stl",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696309",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696309/nationals-cardinals",
+            "score": "1-8",
+            "start": ""
         },
         {
             "game": "atl @ ath",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401764566",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401764566/braves-athletics",
+            "score": "4-5",
+            "start": ""
         },
         {
             "game": "tex @ laa",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696312",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696312/rangers-angels",
+            "score": "11-4",
+            "start": ""
         },
         {
             "game": "ari @ sd",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696310",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696310/diamondbacks-padres",
+            "score": "3-4",
+            "start": ""
         }
     ],
     "2025-07-11": [
@@ -8983,6 +8983,98 @@
             "link": "https://www.espn.com/mlb/game/_/gameId/401764568/blue-jays-athletics",
             "score": "",
             "start": "10:05 PM"
+        }
+    ],
+    "2025-07-13": [
+        {
+            "game": "chc @ nyy",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696343/cubs-yankees",
+            "score": "",
+            "start": "1:35 PM"
+        },
+        {
+            "game": "mia @ bal",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696345/marlins-orioles",
+            "score": "",
+            "start": "1:35 PM"
+        },
+        {
+            "game": "tb @ bos",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696347/rays-red-sox",
+            "score": "",
+            "start": "1:35 PM"
+        },
+        {
+            "game": "col @ cin",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696344/rockies-reds",
+            "score": "",
+            "start": "1:40 PM"
+        },
+        {
+            "game": "sea @ det",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696346/mariners-tigers",
+            "score": "",
+            "start": "1:40 PM"
+        },
+        {
+            "game": "cle @ chw",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696349/guardians-white-sox",
+            "score": "",
+            "start": "2:10 PM"
+        },
+        {
+            "game": "nym @ kc",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696350/mets-royals",
+            "score": "",
+            "start": "2:10 PM"
+        },
+        {
+            "game": "pit @ min",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696351/pirates-twins",
+            "score": "",
+            "start": "2:10 PM"
+        },
+        {
+            "game": "tex @ hou",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696352/rangers-astros",
+            "score": "",
+            "start": "2:10 PM"
+        },
+        {
+            "game": "wsh @ mil",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696353/nationals-brewers",
+            "score": "",
+            "start": "2:10 PM"
+        },
+        {
+            "game": "atl @ stl",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696348/braves-cardinals",
+            "score": "",
+            "start": "2:15 PM"
+        },
+        {
+            "game": "lad @ sf",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696355/dodgers-giants",
+            "score": "",
+            "start": "4:05 PM"
+        },
+        {
+            "game": "tor @ ath",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401764569/blue-jays-athletics",
+            "score": "",
+            "start": "4:05 PM"
+        },
+        {
+            "game": "ari @ laa",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696354/diamondbacks-angels",
+            "score": "",
+            "start": "4:07 PM"
+        },
+        {
+            "game": "phi @ sd",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696356/phillies-padres",
+            "score": "",
+            "start": "4:10 PM"
         }
     ]
 }
