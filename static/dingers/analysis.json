@@ -5844,11 +5844,11 @@
         "circa_z_score": 0
     },
     "": {
-        "fd_avg_vig": 1099,
-        "fd_avg": 619,
-        "fd_median": "+560",
-        "fd_std_dev": 306.95,
-        "fd_z_score": -0.62
+        "fd_avg_vig": 1090,
+        "fd_avg": 616,
+        "fd_median": "+540",
+        "fd_std_dev": 308.38,
+        "fd_z_score": -0.6
     },
     "miguel rojas": {
         "pn_avg_vig": 1579,
