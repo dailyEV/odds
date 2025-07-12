@@ -945,10 +945,10 @@
         "circa_std_dev": 92.22,
         "circa_z_score": 0,
         "fd_avg_vig": 547,
-        "fd_avg": 389,
+        "fd_avg": 390,
         "fd_median": "+400",
-        "fd_std_dev": 92.85,
-        "fd_z_score": 0.44
+        "fd_std_dev": 92.89,
+        "fd_z_score": 0.43
     },
     "matt chapman": {
         "circa_avg_vig": 482,
@@ -978,10 +978,10 @@
         "circa_median": "+320/-395",
         "circa_std_dev": 69.78,
         "circa_z_score": 0,
-        "fd_avg_vig": 378,
+        "fd_avg_vig": 379,
         "fd_avg": 291,
         "fd_median": "+300",
-        "fd_std_dev": 66.2,
+        "fd_std_dev": 66.16,
         "fd_z_score": -0.54
     },
     "wilmer flores": {
@@ -3772,10 +3772,10 @@
         "fd_z_score": 0
     },
     "fernando tatis": {
-        "fd_avg_vig": 466,
+        "fd_avg_vig": 465,
         "fd_avg": 344,
         "fd_median": "+340",
-        "fd_std_dev": 83.44,
+        "fd_std_dev": 83.28,
         "fd_z_score": 0.67,
         "pn_avg_vig": 444,
         "pn_avg": 334,
@@ -3886,10 +3886,10 @@
         "circa_z_score": 0
     },
     "xander bogaerts": {
-        "fd_avg_vig": 1651,
-        "fd_avg": 770,
+        "fd_avg_vig": 1654,
+        "fd_avg": 771,
         "fd_median": "+750",
-        "fd_std_dev": 171.75,
+        "fd_std_dev": 171.47,
         "fd_z_score": -0.12,
         "pn_avg_vig": 1198,
         "pn_avg": 694,
@@ -3932,10 +3932,10 @@
         "pn_z_score": 0
     },
     "martin maldonado": {
-        "fd_avg_vig": 2252,
+        "fd_avg_vig": 2247,
         "fd_avg": 876,
         "fd_median": "+600",
-        "fd_std_dev": 209.53,
+        "fd_std_dev": 209.76,
         "fd_z_score": -0.22,
         "pn_avg_vig": 1518,
         "pn_avg": 812,
@@ -5507,10 +5507,10 @@
         "pn_median": "592/-1240",
         "pn_std_dev": 142.51,
         "pn_z_score": 0,
-        "fd_avg_vig": 1132,
+        "fd_avg_vig": 1133,
         "fd_avg": 633,
         "fd_median": "+600",
-        "fd_std_dev": 156.18,
+        "fd_std_dev": 155.98,
         "fd_z_score": -0.47,
         "circa_avg_vig": 803,
         "circa_avg": 628,
