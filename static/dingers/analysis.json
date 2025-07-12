@@ -3216,8 +3216,8 @@
         "fd_avg_vig": 615,
         "fd_avg": 425,
         "fd_median": "+430",
-        "fd_std_dev": 81.93,
-        "fd_z_score": 1.4
+        "fd_std_dev": 82.29,
+        "fd_z_score": 1.64
     },
     "nolan arenado": {
         "circa_avg_vig": 889,
@@ -3581,11 +3581,11 @@
         "circa_z_score": -0.1
     },
     "marcus semien": {
-        "fd_avg_vig": 1081,
-        "fd_avg": 617,
+        "fd_avg_vig": 1080,
+        "fd_avg": 616,
         "fd_median": "+630",
-        "fd_std_dev": 131.03,
-        "fd_z_score": 1.93,
+        "fd_std_dev": 130.2,
+        "fd_z_score": 1.64,
         "pn_avg_vig": 852,
         "pn_avg": 545,
         "pn_median": "573/-1086",
