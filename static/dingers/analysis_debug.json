@@ -4832,7 +4832,7 @@
         "circa_avg": 448,
         "circa_median": "+455/-600",
         "circa_std_dev": 130.62,
-        "circa_z_score": 0,
+        "circa_z_score": -1.13,
         "fd": {
             "2025-04-08": "+750",
             "2025-04-09": "+600",
@@ -6175,7 +6175,7 @@
         "circa_avg": 517,
         "circa_median": "+520/-700",
         "circa_std_dev": 117.54,
-        "circa_z_score": 0,
+        "circa_z_score": -1.63,
         "fd": {
             "2025-04-08": "+830",
             "2025-04-15": "+600",
@@ -6386,7 +6386,7 @@
         "circa_avg": 437,
         "circa_median": "+500/-670",
         "circa_std_dev": 101.73,
-        "circa_z_score": 0
+        "circa_z_score": -1.35
     },
     "ben williamson": {
         "fd": {
@@ -6643,13 +6643,14 @@
             "2025-06-28": "+550/-750",
             "2025-06-29": "+575/-800",
             "2025-06-30": "+875/-1400",
-            "2025-07-07": "+575/-800"
+            "2025-07-07": "+575/-800",
+            "2025-07-12": "+400/-510"
         },
-        "circa_avg_vig": 720,
-        "circa_avg": 574,
+        "circa_avg_vig": 710,
+        "circa_avg": 568,
         "circa_median": "+600/-850",
-        "circa_std_dev": 115.46,
-        "circa_z_score": 0,
+        "circa_std_dev": 118.2,
+        "circa_z_score": -1.42,
         "pn": {
             "2025-04-15": "709/-1531",
             "2025-04-16": "643/-1305",
@@ -36028,7 +36029,7 @@
         "circa_avg": 422,
         "circa_median": "+450/-590",
         "circa_std_dev": 102.3,
-        "circa_z_score": 0
+        "circa_z_score": -1.53
     },
     "ezequiel tovar": {
         "fd": {
@@ -36434,7 +36435,7 @@
         "circa_avg": 491,
         "circa_median": "+530/-720",
         "circa_std_dev": 102.17,
-        "circa_z_score": 0
+        "circa_z_score": -1.38
     },
     "michael conforto": {
         "fd": {
@@ -36770,7 +36771,7 @@
         "circa_avg": 518,
         "circa_median": "+550/-750",
         "circa_std_dev": 104.08,
-        "circa_z_score": 0
+        "circa_z_score": -0.89
     },
     "will smith": {
         "fd": {
@@ -37999,7 +38000,7 @@
         "circa_avg": 495,
         "circa_median": "+505/-675",
         "circa_std_dev": 97.01,
-        "circa_z_score": 0
+        "circa_z_score": -0.72
     },
     "ernie clement": {
         "fd": {
@@ -45895,7 +45896,7 @@
         "circa_avg": 505,
         "circa_median": "+525/-710",
         "circa_std_dev": 71.96,
-        "circa_z_score": 0
+        "circa_z_score": -0.42
     },
     "jose tena": {
         "fd": {
@@ -50585,7 +50586,7 @@
         "circa_avg": 460,
         "circa_median": "+475/-630",
         "circa_std_dev": 131.81,
-        "circa_z_score": 0,
+        "circa_z_score": -0.83,
         "fd": {
             "2025-04-09": "+800",
             "2025-05-10": "+750",
