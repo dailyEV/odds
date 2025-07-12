@@ -1086,7 +1086,7 @@
         "fd_avg": 749,
         "fd_median": "+650",
         "fd_std_dev": 196.31,
-        "fd_z_score": -0.61,
+        "fd_z_score": -0.76,
         "circa_avg_vig": 928,
         "circa_avg": 704,
         "circa_median": "+675/-1000",
@@ -3793,7 +3793,7 @@
         "fd_avg": 408,
         "fd_median": "+420",
         "fd_std_dev": 107.15,
-        "fd_z_score": 0.3,
+        "fd_z_score": 0.39,
         "pn_avg_vig": 510,
         "pn_avg": 372,
         "pn_median": "377/-614",
@@ -7989,12 +7989,12 @@
         "fd_avg": 691,
         "fd_median": "+680",
         "fd_std_dev": 98.57,
-        "fd_z_score": 1.11,
+        "fd_z_score": 1.41,
         "pn_avg_vig": 905,
         "pn_avg": 559,
         "pn_median": "559/-1119",
         "pn_std_dev": 0.0,
-        "pn_z_score": 1.11
+        "pn_z_score": 1.41
     },
     "bryce johnson": {
         "fd_avg_vig": 2288,
