@@ -77,26 +77,29 @@
         "tyler oneill": {
             "fd": "+420"
         },
+        "kyle stowers": {
+            "fd": "+430"
+        },
         "jackson holliday": {
             "fd": "+440"
         },
         "cedric mullins": {
             "fd": "+450"
         },
-        "eric wagaman": {
-            "fd": "+600"
-        },
-        "": {
-            "fd": "+600"
-        },
         "heriberto hernandez": {
             "fd": "+560"
+        },
+        "eric wagaman": {
+            "fd": "+600"
         },
         "dane myers": {
             "fd": "+630"
         },
         "otto lopez": {
             "fd": "+750"
+        },
+        "javier sanoja": {
+            "fd": "+800"
         },
         "derek hill": {
             "fd": "+800"
@@ -106,11 +109,6 @@
         },
         "xavier edwards": {
             "fd": "+1060"
-        }
-    },
-    "mia-gm2 @ bal-gm2": {
-        "": {
-            "fd": "+800"
         }
     },
     "nym @ kc": {
@@ -459,23 +457,20 @@
         "fernando tatis": {
             "fd": "+420"
         },
-        "max kepler": {
-            "fd": "+470"
-        },
-        "nick castellanos": {
-            "fd": "+520"
-        },
         "manny machado": {
             "fd": "+450"
+        },
+        "max kepler": {
+            "fd": "+470"
         },
         "trea turner": {
             "fd": "+500"
         },
+        "nick castellanos": {
+            "fd": "+520"
+        },
         "jt realmuto": {
             "fd": "+560"
-        },
-        "alec bohm": {
-            "fd": "+630"
         },
         "gavin sheets": {
             "fd": "+600"
@@ -484,6 +479,9 @@
             "fd": "+600"
         },
         "jake cronenworth": {
+            "fd": "+630"
+        },
+        "alec bohm": {
             "fd": "+630"
         },
         "brandon marsh": {
@@ -495,11 +493,11 @@
         "xander bogaerts": {
             "fd": "+750"
         },
-        "martin maldonado": {
-            "fd": "+870"
-        },
         "trenton brooks": {
             "fd": "+830"
+        },
+        "martin maldonado": {
+            "fd": "+870"
         },
         "luis arraez": {
             "fd": "+1060"
@@ -536,23 +534,23 @@
         "travis darnaud": {
             "fd": "+470"
         },
+        "yoan moncada": {
+            "fd": "+500"
+        },
         "lourdes gurriel": {
             "fd": "+520"
         },
         "josh naylor": {
             "fd": "+520"
         },
-        "yoan moncada": {
-            "fd": "+500"
-        },
         "james mccann": {
             "fd": "+630"
         },
-        "nolan schanuel": {
-            "fd": "+830"
-        },
         "alek thomas": {
             "fd": "+800"
+        },
+        "nolan schanuel": {
+            "fd": "+830"
         },
         "geraldo perdomo": {
             "fd": "+870"
