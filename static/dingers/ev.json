@@ -20240,11 +20240,11 @@
             "circa_median": "+550/-750",
             "circa_std_dev": 166.57,
             "circa_z_score": 0,
-            "fd_avg_vig": 1079,
-            "fd_avg": 617,
+            "fd_avg_vig": 1078,
+            "fd_avg": 616,
             "fd_median": "+600",
-            "fd_std_dev": 205.43,
-            "fd_z_score": -0.08
+            "fd_std_dev": 205.61,
+            "fd_z_score": -0.27
         },
         "homerLogs": {
             "lastHRDt": "2025-05-21-55",
