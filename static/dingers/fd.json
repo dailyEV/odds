@@ -68,13 +68,13 @@
         "dominic canzone": {
             "fd": "+540"
         },
+        "randy arozarena": {
+            "fd": "+560"
+        },
         "luke raley": {
             "fd": "+560"
         },
         "jorge polanco": {
-            "fd": "+560"
-        },
-        "randy arozarena": {
             "fd": "+560"
         },
         "julio rodriguez": {
@@ -92,10 +92,10 @@
         "trey sweeney": {
             "fd": "+750"
         },
-        "jake rogers": {
+        "matt vierling": {
             "fd": "+800"
         },
-        "matt vierling": {
+        "jake rogers": {
             "fd": "+800"
         },
         "zach mckinstry": {
@@ -302,10 +302,10 @@
             "fd": "+420"
         },
         "jackson holliday": {
-            "fd": "+430"
+            "fd": "+420"
         },
         "cedric mullins": {
-            "fd": "+470"
+            "fd": "+460"
         },
         "eric wagaman": {
             "fd": "+560"
@@ -317,13 +317,13 @@
             "fd": "+600"
         },
         "dane myers": {
-            "fd": "+630"
+            "fd": "+600"
         },
         "nick fortes": {
             "fd": "+750"
         },
         "otto lopez": {
-            "fd": "+750"
+            "fd": "+680"
         },
         "derek hill": {
             "fd": "+750"
@@ -332,7 +332,7 @@
             "fd": "+900"
         },
         "xavier edwards": {
-            "fd": "+1060"
+            "fd": "+1000"
         }
     },
     "nym @ kc": {
@@ -342,19 +342,19 @@
         "juan soto": {
             "fd": "+320"
         },
-        "francisco lindor": {
-            "fd": "+460"
-        },
         "brandon nimmo": {
             "fd": "+450"
+        },
+        "francisco lindor": {
+            "fd": "+460"
         },
         "bobby witt": {
             "fd": "+460"
         },
-        "salvador perez": {
+        "vinnie pasquantino": {
             "fd": "+480"
         },
-        "vinnie pasquantino": {
+        "salvador perez": {
             "fd": "+480"
         },
         "jac caglianone": {
@@ -366,6 +366,9 @@
         "ronny mauricio": {
             "fd": "+750"
         },
+        "brett baty": {
+            "fd": "+750"
+        },
         "jeff mcneil": {
             "fd": "+800"
         },
@@ -375,17 +378,14 @@
         "jonathan india": {
             "fd": "+870"
         },
-        "maikel garcia": {
-            "fd": "+1000"
-        },
         "luis torrens": {
-            "fd": "+900"
-        },
-        "": {
             "fd": "+900"
         },
         "freddy fermin": {
             "fd": "+900"
+        },
+        "maikel garcia": {
+            "fd": "+1000"
         },
         "kyle isbel": {
             "fd": "+1060"
@@ -395,23 +395,20 @@
         "alex bregman": {
             "fd": "+400"
         },
-        "junior caminero": {
+        "trevor story": {
             "fd": "+560"
         },
-        "yandy diaz": {
-            "fd": "+600"
-        },
-        "trevor story": {
+        "junior caminero": {
             "fd": "+560"
         },
         "jarren duran": {
             "fd": "+560"
         },
+        "yandy diaz": {
+            "fd": "+600"
+        },
         "christopher morel": {
             "fd": "+680"
-        },
-        "ceddanne rafaela": {
-            "fd": "+750"
         },
         "marcelo mayer": {
             "fd": "+750"
@@ -419,10 +416,13 @@
         "roman anthony": {
             "fd": "+750"
         },
-        "masataka yoshida": {
-            "fd": "+800"
+        "ceddanne rafaela": {
+            "fd": "+750"
         },
         "danny jansen": {
+            "fd": "+800"
+        },
+        "masataka yoshida": {
             "fd": "+800"
         },
         "abraham toro": {
@@ -434,17 +434,17 @@
         "ha seong kim": {
             "fd": "+1000"
         },
-        "jose caballero": {
-            "fd": "+1100"
-        },
         "curtis mead": {
             "fd": "+1060"
         },
-        "jake mangum": {
-            "fd": "+1200"
+        "jose caballero": {
+            "fd": "+1100"
         },
         "taylor walls": {
             "fd": "+1100"
+        },
+        "jake mangum": {
+            "fd": "+1200"
         }
     },
     "cle @ chw": {
@@ -823,16 +823,16 @@
         "jacob wilson": {
             "fd": "+680"
         },
-        "ernie clement": {
-            "fd": "+750"
-        },
         "joey loperfido": {
             "fd": "+750"
         },
-        "denzel clarke": {
-            "fd": "+870"
+        "ernie clement": {
+            "fd": "+750"
         },
         "leo jimenez": {
+            "fd": "+870"
+        },
+        "denzel clarke": {
             "fd": "+870"
         },
         "myles straw": {
