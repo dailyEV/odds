@@ -8173,7 +8173,7 @@
         "fd_avg": 418,
         "fd_median": "+430",
         "fd_std_dev": 66.4,
-        "fd_z_score": 1.24
+        "fd_z_score": 0.93
     },
     "kyle schwarber": {
         "pn": {
@@ -8755,7 +8755,7 @@
         "fd_avg": 1019,
         "fd_median": "+1200",
         "fd_std_dev": 496.43,
-        "fd_z_score": 0.36
+        "fd_z_score": 0.57
     },
     "bryson stott": {
         "pn": {
@@ -35324,7 +35324,7 @@
         "fd_avg": 211,
         "fd_median": "+215",
         "fd_std_dev": 49.39,
-        "fd_z_score": 1.8,
+        "fd_z_score": 2.0,
         "pn": {
             "2025-04-15": "236/-317",
             "2025-04-16": "232/-310",
