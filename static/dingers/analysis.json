@@ -3341,11 +3341,11 @@
         "fd_z_score": 0.15
     },
     "brendan donovan": {
-        "fd_avg_vig": 1721,
-        "fd_avg": 784,
+        "fd_avg_vig": 1724,
+        "fd_avg": 785,
         "fd_median": "+680",
-        "fd_std_dev": 202.07,
-        "fd_z_score": 0.08,
+        "fd_std_dev": 201.9,
+        "fd_z_score": 0.07,
         "pn_avg_vig": 1036,
         "pn_avg": 623,
         "pn_median": "608/-1300",
@@ -8189,21 +8189,21 @@
         "fd_z_score": 0
     },
     "jurickson profar": {
-        "fd_avg_vig": 842,
-        "fd_avg": 528,
+        "fd_avg_vig": 856,
+        "fd_avg": 534,
         "fd_median": "+520",
-        "fd_std_dev": 124.2,
-        "fd_z_score": 1.22,
+        "fd_std_dev": 132.33,
+        "fd_z_score": 1.1,
         "circa_avg_vig": 644,
         "circa_avg": 525,
         "circa_median": "+525/-710",
         "circa_std_dev": 0,
-        "circa_z_score": 1.22,
+        "circa_z_score": 1.1,
         "pn_avg_vig": 1010,
         "pn_avg": 598,
         "pn_median": "598/-1262",
         "pn_std_dev": 0,
-        "pn_z_score": 1.22
+        "pn_z_score": 1.1
     },
     "zack gelof": {
         "fd_avg_vig": 1079,
