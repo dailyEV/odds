@@ -57,7 +57,7 @@
     },
     "sea @ det": {
         "cal raleigh": {
-            "fd": "+240"
+            "fd": "+250"
         },
         "riley greene": {
             "fd": "+430"
@@ -73,6 +73,42 @@
         },
         "jorge polanco": {
             "fd": "+560"
+        },
+        "randy arozarena": {
+            "fd": "+560"
+        },
+        "julio rodriguez": {
+            "fd": "+630"
+        },
+        "colt keith": {
+            "fd": "+700"
+        },
+        "gleyber torres": {
+            "fd": "+700"
+        },
+        "wenceel perez": {
+            "fd": "+750"
+        },
+        "parker meadows": {
+            "fd": "+870"
+        },
+        "dillon dingler": {
+            "fd": "+870"
+        },
+        "javier baez": {
+            "fd": "+870"
+        },
+        "zach mckinstry": {
+            "fd": "+900"
+        },
+        "jp crawford": {
+            "fd": "+900"
+        },
+        "cole young": {
+            "fd": "+1060"
+        },
+        "miles mastrobuoni": {
+            "fd": "+1300"
         }
     },
     "lad @ sf": {
@@ -129,6 +165,62 @@
         },
         "hyeseong kim": {
             "fd": "+1400"
+        }
+    },
+    "nym @ kc": {
+        "juan soto": {
+            "fd": "+330"
+        },
+        "pete alonso": {
+            "fd": "+340"
+        },
+        "brandon nimmo": {
+            "fd": "+450"
+        },
+        "francisco lindor": {
+            "fd": "+450"
+        },
+        "bobby witt": {
+            "fd": "+450"
+        },
+        "salvador perez": {
+            "fd": "+480"
+        },
+        "jac caglianone": {
+            "fd": "+480"
+        },
+        "vinnie pasquantino": {
+            "fd": "+520"
+        },
+        "mark vientos": {
+            "fd": "+540"
+        },
+        "ronny mauricio": {
+            "fd": "+750"
+        },
+        "jeff mcneil": {
+            "fd": "+800"
+        },
+        "kyle isbel": {
+            "fd": "+900"
+        },
+        "john rave": {
+            "fd": "+900"
+        },
+        "jonathan india": {
+            "fd": "+900"
+        },
+        "luis torrens": {
+            "fd": "+900"
+        },
+        "tyrone taylor": {
+            "fd": "+900"
+        },
+        "maikel garcia": {
+            "fd": "+1000"
+        },
+        "nick loftin": {
+            "fd": "+1000"
         }
     },
     "tex @ hou": {
