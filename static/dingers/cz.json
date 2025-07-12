@@ -1,1 +1,57 @@
-{}
+{
+    "chc @ nyy": {
+        "kyle tucker": {
+            "cz": "380"
+        },
+        "pete crow armstrong": {
+            "cz": "400"
+        },
+        "seiya suzuki": {
+            "cz": "400"
+        },
+        "michael busch": {
+            "cz": "450"
+        },
+        "dansby swanson": {
+            "cz": "500"
+        },
+        "ian happ": {
+            "cz": "500"
+        },
+        "carson kelly": {
+            "cz": "550"
+        },
+        "jon berti": {
+            "cz": "800"
+        }
+    },
+    "mia @ bal": {
+        "gunnar henderson": {
+            "cz": "300"
+        },
+        "jordan westburg": {
+            "cz": "320"
+        },
+        "colton cowser": {
+            "cz": "350"
+        },
+        "tyler oneill": {
+            "cz": "360"
+        },
+        "ryan ohearn": {
+            "cz": "380"
+        },
+        "cedric mullins": {
+            "cz": "400"
+        },
+        "jackson holliday": {
+            "cz": "400"
+        },
+        "ramon laureano": {
+            "cz": "400"
+        },
+        "jacob stallings": {
+            "cz": "650"
+        }
+    }
+}
