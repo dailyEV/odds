@@ -16181,7 +16181,7 @@
         "fd_avg": 184,
         "fd_median": "+186",
         "fd_std_dev": 39.86,
-        "fd_z_score": -0.4
+        "fd_z_score": -0.3
     },
     "drew waters": {
         "pn": {
@@ -17119,7 +17119,7 @@
         "fd_avg": 498,
         "fd_median": "+520",
         "fd_std_dev": 188.54,
-        "fd_z_score": 0.01
+        "fd_z_score": 0.12
     },
     "vinnie pasquantino": {
         "pn": {
@@ -33426,7 +33426,7 @@
         "fd_avg": 398,
         "fd_median": "+400",
         "fd_std_dev": 212.3,
-        "fd_z_score": -0.18,
+        "fd_z_score": -0.13,
         "pn": {
             "2025-04-15": "439/-730",
             "2025-04-16": "355/-538",
@@ -34365,7 +34365,7 @@
         "fd_avg": 524,
         "fd_median": "+500",
         "fd_std_dev": 348.52,
-        "fd_z_score": -0.27,
+        "fd_z_score": -0.24,
         "pn": {
             "2025-04-15": "674/-1409",
             "2025-04-16": "704/-1515",
