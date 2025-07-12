@@ -2080,7 +2080,7 @@
         "fd_avg": 371,
         "fd_median": "+370",
         "fd_std_dev": 78.77,
-        "fd_z_score": -0.65
+        "fd_z_score": -0.52
     },
     "jarred kelenic": {
         "pn_avg_vig": 809,
@@ -2249,7 +2249,7 @@
         "fd_avg": 1686,
         "fd_median": "+1700",
         "fd_std_dev": 723.55,
-        "fd_z_score": -0.67
+        "fd_z_score": -0.53
     },
     "drake baldwin": {
         "pn_avg_vig": 1078,
@@ -3246,7 +3246,7 @@
         "fd_avg": 579,
         "fd_median": "+560",
         "fd_std_dev": 162.48,
-        "fd_z_score": -0.67,
+        "fd_z_score": -0.49,
         "circa_avg_vig": 767,
         "circa_avg": 605,
         "circa_median": "+625/-900",
@@ -3287,7 +3287,7 @@
         "fd_avg": 782,
         "fd_median": "+750",
         "fd_std_dev": 253.77,
-        "fd_z_score": -0.6,
+        "fd_z_score": -0.72,
         "pn_avg_vig": 1233,
         "pn_avg": 706,
         "pn_median": "809/-1913",
@@ -3345,7 +3345,7 @@
         "fd_avg": 781,
         "fd_median": "+680",
         "fd_std_dev": 203.52,
-        "fd_z_score": -0.89,
+        "fd_z_score": -0.74,
         "pn_avg_vig": 1036,
         "pn_avg": 623,
         "pn_median": "608/-1300",
@@ -3430,7 +3430,7 @@
         "fd_avg": 629,
         "fd_median": "+600",
         "fd_std_dev": 181.87,
-        "fd_z_score": -0.82,
+        "fd_z_score": -0.87,
         "pn_avg_vig": 859,
         "pn_avg": 547,
         "pn_median": "569/-1153",
@@ -4455,7 +4455,7 @@
         "fd_avg": 1091,
         "fd_median": "+1300",
         "fd_std_dev": 337.04,
-        "fd_z_score": -0.27,
+        "fd_z_score": -0.57,
         "pn_avg_vig": 1394,
         "pn_avg": 770,
         "pn_median": "793/-1852",
@@ -5980,7 +5980,7 @@
         "fd_avg": 725,
         "fd_median": "+680",
         "fd_std_dev": 200.92,
-        "fd_z_score": -0.22,
+        "fd_z_score": -0.47,
         "circa_avg_vig": 786,
         "circa_avg": 616,
         "circa_median": "+650/-950",
@@ -8193,17 +8193,17 @@
         "fd_avg": 528,
         "fd_median": "+520",
         "fd_std_dev": 124.2,
-        "fd_z_score": 0.82,
+        "fd_z_score": 1.22,
         "circa_avg_vig": 644,
         "circa_avg": 525,
         "circa_median": "+525/-710",
         "circa_std_dev": 0,
-        "circa_z_score": 0.82,
+        "circa_z_score": 1.22,
         "pn_avg_vig": 1010,
         "pn_avg": 598,
         "pn_median": "598/-1262",
         "pn_std_dev": 0,
-        "pn_z_score": 0.82
+        "pn_z_score": 1.22
     },
     "zack gelof": {
         "fd_avg_vig": 1079,
