@@ -1,86 +1,48 @@
 {
-    "ari @ laa": {
-        "logan ohoppe": {
-            "kambi": "1150/-3335"
-        },
-        "jo adell": {
-            "kambi": "750/-1430"
-        },
-        "josh naylor": {
-            "kambi": "1100/-3335"
-        },
-        "geraldo perdomo": {
-            "kambi": "1500/-10000"
-        },
-        "eugenio suarez": {
-            "kambi": "750/-1430"
-        },
-        "ketel marte": {
-            "kambi": "1200/-3335"
-        },
-        "mike trout": {
-            "kambi": "1150/-3335"
-        },
-        "taylor ward": {
-            "kambi": "900/-2000"
-        },
-        "lourdes gurriel": {
-            "kambi": "1050/-2500"
-        }
-    },
     "tor @ ath": {
         "nick kurtz": {
-            "kambi": "600/-1000"
+            "kambi": "650/-1115"
         },
         "lawrence butler": {
-            "kambi": "900/-2000"
-        },
-        "george springer": {
-            "kambi": "1500/-10000"
-        },
-        "addison barger": {
-            "kambi": "850/-1667"
-        },
-        "shea langeliers": {
-            "kambi": "750/-1430"
-        },
-        "miguel andujar": {
             "kambi": "1600/-10000"
         },
+        "george springer": {
+            "kambi": "1200/-3335"
+        },
+        "addison barger": {
+            "kambi": "1150/-3335"
+        },
+        "shea langeliers": {
+            "kambi": "800/-1430"
+        },
         "max muncy": {
-            "kambi": "1500/-10000"
+            "kambi": "1600/-10000"
         },
         "vladimir guerrero": {
-            "kambi": "950/-2500"
-        },
-        "bo bichette": {
             "kambi": "1300/-5000"
         },
-        "alejandro kirk": {
-            "kambi": "1400/-10000"
-        },
         "tyler soderstrom": {
-            "kambi": "900/-2000"
+            "kambi": "850/-2000"
+        },
+        "nathan lukes": {
+            "kambi": "1600/-10000"
         },
         "brent rooker": {
-            "kambi": "700/-1250"
+            "kambi": "1300/-5000"
         }
     },
     "lad @ sf": {
-        "freddie freeman": {
-            "kambi": "1700/-10000"
-        },
-        "mookie betts": {
-            "kambi": "1500/-10000"
-        },
         "matt chapman": {
-            "kambi": "850/-1667"
+            "kambi": "1150/-3335"
+        },
+        "heliot ramos": {
+            "kambi": "1500/-10000"
         },
         "rafael devers": {
-            "kambi": "1500/-10000"
+            "kambi": "1150/-3335"
         },
         "mike yastrzemski": {
-            "kambi": "1600/-10000"
+            "kambi": "1200/-3335"
         }
     }
 }

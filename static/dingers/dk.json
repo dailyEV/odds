@@ -1,4 +1,60 @@
 {
+    "chc @ nyy": {
+        "aaron judge": {
+            "dk": "+175"
+        },
+        "giancarlo stanton": {
+            "dk": "+260"
+        },
+        "paul goldschmidt": {
+            "dk": "+330"
+        },
+        "kyle tucker": {
+            "dk": "+425"
+        },
+        "cody bellinger": {
+            "dk": "+450"
+        },
+        "seiya suzuki": {
+            "dk": "+450"
+        },
+        "austin wells": {
+            "dk": "+450"
+        },
+        "pete crow armstrong": {
+            "dk": "+450"
+        },
+        "jazz chisholm": {
+            "dk": "+550"
+        },
+        "anthony volpe": {
+            "dk": "+550"
+        },
+        "michael busch": {
+            "dk": "+550"
+        },
+        "jasson dominguez": {
+            "dk": "+600"
+        },
+        "ian happ": {
+            "dk": "+600"
+        },
+        "dansby swanson": {
+            "dk": "+650"
+        },
+        "carson kelly": {
+            "dk": "+650"
+        },
+        "oswald peraza": {
+            "dk": "+700"
+        },
+        "nico hoerner": {
+            "dk": "+1100"
+        },
+        "jon berti": {
+            "dk": "+1500"
+        }
+    },
     "sea @ det": {
         "cal raleigh": {
             "dk": "+240"
@@ -138,35 +194,6 @@
         },
         "jacob stallings": {
             "dk": "+850"
-        }
-    },
-    "chc @ nyy": {
-        "kyle tucker": {
-            "dk": "+425"
-        },
-        "seiya suzuki": {
-            "dk": "+475"
-        },
-        "michael busch": {
-            "dk": "+550"
-        },
-        "pete crow armstrong": {
-            "dk": "+550"
-        },
-        "dansby swanson": {
-            "dk": "+650"
-        },
-        "carson kelly": {
-            "dk": "+650"
-        },
-        "ian happ": {
-            "dk": "+650"
-        },
-        "nico hoerner": {
-            "dk": "+1100"
-        },
-        "jon berti": {
-            "dk": "+1500"
         }
     },
     "tb @ bos": {

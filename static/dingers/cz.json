@@ -7,7 +7,10 @@
             "cz": "230"
         },
         "paul goldschmidt": {
-            "cz": "350"
+            "cz": "340"
+        },
+        "austin wells": {
+            "cz": "380"
         },
         "kyle tucker": {
             "cz": "380"
@@ -20,6 +23,9 @@
         },
         "cody bellinger": {
             "cz": "400"
+        },
+        "anthony volpe": {
+            "cz": "450"
         },
         "jasson dominguez": {
             "cz": "450"
@@ -36,8 +42,8 @@
         "ian happ": {
             "cz": "500"
         },
-        "anthony volpe": {
-            "cz": "500"
+        "oswald peraza": {
+            "cz": "550"
         },
         "carson kelly": {
             "cz": "550"
@@ -83,7 +89,7 @@
             "cz": "380"
         },
         "colt keith": {
-            "cz": "400"
+            "cz": "380"
         },
         "jorge polanco": {
             "cz": "400"
@@ -142,7 +148,7 @@
             "cz": "500"
         },
         "ha seong kim": {
-            "cz": "600"
+            "cz": "650"
         },
         "jose caballero": {
             "cz": "700"
@@ -158,26 +164,56 @@
         }
     },
     "cle @ chw": {
+        "jose ramirez": {
+            "cz": "260"
+        },
         "kyle manzardo": {
             "cz": "320"
+        },
+        "bo naylor": {
+            "cz": "320"
+        },
+        "luis robert": {
+            "cz": "333"
         },
         "carlos santana": {
             "cz": "360"
         },
-        "miguel vargas": {
+        "daniel schneemann": {
             "cz": "380"
         },
-        "daniel schneemann": {
+        "miguel vargas": {
             "cz": "380"
         },
         "nolan jones": {
             "cz": "400"
         },
+        "andrew benintendi": {
+            "cz": "400"
+        },
+        "mike tauchman": {
+            "cz": "450"
+        },
         "angel martinez": {
             "cz": "450"
         },
+        "kyle teel": {
+            "cz": "500"
+        },
+        "colson montgomery": {
+            "cz": "500"
+        },
         "steven kwan": {
             "cz": "500"
+        },
+        "chase meidroth": {
+            "cz": "500"
+        },
+        "josh rojas": {
+            "cz": "600"
+        },
+        "brayan rocchio": {
+            "cz": "600"
         }
     }
 }

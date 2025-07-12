@@ -1,4 +1,16 @@
 {
+    "col @ cin": {
+        "wind": "18%",
+        "time": "4:10PM",
+        "stadium": "Great American Ball Park",
+        "conditions": "Possible Drizzle",
+        "temp": "90",
+        "feels like": "94",
+        "precip %": "11%",
+        "wind speed": "8.9 mph",
+        "wind dir": "SSW",
+        "transform": "transform: rotate(-93.750deg);"
+    },
     "cle @ chw": {
         "wind": "17%",
         "time": "4:10PM",
@@ -6,22 +18,10 @@
         "conditions": "Partly Cloudy",
         "temp": "82",
         "feels like": "85",
-        "precip %": "8%",
+        "precip %": "5%",
         "wind speed": "9.8 mph",
         "wind dir": "WSW",
         "transform": "transform: rotate(-75.000deg);"
-    },
-    "col @ cin": {
-        "wind": "15%",
-        "time": "4:10PM",
-        "stadium": "Great American Ball Park",
-        "conditions": "Possible Drizzle",
-        "temp": "90",
-        "feels like": "94",
-        "precip %": "10%",
-        "wind speed": "8.9 mph",
-        "wind dir": "SSW",
-        "transform": "transform: rotate(-93.750deg);"
     },
     "atl @ stl": {
         "wind": "10%",
@@ -30,22 +30,10 @@
         "conditions": "Partly Cloudy",
         "temp": "87",
         "feels like": "90",
-        "precip %": "11%",
-        "wind speed": "9.8 mph",
-        "wind dir": "WSW",
-        "transform": "transform: rotate(22.500deg);"
-    },
-    "sea @ det": {
-        "wind": "12.5 mph",
-        "time": "1:10PM",
-        "stadium": "Comerica Park",
-        "conditions": "Mostly Clear",
-        "temp": "90",
-        "feels like": "92",
         "precip %": "7%",
-        "wind speed": "13.4 mph",
-        "wind dir": "SSW",
-        "transform": "transform: rotate(-147.500deg);"
+        "wind speed": "9.8 mph",
+        "wind dir": "WNW",
+        "transform": "transform: rotate(32.500deg);"
     },
     "tex @ hou": {
         "wind": "7% (Roof)",
@@ -58,6 +46,18 @@
         "wind speed": "8.9 mph",
         "wind dir": "SSE",
         "transform": "transform: rotate(-377.500deg);"
+    },
+    "sea @ det": {
+        "wind": "12.5 mph",
+        "time": "1:10PM",
+        "stadium": "Comerica Park",
+        "conditions": "Mostly Clear",
+        "temp": "90",
+        "feels like": "92",
+        "precip %": "6%",
+        "wind speed": "13.4 mph",
+        "wind dir": "SSW",
+        "transform": "transform: rotate(-147.500deg);"
     },
     "chc @ nyy": {
         "wind": "0%",
@@ -102,7 +102,7 @@
         "conditions": "Mostly Clear",
         "temp": "92",
         "feels like": "97",
-        "precip %": "5%",
+        "precip %": "0%",
         "wind speed": "5.4 mph",
         "wind dir": "SSE",
         "transform": "transform: rotate(-62.500deg);"
@@ -149,18 +149,18 @@
         "stadium": "Petco Park",
         "conditions": "Mostly Clear",
         "temp": "71",
-        "feels like": "71",
+        "feels like": "70",
         "precip %": "0%",
         "wind speed": "7.2 mph",
         "wind dir": "WSW",
-        "transform": "transform: rotate(70.000deg);"
+        "transform": "transform: rotate(60.000deg);"
     },
     "ari @ laa": {
         "wind": "0%",
         "time": "9:38PM",
         "stadium": "Angel Stadium",
         "conditions": "Clear",
-        "temp": "73",
+        "temp": "72",
         "feels like": "73",
         "precip %": "0%",
         "wind speed": "6.3 mph",
