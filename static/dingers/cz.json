@@ -195,10 +195,10 @@
         "christopher morel": {
             "cz": "500"
         },
-        "danny jansen": {
-            "cz": "500"
-        },
         "marcelo mayer": {
+            "cz": "550"
+        },
+        "danny jansen": {
             "cz": "550"
         },
         "masataka yoshida": {
@@ -225,7 +225,7 @@
     },
     "cle @ chw": {
         "jose ramirez": {
-            "cz": "260"
+            "cz": "250"
         },
         "kyle manzardo": {
             "cz": "300"
@@ -284,7 +284,7 @@
             "cz": "260"
         },
         "kody clemens": {
-            "cz": "280"
+            "cz": "290"
         },
         "matt wallner": {
             "cz": "300"
@@ -487,11 +487,11 @@
         "yanquiel fernandez": {
             "cz": "450"
         },
-        "orlando arcia": {
-            "cz": "450"
-        },
         "jose trevino": {
             "cz": "450"
+        },
+        "orlando arcia": {
+            "cz": "500"
         },
         "tyler freeman": {
             "cz": "500"
@@ -510,10 +510,10 @@
         "andrew vaughn": {
             "cz": "360"
         },
-        "cj abrams": {
-            "cz": "400"
-        },
         "josh bell": {
+            "cz": "380"
+        },
+        "cj abrams": {
             "cz": "400"
         },
         "jackson chourio": {
@@ -555,12 +555,15 @@
     },
     "nym @ kc": {
         "pete alonso": {
-            "cz": "350"
+            "cz": "300"
+        },
+        "juan soto": {
+            "cz": "333"
         },
         "bobby witt": {
             "cz": "360"
         },
-        "juan soto": {
+        "francisco lindor": {
             "cz": "380"
         },
         "brandon nimmo": {
@@ -569,14 +572,11 @@
         "salvador perez": {
             "cz": "400"
         },
-        "francisco lindor": {
-            "cz": "400"
-        },
         "vinnie pasquantino": {
             "cz": "450"
         },
         "mark vientos": {
-            "cz": "500"
+            "cz": "450"
         },
         "jac caglianone": {
             "cz": "500"
@@ -590,14 +590,14 @@
         "jeff mcneil": {
             "cz": "600"
         },
+        "nick loftin": {
+            "cz": "650"
+        },
         "luis torrens": {
             "cz": "650"
         },
         "maikel garcia": {
             "cz": "650"
-        },
-        "nick loftin": {
-            "cz": "700"
         },
         "john rave": {
             "cz": "700"
@@ -802,13 +802,13 @@
         "davis schneider": {
             "cz": "375"
         },
-        "addison barger": {
-            "cz": "380"
-        },
         "tyler soderstrom": {
             "cz": "400"
         },
         "lawrence butler": {
+            "cz": "400"
+        },
+        "addison barger": {
             "cz": "400"
         },
         "zack gelof": {
@@ -833,7 +833,7 @@
             "cz": "600"
         },
         "myles straw": {
-            "cz": "850"
+            "cz": "800"
         }
     }
 }

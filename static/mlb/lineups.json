@@ -27,34 +27,6 @@
             "oswald peraza"
         ]
     },
-    "sea": {
-        "pitcher": "george kirby",
-        "batters": [
-            "jp crawford",
-            "julio rodriguez",
-            "cal raleigh",
-            "randy arozarena",
-            "jorge polanco",
-            "luke raley",
-            "dominic canzone",
-            "ben williamson",
-            "cole young"
-        ]
-    },
-    "det": {
-        "pitcher": "casey mize",
-        "batters": [
-            "colt keith",
-            "gleyber torres",
-            "wenceel perez",
-            "riley greene",
-            "spencer torkelson",
-            "zach mckinstry",
-            "matt vierling",
-            "trey sweeney",
-            "jake rogers"
-        ]
-    },
     "pit": {
         "pitcher": "mike burrows",
         "batters": [
@@ -81,6 +53,34 @@
             "royce lewis",
             "ty france",
             "kody clemens"
+        ]
+    },
+    "sea": {
+        "pitcher": "george kirby",
+        "batters": [
+            "jp crawford",
+            "julio rodriguez",
+            "cal raleigh",
+            "randy arozarena",
+            "jorge polanco",
+            "luke raley",
+            "dominic canzone",
+            "ben williamson",
+            "cole young"
+        ]
+    },
+    "det": {
+        "pitcher": "casey mize",
+        "batters": [
+            "colt keith",
+            "gleyber torres",
+            "wenceel perez",
+            "riley greene",
+            "spencer torkelson",
+            "zach mckinstry",
+            "matt vierling",
+            "trey sweeney",
+            "jake rogers"
         ]
     },
     "atl": {
@@ -238,7 +238,15 @@
     "cle": {
         "pitcher": "tanner bibee",
         "batters": [
-            "tbd"
+            "steven kwan",
+            "nolan jones",
+            "jose ramirez",
+            "kyle manzardo",
+            "carlos santana",
+            "daniel schneemann",
+            "angel martinez",
+            "austin hedges",
+            "brayan rocchio"
         ]
     },
     "chw": {
