@@ -3213,11 +3213,11 @@
         "circa_median": "+425/-550",
         "circa_std_dev": 79.94,
         "circa_z_score": 1.91,
-        "fd_avg_vig": 615,
-        "fd_avg": 425,
+        "fd_avg_vig": 616,
+        "fd_avg": 426,
         "fd_median": "+430",
-        "fd_std_dev": 82.29,
-        "fd_z_score": 2.13
+        "fd_std_dev": 83.19,
+        "fd_z_score": 2.09
     },
     "nolan arenado": {
         "circa_avg_vig": 891,
@@ -3322,10 +3322,10 @@
         "pn_median": "653/-1339",
         "pn_std_dev": 140.88,
         "pn_z_score": 0,
-        "fd_avg_vig": 1724,
+        "fd_avg_vig": 1726,
         "fd_avg": 786,
         "fd_median": "+750",
-        "fd_std_dev": 202.52,
+        "fd_std_dev": 202.58,
         "fd_z_score": 0.41,
         "circa_avg_vig": 957,
         "circa_avg": 723,
@@ -3513,11 +3513,11 @@
         "pn_z_score": 0
     },
     "adolis garcia": {
-        "fd_avg_vig": 683,
-        "fd_avg": 458,
+        "fd_avg_vig": 684,
+        "fd_avg": 459,
         "fd_median": "+470",
-        "fd_std_dev": 95.42,
-        "fd_z_score": 3.58,
+        "fd_std_dev": 97.39,
+        "fd_z_score": 3.5,
         "pn_avg_vig": 581,
         "pn_avg": 409,
         "pn_median": "418/-944",
@@ -3531,10 +3531,10 @@
     },
     "corey seager": {
         "fd_avg_vig": 480,
-        "fd_avg": 352,
+        "fd_avg": 353,
         "fd_median": "+350",
-        "fd_std_dev": 79.07,
-        "fd_z_score": 1.24,
+        "fd_std_dev": 79.26,
+        "fd_z_score": 1.22,
         "pn_avg_vig": 477,
         "pn_avg": 354,
         "pn_median": "364/-586",
@@ -3770,11 +3770,11 @@
         "pn_median": "401/-670",
         "pn_std_dev": 71.07,
         "pn_z_score": 0,
-        "fd_avg_vig": 616,
+        "fd_avg_vig": 617,
         "fd_avg": 426,
         "fd_median": "+420",
-        "fd_std_dev": 78.32,
-        "fd_z_score": 2.22
+        "fd_std_dev": 79.55,
+        "fd_z_score": 2.19
     },
     "fernando tatis": {
         "fd_avg_vig": 466,
@@ -6996,11 +6996,11 @@
         "fd_z_score": 0
     },
     "sam haggerty": {
-        "fd_avg_vig": 2850,
-        "fd_avg": 961,
+        "fd_avg_vig": 2846,
+        "fd_avg": 962,
         "fd_median": "+800",
-        "fd_std_dev": 260.62,
-        "fd_z_score": 1.68
+        "fd_std_dev": 264.3,
+        "fd_z_score": 1.66
     },
     "dj lemahieu": {
         "fd_avg_vig": 2959,
