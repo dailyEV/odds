@@ -9,23 +9,23 @@
         "matt chapman": {
             "dk": "+370"
         },
+        "willy adames": {
+            "dk": "+450"
+        },
         "heliot ramos": {
             "dk": "+450"
         },
-        "willy adames": {
+        "andy pages": {
             "dk": "+475"
         },
         "teoscar hernandez": {
-            "dk": "+500"
-        },
-        "andy pages": {
             "dk": "+500"
         },
         "mike yastrzemski": {
             "dk": "+500"
         },
         "mookie betts": {
-            "dk": "+550"
+            "dk": "+500"
         },
         "freddie freeman": {
             "dk": "+600"
@@ -36,14 +36,14 @@
         "casey schmitt": {
             "dk": "+650"
         },
-        "dominic smith": {
-            "dk": "+800"
-        },
         "tommy edman": {
             "dk": "+800"
         },
         "patrick bailey": {
             "dk": "+800"
+        },
+        "dominic smith": {
+            "dk": "+850"
         },
         "jung hoo lee": {
             "dk": "+850"
@@ -53,62 +53,6 @@
         },
         "hyeseong kim": {
             "dk": "+1000"
-        }
-    },
-    "sea @ det": {
-        "cal raleigh": {
-            "dk": "+225"
-        },
-        "riley greene": {
-            "dk": "+450"
-        },
-        "julio rodriguez": {
-            "dk": "+475"
-        },
-        "spencer torkelson": {
-            "dk": "+500"
-        },
-        "randy arozarena": {
-            "dk": "+500"
-        },
-        "colt keith": {
-            "dk": "+550"
-        },
-        "jake rogers": {
-            "dk": "+550"
-        },
-        "wenceel perez": {
-            "dk": "+550"
-        },
-        "jorge polanco": {
-            "dk": "+550"
-        },
-        "luke raley": {
-            "dk": "+600"
-        },
-        "dominic canzone": {
-            "dk": "+650"
-        },
-        "zach mckinstry": {
-            "dk": "+750"
-        },
-        "trey sweeney": {
-            "dk": "+800"
-        },
-        "matt vierling": {
-            "dk": "+850"
-        },
-        "gleyber torres": {
-            "dk": "+850"
-        },
-        "jp crawford": {
-            "dk": "+950"
-        },
-        "ben williamson": {
-            "dk": "+1500"
-        },
-        "cole young": {
-            "dk": "+1500"
         }
     },
     "ari @ laa": {
@@ -228,7 +172,7 @@
             "dk": "+235"
         },
         "francisco lindor": {
-            "dk": "+295"
+            "dk": "+285"
         },
         "juan soto": {
             "dk": "+350"
@@ -258,13 +202,13 @@
             "dk": "+550"
         },
         "brett baty": {
-            "dk": "+650"
+            "dk": "+600"
         },
         "jonathan india": {
-            "dk": "+650"
+            "dk": "+600"
         },
         "jeff mcneil": {
-            "dk": "+750"
+            "dk": "+650"
         },
         "nick loftin": {
             "dk": "+800"
@@ -276,7 +220,7 @@
             "dk": "+850"
         },
         "maikel garcia": {
-            "dk": "+900"
+            "dk": "+850"
         }
     },
     "phi @ sd": {
@@ -326,7 +270,7 @@
             "dk": "+850"
         },
         "xander bogaerts": {
-            "dk": "+850"
+            "dk": "+900"
         },
         "martin maldonado": {
             "dk": "+1000"
@@ -392,35 +336,35 @@
         }
     },
     "tor @ ath": {
+        "brent rooker": {
+            "dk": "+290"
+        },
         "vladimir guerrero": {
             "dk": "+295"
         },
-        "brent rooker": {
-            "dk": "+300"
-        },
         "shea langeliers": {
-            "dk": "+310"
+            "dk": "+295"
         },
         "nick kurtz": {
-            "dk": "+320"
+            "dk": "+310"
         },
         "george springer": {
             "dk": "+340"
         },
         "davis schneider": {
-            "dk": "+360"
+            "dk": "+370"
+        },
+        "lawrence butler": {
+            "dk": "+370"
         },
         "addison barger": {
             "dk": "+380"
         },
         "bo bichette": {
-            "dk": "+400"
-        },
-        "lawrence butler": {
-            "dk": "+400"
+            "dk": "+380"
         },
         "tyler soderstrom": {
-            "dk": "+425"
+            "dk": "+400"
         },
         "zack gelof": {
             "dk": "+425"
@@ -429,7 +373,7 @@
             "dk": "+475"
         },
         "max muncy": {
-            "dk": "+500"
+            "dk": "+475"
         },
         "ernie clement": {
             "dk": "+550"
@@ -469,11 +413,11 @@
         "tyler oneill": {
             "dk": "+450"
         },
-        "connor norby": {
+        "agustin ramirez": {
             "dk": "+450"
         },
-        "agustin ramirez": {
-            "dk": "+475"
+        "connor norby": {
+            "dk": "+450"
         },
         "cedric mullins": {
             "dk": "+475"
