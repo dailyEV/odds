@@ -27,6 +27,34 @@
             "oswald peraza"
         ]
     },
+    "sea": {
+        "pitcher": "george kirby",
+        "batters": [
+            "jp crawford",
+            "julio rodriguez",
+            "cal raleigh",
+            "randy arozarena",
+            "jorge polanco",
+            "luke raley",
+            "dominic canzone",
+            "ben williamson",
+            "cole young"
+        ]
+    },
+    "det": {
+        "pitcher": "casey mize",
+        "batters": [
+            "colt keith",
+            "gleyber torres",
+            "wenceel perez",
+            "riley greene",
+            "spencer torkelson",
+            "zach mckinstry",
+            "matt vierling",
+            "trey sweeney",
+            "jake rogers"
+        ]
+    },
     "pit": {
         "pitcher": "mike burrows",
         "batters": [
@@ -81,34 +109,6 @@
             "thomas saggese",
             "nolan gorman",
             "victor scott"
-        ]
-    },
-    "sea": {
-        "pitcher": "george kirby",
-        "batters": [
-            "jp crawford",
-            "julio rodriguez",
-            "cal raleigh",
-            "randy arozarena",
-            "jorge polanco",
-            "luke raley",
-            "dominic canzone",
-            "ben williamson",
-            "cole young"
-        ]
-    },
-    "det": {
-        "pitcher": "casey mize",
-        "batters": [
-            "colt keith",
-            "gleyber torres",
-            "wenceel perez",
-            "riley greene",
-            "spencer torkelson",
-            "zach mckinstry",
-            "matt vierling",
-            "trey sweeney",
-            "jake rogers"
         ]
     },
     "lad": {
@@ -194,7 +194,7 @@
         ]
     },
     "kc": {
-        "pitcher": "michael lorenzen",
+        "pitcher": "angel zerpa",
         "batters": [
             "jonathan india",
             "bobby witt",
