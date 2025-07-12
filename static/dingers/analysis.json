@@ -6144,10 +6144,10 @@
         "circa_median": "+550/-750",
         "circa_std_dev": 98.74,
         "circa_z_score": 0,
-        "fd_avg_vig": 837,
+        "fd_avg_vig": 836,
         "fd_avg": 526,
         "fd_median": "+520",
-        "fd_std_dev": 116.35,
+        "fd_std_dev": 116.43,
         "fd_z_score": -0.22
     },
     "jeff mcneil": {
@@ -7234,11 +7234,11 @@
         "fd_z_score": 0
     },
     "daylen lile": {
-        "fd_avg_vig": 2741,
-        "fd_avg": 951,
+        "fd_avg_vig": 2731,
+        "fd_avg": 950,
         "fd_median": "+1900",
-        "fd_std_dev": 286.54,
-        "fd_z_score": -0.53
+        "fd_std_dev": 287.21,
+        "fd_z_score": -0.52
     },
     "marcelo mayer": {
         "circa_avg_vig": 986,
