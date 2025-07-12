@@ -616,7 +616,7 @@
         "fd_avg": 505,
         "fd_median": "+500",
         "fd_std_dev": 175.01,
-        "fd_z_score": 0.54
+        "fd_z_score": 0.31
     },
     "julio rodriguez": {
         "pn_avg_vig": 597,
@@ -633,7 +633,7 @@
         "fd_avg": 447,
         "fd_median": "+460",
         "fd_std_dev": 88.19,
-        "fd_z_score": 2.64
+        "fd_z_score": 2.08
     },
     "jeimer candelario": {
         "pn_avg_vig": 1081,
@@ -1878,7 +1878,7 @@
         "fd_avg_vig": 223,
         "fd_avg": 184,
         "fd_median": "+186",
-        "fd_std_dev": 39.86,
+        "fd_std_dev": 39.83,
         "fd_z_score": -0.3
     },
     "drew waters": {
@@ -1999,7 +1999,7 @@
         "fd_avg_vig": 769,
         "fd_avg": 498,
         "fd_median": "+520",
-        "fd_std_dev": 188.54,
+        "fd_std_dev": 188.51,
         "fd_z_score": 0.12
     },
     "vinnie pasquantino": {
@@ -2907,7 +2907,7 @@
         "fd_avg": 486,
         "fd_median": "+500",
         "fd_std_dev": 125.27,
-        "fd_z_score": -0.45
+        "fd_z_score": -0.53
     },
     "kerry carpenter": {
         "pn_avg_vig": 551,
@@ -2936,7 +2936,7 @@
         "fd_avg": 789,
         "fd_median": "+750",
         "fd_std_dev": 160.27,
-        "fd_z_score": 0.26
+        "fd_z_score": 0.07
     },
     "spencer torkelson": {
         "pn_avg_vig": 613,
@@ -3806,10 +3806,10 @@
         "circa_z_score": 0
     },
     "kyle tucker": {
-        "fd_avg_vig": 562,
+        "fd_avg_vig": 563,
         "fd_avg": 398,
         "fd_median": "+400",
-        "fd_std_dev": 212.3,
+        "fd_std_dev": 212.25,
         "fd_z_score": -0.13,
         "pn_avg_vig": 541,
         "pn_avg": 389,
@@ -3903,10 +3903,10 @@
         "circa_z_score": 0
     },
     "pete crow armstrong": {
-        "fd_avg_vig": 834,
+        "fd_avg_vig": 835,
         "fd_avg": 524,
         "fd_median": "+500",
-        "fd_std_dev": 348.52,
+        "fd_std_dev": 348.45,
         "fd_z_score": -0.24,
         "pn_avg_vig": 702,
         "pn_avg": 469,
@@ -7267,7 +7267,7 @@
         "fd_avg": 784,
         "fd_median": "+750",
         "fd_std_dev": 123.29,
-        "fd_z_score": 0.94
+        "fd_z_score": 0.13
     },
     "reese mcguire": {
         "fd_avg_vig": 3055,
@@ -7839,7 +7839,7 @@
         "fd_avg": 486,
         "fd_median": "+480",
         "fd_std_dev": 121.33,
-        "fd_z_score": 0.45,
+        "fd_z_score": 0.28,
         "circa_avg_vig": 716,
         "circa_avg": 572,
         "circa_median": "+520/-700",
