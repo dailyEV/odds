@@ -1191,11 +1191,11 @@
         "circa_median": "+625/-900",
         "circa_std_dev": 113.97,
         "circa_z_score": -1.84,
-        "fd_avg_vig": 847,
-        "fd_avg": 530,
+        "fd_avg_vig": 848,
+        "fd_avg": 531,
         "fd_median": "+520",
-        "fd_std_dev": 116.78,
-        "fd_z_score": -1.71
+        "fd_std_dev": 116.29,
+        "fd_z_score": -1.64
     },
     "gunnar henderson": {
         "pn_avg_vig": 539,
@@ -1356,11 +1356,11 @@
         "circa_median": "+575/-800",
         "circa_std_dev": 110.18,
         "circa_z_score": -0.7,
-        "fd_avg_vig": 827,
+        "fd_avg_vig": 828,
         "fd_avg": 522,
         "fd_median": "+520",
-        "fd_std_dev": 132.2,
-        "fd_z_score": -0.47
+        "fd_std_dev": 132.11,
+        "fd_z_score": -0.39
     },
     "lane thomas": {
         "pn_avg_vig": 995,
@@ -4591,11 +4591,11 @@
         "circa_z_score": 0
     },
     "jackson holliday": {
-        "fd_avg_vig": 1254,
+        "fd_avg_vig": 1255,
         "fd_avg": 670,
         "fd_median": "+600",
-        "fd_std_dev": 244.68,
-        "fd_z_score": -1.02,
+        "fd_std_dev": 244.51,
+        "fd_z_score": -0.98,
         "pn_avg_vig": 948,
         "pn_avg": 577,
         "pn_median": "567/-1147",
@@ -5180,11 +5180,11 @@
         "pn_z_score": 0
     },
     "derek hill": {
-        "fd_avg_vig": 3081,
-        "fd_avg": 1000,
+        "fd_avg_vig": 3050,
+        "fd_avg": 997,
         "fd_median": "+1800",
-        "fd_std_dev": 385.17,
-        "fd_z_score": -0.52
+        "fd_std_dev": 386.9,
+        "fd_z_score": -0.64
     },
     "christian koss": {
         "fd_avg_vig": 3520,
@@ -7607,11 +7607,11 @@
         "pn_median": "460/-820",
         "pn_std_dev": 70.09,
         "pn_z_score": -0.21,
-        "fd_avg_vig": 672,
+        "fd_avg_vig": 671,
         "fd_avg": 453,
         "fd_median": "+440",
-        "fd_std_dev": 106.95,
-        "fd_z_score": -0.5,
+        "fd_std_dev": 107.19,
+        "fd_z_score": -0.59,
         "circa_avg_vig": 554,
         "circa_avg": 462,
         "circa_median": "+500/-670",
