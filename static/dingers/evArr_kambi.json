@@ -1,6 +1,6 @@
 {
     "updated": {
-        "fd": "2025-07-11 20:06:38.806438",
+        "fd": "2025-07-11 20:06:49.130762",
         "espn": "2025-07-11 18:28:56.383700",
         "dk": "2025-07-11 18:28:17.904659",
         "cz": "2025-07-11 18:28:29.030796",
@@ -22191,11 +22191,11 @@
                 "circa_median": "+450/-590",
                 "circa_std_dev": 137.1,
                 "circa_z_score": -0.56,
-                "fd_avg_vig": 594,
-                "fd_avg": 414,
+                "fd_avg_vig": 595,
+                "fd_avg": 415,
                 "fd_median": "+420",
-                "fd_std_dev": 100.85,
-                "fd_z_score": -0.73
+                "fd_std_dev": 100.72,
+                "fd_z_score": -0.74
             },
             "homerLogs": {
                 "lastHRDt": "2025-07-08-26",
@@ -28076,11 +28076,11 @@
                 "circa_median": "+950/-1550",
                 "circa_std_dev": 96.62,
                 "circa_z_score": 0,
-                "fd_avg_vig": 1585,
-                "fd_avg": 756,
+                "fd_avg_vig": 1583,
+                "fd_avg": 755,
                 "fd_median": "+750",
-                "fd_std_dev": 141.7,
-                "fd_z_score": -0.54,
+                "fd_std_dev": 142.03,
+                "fd_z_score": -0.53,
                 "pn_avg_vig": 1033,
                 "pn_avg": 607,
                 "pn_median": "607/-1293",
@@ -31847,10 +31847,10 @@
                 "pn_median": "815/-1940",
                 "pn_std_dev": 121.75,
                 "pn_z_score": 0,
-                "fd_avg_vig": 3673,
+                "fd_avg_vig": 3684,
                 "fd_avg": 1024,
                 "fd_median": "+1100",
-                "fd_std_dev": 170.01,
+                "fd_std_dev": 169.92,
                 "fd_z_score": 0.21
             },
             "homerLogs": {
@@ -32427,10 +32427,10 @@
                 "dt": "2025-07-10"
             },
             "analysis": {
-                "fd_avg_vig": 3546,
+                "fd_avg_vig": 3557,
                 "fd_avg": 1024,
                 "fd_median": "+1300",
-                "fd_std_dev": 513.11,
+                "fd_std_dev": 513.05,
                 "fd_z_score": 0.15,
                 "pn_avg_vig": 1575,
                 "pn_avg": 830,
