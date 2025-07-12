@@ -450,11 +450,11 @@
         }
     },
     "wsh @ mil": {
-        "christian yelich": {
-            "fd": "+360"
-        },
         "james wood": {
             "fd": "+390"
+        },
+        "christian yelich": {
+            "fd": "+360"
         },
         "andrew vaughn": {
             "fd": "+420"
@@ -480,17 +480,17 @@
         "isaac collins": {
             "fd": "+750"
         },
-        "daylen lile": {
-            "fd": "+800"
-        },
-        "joey ortiz": {
-            "fd": "+830"
-        },
         "brady house": {
             "fd": "+830"
         },
         "sal frelick": {
             "fd": "+830"
+        },
+        "joey ortiz": {
+            "fd": "+830"
+        },
+        "daylen lile": {
+            "fd": "+800"
         },
         "andruw monasterio": {
             "fd": "+830"
