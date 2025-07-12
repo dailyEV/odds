@@ -6,9 +6,6 @@
         "christian walker": {
             "fd": "+540"
         },
-        "wyatt langford": {
-            "fd": "+600"
-        },
         "victor caratini": {
             "fd": "+560"
         },
@@ -16,6 +13,9 @@
             "fd": "+600"
         },
         "jake burger": {
+            "fd": "+600"
+        },
+        "wyatt langford": {
             "fd": "+600"
         },
         "isaac paredes": {
@@ -27,14 +27,14 @@
         "adolis garcia": {
             "fd": "+750"
         },
-        "marcus semien": {
-            "fd": "+870"
+        "taylor trammell": {
+            "fd": "+830"
         },
         "cam smith": {
             "fd": "+870"
         },
-        "taylor trammell": {
-            "fd": "+830"
+        "marcus semien": {
+            "fd": "+870"
         },
         "jonah heim": {
             "fd": "+900"
@@ -48,10 +48,10 @@
         "michael helman": {
             "fd": "+1200"
         },
-        "ezequiel duran": {
+        "sam haggerty": {
             "fd": "+1200"
         },
-        "sam haggerty": {
+        "ezequiel duran": {
             "fd": "+1200"
         }
     },
@@ -83,10 +83,10 @@
         "jt realmuto": {
             "fd": "+560"
         },
-        "jackson merrill": {
+        "jake cronenworth": {
             "fd": "+600"
         },
-        "jake cronenworth": {
+        "jackson merrill": {
             "fd": "+600"
         },
         "alec bohm": {
