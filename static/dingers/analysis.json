@@ -13,8 +13,8 @@
         "fd_avg_vig": 592,
         "fd_avg": 413,
         "fd_median": "+420",
-        "fd_std_dev": 100.73,
-        "fd_z_score": -0.72
+        "fd_std_dev": 100.6,
+        "fd_z_score": -0.73
     },
     "luis garcia": {
         "pn_avg_vig": 1099,
@@ -39,10 +39,10 @@
         "pn_median": "774/-1775",
         "pn_std_dev": 99.2,
         "pn_z_score": 0,
-        "fd_avg_vig": 2622,
-        "fd_avg": 924,
+        "fd_avg_vig": 2627,
+        "fd_avg": 925,
         "fd_median": "+630",
-        "fd_std_dev": 152.62,
+        "fd_std_dev": 152.18,
         "fd_z_score": -0.62
     },
     "nathaniel lowe": {
@@ -2651,10 +2651,10 @@
         "circa_median": "+360/-7450",
         "circa_std_dev": 53.75,
         "circa_z_score": 0,
-        "fd_avg_vig": 473,
+        "fd_avg_vig": 472,
         "fd_avg": 348,
         "fd_median": "+350",
-        "fd_std_dev": 74.63,
+        "fd_std_dev": 74.84,
         "fd_z_score": -0.84
     },
     "pete alonso": {
@@ -2772,11 +2772,11 @@
         "circa_median": "+825/-1300",
         "circa_std_dev": 134.48,
         "circa_z_score": 0,
-        "fd_avg_vig": 1701,
-        "fd_avg": 781,
+        "fd_avg_vig": 1706,
+        "fd_avg": 782,
         "fd_median": "+800",
-        "fd_std_dev": 127.92,
-        "fd_z_score": 1.71
+        "fd_std_dev": 129.44,
+        "fd_z_score": 1.68
     },
     "edouard julien": {
         "pn_avg_vig": 1475,
@@ -2859,11 +2859,11 @@
         "circa_z_score": 0
     },
     "willi castro": {
-        "fd_avg_vig": 1617,
-        "fd_avg": 762,
+        "fd_avg_vig": 1612,
+        "fd_avg": 761,
         "fd_median": "+750",
-        "fd_std_dev": 160.56,
-        "fd_z_score": -0.82,
+        "fd_std_dev": 161.28,
+        "fd_z_score": -0.81,
         "circa_avg_vig": 821,
         "circa_avg": 638,
         "circa_median": "+625/-900",
@@ -2881,10 +2881,10 @@
         "pn_median": "538/-987",
         "pn_std_dev": 91.41,
         "pn_z_score": 0,
-        "fd_avg_vig": 979,
+        "fd_avg_vig": 980,
         "fd_avg": 581,
         "fd_median": "+560",
-        "fd_std_dev": 152.8,
+        "fd_std_dev": 152.7,
         "fd_z_score": -0.14,
         "circa_avg_vig": 658,
         "circa_avg": 533,
@@ -5115,11 +5115,11 @@
         "pn_median": "792/-1845",
         "pn_std_dev": 107.2,
         "pn_z_score": 0,
-        "fd_avg_vig": 1441,
+        "fd_avg_vig": 1439,
         "fd_avg": 721,
         "fd_median": "+750",
-        "fd_std_dev": 140.88,
-        "fd_z_score": -1.71,
+        "fd_std_dev": 141.39,
+        "fd_z_score": -1.7,
         "circa_avg_vig": 854,
         "circa_avg": 658,
         "circa_median": "+675/-1000",
@@ -7636,11 +7636,11 @@
         "fd_z_score": 0
     },
     "nick gonzales": {
-        "fd_avg_vig": 2253,
-        "fd_avg": 879,
+        "fd_avg_vig": 2267,
+        "fd_avg": 881,
         "fd_median": "+800",
-        "fd_std_dev": 117.14,
-        "fd_z_score": -1.1
+        "fd_std_dev": 114.73,
+        "fd_z_score": -1.14
     },
     "jerar encarnacion": {
         "fd_avg_vig": 948,
