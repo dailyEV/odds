@@ -7,7 +7,7 @@
             "fd": "+255"
         },
         "kyle tucker": {
-            "fd": "+370"
+            "fd": "+360"
         },
         "jazz chisholm": {
             "fd": "+400"
@@ -16,10 +16,10 @@
             "fd": "+420"
         },
         "pete crow armstrong": {
-            "fd": "+440"
+            "fd": "+450"
         },
         "paul goldschmidt": {
-            "fd": "+450"
+            "fd": "+460"
         },
         "michael busch": {
             "fd": "+470"
@@ -52,11 +52,11 @@
             "fd": "+1060"
         },
         "nico hoerner": {
-            "fd": "+1400"
+            "fd": "+1300"
         }
     },
     "sea @ det": {
-        "cal raleigh": {
+        "": {
             "fd": "+250"
         },
         "riley greene": {
@@ -64,21 +64,6 @@
         },
         "spencer torkelson": {
             "fd": "+470"
-        },
-        "dominic canzone": {
-            "fd": "+520"
-        },
-        "luke raley": {
-            "fd": "+560"
-        },
-        "jorge polanco": {
-            "fd": "+560"
-        },
-        "randy arozarena": {
-            "fd": "+560"
-        },
-        "julio rodriguez": {
-            "fd": "+630"
         },
         "colt keith": {
             "fd": "+750"
@@ -98,16 +83,12 @@
         "zach mckinstry": {
             "fd": "+900"
         },
-        "jp crawford": {
-            "fd": "+900"
-        },
         "matt vierling": {
             "fd": "+800"
-        },
-        "cole young": {
-            "fd": "+1060"
-        },
-        "miles mastrobuoni": {
+        }
+    },
+    "sea-gm2 @ det-gm2": {
+        "": {
             "fd": "+1300"
         }
     },
@@ -729,7 +710,7 @@
     },
     "ari @ laa": {
         "ketel marte": {
-            "fd": "+235"
+            "fd": "+240"
         },
         "mike trout": {
             "fd": "+285"
@@ -756,10 +737,10 @@
             "fd": "+440"
         },
         "jorge soler": {
-            "fd": "+480"
+            "fd": "+470"
         },
         "lourdes gurriel": {
-            "fd": "+500"
+            "fd": "+480"
         },
         "josh naylor": {
             "fd": "+500"
@@ -768,7 +749,7 @@
             "fd": "+520"
         },
         "james mccann": {
-            "fd": "+630"
+            "fd": "+680"
         },
         "alek thomas": {
             "fd": "+800"
