@@ -4,16 +4,16 @@
             "fd": "+300"
         },
         "rafael devers": {
-            "fd": "+400"
+            "fd": "+420"
         },
         "matt chapman": {
-            "fd": "+440"
+            "fd": "+430"
         },
         "willy adames": {
             "fd": "+600"
         },
         "heliot ramos": {
-            "fd": "+650"
+            "fd": "+600"
         },
         "mike yastrzemski": {
             "fd": "+600"
@@ -22,10 +22,7 @@
             "fd": "+650"
         },
         "andy pages": {
-            "fd": "+650"
-        },
-        "mookie betts": {
-            "fd": "+750"
+            "fd": "+700"
         },
         "freddie freeman": {
             "fd": "+800"
@@ -40,19 +37,24 @@
             "fd": "+1200"
         },
         "dalton rushing": {
-            "fd": "+1200"
+            "fd": "+1400"
         },
         "hyeseong kim": {
-            "fd": "+1300"
+            "fd": "+1600"
         },
         "jung hoo lee": {
-            "fd": "+1300"
+            "fd": "+1200"
         },
         "patrick bailey": {
-            "fd": "+1500"
+            "fd": "+1300"
         },
         "tommy edman": {
-            "fd": "+1400"
+            "fd": "+1500"
+        }
+    },
+    "lad-gm2 @ sf-gm2": {
+        "": {
+            "fd": "+750"
         }
     },
     "mia @ bal": {
