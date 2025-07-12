@@ -14917,7 +14917,7 @@
         "fd_avg": 497,
         "fd_median": "+500",
         "fd_std_dev": 94.01,
-        "fd_z_score": -0.18
+        "fd_z_score": 0.03
     },
     "jazz chisholm": {
         "pn": {
@@ -15856,7 +15856,7 @@
         "fd_avg": 447,
         "fd_median": "+440",
         "fd_std_dev": 94.63,
-        "fd_z_score": 0.03
+        "fd_z_score": 0.24
     },
     "aaron judge": {
         "pn": {
@@ -16398,7 +16398,7 @@
         "fd_avg": 791,
         "fd_median": "+750",
         "fd_std_dev": 185.43,
-        "fd_z_score": 0.59,
+        "fd_z_score": 0.43,
         "circa": {
             "2025-04-06": "+950/-1550",
             "2025-04-15": "+900/-1450",
@@ -47474,7 +47474,7 @@
         "fd_avg": 752,
         "fd_median": "+680",
         "fd_std_dev": 241.24,
-        "fd_z_score": 0.2,
+        "fd_z_score": 0.32,
         "circa": {
             "2025-05-17": "+675/-225",
             "2025-06-15": "+775/-1200",
@@ -51477,7 +51477,7 @@
         "fd_avg": 964,
         "fd_median": "+830",
         "fd_std_dev": 235.01,
-        "fd_z_score": 0.15
+        "fd_z_score": -0.27
     },
     "jared young": {
         "pn": {
@@ -52303,7 +52303,7 @@
         "fd_avg": 623,
         "fd_median": "+600",
         "fd_std_dev": 129.12,
-        "fd_z_score": -1.11,
+        "fd_z_score": -0.95,
         "pn": {
             "2025-06-06": "615/-1328",
             "2025-06-08": "561/-1127",
