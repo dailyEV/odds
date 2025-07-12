@@ -10749,7 +10749,7 @@
         "circa_avg": 591,
         "circa_median": "+575/-800",
         "circa_std_dev": 94.5,
-        "circa_z_score": 0,
+        "circa_z_score": -1.23,
         "fd": {
             "2025-04-08": "+600",
             "2025-04-09": "+650",
@@ -10986,7 +10986,7 @@
         "circa_avg": 438,
         "circa_median": "+455/-600",
         "circa_std_dev": 84.0,
-        "circa_z_score": 0,
+        "circa_z_score": -1.64,
         "fd": {
             "2025-04-08": "+350",
             "2025-04-09": "+380",
@@ -11833,13 +11833,14 @@
             "2025-06-18": "+520/-700",
             "2025-06-28": "+500/-670",
             "2025-07-08": "+750/-1150",
-            "2025-07-10": "+425/-550"
+            "2025-07-10": "+425/-550",
+            "2025-07-12": "+400/-510"
         },
-        "circa_avg_vig": 685,
-        "circa_avg": 551,
+        "circa_avg_vig": 673,
+        "circa_avg": 543,
         "circa_median": "+600/-850",
-        "circa_std_dev": 119.83,
-        "circa_z_score": 0
+        "circa_std_dev": 122.32,
+        "circa_z_score": -1.17
     },
     "jorge mateo": {
         "pn": {
@@ -21401,7 +21402,7 @@
         "circa_avg": 544,
         "circa_median": "+575/-800",
         "circa_std_dev": 103.51,
-        "circa_z_score": 0,
+        "circa_z_score": -1.15,
         "fd": {
             "2025-04-08": "+600",
             "2025-04-09": "+550",
@@ -21718,7 +21719,7 @@
         "circa_avg": 513,
         "circa_median": "+500/-670",
         "circa_std_dev": 78.68,
-        "circa_z_score": 0
+        "circa_z_score": -0.17
     },
     "jacob wilson": {
         "fd": {
@@ -39127,7 +39128,7 @@
         "circa_avg": 695,
         "circa_median": "+600/-850",
         "circa_std_dev": 194.71,
-        "circa_z_score": 0
+        "circa_z_score": -1.13
     },
     "jhonkensy noel": {
         "fd": {
@@ -54310,13 +54311,14 @@
         "circa": {
             "2025-07-06": "+650/-950",
             "2025-07-07": "+725/-1100",
-            "2025-07-08": "+725/-1100"
+            "2025-07-08": "+725/-1100",
+            "2025-07-12": "+700/-1050"
         },
-        "circa_avg_vig": 927,
-        "circa_avg": 698,
+        "circa_avg_vig": 928,
+        "circa_avg": 699,
         "circa_median": "+725/-1100",
-        "circa_std_dev": 43.3,
-        "circa_z_score": 0,
+        "circa_std_dev": 35.36,
+        "circa_z_score": 0.03,
         "fd": {
             "2025-07-07": "+540",
             "2025-07-08": "+630",
