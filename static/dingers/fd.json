@@ -785,7 +785,7 @@
     },
     "tor @ ath": {
         "george springer": {
-            "fd": "+340"
+            "fd": "+330"
         },
         "vladimir guerrero": {
             "fd": "+350"
@@ -812,10 +812,10 @@
             "fd": "+520"
         },
         "alejandro kirk": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "max p muncy": {
-            "fd": "+540"
+            "fd": "+560"
         },
         "zack gelof": {
             "fd": "+560"
@@ -833,7 +833,7 @@
             "fd": "+900"
         },
         "myles straw": {
-            "fd": "+1200"
+            "fd": "+1300"
         }
     }
 }
