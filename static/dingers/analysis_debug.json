@@ -7168,7 +7168,7 @@
         "fd_avg": 562,
         "fd_median": "+560",
         "fd_std_dev": 217.95,
-        "fd_z_score": -0.38
+        "fd_z_score": -0.42
     },
     "nick castellanos": {
         "pn": {
@@ -7826,7 +7826,7 @@
         "fd_avg": 574,
         "fd_median": "+560",
         "fd_std_dev": 137.49,
-        "fd_z_score": -0.39
+        "fd_z_score": -0.54
     },
     "bryce harper": {
         "pn": {
@@ -53890,7 +53890,7 @@
         "fd_avg": 691,
         "fd_median": "+680",
         "fd_std_dev": 98.57,
-        "fd_z_score": 1.11,
+        "fd_z_score": 1.41,
         "pn": {
             "2025-06-27": "559/-1119",
             "2025-06-28": "559/-1119"
@@ -53899,7 +53899,7 @@
         "pn_avg": 559,
         "pn_median": "559/-1119",
         "pn_std_dev": 0.0,
-        "pn_z_score": 1.11
+        "pn_z_score": 1.41
     },
     "bryce johnson": {
         "fd": {
