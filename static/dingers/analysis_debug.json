@@ -10837,7 +10837,7 @@
         "fd_avg": 574,
         "fd_median": "+560",
         "fd_std_dev": 123.25,
-        "fd_z_score": -0.84
+        "fd_z_score": -0.92
     },
     "jose ramirez": {
         "pn": {
@@ -21215,7 +21215,7 @@
         "fd_avg": 791,
         "fd_median": "+680",
         "fd_std_dev": 422.68,
-        "fd_z_score": -0.55,
+        "fd_z_score": -0.59,
         "circa": {
             "2025-06-28": "+700/-1050",
             "2025-06-29": "+625/-900",
@@ -21490,7 +21490,7 @@
         "fd_avg": 549,
         "fd_median": "+550",
         "fd_std_dev": 392.93,
-        "fd_z_score": -0.3
+        "fd_z_score": -0.28
     },
     "jacob amaya": {
         "fd": {
@@ -51472,7 +51472,7 @@
         "fd_avg": 716,
         "fd_median": "+680",
         "fd_std_dev": 360.88,
-        "fd_z_score": -0.32,
+        "fd_z_score": -0.43,
         "pn": {
             "2025-06-06": "568/-1150",
             "2025-06-07": "535/-1039",
@@ -53612,7 +53612,7 @@
         "fd_avg": 655,
         "fd_median": "+680",
         "fd_std_dev": 70.36,
-        "fd_z_score": 0.36
+        "fd_z_score": 0.64
     },
     "luis vazquez": {
         "fd": {
@@ -54349,7 +54349,7 @@
         "fd_avg": 628,
         "fd_median": "+630",
         "fd_std_dev": 57.18,
-        "fd_z_score": 0.91
+        "fd_z_score": 0.03
     },
     "mickey nontak": {
         "circa": {
@@ -54359,7 +54359,7 @@
         "circa_avg": 450,
         "circa_median": "+450/-590",
         "circa_std_dev": 0,
-        "circa_z_score": 0.91
+        "circa_z_score": 0.03
     },
     "ryan mcnahon": {
         "circa": {
@@ -54369,7 +54369,7 @@
         "circa_avg": 475,
         "circa_median": "+475/-630",
         "circa_std_dev": 0,
-        "circa_z_score": 0.91
+        "circa_z_score": 0.03
     },
     "wicahel toglia": {
         "circa": {
@@ -54379,7 +54379,7 @@
         "circa_avg": 475,
         "circa_median": "+475/-630",
         "circa_std_dev": 0,
-        "circa_z_score": 0.91
+        "circa_z_score": 0.03
     },
     "yanquiel fernandez": {
         "fd": {
