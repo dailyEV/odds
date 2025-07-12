@@ -27,5 +27,92 @@
         "jacob stallings": {
             "dk": "+850"
         }
+    },
+    "chc @ nyy": {
+        "kyle tucker": {
+            "dk": "+400"
+        },
+        "seiya suzuki": {
+            "dk": "+475"
+        },
+        "michael busch": {
+            "dk": "+550"
+        },
+        "pete crow armstrong": {
+            "dk": "+550"
+        },
+        "dansby swanson": {
+            "dk": "+600"
+        },
+        "carson kelly": {
+            "dk": "+650"
+        },
+        "ian happ": {
+            "dk": "+650"
+        },
+        "nico hoerner": {
+            "dk": "+1100"
+        },
+        "jon berti": {
+            "dk": "+1500"
+        }
+    },
+    "sea @ det": {
+        "colt keith": {
+            "dk": "+500"
+        },
+        "spencer torkelson": {
+            "dk": "+500"
+        },
+        "riley greene": {
+            "dk": "+550"
+        },
+        "dillon dingler": {
+            "dk": "+700"
+        },
+        "zach mckinstry": {
+            "dk": "+750"
+        },
+        "matt vierling": {
+            "dk": "+750"
+        },
+        "gleyber torres": {
+            "dk": "+800"
+        },
+        "javier baez": {
+            "dk": "+900"
+        },
+        "parker meadows": {
+            "dk": "+950"
+        }
+    },
+    "tb @ bos": {
+        "yandy diaz": {
+            "dk": "+500"
+        },
+        "junior caminero": {
+            "dk": "+550"
+        },
+        "christopher morel": {
+            "dk": "+600"
+        },
+        "danny jansen": {
+            "dk": "+650"
+        },
+        "ha seong kim": {
+            "dk": "+900"
+        },
+        "jose caballero": {
+            "dk": "+1000"
+        },
+        "curtis mead": {
+            "dk": "+1100"
+        },
+        "taylor walls": {
+            "dk": "+1200"
+        },
+        "jake mangum": {
+            "dk": "+1300"
+        }
     }
 }

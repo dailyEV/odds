@@ -1,2138 +1,3643 @@
 [
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611427385,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
       {
-        "designation": "home",
-        "price": -126
+        "alignment": "home",
+        "name": "New York Yankees",
+        "order": 1,
+        "pitcher": null,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          },
+          {
+            "period": 3
+          }
+        ]
       },
       {
-        "designation": "away",
-        "price": 114
+        "alignment": "away",
+        "name": "Chicago Cubs",
+        "order": 0,
+        "pitcher": null,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          },
+          {
+            "period": 3
+          }
+        ]
       }
     ],
-    "status": "open",
-    "type": "moneyline",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "hasMoneyline": false,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 3,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 22,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 607726598
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;tt;3.5;home",
-    "limits": [
-      {
-        "amount": 650,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611436950,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 3.5,
-        "price": 108
+        "alignment": "neutral",
+        "id": 1611436951,
+        "name": "Chicago Cubs",
+        "order": 0,
+        "rotation": 22372
       },
       {
-        "designation": "under",
-        "points": 3.5,
-        "price": -126
+        "alignment": "neutral",
+        "id": 1611436952,
+        "name": "New York Yankees",
+        "order": 0,
+        "rotation": 22373
       }
     ],
-    "side": "home",
-    "status": "open",
-    "type": "team_total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 22372,
+    "special": {
+      "category": "Next Run",
+      "description": "Team To Score 1st Run"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "1st Run",
+    "version": 429640322
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;tt;3.5;away",
-    "limits": [
-      {
-        "amount": 650,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596163,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
       {
-        "designation": "over",
-        "points": 3.5,
-        "price": 125
+        "alignment": "home",
+        "name": "New York Yankees  (Hits+Runs+Errors)",
+        "order": 1,
+        "pitcher": null,
+        "stats": [
+          {
+            "period": 0
+          }
+        ]
       },
       {
-        "designation": "under",
-        "points": 3.5,
-        "price": -147
+        "alignment": "away",
+        "name": "Chicago Cubs  (Hits+Runs+Errors)",
+        "order": 0,
+        "pitcher": null,
+        "stats": [
+          {
+            "period": 0
+          }
+        ]
       }
     ],
-    "side": "away",
-    "status": "open",
-    "type": "team_total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "hasMoneyline": false,
+        "hasSpread": false,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 9971,
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "matchup",
+    "units": "Hits + Runs + Errors",
+    "version": 607726706
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;s;-1.5",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596168,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -1.5,
-        "price": 179
+        "alignment": "neutral",
+        "id": 1611596169,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": 1.5,
-        "price": -206
+        "alignment": "neutral",
+        "id": 1611596170,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Chicago Cubs Runs Odd/Even"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;1.5",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596171,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": 1.5,
-        "price": -241
+        "alignment": "neutral",
+        "id": 1611596172,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": -1.5,
-        "price": 192
+        "alignment": "neutral",
+        "id": 1611596173,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Total Runs Odd/Even 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;1.0",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596174,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": 1.0,
-        "price": -188
+        "alignment": "neutral",
+        "id": 1611596175,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": -1.0,
-        "price": 157
+        "alignment": "neutral",
+        "id": 1611596176,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "New York Yankees Runs Odd/Even 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;-1.0",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596177,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -1.0,
-        "price": 124
+        "alignment": "neutral",
+        "id": 1611596178,
+        "name": "0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": 1.0,
-        "price": -143
+        "alignment": "neutral",
+        "id": 1611596179,
+        "name": "1",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596180,
+        "name": "2",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596181,
+        "name": "3",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596182,
+        "name": "4",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596183,
+        "name": "5",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596184,
+        "name": "6",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596185,
+        "name": "7",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596186,
+        "name": "8+",
+        "order": 0,
+        "rotation": 979
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Chicago Cubs Exact Total Runs"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;-2.0",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596187,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -2.0,
-        "price": 248
+        "alignment": "neutral",
+        "id": 1611596188,
+        "name": "Chicago Cubs 1, New York Yankees 0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": 2.0,
-        "price": -306
+        "alignment": "neutral",
+        "id": 1611596189,
+        "name": "Chicago Cubs 2, New York Yankees 0",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596190,
+        "name": "Chicago Cubs 3, New York Yankees 0",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596191,
+        "name": "Chicago Cubs 4, New York Yankees 0",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596192,
+        "name": "Chicago Cubs 5, New York Yankees 0",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596193,
+        "name": "Chicago Cubs 6, New York Yankees 0",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596194,
+        "name": "Chicago Cubs 7, New York Yankees 0",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596195,
+        "name": "Chicago Cubs 0, New York Yankees 1",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596196,
+        "name": "Chicago Cubs 2, New York Yankees 1",
+        "order": 0,
+        "rotation": 979
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596197,
+        "name": "Chicago Cubs 3, New York Yankees 1",
+        "order": 0,
+        "rotation": 980
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596198,
+        "name": "Chicago Cubs 4, New York Yankees 1",
+        "order": 0,
+        "rotation": 981
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596199,
+        "name": "Chicago Cubs 5, New York Yankees 1",
+        "order": 0,
+        "rotation": 982
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596200,
+        "name": "Chicago Cubs 6, New York Yankees 1",
+        "order": 0,
+        "rotation": 983
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596201,
+        "name": "Chicago Cubs 7, New York Yankees 1",
+        "order": 0,
+        "rotation": 984
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596202,
+        "name": "Chicago Cubs 0, New York Yankees 2",
+        "order": 0,
+        "rotation": 985
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596203,
+        "name": "Chicago Cubs 1, New York Yankees 2",
+        "order": 0,
+        "rotation": 986
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596204,
+        "name": "Chicago Cubs 3, New York Yankees 2",
+        "order": 0,
+        "rotation": 987
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596205,
+        "name": "Chicago Cubs 4, New York Yankees 2",
+        "order": 0,
+        "rotation": 988
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596206,
+        "name": "Chicago Cubs 5, New York Yankees 2",
+        "order": 0,
+        "rotation": 989
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596207,
+        "name": "Chicago Cubs 6, New York Yankees 2",
+        "order": 0,
+        "rotation": 990
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596208,
+        "name": "Chicago Cubs 7, New York Yankees 2",
+        "order": 0,
+        "rotation": 991
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596209,
+        "name": "Chicago Cubs 0, New York Yankees 3",
+        "order": 0,
+        "rotation": 992
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596210,
+        "name": "Chicago Cubs 1, New York Yankees 3",
+        "order": 0,
+        "rotation": 993
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596211,
+        "name": "Chicago Cubs 2, New York Yankees 3",
+        "order": 0,
+        "rotation": 994
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596212,
+        "name": "Chicago Cubs 4, New York Yankees 3",
+        "order": 0,
+        "rotation": 995
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596213,
+        "name": "Chicago Cubs 5, New York Yankees 3",
+        "order": 0,
+        "rotation": 996
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596214,
+        "name": "Chicago Cubs 6, New York Yankees 3",
+        "order": 0,
+        "rotation": 997
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596215,
+        "name": "Chicago Cubs 7, New York Yankees 3",
+        "order": 0,
+        "rotation": 998
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596216,
+        "name": "Chicago Cubs 0, New York Yankees 4",
+        "order": 0,
+        "rotation": 999
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596217,
+        "name": "Chicago Cubs 1, New York Yankees 4",
+        "order": 0,
+        "rotation": 1000
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596218,
+        "name": "Chicago Cubs 2, New York Yankees 4",
+        "order": 0,
+        "rotation": 1001
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596219,
+        "name": "Chicago Cubs 3, New York Yankees 4",
+        "order": 0,
+        "rotation": 1002
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596220,
+        "name": "Chicago Cubs 5, New York Yankees 4",
+        "order": 0,
+        "rotation": 1003
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596221,
+        "name": "Chicago Cubs 6, New York Yankees 4",
+        "order": 0,
+        "rotation": 1004
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596222,
+        "name": "Chicago Cubs 7, New York Yankees 4",
+        "order": 0,
+        "rotation": 1005
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596223,
+        "name": "Chicago Cubs 0, New York Yankees 5",
+        "order": 0,
+        "rotation": 1006
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596224,
+        "name": "Chicago Cubs 1, New York Yankees 5",
+        "order": 0,
+        "rotation": 1007
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596225,
+        "name": "Chicago Cubs 2, New York Yankees 5",
+        "order": 0,
+        "rotation": 1008
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596226,
+        "name": "Chicago Cubs 3, New York Yankees 5",
+        "order": 0,
+        "rotation": 1009
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596227,
+        "name": "Chicago Cubs 4, New York Yankees 5",
+        "order": 0,
+        "rotation": 1010
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596228,
+        "name": "Chicago Cubs 6, New York Yankees 5",
+        "order": 0,
+        "rotation": 1011
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596229,
+        "name": "Chicago Cubs 7, New York Yankees 5",
+        "order": 0,
+        "rotation": 1012
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596230,
+        "name": "Chicago Cubs 0, New York Yankees 6",
+        "order": 0,
+        "rotation": 1013
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596231,
+        "name": "Chicago Cubs 1, New York Yankees 6",
+        "order": 0,
+        "rotation": 1014
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596232,
+        "name": "Chicago Cubs 2, New York Yankees 6",
+        "order": 0,
+        "rotation": 1015
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596233,
+        "name": "Chicago Cubs 3, New York Yankees 6",
+        "order": 0,
+        "rotation": 1016
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596234,
+        "name": "Chicago Cubs 4, New York Yankees 6",
+        "order": 0,
+        "rotation": 1017
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596235,
+        "name": "Chicago Cubs 5, New York Yankees 6",
+        "order": 0,
+        "rotation": 1018
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596236,
+        "name": "Chicago Cubs 7, New York Yankees 6",
+        "order": 0,
+        "rotation": 1019
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596237,
+        "name": "Chicago Cubs 0, New York Yankees 7",
+        "order": 0,
+        "rotation": 1020
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596238,
+        "name": "Chicago Cubs 1, New York Yankees 7",
+        "order": 0,
+        "rotation": 1021
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596239,
+        "name": "Chicago Cubs 2, New York Yankees 7",
+        "order": 0,
+        "rotation": 1022
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596240,
+        "name": "Chicago Cubs 3, New York Yankees 7",
+        "order": 0,
+        "rotation": 1023
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596241,
+        "name": "Chicago Cubs 4, New York Yankees 7",
+        "order": 0,
+        "rotation": 1024
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596242,
+        "name": "Chicago Cubs 5, New York Yankees 7",
+        "order": 0,
+        "rotation": 1025
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596243,
+        "name": "Chicago Cubs 6, New York Yankees 7",
+        "order": 0,
+        "rotation": 1026
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Correct Score"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;-2.5",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596244,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -2.5,
-        "price": 279
+        "alignment": "neutral",
+        "id": 1611596245,
+        "name": "0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": 2.5,
-        "price": -363
+        "alignment": "neutral",
+        "id": 1611596246,
+        "name": "1",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596247,
+        "name": "2",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596248,
+        "name": "3",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596249,
+        "name": "4",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596250,
+        "name": "5",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596251,
+        "name": "6",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596252,
+        "name": "7",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596253,
+        "name": "8+",
+        "order": 0,
+        "rotation": 979
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "New York Yankees Exact Total Runs"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;s;-3.0",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596254,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -3.0,
-        "price": 388
+        "alignment": "neutral",
+        "id": 1611596255,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": 3.0,
-        "price": -576
+        "alignment": "neutral",
+        "id": 1611596256,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Total Runs Odd/Even"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;ou;6.5",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596257,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 6.5,
-        "price": -118
+        "alignment": "neutral",
+        "id": 1611596258,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 6.5,
-        "price": 105
+        "alignment": "neutral",
+        "id": 1611596259,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "New York Yankees Runs Odd/Even"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;3.5",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596260,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 3.5,
-        "price": -557
+        "alignment": "neutral",
+        "id": 1611596261,
+        "name": "Chicago Cubs & Over 4.5",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 3.5,
-        "price": 393
+        "alignment": "neutral",
+        "id": 1611596262,
+        "name": "New York Yankees & Over 4.5",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596263,
+        "name": "Draw & Over 4.5",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596264,
+        "name": "Chicago Cubs & Under 4.5",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596265,
+        "name": "New York Yankees & Under 4.5",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596266,
+        "name": "Draw & Under 4.5",
+        "order": 0,
+        "rotation": 976
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Double Result",
+      "description": "1st Half Winner/Total 4.5 Runs"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;5.0",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596267,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 5.0,
-        "price": -268
+        "alignment": "neutral",
+        "id": 1611596268,
+        "name": "Odd",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 5.0,
-        "price": 227
+        "alignment": "neutral",
+        "id": 1611596269,
+        "name": "Even",
+        "order": 0,
+        "rotation": 972
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Chicago Cubs Runs Odd/Even 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;5.5",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596270,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 5.5,
-        "price": -170
+        "alignment": "neutral",
+        "id": 1611596271,
+        "name": "Chicago Cubs & Over 8.5",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 5.5,
-        "price": 150
+        "alignment": "neutral",
+        "id": 1611596272,
+        "name": "New York Yankees & Over 8.5",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596273,
+        "name": "Chicago Cubs & Under 8.5",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596274,
+        "name": "New York Yankees & Under 8.5",
+        "order": 0,
+        "rotation": 974
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Double Result",
+      "description": "Winner/Total 8.5 Runs"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;6.0",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596275,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 6.0,
-        "price": -146
+        "alignment": "neutral",
+        "id": 1611596276,
+        "name": "Chicago Cubs By 1",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 6.0,
-        "price": 129
+        "alignment": "neutral",
+        "id": 1611596277,
+        "name": "Chicago Cubs By 2",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596278,
+        "name": "Chicago Cubs By 3",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596279,
+        "name": "Chicago Cubs By 4",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596280,
+        "name": "Chicago Cubs By 5+",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596281,
+        "name": "New York Yankees By 1",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596282,
+        "name": "New York Yankees By 2",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596283,
+        "name": "New York Yankees By 3",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596284,
+        "name": "New York Yankees By 4",
+        "order": 0,
+        "rotation": 979
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596285,
+        "name": "New York Yankees By 5+",
+        "order": 0,
+        "rotation": 980
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Winning Margin"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;7.0",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596286,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 7.0,
-        "price": 111
+        "alignment": "neutral",
+        "id": 1611596287,
+        "name": "Chicago Cubs By 1 - 2",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 7.0,
-        "price": -125
+        "alignment": "neutral",
+        "id": 1611596288,
+        "name": "Chicago Cubs By 3 - 4",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596289,
+        "name": "Chicago Cubs By 5 - 6",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596290,
+        "name": "Chicago Cubs By 7+",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596291,
+        "name": "New York Yankees By 1 - 2",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596292,
+        "name": "New York Yankees By 3 - 4",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596293,
+        "name": "New York Yankees By 5 - 6",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596294,
+        "name": "New York Yankees By 7+",
+        "order": 0,
+        "rotation": 978
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Winning Margin Range"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;7.5",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596295,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 7.5,
-        "price": 140
+        "alignment": "neutral",
+        "id": 1611596296,
+        "name": "1",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 7.5,
-        "price": -159
+        "alignment": "neutral",
+        "id": 1611596297,
+        "name": "2",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596298,
+        "name": "3",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596299,
+        "name": "4",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596300,
+        "name": "5",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596301,
+        "name": "6",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596302,
+        "name": "7",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596303,
+        "name": "8",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596304,
+        "name": "9",
+        "order": 0,
+        "rotation": 979
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596305,
+        "name": "10",
+        "order": 0,
+        "rotation": 980
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596306,
+        "name": "11",
+        "order": 0,
+        "rotation": 981
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596307,
+        "name": "12",
+        "order": 0,
+        "rotation": 982
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596308,
+        "name": "13",
+        "order": 0,
+        "rotation": 983
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596309,
+        "name": "14",
+        "order": 0,
+        "rotation": 984
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596310,
+        "name": "15+",
+        "order": 0,
+        "rotation": 985
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Exact Total Runs"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;8.0",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596311,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 8.0,
-        "price": 163
+        "alignment": "neutral",
+        "id": 1611596312,
+        "name": "1 - 3",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 8.0,
-        "price": -186
+        "alignment": "neutral",
+        "id": 1611596313,
+        "name": "4 - 6",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596314,
+        "name": "7 - 9",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596315,
+        "name": "10 - 12",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596316,
+        "name": "13+",
+        "order": 0,
+        "rotation": 975
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Total Runs Range"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;10.5",
-    "limits": [
-      {
-        "amount": 1500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596317,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 10.5,
-        "price": 384
+        "alignment": "neutral",
+        "id": 1611596318,
+        "name": "Chicago Cubs By 1",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 10.5,
-        "price": -540
+        "alignment": "neutral",
+        "id": 1611596319,
+        "name": "Chicago Cubs By 2",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596320,
+        "name": "Chicago Cubs By 3+",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596321,
+        "name": "Tie",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596322,
+        "name": "New York Yankees By 1",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596323,
+        "name": "New York Yankees By 2",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596324,
+        "name": "New York Yankees By 3+",
+        "order": 0,
+        "rotation": 977
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Winning Margin 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;tt;1.5;home",
-    "limits": [
-      {
-        "amount": 325,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596325,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 1.5,
-        "price": -111
+        "alignment": "neutral",
+        "id": 1611596326,
+        "name": "0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 1.5,
-        "price": -109
+        "alignment": "neutral",
+        "id": 1611596327,
+        "name": "1",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596328,
+        "name": "2",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596329,
+        "name": "3",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596330,
+        "name": "4",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596331,
+        "name": "5",
+        "order": 0,
+        "rotation": 976
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596332,
+        "name": "6",
+        "order": 0,
+        "rotation": 977
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596333,
+        "name": "7",
+        "order": 0,
+        "rotation": 978
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596334,
+        "name": "8",
+        "order": 0,
+        "rotation": 979
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596335,
+        "name": "9",
+        "order": 0,
+        "rotation": 980
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596336,
+        "name": "10",
+        "order": 0,
+        "rotation": 981
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596337,
+        "name": "11+",
+        "order": 0,
+        "rotation": 982
       }
     ],
-    "side": "home",
-    "status": "open",
-    "type": "team_total",
-    "version": 3174106914
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Exact Total Runs 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;tt;1.5;away",
-    "limits": [
-      {
-        "amount": 325,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596338,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 1.5,
-        "price": 109
+        "alignment": "neutral",
+        "id": 1611596339,
+        "name": "0 - 2",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "under",
-        "points": 1.5,
-        "price": -132
+        "alignment": "neutral",
+        "id": 1611596340,
+        "name": "3 - 4",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596341,
+        "name": "5 - 6",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596342,
+        "name": "7+",
+        "order": 0,
+        "rotation": 974
       }
     ],
-    "side": "away",
-    "status": "open",
-    "type": "team_total",
-    "version": 3174106914
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Total Runs Range 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;s;0.0",
-    "limits": [
-      {
-        "amount": 1650,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596343,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": 0.0,
-        "price": -123
+        "alignment": "neutral",
+        "id": 1611596344,
+        "name": "0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": -0.0,
-        "price": 107
+        "alignment": "neutral",
+        "id": 1611596345,
+        "name": "1",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596346,
+        "name": "2",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596347,
+        "name": "3",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596348,
+        "name": "4",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596349,
+        "name": "5+",
+        "order": 0,
+        "rotation": 976
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174106914
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Chicago Cubs Exact Total Runs 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;1.0",
-    "limits": [
-      {
-        "amount": 1650,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596350,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": 1.0,
-        "price": -305
+        "alignment": "neutral",
+        "id": 1611596351,
+        "name": "0",
+        "order": 0,
+        "rotation": 971
       },
       {
-        "designation": "away",
-        "points": -1.0,
-        "price": 235
+        "alignment": "neutral",
+        "id": 1611596352,
+        "name": "1",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596353,
+        "name": "2",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596354,
+        "name": "3",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596355,
+        "name": "4",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596356,
+        "name": "5+",
+        "order": 0,
+        "rotation": 976
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174106914
+    "periods": [
+      {
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "New York Yankees Exact Total Runs 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   },
   {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;0.5",
-    "limits": [
-      {
-        "amount": 1650,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": 0.5,
-        "price": -179
-      },
-      {
-        "designation": "away",
-        "points": -0.5,
-        "price": 151
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;-0.5",
-    "limits": [
-      {
-        "amount": 1650,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": -0.5,
-        "price": 121
-      },
-      {
-        "designation": "away",
-        "points": 0.5,
-        "price": -142
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;-1.0",
-    "limits": [
-      {
-        "amount": 1650,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": -1.0,
-        "price": 180
-      },
-      {
-        "designation": "away",
-        "points": 1.0,
-        "price": -223
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;ou;3.5",
-    "limits": [
-      {
-        "amount": 1250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 3.5,
-        "price": 104
-      },
-      {
-        "designation": "under",
-        "points": 3.5,
-        "price": -119
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;2.5",
-    "limits": [
-      {
-        "amount": 1250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 2.5,
-        "price": -187
-      },
-      {
-        "designation": "under",
-        "points": 2.5,
-        "price": 160
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;3.0",
-    "limits": [
-      {
-        "amount": 1250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 3.0,
-        "price": -139
-      },
-      {
-        "designation": "under",
-        "points": 3.0,
-        "price": 121
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;4.0",
-    "limits": [
-      {
-        "amount": 1250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 4.0,
-        "price": 143
-      },
-      {
-        "designation": "under",
-        "points": 4.0,
-        "price": -166
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;4.5",
-    "limits": [
-      {
-        "amount": 1250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 4.5,
-        "price": 178
-      },
-      {
-        "designation": "under",
-        "points": 4.5,
-        "price": -210
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174106914
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;m",
-    "limits": [
-      {
-        "amount": 325,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 3,
-    "prices": [
-      {
-        "designation": "home",
-        "price": 332
-      },
-      {
-        "designation": "away",
-        "price": 401
-      },
-      {
-        "designation": "draw",
-        "price": -183
-      }
-    ],
-    "status": "open",
-    "type": "moneyline",
-    "version": 3174110821
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;s;0.0",
-    "limits": [
-      {
-        "amount": 325,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 3,
-    "prices": [
-      {
-        "designation": "home",
-        "points": 0.0,
-        "price": -130
-      },
-      {
-        "designation": "away",
-        "points": -0.0,
-        "price": 111
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3174110821
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;ou;0.5",
-    "limits": [
-      {
-        "amount": 325,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611438631,
-    "period": 3,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 0.5,
-        "price": 139
-      },
-      {
-        "designation": "under",
-        "points": 0.5,
-        "price": -165
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174110821
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611447156,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611447158,
-        "price": -128
-      },
-      {
-        "participantId": 1611447159,
-        "price": 110
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088884149
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;ou;23.0",
-    "limits": [
-      {
-        "amount": 250,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595650,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 23.0,
-        "price": -120
-      },
-      {
-        "designation": "under",
-        "points": 23.0,
-        "price": 103
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3174090982
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595652,
-    "period": 1,
-    "prices": [
-      {
-        "participantId": 1611595653,
-        "price": 114
-      },
-      {
-        "participantId": 1611595654,
-        "price": -134
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595655,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595656,
-        "price": 840
-      },
-      {
-        "participantId": 1611595657,
-        "price": 501
-      },
-      {
-        "participantId": 1611595658,
-        "price": 412
-      },
-      {
-        "participantId": 1611595659,
-        "price": 416
-      },
-      {
-        "participantId": 1611595660,
-        "price": 486
-      },
-      {
-        "participantId": 1611595661,
-        "price": 616
-      },
-      {
-        "participantId": 1611595662,
-        "price": 824
-      },
-      {
-        "participantId": 1611595663,
-        "price": 1117
-      },
-      {
-        "participantId": 1611595664,
-        "price": 787
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595665,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595666,
-        "price": -171
-      },
-      {
-        "participantId": 1611595667,
-        "price": 145
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595668,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595669,
-        "price": -103
-      },
-      {
-        "participantId": 1611595670,
-        "price": -113
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595671,
-    "period": 1,
-    "prices": [
-      {
-        "participantId": 1611595672,
-        "price": 467
-      },
-      {
-        "participantId": 1611595673,
-        "price": 382
-      },
-      {
-        "participantId": 1611595674,
-        "price": 2001
-      },
-      {
-        "participantId": 1611595675,
-        "price": 285
-      },
-      {
-        "participantId": 1611595676,
-        "price": 255
-      },
-      {
-        "participantId": 1611595677,
-        "price": 413
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088856105
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595678,
-    "period": 1,
-    "prices": [
-      {
-        "participantId": 1611595680,
-        "price": -135
-      },
-      {
-        "participantId": 1611595679,
-        "price": 116
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595681,
-    "period": 1,
-    "prices": [
-      {
-        "participantId": 1611595682,
-        "price": -106
-      },
-      {
-        "participantId": 1611595683,
-        "price": -111
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595684,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595685,
-        "price": -104
-      },
-      {
-        "participantId": 1611595686,
-        "price": -112
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595687,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595688,
-        "price": 704
-      },
-      {
-        "participantId": 1611595689,
-        "price": 430
-      },
-      {
-        "participantId": 1611595690,
-        "price": 398
-      },
-      {
-        "participantId": 1611595691,
-        "price": 438
-      },
-      {
-        "participantId": 1611595692,
-        "price": 527
-      },
-      {
-        "participantId": 1611595693,
-        "price": 670
-      },
-      {
-        "participantId": 1611595694,
-        "price": 882
-      },
-      {
-        "participantId": 1611595695,
-        "price": 1188
-      },
-      {
-        "participantId": 1611595696,
-        "price": 836
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595697,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595698,
-        "price": 3238
-      },
-      {
-        "participantId": 1611595699,
-        "price": 3234
-      },
-      {
-        "participantId": 1611595700,
-        "price": 3606
-      },
-      {
-        "participantId": 1611595701,
-        "price": 4370
-      },
-      {
-        "participantId": 1611595702,
-        "price": 5413
-      },
-      {
-        "participantId": 1611595703,
-        "price": 6878
-      },
-      {
-        "participantId": 1611595704,
-        "price": 8692
-      },
-      {
-        "participantId": 1611595705,
-        "price": 2585
-      },
-      {
-        "participantId": 1611595706,
-        "price": 1939
-      },
-      {
-        "participantId": 1611595707,
-        "price": 2267
-      },
-      {
-        "participantId": 1611595708,
-        "price": 2750
-      },
-      {
-        "participantId": 1611595709,
-        "price": 3532
-      },
-      {
-        "participantId": 1611595710,
-        "price": 4560
-      },
-      {
-        "participantId": 1611595711,
-        "price": 5992
-      },
-      {
-        "participantId": 1611595712,
-        "price": 2946
-      },
-      {
-        "participantId": 1611595713,
-        "price": 1433
-      },
-      {
-        "participantId": 1611595714,
-        "price": 1890
-      },
-      {
-        "participantId": 1611595715,
-        "price": 2382
-      },
-      {
-        "participantId": 1611595716,
-        "price": 3001
-      },
-      {
-        "participantId": 1611595717,
-        "price": 3976
-      },
-      {
-        "participantId": 1611595718,
-        "price": 5298
-      },
-      {
-        "participantId": 1611595719,
-        "price": 3261
-      },
-      {
-        "participantId": 1611595720,
-        "price": 2100
-      },
-      {
-        "participantId": 1611595721,
-        "price": 1367
-      },
-      {
-        "participantId": 1611595722,
-        "price": 2266
-      },
-      {
-        "participantId": 1611595723,
-        "price": 2957
-      },
-      {
-        "participantId": 1611595724,
-        "price": 3866
-      },
-      {
-        "participantId": 1611595725,
-        "price": 5234
-      },
-      {
-        "participantId": 1611595726,
-        "price": 3848
-      },
-      {
-        "participantId": 1611595727,
-        "price": 2511
-      },
-      {
-        "participantId": 1611595728,
-        "price": 2339
-      },
-      {
-        "participantId": 1611595729,
-        "price": 1656
-      },
-      {
-        "participantId": 1611595730,
-        "price": 3062
-      },
-      {
-        "participantId": 1611595731,
-        "price": 4099
-      },
-      {
-        "participantId": 1611595732,
-        "price": 5484
-      },
-      {
-        "participantId": 1611595733,
-        "price": 4721
-      },
-      {
-        "participantId": 1611595734,
-        "price": 3136
-      },
-      {
-        "participantId": 1611595735,
-        "price": 2881
-      },
-      {
-        "participantId": 1611595736,
-        "price": 3085
-      },
-      {
-        "participantId": 1611595737,
-        "price": 2278
-      },
-      {
-        "participantId": 1611595738,
-        "price": 4469
-      },
-      {
-        "participantId": 1611595739,
-        "price": 6032
-      },
-      {
-        "participantId": 1611595740,
-        "price": 5926
-      },
-      {
-        "participantId": 1611595741,
-        "price": 3999
-      },
-      {
-        "participantId": 1611595742,
-        "price": 3712
-      },
-      {
-        "participantId": 1611595743,
-        "price": 3912
-      },
-      {
-        "participantId": 1611595744,
-        "price": 4472
-      },
-      {
-        "participantId": 1611595745,
-        "price": 3479
-      },
-      {
-        "participantId": 1611595746,
-        "price": 6793
-      },
-      {
-        "participantId": 1611595747,
-        "price": 7422
-      },
-      {
-        "participantId": 1611595748,
-        "price": 5168
-      },
-      {
-        "participantId": 1611595749,
-        "price": 4878
-      },
-      {
-        "participantId": 1611595750,
-        "price": 5147
-      },
-      {
-        "participantId": 1611595751,
-        "price": 5774
-      },
-      {
-        "participantId": 1611595752,
-        "price": 6681
-      },
-      {
-        "participantId": 1611595753,
-        "price": 5376
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088844047
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595754,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595755,
-        "price": 449
-      },
-      {
-        "participantId": 1611595756,
-        "price": 401
-      },
-      {
-        "participantId": 1611595757,
-        "price": 206
-      },
-      {
-        "participantId": 1611595758,
-        "price": 152
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595759,
-    "period": 0,
-    "prices": [
-      {
-        "participantId": 1611595760,
-        "price": 490
-      },
-      {
-        "participantId": 1611595761,
-        "price": 638
-      },
-      {
-        "participantId": 1611595762,
-        "price": 840
-      },
-      {
-        "participantId": 1611595763,
-        "price": 1146
-      },
-      {
-        "participantId": 1611595764,
-        "price": 754
-      },
-      {
-        "participantId": 1611595765,
-        "price": 331
-      },
-      {
-        "participantId": 1611595766,
-        "price": 633
-      },
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1611596357,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 25,
+      "matchupCountSE": 25,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 57,
+        "matchupCountSE": 57,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": {
+      "id": 1611427385,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "New York Yankees",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Chicago Cubs",
+          "score": null
+        }
+      ],
+      "startTime": "2025-07-12T17:05:00+00:00"
+    },
+    "parentId": 1611427385,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611596358,
+        "name": "Chicago Cubs 0, New York Yankees 1",
+        "order": 0,
+        "rotation": 971
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596359,
+        "name": "Chicago Cubs 0, New York Yankees 2",
+        "order": 0,
+        "rotation": 972
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596360,
+        "name": "Chicago Cubs 0, New York Yankees 3",
+        "order": 0,
+        "rotation": 973
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596361,
+        "name": "Chicago Cubs 0, New York Yankees 4",
+        "order": 0,
+        "rotation": 974
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596362,
+        "name": "Chicago Cubs 0, New York Yankees 5",
+        "order": 0,
+        "rotation": 975
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611596363,
+        "name": "Chicago Cubs 0, New York Yankees 6",
+        "order": 0,
+        "rotation": 976
+      },
       {
-        "participantId": 1611595767,
-        "price": 806
+        "alignment": "neutral",
+        "id": 1611596364,
+        "name": "Chicago Cubs 0, New York Yankees 7",
+        "order": 0,
+        "rotation": 977
       },
-      {
-        "participantId": 1611595768,
-        "price": 1064
-      },
-      {
-        "participantId": 1611595769,
-        "price": 653
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595770,
-    "period": 0,
-    "prices": [
       {
-        "participantId": 1611595776,
-        "price": 502
+        "alignment": "neutral",
+        "id": 1611596365,
+        "name": "Chicago Cubs 1, New York Yankees 0",
+        "order": 0,
+        "rotation": 978
       },
       {
-        "participantId": 1611595777,
-        "price": 978
+        "alignment": "neutral",
+        "id": 1611596366,
+        "name": "Chicago Cubs 1, New York Yankees 1",
+        "order": 0,
+        "rotation": 979
       },
       {
-        "participantId": 1611595778,
-        "price": 1395
+        "alignment": "neutral",
+        "id": 1611596367,
+        "name": "Chicago Cubs 1, New York Yankees 2",
+        "order": 0,
+        "rotation": 980
       },
       {
-        "participantId": 1611595771,
-        "price": 272
+        "alignment": "neutral",
+        "id": 1611596368,
+        "name": "Chicago Cubs 1, New York Yankees 3",
+        "order": 0,
+        "rotation": 981
       },
       {
-        "participantId": 1611595772,
-        "price": 535
+        "alignment": "neutral",
+        "id": 1611596369,
+        "name": "Chicago Cubs 1, New York Yankees 4",
+        "order": 0,
+        "rotation": 982
       },
       {
-        "participantId": 1611595773,
-        "price": 1091
+        "alignment": "neutral",
+        "id": 1611596370,
+        "name": "Chicago Cubs 1, New York Yankees 5",
+        "order": 0,
+        "rotation": 983
       },
       {
-        "participantId": 1611595774,
-        "price": 1616
+        "alignment": "neutral",
+        "id": 1611596371,
+        "name": "Chicago Cubs 1, New York Yankees 6",
+        "order": 0,
+        "rotation": 984
       },
-      {
-        "participantId": 1611595775,
-        "price": 201
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595779,
-    "period": 0,
-    "prices": [
       {
-        "participantId": 1611595780,
-        "price": 1456
+        "alignment": "neutral",
+        "id": 1611596372,
+        "name": "Chicago Cubs 1, New York Yankees 7",
+        "order": 0,
+        "rotation": 985
       },
       {
-        "participantId": 1611595781,
-        "price": 1561
+        "alignment": "neutral",
+        "id": 1611596373,
+        "name": "Chicago Cubs 2, New York Yankees 0",
+        "order": 0,
+        "rotation": 986
       },
       {
-        "participantId": 1611595782,
-        "price": 634
+        "alignment": "neutral",
+        "id": 1611596374,
+        "name": "Chicago Cubs 2, New York Yankees 1",
+        "order": 0,
+        "rotation": 987
       },
       {
-        "participantId": 1611595783,
-        "price": 840
+        "alignment": "neutral",
+        "id": 1611596375,
+        "name": "Chicago Cubs 2, New York Yankees 2",
+        "order": 0,
+        "rotation": 988
       },
       {
-        "participantId": 1611595784,
-        "price": 494
+        "alignment": "neutral",
+        "id": 1611596376,
+        "name": "Chicago Cubs 2, New York Yankees 3",
+        "order": 0,
+        "rotation": 989
       },
       {
-        "participantId": 1611595785,
-        "price": 730
+        "alignment": "neutral",
+        "id": 1611596377,
+        "name": "Chicago Cubs 2, New York Yankees 4",
+        "order": 0,
+        "rotation": 990
       },
       {
-        "participantId": 1611595786,
-        "price": 539
+        "alignment": "neutral",
+        "id": 1611596378,
+        "name": "Chicago Cubs 2, New York Yankees 5",
+        "order": 0,
+        "rotation": 991
       },
       {
-        "participantId": 1611595787,
-        "price": 832
+        "alignment": "neutral",
+        "id": 1611596379,
+        "name": "Chicago Cubs 2, New York Yankees 6",
+        "order": 0,
+        "rotation": 992
       },
       {
-        "participantId": 1611595788,
-        "price": 707
+        "alignment": "neutral",
+        "id": 1611596380,
+        "name": "Chicago Cubs 2, New York Yankees 7",
+        "order": 0,
+        "rotation": 993
       },
       {
-        "participantId": 1611595789,
-        "price": 1110
+        "alignment": "neutral",
+        "id": 1611596381,
+        "name": "Chicago Cubs 3, New York Yankees 0",
+        "order": 0,
+        "rotation": 994
       },
       {
-        "participantId": 1611595790,
-        "price": 1052
+        "alignment": "neutral",
+        "id": 1611596382,
+        "name": "Chicago Cubs 3, New York Yankees 1",
+        "order": 0,
+        "rotation": 995
       },
       {
-        "participantId": 1611595791,
-        "price": 1623
+        "alignment": "neutral",
+        "id": 1611596383,
+        "name": "Chicago Cubs 3, New York Yankees 2",
+        "order": 0,
+        "rotation": 996
       },
       {
-        "participantId": 1611595792,
-        "price": 1633
+        "alignment": "neutral",
+        "id": 1611596384,
+        "name": "Chicago Cubs 3, New York Yankees 3",
+        "order": 0,
+        "rotation": 997
       },
       {
-        "participantId": 1611595793,
-        "price": 2480
+        "alignment": "neutral",
+        "id": 1611596385,
+        "name": "Chicago Cubs 3, New York Yankees 4",
+        "order": 0,
+        "rotation": 998
       },
-      {
-        "participantId": 1611595794,
-        "price": 1365
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595795,
-    "period": 0,
-    "prices": [
       {
-        "participantId": 1611595796,
-        "price": 389
+        "alignment": "neutral",
+        "id": 1611596386,
+        "name": "Chicago Cubs 3, New York Yankees 5",
+        "order": 0,
+        "rotation": 999
       },
       {
-        "participantId": 1611595797,
-        "price": 207
+        "alignment": "neutral",
+        "id": 1611596387,
+        "name": "Chicago Cubs 3, New York Yankees 6",
+        "order": 0,
+        "rotation": 1000
       },
       {
-        "participantId": 1611595798,
-        "price": 214
+        "alignment": "neutral",
+        "id": 1611596388,
+        "name": "Chicago Cubs 3, New York Yankees 7",
+        "order": 0,
+        "rotation": 1001
       },
       {
-        "participantId": 1611595799,
-        "price": 481
+        "alignment": "neutral",
+        "id": 1611596389,
+        "name": "Chicago Cubs 4, New York Yankees 0",
+        "order": 0,
+        "rotation": 1002
       },
-      {
-        "participantId": 1611595800,
-        "price": 740
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595801,
-    "period": 1,
-    "prices": [
       {
-        "participantId": 1611595808,
-        "price": 372
+        "alignment": "neutral",
+        "id": 1611596390,
+        "name": "Chicago Cubs 4, New York Yankees 1",
+        "order": 0,
+        "rotation": 1003
       },
       {
-        "participantId": 1611595802,
-        "price": 471
+        "alignment": "neutral",
+        "id": 1611596391,
+        "name": "Chicago Cubs 4, New York Yankees 2",
+        "order": 0,
+        "rotation": 1004
       },
       {
-        "participantId": 1611595803,
-        "price": 698
+        "alignment": "neutral",
+        "id": 1611596392,
+        "name": "Chicago Cubs 4, New York Yankees 3",
+        "order": 0,
+        "rotation": 1005
       },
       {
-        "participantId": 1611595804,
-        "price": 482
+        "alignment": "neutral",
+        "id": 1611596393,
+        "name": "Chicago Cubs 4, New York Yankees 4",
+        "order": 0,
+        "rotation": 1006
       },
       {
-        "participantId": 1611595805,
-        "price": 368
+        "alignment": "neutral",
+        "id": 1611596394,
+        "name": "Chicago Cubs 4, New York Yankees 5",
+        "order": 0,
+        "rotation": 1007
       },
       {
-        "participantId": 1611595806,
-        "price": 460
+        "alignment": "neutral",
+        "id": 1611596395,
+        "name": "Chicago Cubs 4, New York Yankees 6",
+        "order": 0,
+        "rotation": 1008
       },
-      {
-        "participantId": 1611595807,
-        "price": 631
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595809,
-    "period": 1,
-    "prices": [
       {
-        "participantId": 1611595810,
-        "price": 912
+        "alignment": "neutral",
+        "id": 1611596396,
+        "name": "Chicago Cubs 4, New York Yankees 7",
+        "order": 0,
+        "rotation": 1009
       },
       {
-        "participantId": 1611595811,
-        "price": 503
+        "alignment": "neutral",
+        "id": 1611596397,
+        "name": "Chicago Cubs 5, New York Yankees 0",
+        "order": 0,
+        "rotation": 1010
       },
       {
-        "participantId": 1611595812,
-        "price": 419
+        "alignment": "neutral",
+        "id": 1611596398,
+        "name": "Chicago Cubs 5, New York Yankees 1",
+        "order": 0,
+        "rotation": 1011
       },
       {
-        "participantId": 1611595813,
-        "price": 426
+        "alignment": "neutral",
+        "id": 1611596399,
+        "name": "Chicago Cubs 5, New York Yankees 2",
+        "order": 0,
+        "rotation": 1012
       },
       {
-        "participantId": 1611595814,
-        "price": 504
+        "alignment": "neutral",
+        "id": 1611596400,
+        "name": "Chicago Cubs 5, New York Yankees 3",
+        "order": 0,
+        "rotation": 1013
       },
       {
-        "participantId": 1611595815,
-        "price": 661
+        "alignment": "neutral",
+        "id": 1611596401,
+        "name": "Chicago Cubs 5, New York Yankees 4",
+        "order": 0,
+        "rotation": 1014
       },
       {
-        "participantId": 1611595816,
-        "price": 828
+        "alignment": "neutral",
+        "id": 1611596402,
+        "name": "Chicago Cubs 5, New York Yankees 5",
+        "order": 0,
+        "rotation": 1015
       },
       {
-        "participantId": 1611595817,
-        "price": 1062
+        "alignment": "neutral",
+        "id": 1611596403,
+        "name": "Chicago Cubs 5, New York Yankees 6",
+        "order": 0,
+        "rotation": 1016
       },
       {
-        "participantId": 1611595818,
-        "price": 1390
+        "alignment": "neutral",
+        "id": 1611596404,
+        "name": "Chicago Cubs 5, New York Yankees 7",
+        "order": 0,
+        "rotation": 1017
       },
       {
-        "participantId": 1611595819,
-        "price": 1841
+        "alignment": "neutral",
+        "id": 1611596405,
+        "name": "Chicago Cubs 6, New York Yankees 0",
+        "order": 0,
+        "rotation": 1018
       },
       {
-        "participantId": 1611595820,
-        "price": 2449
+        "alignment": "neutral",
+        "id": 1611596406,
+        "name": "Chicago Cubs 6, New York Yankees 1",
+        "order": 0,
+        "rotation": 1019
       },
-      {
-        "participantId": 1611595821,
-        "price": 1903
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088884149
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595822,
-    "period": 1,
-    "prices": [
       {
-        "participantId": 1611595823,
-        "price": 161
+        "alignment": "neutral",
+        "id": 1611596407,
+        "name": "Chicago Cubs 6, New York Yankees 2",
+        "order": 0,
+        "rotation": 1020
       },
       {
-        "participantId": 1611595824,
-        "price": 217
+        "alignment": "neutral",
+        "id": 1611596408,
+        "name": "Chicago Cubs 6, New York Yankees 3",
+        "order": 0,
+        "rotation": 1021
       },
       {
-        "participantId": 1611595825,
-        "price": 377
+        "alignment": "neutral",
+        "id": 1611596409,
+        "name": "Chicago Cubs 6, New York Yankees 4",
+        "order": 0,
+        "rotation": 1022
       },
-      {
-        "participantId": 1611595826,
-        "price": 410
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088856105
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595827,
-    "period": 1,
-    "prices": [
       {
-        "participantId": 1611595828,
-        "price": 241
+        "alignment": "neutral",
+        "id": 1611596410,
+        "name": "Chicago Cubs 6, New York Yankees 5",
+        "order": 0,
+        "rotation": 1023
       },
       {
-        "participantId": 1611595829,
-        "price": 246
+        "alignment": "neutral",
+        "id": 1611596411,
+        "name": "Chicago Cubs 6, New York Yankees 6",
+        "order": 0,
+        "rotation": 1024
       },
       {
-        "participantId": 1611595830,
-        "price": 381
+        "alignment": "neutral",
+        "id": 1611596412,
+        "name": "Chicago Cubs 6, New York Yankees 7",
+        "order": 0,
+        "rotation": 1025
       },
       {
-        "participantId": 1611595831,
-        "price": 581
+        "alignment": "neutral",
+        "id": 1611596413,
+        "name": "Chicago Cubs 7, New York Yankees 0",
+        "order": 0,
+        "rotation": 1026
       },
       {
-        "participantId": 1611595832,
-        "price": 859
+        "alignment": "neutral",
+        "id": 1611596414,
+        "name": "Chicago Cubs 7, New York Yankees 1",
+        "order": 0,
+        "rotation": 1027
       },
-      {
-        "participantId": 1611595833,
-        "price": 652
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611595834,
-    "period": 1,
-    "prices": [
       {
-        "participantId": 1611595840,
-        "price": 528
+        "alignment": "neutral",
+        "id": 1611596415,
+        "name": "Chicago Cubs 7, New York Yankees 2",
+        "order": 0,
+        "rotation": 1028
       },
       {
-        "participantId": 1611595835,
-        "price": 271
+        "alignment": "neutral",
+        "id": 1611596416,
+        "name": "Chicago Cubs 7, New York Yankees 3",
+        "order": 0,
+        "rotation": 1029
       },
       {
-        "participantId": 1611595836,
-        "price": 275
+        "alignment": "neutral",
+        "id": 1611596417,
+        "name": "Chicago Cubs 7, New York Yankees 4",
+        "order": 0,
+        "rotation": 1030
       },
       {
-        "participantId": 1611595837,
-        "price": 380
+        "alignment": "neutral",
+        "id": 1611596418,
+        "name": "Chicago Cubs 7, New York Yankees 5",
+        "order": 0,
+        "rotation": 1031
       },
       {
-        "participantId": 1611595838,
-        "price": 538
+        "alignment": "neutral",
+        "id": 1611596419,
+        "name": "Chicago Cubs 7, New York Yankees 6",
+        "order": 0,
+        "rotation": 1032
       },
       {
-        "participantId": 1611595839,
-        "price": 767
-      }
-    ],
-    "type": "moneyline",
-    "version": 5088843631
-  },
-  {
-    "cutoffAt": "2025-07-12T23:35:00+00:00",
-    "key": "s;1;m",
-    "limits": [
-      {
-        "amount": 150,
-        "type": "maxRiskStake"
+        "alignment": "neutral",
+        "id": 1611596420,
+        "name": "Chicago Cubs 7, New York Yankees 7",
+        "order": 0,
+        "rotation": 1033
       }
     ],
-    "matchupId": 1611595841,
-    "period": 1,
-    "prices": [
-      {
-        "participantId": 1611595842,
-        "price": 1025
-      },
-      {
-        "participantId": 1611595843,
-        "price": 1303
-      },
-      {
-        "participantId": 1611595844,
-        "price": 1726
-      },
-      {
-        "participantId": 1611595845,
-        "price": 2418
-      },
-      {
-        "participantId": 1611595846,
-        "price": 3541
-      },
-      {
-        "participantId": 1611595847,
-        "price": 4947
-      },
-      {
-        "participantId": 1611595849,
-        "price": 1010
-      },
-      {
-        "participantId": 1611595850,
-        "price": 1030
-      },
-      {
-        "participantId": 1611595851,
-        "price": 1331
-      },
-      {
-        "participantId": 1611595852,
-        "price": 1822
-      },
-      {
-        "participantId": 1611595853,
-        "price": 2639
-      },
-      {
-        "participantId": 1611595854,
-        "price": 3604
-      },
-      {
-        "participantId": 1611595857,
-        "price": 1412
-      },
-      {
-        "participantId": 1611595858,
-        "price": 1411
-      },
-      {
-        "participantId": 1611595859,
-        "price": 1866
-      },
-      {
-        "participantId": 1611595860,
-        "price": 2641
-      },
-      {
-        "participantId": 1611595861,
-        "price": 3510
-      },
-      {
-        "participantId": 1611595862,
-        "price": 4723
-      },
-      {
-        "participantId": 1611595865,
-        "price": 2001
-      },
-      {
-        "participantId": 1611595866,
-        "price": 2068
-      },
-      {
-        "participantId": 1611595867,
-        "price": 2742
-      },
-      {
-        "participantId": 1611595868,
-        "price": 3570
-      },
-      {
-        "participantId": 1611595869,
-        "price": 4738
-      },
-      {
-        "participantId": 1611595873,
-        "price": 2911
-      },
-      {
-        "participantId": 1611595874,
-        "price": 3111
-      },
-      {
-        "participantId": 1611595875,
-        "price": 3798
-      },
-      {
-        "participantId": 1611595876,
-        "price": 4803
-      },
-      {
-        "participantId": 1611595881,
-        "price": 4360
-      },
+    "periods": [
       {
-        "participantId": 1611595882,
-        "price": 4358
+        "cutoffAt": "2025-07-12T17:05:00Z",
+        "period": 1,
+        "status": "open"
       }
     ],
-    "type": "moneyline",
-    "version": 5088884149
+    "rotation": 971,
+    "special": {
+      "category": "Exact Scores",
+      "description": "Correct Score 1st Half"
+    },
+    "startTime": "2025-07-12T17:05:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Runs",
+    "version": 429640544
   }
 ]
