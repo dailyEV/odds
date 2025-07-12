@@ -3211,8 +3211,8 @@
         "fd_avg_vig": 615,
         "fd_avg": 425,
         "fd_median": "+430",
-        "fd_std_dev": 81.93,
-        "fd_z_score": 1.4
+        "fd_std_dev": 81.63,
+        "fd_z_score": 1.16
     },
     "nolan arenado": {
         "circa_avg_vig": 891,
@@ -3329,11 +3329,11 @@
         "circa_z_score": 0
     },
     "mauricio dubon": {
-        "fd_avg_vig": 4980,
-        "fd_avg": 1146,
+        "fd_avg_vig": 5016,
+        "fd_avg": 1147,
         "fd_median": "+1200",
-        "fd_std_dev": 363.24,
-        "fd_z_score": -0.13
+        "fd_std_dev": 362.92,
+        "fd_z_score": 0.15
     },
     "brendan donovan": {
         "fd_avg_vig": 1723,
@@ -3511,8 +3511,8 @@
         "fd_avg_vig": 683,
         "fd_avg": 458,
         "fd_median": "+470",
-        "fd_std_dev": 95.42,
-        "fd_z_score": 3.06,
+        "fd_std_dev": 93.73,
+        "fd_z_score": 2.58,
         "pn_avg_vig": 581,
         "pn_avg": 409,
         "pn_median": "418/-944",
@@ -5602,8 +5602,8 @@
         "fd_avg_vig": 651,
         "fd_avg": 443,
         "fd_median": "+440",
-        "fd_std_dev": 86.89,
-        "fd_z_score": 1.35,
+        "fd_std_dev": 87.76,
+        "fd_z_score": 1.79,
         "pn_avg_vig": 606,
         "pn_avg": 425,
         "pn_median": "434/-750",
@@ -6991,11 +6991,11 @@
         "fd_z_score": 0
     },
     "sam haggerty": {
-        "fd_avg_vig": 2828,
-        "fd_avg": 959,
+        "fd_avg_vig": 2850,
+        "fd_avg": 961,
         "fd_median": "+800",
-        "fd_std_dev": 257.98,
-        "fd_z_score": 0.93
+        "fd_std_dev": 260.62,
+        "fd_z_score": 1.3
     },
     "dj lemahieu": {
         "fd_avg_vig": 2959,
@@ -8142,18 +8142,18 @@
         "circa_z_score": 0
     },
     "michael helman": {
-        "fd_avg_vig": 2445,
-        "fd_avg": 896,
-        "fd_median": "+1200",
-        "fd_std_dev": 278.39,
-        "fd_z_score": 1.09
+        "fd_avg_vig": 2265,
+        "fd_avg": 875,
+        "fd_median": "+1100",
+        "fd_std_dev": 236.29,
+        "fd_z_score": 0.95
     },
     "colby thomas": {
         "fd_avg_vig": 1116,
         "fd_avg": 630,
         "fd_median": "+630",
         "fd_std_dev": 0,
-        "fd_z_score": 1.09
+        "fd_z_score": 0.95
     },
     "jose fermin": {
         "fd_avg_vig": 4008,

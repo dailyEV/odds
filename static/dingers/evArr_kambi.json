@@ -1,6 +1,6 @@
 {
     "updated": {
-        "fd": "2025-07-11 22:31:18.639114",
+        "fd": "2025-07-11 22:31:29.007491",
         "espn": "2025-07-11 22:15:12.194418",
         "dk": "2025-07-11 22:14:36.212677",
         "cz": "2025-07-11 22:14:46.436034",
@@ -24118,8 +24118,8 @@
                 "fd_avg_vig": 651,
                 "fd_avg": 443,
                 "fd_median": "+440",
-                "fd_std_dev": 86.89,
-                "fd_z_score": 1.35,
+                "fd_std_dev": 87.76,
+                "fd_z_score": 1.79,
                 "pn_avg_vig": 606,
                 "pn_avg": 425,
                 "pn_median": "434/-750",
@@ -26496,8 +26496,8 @@
                 "fd_avg_vig": 683,
                 "fd_avg": 458,
                 "fd_median": "+470",
-                "fd_std_dev": 95.42,
-                "fd_z_score": 3.06,
+                "fd_std_dev": 93.73,
+                "fd_z_score": 2.58,
                 "pn_avg_vig": 581,
                 "pn_avg": 409,
                 "pn_median": "418/-944",
@@ -29428,11 +29428,11 @@
                 "dt": "2025-07-11"
             },
             "analysis": {
-                "fd_avg_vig": 4980,
-                "fd_avg": 1146,
+                "fd_avg_vig": 5016,
+                "fd_avg": 1147,
                 "fd_median": "+1200",
-                "fd_std_dev": 363.24,
-                "fd_z_score": -0.13
+                "fd_std_dev": 362.92,
+                "fd_z_score": 0.15
             },
             "homerLogs": {
                 "lastHRDt": "2025-06-22-47",
@@ -29950,11 +29950,11 @@
                 "dt": "2025-07-11"
             },
             "analysis": {
-                "fd_avg_vig": 2445,
-                "fd_avg": 896,
-                "fd_median": "+1200",
-                "fd_std_dev": 278.39,
-                "fd_z_score": 1.09
+                "fd_avg_vig": 2265,
+                "fd_avg": 875,
+                "fd_median": "+1100",
+                "fd_std_dev": 236.29,
+                "fd_z_score": 0.95
             },
             "homerLogs": {
                 "lastHRDt": "",
@@ -30434,11 +30434,11 @@
                 "dt": "2025-07-11"
             },
             "analysis": {
-                "fd_avg_vig": 2828,
-                "fd_avg": 959,
+                "fd_avg_vig": 2850,
+                "fd_avg": 961,
                 "fd_median": "+800",
-                "fd_std_dev": 257.98,
-                "fd_z_score": 0.93
+                "fd_std_dev": 260.62,
+                "fd_z_score": 1.3
             },
             "homerLogs": {
                 "lastHRDt": "2025-06-12-84",
