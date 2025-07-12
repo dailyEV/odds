@@ -1651,7 +1651,7 @@
         "fd_avg": 791,
         "fd_median": "+700",
         "fd_std_dev": 187.42,
-        "fd_z_score": -0.75,
+        "fd_z_score": -1.02,
         "circa_avg_vig": 852,
         "circa_avg": 655,
         "circa_median": "+700/-1050",
@@ -4800,7 +4800,7 @@
         "fd_avg": 815,
         "fd_median": "+750",
         "fd_std_dev": 543.4,
-        "fd_z_score": 0.52
+        "fd_z_score": 0.71
     },
     "romy gonzalez": {
         "pn_avg_vig": 679,
@@ -8346,14 +8346,14 @@
         "fd_avg": 955,
         "fd_median": "+800",
         "fd_std_dev": 121.11,
-        "fd_z_score": 1.2
+        "fd_z_score": 0.37
     },
     "austin nola": {
         "fd_avg_vig": 9426,
         "fd_avg": 1200,
         "fd_median": "+1200",
         "fd_std_dev": 0,
-        "fd_z_score": 1.2
+        "fd_z_score": 0.37
     },
     "masataka yoshida": {
         "fd_avg_vig": 1938,
