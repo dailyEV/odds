@@ -111,6 +111,62 @@
             "fd": "+1200"
         }
     },
+    "tor @ ath": {
+        "nick kurtz": {
+            "fd": "+285"
+        },
+        "shea langeliers": {
+            "fd": "+320"
+        },
+        "brent rooker": {
+            "fd": "+310"
+        },
+        "addison barger": {
+            "fd": "+340"
+        },
+        "lawrence butler": {
+            "fd": "+340"
+        },
+        "vladimir guerrero": {
+            "fd": "+370"
+        },
+        "george springer": {
+            "fd": "+360"
+        },
+        "tyler soderstrom": {
+            "fd": "+430"
+        },
+        "max p muncy": {
+            "fd": "+470"
+        },
+        "bo bichette": {
+            "fd": "+470"
+        },
+        "alejandro kirk": {
+            "fd": "+600"
+        },
+        "zack gelof": {
+            "fd": "+600"
+        },
+        "joey loperfido": {
+            "fd": "+680"
+        },
+        "nathan lukes": {
+            "fd": "+680"
+        },
+        "denzel clarke": {
+            "fd": "+800"
+        },
+        "miguel andujar": {
+            "fd": "+750"
+        },
+        "will wagner": {
+            "fd": "+800"
+        },
+        "ernie clement": {
+            "fd": "+870"
+        }
+    },
     "lad @ sf": {
         "shohei ohtani": {
             "fd": "+390"
