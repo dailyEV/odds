@@ -15,9 +15,6 @@
         "bryan reynolds": {
             "fd": "+480"
         },
-        "andrew mccutchen": {
-            "fd": "+520"
-        },
         "spencer horwitz": {
             "fd": "+480"
         },
@@ -25,6 +22,9 @@
             "fd": "+480"
         },
         "trevor larnach": {
+            "fd": "+520"
+        },
+        "andrew mccutchen": {
             "fd": "+520"
         },
         "royce lewis": {
@@ -136,13 +136,13 @@
         "andy pages": {
             "fd": "+700"
         },
+        "freddie freeman": {
+            "fd": "+800"
+        },
         "mookie betts": {
             "fd": "+800"
         },
         "michael conforto": {
-            "fd": "+800"
-        },
-        "freddie freeman": {
             "fd": "+800"
         },
         "casey schmitt": {
@@ -157,10 +157,10 @@
         "dalton rushing": {
             "fd": "+1060"
         },
-        "tommy edman": {
+        "patrick bailey": {
             "fd": "+1100"
         },
-        "patrick bailey": {
+        "tommy edman": {
             "fd": "+1100"
         },
         "hyeseong kim": {
@@ -233,13 +233,13 @@
         "brandon nimmo": {
             "fd": "+450"
         },
+        "francisco lindor": {
+            "fd": "+480"
+        },
         "bobby witt": {
             "fd": "+470"
         },
         "salvador perez": {
-            "fd": "+480"
-        },
-        "francisco lindor": {
             "fd": "+480"
         },
         "vinnie pasquantino": {
@@ -254,29 +254,29 @@
         "brett baty": {
             "fd": "+800"
         },
-        "jonathan india": {
-            "fd": "+900"
-        },
         "jeff mcneil": {
             "fd": "+870"
-        },
-        "nick loftin": {
-            "fd": "+1000"
         },
         "john rave": {
             "fd": "+1000"
         },
+        "jonathan india": {
+            "fd": "+900"
+        },
         "tyrone taylor": {
             "fd": "+900"
+        },
+        "nick loftin": {
+            "fd": "+1000"
+        },
+        "luis torrens": {
+            "fd": "+1000"
         },
         "maikel garcia": {
             "fd": "+1000"
         },
         "kyle isbel": {
             "fd": "+1060"
-        },
-        "luis torrens": {
-            "fd": "+1000"
         }
     },
     "tb @ bos": {
@@ -295,6 +295,9 @@
         "yandy diaz": {
             "fd": "+630"
         },
+        "roman anthony": {
+            "fd": "+630"
+        },
         "trevor story": {
             "fd": "+630"
         },
@@ -303,9 +306,6 @@
         },
         "christopher morel": {
             "fd": "+680"
-        },
-        "roman anthony": {
-            "fd": "+630"
         },
         "danny jansen": {
             "fd": "+750"
