@@ -55,6 +55,26 @@
             "fd": "+1300"
         }
     },
+    "sea @ det": {
+        "cal raleigh": {
+            "fd": "+240"
+        },
+        "riley greene": {
+            "fd": "+420"
+        },
+        "spencer torkelson": {
+            "fd": "+450"
+        },
+        "dominic canzone": {
+            "fd": "+520"
+        },
+        "luke raley": {
+            "fd": "+560"
+        },
+        "jorge polanco": {
+            "fd": "+560"
+        }
+    },
     "lad @ sf": {
         "shohei ohtani": {
             "fd": "+330"
