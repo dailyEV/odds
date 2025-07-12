@@ -1,28 +1,28 @@
 {
     "chc @ nyy": {
         "aaron judge": {
-            "fd": "+186"
+            "fd": "+182"
         },
         "giancarlo stanton": {
             "fd": "+280"
         },
         "kyle tucker": {
-            "fd": "+370"
+            "fd": "+360"
         },
         "jazz chisholm": {
-            "fd": "+400"
+            "fd": "+390"
         },
         "seiya suzuki": {
-            "fd": "+420"
+            "fd": "+430"
         },
         "trent grisham": {
             "fd": "+420"
         },
         "pete crow armstrong": {
-            "fd": "+440"
+            "fd": "+450"
         },
         "paul goldschmidt": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "austin wells": {
             "fd": "+520"
@@ -34,7 +34,7 @@
             "fd": "+680"
         },
         "anthony volpe": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "carson kelly": {
             "fd": "+680"
@@ -43,7 +43,7 @@
             "fd": "+680"
         },
         "oswald peraza": {
-            "fd": "+830"
+            "fd": "+870"
         },
         "justin turner": {
             "fd": "+1060"
@@ -180,19 +180,19 @@
         "will smith": {
             "fd": "+600"
         },
-        "mike yastrzemski": {
+        "willy adames": {
             "fd": "+630"
         },
         "heliot ramos": {
             "fd": "+630"
         },
-        "willy adames": {
+        "mike yastrzemski": {
             "fd": "+630"
         },
-        "andy pages": {
+        "teoscar hernandez": {
             "fd": "+750"
         },
-        "teoscar hernandez": {
+        "andy pages": {
             "fd": "+750"
         },
         "mookie betts": {
@@ -207,10 +207,10 @@
         "casey schmitt": {
             "fd": "+900"
         },
-        "dominic smith": {
+        "tommy edman": {
             "fd": "+1060"
         },
-        "tommy edman": {
+        "dominic smith": {
             "fd": "+1060"
         },
         "jung hoo lee": {
@@ -563,23 +563,23 @@
         "corey seager": {
             "fd": "+440"
         },
-        "christian walker": {
-            "fd": "+600"
-        },
         "jake burger": {
             "fd": "+560"
         },
         "victor caratini": {
             "fd": "+560"
         },
+        "christian walker": {
+            "fd": "+600"
+        },
+        "wyatt langford": {
+            "fd": "+600"
+        },
         "isaac paredes": {
             "fd": "+600"
         },
         "jose altuve": {
             "fd": "+630"
-        },
-        "wyatt langford": {
-            "fd": "+600"
         },
         "yainer diaz": {
             "fd": "+680"
@@ -608,10 +608,10 @@
         "michael helman": {
             "fd": "+1300"
         },
-        "ezequiel duran": {
+        "sam haggerty": {
             "fd": "+1300"
         },
-        "sam haggerty": {
+        "ezequiel duran": {
             "fd": "+1300"
         }
     },
