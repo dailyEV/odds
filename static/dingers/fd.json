@@ -6,11 +6,11 @@
         "oneil cruz": {
             "fd": "+300"
         },
-        "matt wallner": {
-            "fd": "+420"
-        },
         "kody clemens": {
             "fd": "+370"
+        },
+        "matt wallner": {
+            "fd": "+420"
         },
         "bryan reynolds": {
             "fd": "+480"
@@ -27,11 +27,11 @@
         "andrew mccutchen": {
             "fd": "+540"
         },
-        "royce lewis": {
-            "fd": "+560"
-        },
         "jack suwinski": {
             "fd": "+540"
+        },
+        "royce lewis": {
+            "fd": "+560"
         },
         "ryan jeffers": {
             "fd": "+600"
@@ -89,11 +89,11 @@
         "yohel pozo": {
             "fd": "+700"
         },
-        "brendan donovan": {
-            "fd": "+800"
-        },
         "michael harris": {
             "fd": "+750"
+        },
+        "brendan donovan": {
+            "fd": "+800"
         },
         "thomas saggese": {
             "fd": "+800"
@@ -233,13 +233,13 @@
         "brandon nimmo": {
             "fd": "+450"
         },
-        "francisco lindor": {
-            "fd": "+480"
-        },
         "bobby witt": {
             "fd": "+470"
         },
         "salvador perez": {
+            "fd": "+480"
+        },
+        "francisco lindor": {
             "fd": "+480"
         },
         "vinnie pasquantino": {
@@ -257,22 +257,22 @@
         "jeff mcneil": {
             "fd": "+870"
         },
-        "john rave": {
-            "fd": "+900"
-        },
         "jonathan india": {
             "fd": "+900"
         },
         "tyrone taylor": {
             "fd": "+900"
         },
+        "maikel garcia": {
+            "fd": "+1000"
+        },
         "nick loftin": {
             "fd": "+1000"
         },
-        "luis torrens": {
-            "fd": "+1000"
+        "john rave": {
+            "fd": "+900"
         },
-        "maikel garcia": {
+        "luis torrens": {
             "fd": "+1000"
         },
         "kyle isbel": {
@@ -510,14 +510,14 @@
         "jake burger": {
             "fd": "+560"
         },
+        "victor caratini": {
+            "fd": "+560"
+        },
         "christian walker": {
             "fd": "+600"
         },
         "wyatt langford": {
             "fd": "+600"
-        },
-        "victor caratini": {
-            "fd": "+560"
         },
         "isaac paredes": {
             "fd": "+600"
