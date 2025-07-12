@@ -729,19 +729,19 @@
     },
     "ari @ laa": {
         "ketel marte": {
-            "fd": "+230"
+            "fd": "+240"
         },
         "mike trout": {
             "fd": "+285"
         },
         "eugenio suarez": {
-            "fd": "+320"
+            "fd": "+330"
         },
         "corbin carroll": {
             "fd": "+350"
         },
         "jo adell": {
-            "fd": "+370"
+            "fd": "+390"
         },
         "randal grichuk": {
             "fd": "+400"
@@ -750,10 +750,10 @@
             "fd": "+430"
         },
         "zach neto": {
-            "fd": "+430"
+            "fd": "+440"
         },
         "taylor ward": {
-            "fd": "+440"
+            "fd": "+450"
         },
         "jorge soler": {
             "fd": "+480"
@@ -768,19 +768,19 @@
             "fd": "+520"
         },
         "james mccann": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "nolan schanuel": {
-            "fd": "+800"
+            "fd": "+830"
         },
         "alek thomas": {
-            "fd": "+800"
+            "fd": "+830"
         },
         "geraldo perdomo": {
-            "fd": "+900"
+            "fd": "+870"
         },
         "luis rengifo": {
-            "fd": "+1000"
+            "fd": "+900"
         }
     },
     "tor @ ath": {
