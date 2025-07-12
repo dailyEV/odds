@@ -183,9 +183,6 @@
         "alec burleson": {
             "fd": "+460"
         },
-        "sean murphy": {
-            "fd": "+450"
-        },
         "willson contreras": {
             "fd": "+480"
         },
@@ -221,6 +218,11 @@
         },
         "nick allen": {
             "fd": "+1300"
+        }
+    },
+    "atl-gm2 @ stl-gm2": {
+        "": {
+            "fd": "+450"
         }
     },
     "lad @ sf": {

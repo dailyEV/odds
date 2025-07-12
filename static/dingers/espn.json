@@ -278,25 +278,22 @@
     },
     "sea @ det": {
         "riley greene": {
-            "espn": "+475/-800"
+            "espn": "+500/-900"
         },
         "cal raleigh": {
             "espn": "+250/-390"
         },
-        "javier baez": {
-            "espn": "+1000/-2800"
-        },
-        "dillon dingler": {
-            "espn": "+900/-2500"
-        },
         "spencer torkelson": {
-            "espn": "+525/-1000"
+            "espn": "+500/-900"
         },
         "jorge polanco": {
             "espn": "+550/-1200"
         },
         "luke raley": {
             "espn": "+700/-1600"
+        },
+        "matt vierling": {
+            "espn": "+900/-2500"
         },
         "julio rodriguez": {
             "espn": "+700/-1600"
@@ -322,11 +319,14 @@
         "jp crawford": {
             "espn": "+1000/-2800"
         },
+        "jake rogers": {
+            "espn": "+900/-2500"
+        },
+        "trey sweeney": {
+            "espn": "+800/-2000"
+        },
         "cole young": {
             "espn": "+1200/-4000"
-        },
-        "parker meadows": {
-            "espn": "+900/-2500"
         },
         "randy arozarena": {
             "espn": "+550/-1200"
@@ -666,6 +666,91 @@
         },
         "leo jimenez": {
             "espn": "+1100/-3500"
+        }
+    },
+    "atl @ stl": {
+        "sean murphy": {
+            "espn": "+475/-800"
+        },
+        "marcell ozuna": {
+            "espn": "+425/-700"
+        },
+        "ronald acuna": {
+            "espn": "+325/-500"
+        },
+        "matt olson": {
+            "espn": "+275/-450"
+        },
+        "n alvarez": {
+            "espn": "+1100/-3500"
+        },
+        "ozzie albies": {
+            "espn": "+550/-1200"
+        },
+        "nick allen": {
+            "espn": "+1600/-20000"
+        },
+        "jurickson profar": {
+            "espn": "+550/-1200"
+        },
+        "michael harris": {
+            "espn": "+700/-1600"
+        }
+    },
+    "lad @ sf": {
+        "mike yastrzemski": {
+            "espn": "+500/-900"
+        },
+        "willy adames": {
+            "espn": "+550/-1200"
+        },
+        "matt chapman": {
+            "espn": "+425/-700"
+        },
+        "rafael devers": {
+            "espn": "+400/-650"
+        },
+        "shohei ohtani": {
+            "espn": "+275/-450"
+        },
+        "heliot ramos": {
+            "espn": "+600/-1400"
+        },
+        "will smith": {
+            "espn": "+700/-1600"
+        },
+        "dominic smith": {
+            "espn": "+900/-2500"
+        },
+        "mookie betts": {
+            "espn": "+800/-2000"
+        },
+        "teoscar hernandez": {
+            "espn": "+800/-2000"
+        },
+        "tommy edman": {
+            "espn": "+1200/-4000"
+        },
+        "freddie freeman": {
+            "espn": "+700/-1600"
+        },
+        "andrew knizner": {
+            "espn": "+1100/-3500"
+        },
+        "jung hoo lee": {
+            "espn": "+1000/-2800"
+        },
+        "miguel rojas": {
+            "espn": "+1600/-10000"
+        },
+        "andy pages": {
+            "espn": "+800/-2000"
+        },
+        "michael conforto": {
+            "espn": "+700/-1600"
+        },
+        "casey schmitt": {
+            "espn": "+800/-2000"
         }
     }
 }
