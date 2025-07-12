@@ -111,32 +111,88 @@
             "fd": "+1000"
         }
     },
+    "ari @ laa": {
+        "ketel marte": {
+            "fd": "+255"
+        },
+        "mike trout": {
+            "fd": "+280"
+        },
+        "eugenio suarez": {
+            "fd": "+300"
+        },
+        "corbin carroll": {
+            "fd": "+360"
+        },
+        "jo adell": {
+            "fd": "+390"
+        },
+        "randal grichuk": {
+            "fd": "+400"
+        },
+        "taylor ward": {
+            "fd": "+420"
+        },
+        "zach neto": {
+            "fd": "+430"
+        },
+        "travis darnaud": {
+            "fd": "+450"
+        },
+        "jorge soler": {
+            "fd": "+480"
+        },
+        "yoan moncada": {
+            "fd": "+480"
+        },
+        "lourdes gurriel": {
+            "fd": "+520"
+        },
+        "josh naylor": {
+            "fd": "+520"
+        },
+        "james mccann": {
+            "fd": "+630"
+        },
+        "nolan schanuel": {
+            "fd": "+830"
+        },
+        "alek thomas": {
+            "fd": "+830"
+        },
+        "luis rengifo": {
+            "fd": "+1000"
+        },
+        "geraldo perdomo": {
+            "fd": "+1060"
+        }
+    },
     "tor @ ath": {
-        "brent rooker": {
+        "nick kurtz": {
             "fd": "+340"
         },
         "george springer": {
             "fd": "+340"
         },
-        "shea langeliers": {
+        "brent rooker": {
             "fd": "+340"
         },
-        "nick kurtz": {
+        "shea langeliers": {
             "fd": "+340"
         },
         "vladimir guerrero": {
             "fd": "+360"
         },
-        "lawrence butler": {
-            "fd": "+450"
-        },
         "addison barger": {
             "fd": "+420"
         },
-        "bo bichette": {
-            "fd": "+500"
+        "lawrence butler": {
+            "fd": "+450"
         },
         "tyler soderstrom": {
+            "fd": "+500"
+        },
+        "bo bichette": {
             "fd": "+500"
         },
         "davis schneider": {
@@ -145,11 +201,11 @@
         "alejandro kirk": {
             "fd": "+540"
         },
-        "max p muncy": {
-            "fd": "+560"
-        },
         "zack gelof": {
             "fd": "+540"
+        },
+        "max p muncy": {
+            "fd": "+560"
         },
         "ernie clement": {
             "fd": "+700"
