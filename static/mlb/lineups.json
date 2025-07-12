@@ -114,13 +114,29 @@
     "lad": {
         "pitcher": "shohei ohtani",
         "batters": [
-            "tbd"
+            "shohei ohtani",
+            "mookie betts",
+            "freddie freeman",
+            "teoscar hernandez",
+            "michael conforto",
+            "andy pages",
+            "hyeseong kim",
+            "tommy edman",
+            "dalton rushing"
         ]
     },
     "sf": {
         "pitcher": "landen roupp",
         "batters": [
-            "tbd"
+            "mike yastrzemski",
+            "heliot ramos",
+            "rafael devers",
+            "matt chapman",
+            "willy adames",
+            "jung hoo lee",
+            "casey schmitt",
+            "dominic smith",
+            "patrick bailey"
         ]
     },
     "mia": {
@@ -152,25 +168,57 @@
     "cin": {
         "pitcher": "brady singer",
         "batters": [
-            "tbd"
+            "tj friedl",
+            "matt mclain",
+            "elly de la cruz",
+            "austin hays",
+            "gavin lux",
+            "spencer steer",
+            "will benson",
+            "jose trevino",
+            "noelvi marte"
         ]
     },
     "nym": {
         "pitcher": "frankie montas",
         "batters": [
-            "tbd"
+            "brandon nimmo",
+            "francisco lindor",
+            "juan soto",
+            "pete alonso",
+            "mark vientos",
+            "jeff mcneil",
+            "tyrone taylor",
+            "brett baty",
+            "luis torrens"
         ]
     },
     "kc": {
         "pitcher": "michael lorenzen",
         "batters": [
-            "tbd"
+            "jonathan india",
+            "bobby witt",
+            "vinnie pasquantino",
+            "maikel garcia",
+            "salvador perez",
+            "jac caglianone",
+            "nick loftin",
+            "john rave",
+            "kyle isbel"
         ]
     },
     "tb": {
         "pitcher": "shane baz",
         "batters": [
-            "tbd"
+            "yandy diaz",
+            "ha seong kim",
+            "jake mangum",
+            "junior caminero",
+            "christopher morel",
+            "curtis mead",
+            "danny jansen",
+            "jose caballero",
+            "taylor walls"
         ]
     },
     "bos": {
@@ -196,13 +244,29 @@
     "chw": {
         "pitcher": "sean burke",
         "batters": [
-            "tbd"
+            "mike tauchman",
+            "chase meidroth",
+            "andrew benintendi",
+            "lenyn sosa",
+            "kyle teel",
+            "luis robert",
+            "colson montgomery",
+            "josh rojas",
+            "will robertson"
         ]
     },
     "wsh": {
         "pitcher": "shinnosuke ogasawara",
         "batters": [
-            "tbd"
+            "cj abrams",
+            "james wood",
+            "josh bell",
+            "nathaniel lowe",
+            "luis garcia",
+            "brady house",
+            "daylen lile",
+            "riley adams",
+            "jacob young"
         ]
     },
     "mil": {
