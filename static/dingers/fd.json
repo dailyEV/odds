@@ -172,25 +172,25 @@
             "fd": "+320"
         },
         "ronald acuna": {
-            "fd": "+320"
+            "fd": "+340"
         },
         "nolan gorman": {
-            "fd": "+440"
-        },
-        "alec burleson": {
             "fd": "+450"
         },
+        "alec burleson": {
+            "fd": "+480"
+        },
         "willson contreras": {
-            "fd": "+470"
+            "fd": "+480"
         },
         "lars nootbaar": {
             "fd": "+470"
         },
         "marcell ozuna": {
-            "fd": "+470"
+            "fd": "+520"
         },
         "pedro pages": {
-            "fd": "+560"
+            "fd": "+630"
         },
         "brendan donovan": {
             "fd": "+600"
@@ -199,13 +199,13 @@
             "fd": "+600"
         },
         "masyn winn": {
-            "fd": "+630"
+            "fd": "+680"
         },
         "jurickson profar": {
-            "fd": "+680"
+            "fd": "+630"
         },
         "michael harris": {
-            "fd": "+680"
+            "fd": "+750"
         },
         "": {
             "fd": "+680"
@@ -214,10 +214,10 @@
             "fd": "+680"
         },
         "victor scott": {
-            "fd": "+1060"
+            "fd": "+1000"
         },
         "nick allen": {
-            "fd": "+1300"
+            "fd": "+1200"
         }
     },
     "atl-gm2 @ stl-gm2": {
