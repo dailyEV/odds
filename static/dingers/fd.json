@@ -195,7 +195,7 @@
         "ozzie albies": {
             "fd": "+600"
         },
-        "pedro pages": {
+        "": {
             "fd": "+630"
         },
         "brendan donovan": {
@@ -213,14 +213,16 @@
         "michael harris": {
             "fd": "+750"
         },
-        "": {
-            "fd": "+870"
-        },
         "victor scott": {
             "fd": "+1100"
         },
         "nick allen": {
             "fd": "+1300"
+        }
+    },
+    "atl-gm2 @ stl-gm2": {
+        "": {
+            "fd": "+870"
         }
     },
     "lad @ sf": {
