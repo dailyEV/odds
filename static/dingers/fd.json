@@ -207,7 +207,7 @@
         "michael harris": {
             "fd": "+680"
         },
-        "drake baldwin": {
+        "": {
             "fd": "+680"
         },
         "thomas saggese": {
@@ -216,11 +216,13 @@
         "victor scott": {
             "fd": "+1060"
         },
-        "luke williams": {
-            "fd": "+1100"
-        },
         "nick allen": {
             "fd": "+1300"
+        }
+    },
+    "atl-gm2 @ stl-gm2": {
+        "": {
+            "fd": "+1100"
         }
     },
     "lad @ sf": {
