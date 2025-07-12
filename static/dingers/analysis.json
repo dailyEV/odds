@@ -411,10 +411,10 @@
         "circa_median": "+675/-1000",
         "circa_std_dev": 124.73,
         "circa_z_score": -0.91,
-        "fd_avg_vig": 1084,
+        "fd_avg_vig": 1085,
         "fd_avg": 617,
         "fd_median": "+600",
-        "fd_std_dev": 159.89,
+        "fd_std_dev": 159.66,
         "fd_z_score": -0.61
     },
     "xavier edwards": {
@@ -430,10 +430,10 @@
         "circa_z_score": 0
     },
     "alek thomas": {
-        "fd_avg_vig": 2462,
+        "fd_avg_vig": 2458,
         "fd_avg": 922,
         "fd_median": "+680",
-        "fd_std_dev": 545.11,
+        "fd_std_dev": 545.28,
         "fd_z_score": -0.22,
         "pn_avg_vig": 1343,
         "pn_avg": 746,
