@@ -2172,7 +2172,7 @@
         "fd_avg": 898,
         "fd_median": "+800",
         "fd_std_dev": 164.68,
-        "fd_z_score": -0.9
+        "fd_z_score": -0.6
     },
     "alejandro kirk": {
         "pn_avg_vig": 1107,
@@ -2302,7 +2302,7 @@
         "fd_avg": 525,
         "fd_median": "+550",
         "fd_std_dev": 168.32,
-        "fd_z_score": -1.16,
+        "fd_z_score": -1.1,
         "circa_avg_vig": 519,
         "circa_avg": 437,
         "circa_median": "+425/-550",
@@ -2324,7 +2324,7 @@
         "fd_avg": 458,
         "fd_median": "+450",
         "fd_std_dev": 116.18,
-        "fd_z_score": -0.15
+        "fd_z_score": -0.24
     },
     "lawrence butler": {
         "pn_avg_vig": 594,
@@ -2392,7 +2392,7 @@
         "fd_avg": 347,
         "fd_median": "+340",
         "fd_std_dev": 135.44,
-        "fd_z_score": -0.2
+        "fd_z_score": -0.27
     },
     "shea langeliers": {
         "pn_avg_vig": 514,
@@ -4373,7 +4373,7 @@
         "fd_avg": 882,
         "fd_median": "+800",
         "fd_std_dev": 144.41,
-        "fd_z_score": -0.08,
+        "fd_z_score": 0.12,
         "pn_avg_vig": 1503,
         "pn_avg": 807,
         "pn_median": "843/-2055",
@@ -8301,7 +8301,7 @@
         "fd_avg": 712,
         "fd_median": "+700",
         "fd_std_dev": 57.45,
-        "fd_z_score": -0.21
+        "fd_z_score": -0.56
     },
     "zack short": {
         "fd_avg_vig": 2243,
