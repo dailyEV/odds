@@ -3,7 +3,7 @@
         "chc @ nyy": {
             "hr": {
                 "pete crow armstrong": "+450/-590",
-                "seiya suzuki": "+425/-550",
+                "seiya suzuki": "+475/-630",
                 "dansby swanson": "+650/-950",
                 "kyle tucker": "+375/-470",
                 "michael busch": "+500/-670",
@@ -26,6 +26,30 @@
                 "riley greene": "+425/-550",
                 "spencer torkelson": "+475/-630",
                 "colt keith": "+800/-1250"
+            }
+        },
+        "pit @ min": {
+            "hr": {
+                "oneil cruz": "+275/-470",
+                "bryan reynolds": "+525/-710",
+                "andrew mccutchen": "+550/-750",
+                "trevor larnach": "+575/-800",
+                "matt wallner": "+425/-550",
+                "royce lewis": "+525/-710",
+                "byron buxton": "+290/-350"
+            }
+        },
+        "atl @ stl": {
+            "hr": {
+                "ozzie albies": "+625/-900",
+                "marcell ozuna": "+525/-710",
+                "ronald acuna": "+375/-470",
+                "matt olson": "+350/-435",
+                "sean murphy": "+375/-470",
+                "lars nootbaar": "+625/-900",
+                "nolan gorman": "+575/-800",
+                "alec burleson": "+600/-850",
+                "willson contreras": "+600/-850"
             }
         },
         "lad @ sf": {
