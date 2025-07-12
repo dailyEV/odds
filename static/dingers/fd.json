@@ -18,22 +18,22 @@
         "spencer horwitz": {
             "fd": "+500"
         },
-        "trevor larnach": {
-            "fd": "+520"
-        },
         "brooks lee": {
             "fd": "+500"
         },
-        "andrew mccutchen": {
+        "trevor larnach": {
             "fd": "+520"
         },
-        "ryan jeffers": {
-            "fd": "+560"
+        "andrew mccutchen": {
+            "fd": "+520"
         },
         "royce lewis": {
             "fd": "+540"
         },
         "jack suwinski": {
+            "fd": "+560"
+        },
+        "ryan jeffers": {
             "fd": "+560"
         },
         "willi castro": {
@@ -56,16 +56,16 @@
         }
     },
     "atl @ stl": {
-        "matt olson": {
-            "fd": "+330"
-        },
         "ronald acuna": {
             "fd": "+320"
         },
-        "sean murphy": {
-            "fd": "+480"
+        "matt olson": {
+            "fd": "+330"
         },
         "marcell ozuna": {
+            "fd": "+480"
+        },
+        "sean murphy": {
             "fd": "+480"
         },
         "nolan gorman": {
@@ -92,11 +92,11 @@
         "michael harris": {
             "fd": "+750"
         },
-        "brendan donovan": {
-            "fd": "+830"
-        },
         "thomas saggese": {
             "fd": "+800"
+        },
+        "brendan donovan": {
+            "fd": "+830"
         },
         "masyn winn": {
             "fd": "+830"
