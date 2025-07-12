@@ -241,23 +241,23 @@
         "shohei ohtani": {
             "fd": "+330"
         },
+        "matt chapman": {
+            "fd": "+500",
+            "kambi": "1150/-3335"
+        },
         "rafael devers": {
             "fd": "+540",
             "kambi": "1150/-3335"
         },
-        "matt chapman": {
-            "fd": "+500",
-            "kambi": "1150/-3335"
+        "heliot ramos": {
+            "fd": "+600",
+            "kambi": "1500/-10000"
         },
         "will smith": {
             "fd": "+630"
         },
         "willy adames": {
             "fd": "+680"
-        },
-        "heliot ramos": {
-            "fd": "+600",
-            "kambi": "1500/-10000"
         },
         "teoscar hernandez": {
             "fd": "+750"
@@ -272,37 +272,37 @@
             "fd": "+830",
             "kambi": "1200/-3335"
         },
-        "freddie freeman": {
-            "fd": "+900"
-        },
         "casey schmitt": {
             "fd": "+870"
         },
         "michael conforto": {
             "fd": "+870"
         },
+        "freddie freeman": {
+            "fd": "+900"
+        },
         "dominic smith": {
             "fd": "+1060"
         },
-        "tommy edman": {
-            "fd": "+1200"
+        "patrick bailey": {
+            "fd": "+1100"
         },
         "jung hoo lee": {
             "fd": "+1100"
         },
-        "patrick bailey": {
-            "fd": "+1100"
+        "tommy edman": {
+            "fd": "+1200"
         },
         "hyeseong kim": {
             "fd": "+1400"
         }
     },
     "nym @ kc": {
-        "juan soto": {
-            "fd": "+340"
-        },
         "pete alonso": {
             "fd": "+350"
+        },
+        "juan soto": {
+            "fd": "+340"
         },
         "brandon nimmo": {
             "fd": "+450"
@@ -331,6 +331,12 @@
         "jeff mcneil": {
             "fd": "+800"
         },
+        "maikel garcia": {
+            "fd": "+1000"
+        },
+        "nick loftin": {
+            "fd": "+900"
+        },
         "kyle isbel": {
             "fd": "+1000"
         },
@@ -344,12 +350,6 @@
             "fd": "+900"
         },
         "tyrone taylor": {
-            "fd": "+900"
-        },
-        "maikel garcia": {
-            "fd": "+1000"
-        },
-        "nick loftin": {
             "fd": "+900"
         }
     },
@@ -383,54 +383,78 @@
         "marcelo mayer": {
             "fd": "+680"
         },
-        "c mead": {
-            "espn": "+1000/-2800"
+        "jarren duran": {
+            "fd": "+700"
         },
-        "jake mangum": {
-            "espn": "+1400/-5000",
-            "dk": "+1300",
-            "cz": "800",
-            "365": "+1500/-3500"
+        "ceddanne rafaela": {
+            "fd": "+700"
         },
-        "ha seong kim": {
-            "espn": "+900/-2500",
-            "dk": "+900",
-            "cz": "650",
-            "365": "+900/-1600"
+        "masataka yoshida": {
+            "fd": "+750"
         },
-        "yan diaz": {
-            "espn": "+525/-1000"
-        },
-        "taylor walls": {
-            "espn": "+1600/-10000",
-            "dk": "+1200",
-            "cz": "700",
-            "365": "+1550/-4000"
-        },
-        "jose caballero": {
-            "espn": "+1100/-3500",
-            "dk": "+1000",
-            "cz": "700",
-            "365": "+1100/-2200"
+        "roman anthony": {
+            "fd": "+800"
         },
         "danny jansen": {
+            "fd": "+830",
             "espn": "+700/-1600",
             "dk": "+650",
             "cz": "500",
             "365": "+700/-1100"
         },
+        "abraham toro": {
+            "fd": "+870"
+        },
+        "connor wong": {
+            "fd": "+900"
+        },
+        "ha seong kim": {
+            "fd": "+1000",
+            "espn": "+900/-2500",
+            "dk": "+900",
+            "cz": "650",
+            "365": "+900/-1600"
+        },
+        "jose caballero": {
+            "fd": "+1060",
+            "espn": "+1100/-3500",
+            "dk": "+1000",
+            "cz": "700",
+            "365": "+1100/-2200"
+        },
         "curtis mead": {
+            "fd": "+1060",
             "dk": "+1100",
             "cz": "700",
             "365": "+950/-1700"
+        },
+        "jake mangum": {
+            "fd": "+1100",
+            "espn": "+1400/-5000",
+            "dk": "+1300",
+            "cz": "800",
+            "365": "+1500/-3500"
+        },
+        "taylor walls": {
+            "fd": "+1100",
+            "espn": "+1600/-10000",
+            "dk": "+1200",
+            "cz": "700",
+            "365": "+1550/-4000"
+        },
+        "c mead": {
+            "espn": "+1000/-2800"
+        },
+        "yan diaz": {
+            "espn": "+525/-1000"
         }
     },
     "wsh @ mil": {
-        "james wood": {
-            "fd": "+390"
-        },
         "christian yelich": {
             "fd": "+370"
+        },
+        "james wood": {
+            "fd": "+390"
         },
         "andrew vaughn": {
             "fd": "+440"
@@ -443,6 +467,42 @@
         },
         "william contreras": {
             "fd": "+520"
+        },
+        "luis garcia": {
+            "fd": "+520"
+        },
+        "josh bell": {
+            "fd": "+520"
+        },
+        "nathaniel lowe": {
+            "fd": "+600"
+        },
+        "isaac collins": {
+            "fd": "+750"
+        },
+        "joey ortiz": {
+            "fd": "+830"
+        },
+        "brady house": {
+            "fd": "+830"
+        },
+        "daylen lile": {
+            "fd": "+830"
+        },
+        "sal frelick": {
+            "fd": "+870"
+        },
+        "andruw monasterio": {
+            "fd": "+870"
+        },
+        "brice turang": {
+            "fd": "+900"
+        },
+        "riley adams": {
+            "fd": "+900"
+        },
+        "jacob young": {
+            "fd": "+1400"
         }
     },
     "tex @ hou": {
@@ -457,6 +517,9 @@
         "victor caratini": {
             "fd": "+540",
             "365": "+850/-1400"
+        },
+        "jake burger": {
+            "fd": "+560"
         },
         "isaac paredes": {
             "fd": "+560",
@@ -486,6 +549,10 @@
             "fd": "+830",
             "365": "+750/-1200"
         },
+        "brice matthews": {
+            "fd": "+870",
+            "365": "+1000/-2000"
+        },
         "jonah heim": {
             "fd": "+900",
             "365": "+900/-1600"
@@ -493,16 +560,13 @@
         "taylor trammell": {
             "fd": "+900"
         },
-        "brice matthews": {
-            "fd": "+870",
-            "365": "+1000/-2000"
-        },
-        "": {
-            "fd": "+1060"
-        },
         "mauricio dubon": {
             "fd": "+1100",
             "365": "+1250/-2500"
+        },
+        "ezequiel duran": {
+            "fd": "+1100",
+            "365": "+1100/-2200"
         },
         "michael helman": {
             "fd": "+1200",
@@ -511,10 +575,6 @@
         "sam haggerty": {
             "fd": "+1300",
             "365": "+1250/-2500"
-        },
-        "ezequiel duran": {
-            "fd": "+1100",
-            "365": "+1100/-2200"
         },
         "cooper hummel": {
             "365": "+1100/-2200"
@@ -561,10 +621,6 @@
             "fd": "+560",
             "espn": "+500/-900"
         },
-        "alec bohm": {
-            "fd": "+630",
-            "espn": "+800/-2000"
-        },
         "jake cronenworth": {
             "fd": "+630",
             "espn": "+600/-1400"
@@ -572,6 +628,10 @@
         "brandon marsh": {
             "fd": "+630",
             "espn": "+700/-1600"
+        },
+        "alec bohm": {
+            "fd": "+630",
+            "espn": "+800/-2000"
         },
         "bryson stott": {
             "fd": "+700",
