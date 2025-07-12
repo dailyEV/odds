@@ -4087,10 +4087,10 @@
     },
     "shohei ohtani": {
         "fd_avg_vig": 260,
-        "fd_avg": 212,
+        "fd_avg": 211,
         "fd_median": "+215",
-        "fd_std_dev": 49.6,
-        "fd_z_score": 1.77,
+        "fd_std_dev": 49.39,
+        "fd_z_score": 1.8,
         "pn_avg_vig": 266,
         "pn_avg": 216,
         "pn_median": "214/-303",
@@ -4103,11 +4103,11 @@
         "circa_z_score": 1.43
     },
     "freddie freeman": {
-        "fd_avg_vig": 671,
+        "fd_avg_vig": 672,
         "fd_avg": 453,
         "fd_median": "+450",
-        "fd_std_dev": 96.6,
-        "fd_z_score": 3.9,
+        "fd_std_dev": 98.02,
+        "fd_z_score": 3.85,
         "pn_avg_vig": 639,
         "pn_avg": 439,
         "pn_median": "449/-643",
@@ -4188,11 +4188,11 @@
         "circa_z_score": -1.38
     },
     "michael conforto": {
-        "fd_avg_vig": 1059,
-        "fd_avg": 609,
+        "fd_avg_vig": 1060,
+        "fd_avg": 610,
         "fd_median": "+600",
-        "fd_std_dev": 132.79,
-        "fd_z_score": 1.97,
+        "fd_std_dev": 133.68,
+        "fd_z_score": 1.94,
         "pn_avg_vig": 820,
         "pn_avg": 529,
         "pn_median": "530/-958",
@@ -4353,8 +4353,8 @@
         "fd_avg_vig": 621,
         "fd_avg": 428,
         "fd_median": "+440",
-        "fd_std_dev": 120.83,
-        "fd_z_score": 2.66
+        "fd_std_dev": 118.8,
+        "fd_z_score": 2.71
     },
     "michael toglia": {
         "pn_avg_vig": 633,
