@@ -36,11 +36,11 @@
         "blaze alexander": {
             "fd": "+680"
         },
-        "nolan schanuel": {
-            "fd": "+750"
-        },
         "alek thomas": {
             "fd": "+700"
+        },
+        "nolan schanuel": {
+            "fd": "+750"
         },
         "gustavo campero": {
             "fd": "+800"
@@ -115,14 +115,14 @@
         "nick kurtz": {
             "fd": "+285"
         },
-        "shea langeliers": {
-            "fd": "+320"
-        },
         "brent rooker": {
             "fd": "+310"
         },
+        "shea langeliers": {
+            "fd": "+320"
+        },
         "addison barger": {
-            "fd": "+340"
+            "fd": "+350"
         },
         "lawrence butler": {
             "fd": "+350"
@@ -131,7 +131,7 @@
             "fd": "+360"
         },
         "george springer": {
-            "fd": "+370"
+            "fd": "+390"
         },
         "tyler soderstrom": {
             "fd": "+430"
@@ -149,18 +149,15 @@
             "fd": "+600"
         },
         "nathan lukes": {
-            "fd": "+680"
-        },
-        "": {
-            "fd": "+680"
-        },
-        "will wagner": {
-            "fd": "+800"
+            "fd": "+700"
         },
         "miguel andujar": {
             "fd": "+750"
         },
         "denzel clarke": {
+            "fd": "+800"
+        },
+        "will wagner": {
             "fd": "+800"
         },
         "ernie clement": {
