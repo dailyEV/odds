@@ -337,13 +337,14 @@
             "2025-06-27": "+725/-1100",
             "2025-06-28": "+525/-710",
             "2025-06-29": "+500/-670",
-            "2025-07-10": "+600/-850"
+            "2025-07-10": "+600/-850",
+            "2025-07-12": "+550/-750"
         },
-        "circa_avg_vig": 845,
-        "circa_avg": 654,
+        "circa_avg_vig": 831,
+        "circa_avg": 645,
         "circa_median": "+600/-850",
-        "circa_std_dev": 162.46,
-        "circa_z_score": 0
+        "circa_std_dev": 160.02,
+        "circa_z_score": -0.59
     },
     "tommy pham": {
         "pn": {
@@ -530,13 +531,14 @@
             "2025-06-29": "+500/-670",
             "2025-07-01": "+650/-950",
             "2025-07-06": "+900/-1450",
-            "2025-07-10": "+600/-850"
+            "2025-07-10": "+600/-850",
+            "2025-07-12": "+575/-800"
         },
-        "circa_avg_vig": 863,
-        "circa_avg": 666,
+        "circa_avg_vig": 861,
+        "circa_avg": 664,
         "circa_median": "+675/-1000",
-        "circa_std_dev": 110.38,
-        "circa_z_score": 0,
+        "circa_std_dev": 110.28,
+        "circa_z_score": -0.81,
         "fd": {
             "2025-04-08": "+750",
             "2025-04-09": "+750",
@@ -1154,7 +1156,7 @@
         "circa_avg": 589,
         "circa_median": "+625/-900",
         "circa_std_dev": 119.5,
-        "circa_z_score": 0,
+        "circa_z_score": -0.74,
         "fd": {
             "2025-04-08": "+680",
             "2025-04-09": "+750",
@@ -1783,7 +1785,7 @@
         "circa_avg": 488,
         "circa_median": "+520/-700",
         "circa_std_dev": 124.5,
-        "circa_z_score": 0,
+        "circa_z_score": -1.11,
         "fd": {
             "2025-04-08": "+750",
             "2025-04-09": "+700",
@@ -26061,7 +26063,7 @@
         "circa_avg": 542,
         "circa_median": "+550/-750",
         "circa_std_dev": 111.06,
-        "circa_z_score": 0,
+        "circa_z_score": 0.07,
         "fd": {
             "2025-04-08": "+450",
             "2025-04-09": "+500",
@@ -26275,7 +26277,7 @@
         "circa_avg": 543,
         "circa_median": "+540/-730",
         "circa_std_dev": 102.62,
-        "circa_z_score": 0,
+        "circa_z_score": -0.66,
         "fd": {
             "2025-04-08": "+440",
             "2025-04-09": "+500",
@@ -26489,7 +26491,7 @@
         "circa_avg": 551,
         "circa_median": "+550/-750",
         "circa_std_dev": 155.12,
-        "circa_z_score": 0,
+        "circa_z_score": -0.65,
         "fd": {
             "2025-04-08": "+520",
             "2025-04-09": "+560",
@@ -26661,13 +26663,14 @@
         "fd_std_dev": 559.84,
         "fd_z_score": -0.66,
         "circa": {
-            "2025-07-07": "+1150/-2100"
+            "2025-07-07": "+1150/-2100",
+            "2025-07-12": "+850/-1350"
         },
-        "circa_avg_vig": 1796,
-        "circa_avg": 1150,
-        "circa_median": "+1150/-2100",
-        "circa_std_dev": 0,
-        "circa_z_score": -0.66,
+        "circa_avg_vig": 1432,
+        "circa_avg": 980,
+        "circa_median": "+850/-1350",
+        "circa_std_dev": 212.13,
+        "circa_z_score": -0.61,
         "pn": {
             "2025-05-01": "917/-2390"
         },
@@ -26675,7 +26678,7 @@
         "pn_avg": 917,
         "pn_median": "917/-2390",
         "pn_std_dev": 0,
-        "pn_z_score": -0.66
+        "pn_z_score": -0.61
     },
     "javier baez": {
         "pn": {
@@ -27591,7 +27594,15 @@
         "fd_avg": 1055,
         "fd_median": "+1400",
         "fd_std_dev": 296.33,
-        "fd_z_score": -0.76
+        "fd_z_score": -0.76,
+        "circa": {
+            "2025-07-12": "+850/-1350"
+        },
+        "circa_avg_vig": 1185,
+        "circa_avg": 850,
+        "circa_median": "+850/-1350",
+        "circa_std_dev": 0,
+        "circa_z_score": -0.76
     },
     "jackson chourto": {
         "circa": {
@@ -47654,7 +47665,7 @@
         "circa_avg": 531,
         "circa_median": "+550/-750",
         "circa_std_dev": 98.18,
-        "circa_z_score": 0,
+        "circa_z_score": -0.32,
         "fd": {
             "2025-04-08": "+630",
             "2025-04-09": "+550",
