@@ -3334,11 +3334,11 @@
         "circa_z_score": 0.65
     },
     "mauricio dubon": {
-        "fd_avg_vig": 5055,
-        "fd_avg": 1149,
-        "fd_median": "+1300",
-        "fd_std_dev": 363.03,
-        "fd_z_score": 0.14
+        "fd_avg_vig": 5016,
+        "fd_avg": 1147,
+        "fd_median": "+1200",
+        "fd_std_dev": 362.92,
+        "fd_z_score": 0.15
     },
     "brendan donovan": {
         "fd_avg_vig": 1730,
@@ -3453,10 +3453,10 @@
         "pn_median": "603/-1178",
         "pn_std_dev": 171.62,
         "pn_z_score": 0,
-        "fd_avg_vig": 1208,
+        "fd_avg_vig": 1210,
         "fd_avg": 657,
         "fd_median": "+650",
-        "fd_std_dev": 176.06,
+        "fd_std_dev": 175.89,
         "fd_z_score": -0.15
     },
     "mike siani": {
