@@ -463,7 +463,7 @@
         "ryan mcmahon": {
             "fd": "+360"
         },
-        "tyler stephenson": {
+        "": {
             "fd": "+370"
         },
         "spencer steer": {
@@ -471,9 +471,6 @@
         },
         "michael toglia": {
             "fd": "+420"
-        },
-        "jake fraley": {
-            "fd": "+430"
         },
         "noelvi marte": {
             "fd": "+440"
@@ -501,6 +498,11 @@
         },
         "ryan ritter": {
             "fd": "+750"
+        }
+    },
+    "col-gm2 @ cin-gm2": {
+        "": {
+            "fd": "+430"
         }
     },
     "tex @ hou": {
