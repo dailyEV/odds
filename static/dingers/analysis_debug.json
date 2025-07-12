@@ -17803,7 +17803,7 @@
         "fd_avg": 371,
         "fd_median": "+370",
         "fd_std_dev": 78.68,
-        "fd_z_score": -0.52
+        "fd_z_score": -0.39
     },
     "jarred kelenic": {
         "pn": {
@@ -18234,7 +18234,7 @@
         "fd_avg": 501,
         "fd_median": "+520",
         "fd_std_dev": 112.84,
-        "fd_z_score": -0.19
+        "fd_z_score": -0.45
     },
     "michael harris": {
         "pn": {
@@ -18400,7 +18400,7 @@
         "fd_avg": 653,
         "fd_median": "+680",
         "fd_std_dev": 146.64,
-        "fd_z_score": 1.0
+        "fd_z_score": 0.32
     },
     "ozzie albies": {
         "pn": {
@@ -18584,7 +18584,7 @@
         "fd_avg": 653,
         "fd_median": "+630",
         "fd_std_dev": 107.92,
-        "fd_z_score": -0.21
+        "fd_z_score": -0.49
     },
     "will wagner": {
         "pn": {
@@ -28010,7 +28010,7 @@
         "fd_avg": 673,
         "fd_median": "+650",
         "fd_std_dev": 153.85,
-        "fd_z_score": -0.28,
+        "fd_z_score": -0.47,
         "pn": {
             "2025-04-16": "697/-1483",
             "2025-04-17": "711/-1540",
@@ -28178,7 +28178,7 @@
         "fd_avg": 579,
         "fd_median": "+560",
         "fd_std_dev": 162.19,
-        "fd_z_score": -0.49,
+        "fd_z_score": -0.67,
         "circa": {
             "2025-04-04": "+775/-1200",
             "2025-04-07": "+650/-950",
@@ -28556,7 +28556,7 @@
         "fd_avg": 513,
         "fd_median": "+520",
         "fd_std_dev": 118.94,
-        "fd_z_score": -0.11
+        "fd_z_score": -0.28
     },
     "pedro pages": {
         "fd": {
@@ -29374,7 +29374,7 @@
         "fd_avg": 486,
         "fd_median": "+500",
         "fd_std_dev": 107.12,
-        "fd_z_score": -0.52
+        "fd_z_score": -0.24
     },
     "jordan walker": {
         "circa": {
@@ -29884,7 +29884,7 @@
         "fd_avg": 629,
         "fd_median": "+600",
         "fd_std_dev": 181.87,
-        "fd_z_score": -0.82,
+        "fd_z_score": -0.93,
         "pn": {
             "2025-04-16": "712/-1543",
             "2025-04-17": "773/-1770",
@@ -38300,7 +38300,7 @@
         "fd_avg": 1092,
         "fd_median": "+1300",
         "fd_std_dev": 336.75,
-        "fd_z_score": -0.1,
+        "fd_z_score": -0.27,
         "pn": {
             "2025-04-16": "749/-1677",
             "2025-04-17": "814/-1937",
@@ -44123,7 +44123,7 @@
         "fd_avg": 407,
         "fd_median": "+420",
         "fd_std_dev": 92.88,
-        "fd_z_score": 1.22,
+        "fd_z_score": 1.0,
         "circa": {
             "2025-04-04": "+335/-410",
             "2025-04-08": "+520/-700",
