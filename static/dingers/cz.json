@@ -1,21 +1,42 @@
 {
     "chc @ nyy": {
+        "aaron judge": {
+            "cz": "160"
+        },
+        "giancarlo stanton": {
+            "cz": "230"
+        },
+        "paul goldschmidt": {
+            "cz": "350"
+        },
         "kyle tucker": {
             "cz": "380"
         },
         "pete crow armstrong": {
             "cz": "400"
         },
-        "michael busch": {
-            "cz": "400"
-        },
         "seiya suzuki": {
             "cz": "400"
+        },
+        "cody bellinger": {
+            "cz": "400"
+        },
+        "jasson dominguez": {
+            "cz": "450"
+        },
+        "michael busch": {
+            "cz": "450"
+        },
+        "jazz chisholm": {
+            "cz": "450"
         },
         "dansby swanson": {
             "cz": "500"
         },
         "ian happ": {
+            "cz": "500"
+        },
+        "anthony volpe": {
             "cz": "500"
         },
         "carson kelly": {
@@ -56,13 +77,13 @@
     },
     "sea @ det": {
         "cal raleigh": {
-            "cz": "220"
+            "cz": "225"
         },
         "spencer torkelson": {
             "cz": "380"
         },
         "colt keith": {
-            "cz": "380"
+            "cz": "400"
         },
         "jorge polanco": {
             "cz": "400"
@@ -73,13 +94,16 @@
         "randy arozarena": {
             "cz": "400"
         },
+        "luke raley": {
+            "cz": "450"
+        },
         "matt vierling": {
             "cz": "500"
         },
         "dillon dingler": {
             "cz": "500"
         },
-        "luke raley": {
+        "julio rodriguez": {
             "cz": "500"
         },
         "dominic canzone": {
@@ -99,23 +123,26 @@
         },
         "parker meadows": {
             "cz": "600"
+        },
+        "cole young": {
+            "cz": "750"
         }
     },
     "tb @ bos": {
-        "yandy diaz": {
-            "cz": "400"
-        },
         "junior caminero": {
             "cz": "450"
         },
         "christopher morel": {
             "cz": "450"
         },
+        "yandy diaz": {
+            "cz": "450"
+        },
         "danny jansen": {
             "cz": "500"
         },
         "ha seong kim": {
-            "cz": "650"
+            "cz": "600"
         },
         "jose caballero": {
             "cz": "700"
@@ -128,6 +155,29 @@
         },
         "jake mangum": {
             "cz": "800"
+        }
+    },
+    "cle @ chw": {
+        "kyle manzardo": {
+            "cz": "320"
+        },
+        "carlos santana": {
+            "cz": "360"
+        },
+        "miguel vargas": {
+            "cz": "380"
+        },
+        "daniel schneemann": {
+            "cz": "380"
+        },
+        "nolan jones": {
+            "cz": "400"
+        },
+        "angel martinez": {
+            "cz": "450"
+        },
+        "steven kwan": {
+            "cz": "500"
         }
     }
 }
