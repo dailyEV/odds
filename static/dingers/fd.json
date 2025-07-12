@@ -111,62 +111,6 @@
             "fd": "+1000"
         }
     },
-    "pit @ min": {
-        "oneil cruz": {
-            "fd": "+330"
-        },
-        "byron buxton": {
-            "fd": "+390"
-        },
-        "bryan reynolds": {
-            "fd": "+520"
-        },
-        "kody clemens": {
-            "fd": "+520"
-        },
-        "matt wallner": {
-            "fd": "+540"
-        },
-        "royce lewis": {
-            "fd": "+560"
-        },
-        "andrew mccutchen": {
-            "fd": "+560"
-        },
-        "trevor larnach": {
-            "fd": "+600"
-        },
-        "brooks lee": {
-            "fd": "+630"
-        },
-        "spencer horwitz": {
-            "fd": "+680"
-        },
-        "tommy pham": {
-            "fd": "+750"
-        },
-        "carlos correa": {
-            "fd": "+750"
-        },
-        "willi castro": {
-            "fd": "+800"
-        },
-        "nick gonzales": {
-            "fd": "+800"
-        },
-        "henry davis": {
-            "fd": "+800"
-        },
-        "kebryan hayes": {
-            "fd": "+1060"
-        },
-        "christian vazquez": {
-            "fd": "+1100"
-        },
-        "isiah kiner falefa": {
-            "fd": "+1400"
-        }
-    },
     "atl @ stl": {
         "ronald acuna": {
             "fd": "+330"
@@ -221,6 +165,62 @@
         },
         "nick allen": {
             "fd": "+1000"
+        }
+    },
+    "pit @ min": {
+        "oneil cruz": {
+            "fd": "+330"
+        },
+        "byron buxton": {
+            "fd": "+390"
+        },
+        "bryan reynolds": {
+            "fd": "+520"
+        },
+        "kody clemens": {
+            "fd": "+520"
+        },
+        "matt wallner": {
+            "fd": "+540"
+        },
+        "royce lewis": {
+            "fd": "+560"
+        },
+        "andrew mccutchen": {
+            "fd": "+560"
+        },
+        "trevor larnach": {
+            "fd": "+600"
+        },
+        "brooks lee": {
+            "fd": "+630"
+        },
+        "spencer horwitz": {
+            "fd": "+680"
+        },
+        "tommy pham": {
+            "fd": "+750"
+        },
+        "carlos correa": {
+            "fd": "+750"
+        },
+        "willi castro": {
+            "fd": "+800"
+        },
+        "nick gonzales": {
+            "fd": "+800"
+        },
+        "henry davis": {
+            "fd": "+800"
+        },
+        "kebryan hayes": {
+            "fd": "+1060"
+        },
+        "christian vazquez": {
+            "fd": "+1100"
+        },
+        "isiah kiner falefa": {
+            "fd": "+1400"
         }
     },
     "nym @ kc": {
