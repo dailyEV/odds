@@ -1426,11 +1426,11 @@
         "fd_z_score": 0
     },
     "angel martinez": {
-        "fd_avg_vig": 2342,
-        "fd_avg": 896,
+        "fd_avg_vig": 2351,
+        "fd_avg": 897,
         "fd_median": "+750",
-        "fd_std_dev": 254.97,
-        "fd_z_score": -1.16,
+        "fd_std_dev": 254.11,
+        "fd_z_score": -1.17,
         "pn_avg_vig": 1452,
         "pn_avg": 785,
         "pn_median": "855/-2109",
@@ -2458,10 +2458,10 @@
         "pn_median": "772/-1767",
         "pn_std_dev": 134.39,
         "pn_z_score": -1.29,
-        "fd_avg_vig": 1737,
-        "fd_avg": 791,
+        "fd_avg_vig": 1734,
+        "fd_avg": 790,
         "fd_median": "+680",
-        "fd_std_dev": 422.68,
+        "fd_std_dev": 422.91,
         "fd_z_score": -0.59,
         "circa_avg_vig": 848,
         "circa_avg": 652,
@@ -2492,10 +2492,10 @@
         "circa_median": "+575/-800",
         "circa_std_dev": 103.51,
         "circa_z_score": -1.15,
-        "fd_avg_vig": 888,
+        "fd_avg_vig": 887,
         "fd_avg": 549,
         "fd_median": "+550",
-        "fd_std_dev": 392.87,
+        "fd_std_dev": 392.99,
         "fd_z_score": -0.33
     },
     "jacob amaya": {
@@ -5199,16 +5199,16 @@
         "fd_z_score": 0
     },
     "austin hedges": {
-        "fd_avg_vig": 3478,
-        "fd_avg": 1043,
+        "fd_avg_vig": 3496,
+        "fd_avg": 1044,
         "fd_median": "+1500",
-        "fd_std_dev": 629.14,
-        "fd_z_score": -0.27,
+        "fd_std_dev": 628.58,
+        "fd_z_score": -0.28,
         "pn_avg_vig": 1655,
         "pn_avg": 856,
         "pn_median": "856/-2113",
         "pn_std_dev": 0,
-        "pn_z_score": -0.27
+        "pn_z_score": -0.28
     },
     "jd davis": {
         "fd_avg_vig": 1452,
@@ -5449,10 +5449,10 @@
         "circa_z_score": 0
     },
     "andrew benintendi": {
-        "fd_avg_vig": 983,
-        "fd_avg": 586,
+        "fd_avg_vig": 982,
+        "fd_avg": 585,
         "fd_median": "+560",
-        "fd_std_dev": 340.05,
+        "fd_std_dev": 340.18,
         "fd_z_score": -0.25,
         "pn_avg_vig": 905,
         "pn_avg": 567,
