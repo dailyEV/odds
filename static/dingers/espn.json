@@ -165,5 +165,61 @@
         "jon berti": {
             "espn": "+1600/-10000"
         }
+    },
+    "phi @ sd": {
+        "kyle schwarber": {
+            "espn": "+240/-370"
+        },
+        "bryce harper": {
+            "espn": "+325/-500"
+        },
+        "fernando tatis": {
+            "espn": "+450/-750"
+        },
+        "max kepler": {
+            "espn": "+475/-800"
+        },
+        "manny machado": {
+            "espn": "+450/-750"
+        },
+        "xander bogaerts": {
+            "espn": "+1000/-2800"
+        },
+        "trea turner": {
+            "espn": "+600/-1400"
+        },
+        "jake cronenworth": {
+            "espn": "+600/-1400"
+        },
+        "jt realmuto": {
+            "espn": "+600/-1400"
+        },
+        "luis arraez": {
+            "espn": "+1100/-3500"
+        },
+        "trenton brooks": {
+            "espn": "+700/-1600"
+        },
+        "jackson merrill": {
+            "espn": "+500/-900"
+        },
+        "nick castellanos": {
+            "espn": "+600/-1400"
+        },
+        "alec bohm": {
+            "espn": "+800/-2000"
+        },
+        "brandon marsh": {
+            "espn": "+700/-1600"
+        },
+        "gavin sheets": {
+            "espn": "+525/-1000"
+        },
+        "bryson stott": {
+            "espn": "+900/-2500"
+        },
+        "martin maldonado": {
+            "espn": "+1200/-4000"
+        }
     }
 }

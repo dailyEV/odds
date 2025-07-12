@@ -401,58 +401,76 @@
     },
     "phi @ sd": {
         "kyle schwarber": {
-            "fd": "+255"
+            "fd": "+255",
+            "espn": "+240/-370"
         },
         "fernando tatis": {
-            "fd": "+400"
+            "fd": "+400",
+            "espn": "+450/-750"
         },
         "bryce harper": {
-            "fd": "+430"
+            "fd": "+430",
+            "espn": "+325/-500"
         },
         "manny machado": {
-            "fd": "+440"
+            "fd": "+440",
+            "espn": "+450/-750"
         },
         "max kepler": {
-            "fd": "+480"
+            "fd": "+480",
+            "espn": "+475/-800"
         },
         "trea turner": {
-            "fd": "+500"
+            "fd": "+500",
+            "espn": "+600/-1400"
         },
         "nick castellanos": {
-            "fd": "+500"
+            "fd": "+500",
+            "espn": "+600/-1400"
         },
         "gavin sheets": {
-            "fd": "+560"
+            "fd": "+560",
+            "espn": "+525/-1000"
         },
         "jt realmuto": {
-            "fd": "+560"
+            "fd": "+560",
+            "espn": "+600/-1400"
         },
         "jackson merrill": {
-            "fd": "+560"
+            "fd": "+560",
+            "espn": "+500/-900"
         },
         "jake cronenworth": {
-            "fd": "+630"
+            "fd": "+630",
+            "espn": "+600/-1400"
         },
         "alec bohm": {
-            "fd": "+630"
+            "fd": "+630",
+            "espn": "+800/-2000"
         },
         "brandon marsh": {
-            "fd": "+680"
+            "fd": "+680",
+            "espn": "+700/-1600"
         },
         "bryson stott": {
-            "fd": "+700"
+            "fd": "+700",
+            "espn": "+900/-2500"
         },
         "xander bogaerts": {
-            "fd": "+750"
+            "fd": "+750",
+            "espn": "+1000/-2800"
         },
         "trenton brooks": {
-            "fd": "+800"
+            "fd": "+800",
+            "espn": "+700/-1600"
         },
         "martin maldonado": {
-            "fd": "+830"
+            "fd": "+830",
+            "espn": "+1200/-4000"
         },
         "luis arraez": {
-            "fd": "+1060"
+            "fd": "+1060",
+            "espn": "+1100/-3500"
         }
     },
     "tb @ bos": {
