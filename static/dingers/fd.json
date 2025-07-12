@@ -355,10 +355,10 @@
             "fd": "+470"
         },
         "andrew benintendi": {
-            "fd": "+500"
+            "fd": "+520"
         },
         "lenyn sosa": {
-            "fd": "+520"
+            "fd": "+540"
         },
         "mike tauchman": {
             "fd": "+600"
@@ -367,7 +367,7 @@
             "fd": "+600"
         },
         "kyle teel": {
-            "fd": "+630"
+            "fd": "+600"
         },
         "colson montgomery": {
             "fd": "+680"
@@ -376,19 +376,19 @@
             "fd": "+680"
         },
         "angel martinez": {
-            "fd": "+700"
+            "fd": "+680"
         },
         "chase meidroth": {
             "fd": "+750"
         },
         "josh rojas": {
-            "fd": "+750"
+            "fd": "+800"
         },
         "steven kwan": {
-            "fd": "+750"
+            "fd": "+700"
         },
         "brayan rocchio": {
-            "fd": "+870"
+            "fd": "+830"
         }
     },
     "wsh @ mil": {
@@ -675,17 +675,17 @@
         "george springer": {
             "fd": "+340"
         },
-        "brent rooker": {
+        "vladimir guerrero": {
             "fd": "+340"
         },
-        "shea langeliers": {
-            "fd": "+350"
+        "brent rooker": {
+            "fd": "+340"
         },
         "nick kurtz": {
             "fd": "+350"
         },
-        "vladimir guerrero": {
-            "fd": "+340"
+        "shea langeliers": {
+            "fd": "+350"
         },
         "addison barger": {
             "fd": "+420"
@@ -699,11 +699,11 @@
         "bo bichette": {
             "fd": "+480"
         },
-        "alejandro kirk": {
-            "fd": "+520"
-        },
         "davis schneider": {
             "fd": "+500"
+        },
+        "alejandro kirk": {
+            "fd": "+520"
         },
         "max p muncy": {
             "fd": "+560"
@@ -717,11 +717,11 @@
         "miguel andujar": {
             "fd": "+750"
         },
-        "leo jimenez": {
-            "fd": "+870"
-        },
         "denzel clarke": {
             "fd": "+830"
+        },
+        "leo jimenez": {
+            "fd": "+870"
         },
         "myles straw": {
             "fd": "+1300"
